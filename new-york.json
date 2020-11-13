@@ -43103,7 +43103,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 40127,
+        "votes": 43246,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -43129,7 +43129,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-11T15:46:31.443Z",
+        "last_updated": "2020-11-13T21:14:17.377Z",
         "candidates": [
           {
             "candidate_id": "kelles-54854",
@@ -43142,9 +43142,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 25756,
-            "percent": 64.2,
-            "percent_display": "64.2",
+            "votes": 27937,
+            "percent": 64.6,
+            "percent_display": "64.6",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -43163,9 +43163,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 14371,
-            "percent": 35.8,
-            "percent_display": "35.8",
+            "votes": 15309,
+            "percent": 35.4,
+            "percent_display": "35.4",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -43208,7 +43208,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 57342,
+        "votes": 58878,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -43234,7 +43234,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-12T22:24:13.347Z",
+        "last_updated": "2020-11-13T21:15:19.037Z",
         "candidates": [
           {
             "candidate_id": "lemondes-54863",
@@ -43247,9 +43247,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 34567,
-            "percent": 60.3,
-            "percent_display": "60.3",
+            "votes": 35207,
+            "percent": 59.8,
+            "percent_display": "59.8",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -43268,9 +43268,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 22775,
-            "percent": 39.7,
-            "percent_display": "39.7",
+            "votes": 23671,
+            "percent": 40.2,
+            "percent_display": "40.2",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -62464,8 +62464,8 @@
     ]
   },
   "meta": {
-    "version": 16767,
+    "version": 16769,
     "track": "2020-11-03",
-    "timestamp": "2020-11-13T21:14:37.649Z"
+    "timestamp": "2020-11-13T21:16:56.311Z"
   }
 }
