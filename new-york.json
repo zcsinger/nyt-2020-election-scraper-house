@@ -28945,7 +28945,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 109556,
+        "votes": 112142,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -28971,7 +28971,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-12T21:56:38.493Z",
+        "last_updated": "2020-11-13T15:37:40.993Z",
         "candidates": [
           {
             "candidate_id": "oberacker-54805",
@@ -28984,9 +28984,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 65423,
-            "percent": 59.7,
-            "percent_display": "59.7",
+            "votes": 66390,
+            "percent": 59.2,
+            "percent_display": "59.2",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -29005,9 +29005,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 44133,
-            "percent": 40.3,
-            "percent_display": "40.3",
+            "votes": 45752,
+            "percent": 40.8,
+            "percent_display": "40.8",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -62185,8 +62185,8 @@
     ]
   },
   "meta": {
-    "version": 16360,
+    "version": 16365,
     "track": "2020-11-03",
-    "timestamp": "2020-11-13T15:32:31.523Z"
+    "timestamp": "2020-11-13T15:39:51.657Z"
   }
 }
