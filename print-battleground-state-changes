@@ -104,6 +104,7 @@ def fetch_all_records():
     grouped = collections.defaultdict(list)
     for row in out:
         grouped_name = "{} - {}".format(row.state_name, row.seat_name)
+        print("grouped_name: {}".format(grouped_name))
         grouped[row.state_name].append(row)
 
     return grouped
@@ -413,14 +414,8 @@ def json_to_summary(
 states_updated = []
 
 for rows in records.values():
-    latest_batch_time = datetime.datetime.strptime(rows[-1].timestamp, '%Y-%m-%dT%H:%M:%S.%fZ')
-
-    state_name = rows[0].state_name
-
-    summarized[state_name] = []
-    state_formatted_name[state_name] = f"{state_name}"
-    state_abbrev[state_name] = rows[0].state_abbrev
-
+    num_rows = len(rows)
+    # Create a list of last_iteration_info for each row.
     last_iteration_info_list = [IterationInfo(
         vote_diff=None,
         votes=None,
@@ -429,10 +424,19 @@ for rows in records.values():
         leading_candidate_name=None,
         counties=None,
         candidate_votes=None,
-    ) for row_idx in range(len(rows))]
+    ) for row_idx in range(num_rows)]
 
-    for row_idx in range(len(rows)):
+    for row_idx in range(num_rows):
         row = rows[row_idx]
+        latest_batch_time = datetime.datetime.strptime(row.timestamp, '%Y-%m-%dT%H:%M:%S.%fZ')
+
+        # This is more of a race name than state name (has seat as well).
+        state_name = "{} - {}".format(row.state_name, row.seat_name)
+
+        summarized[state_name] = []
+        state_formatted_name[state_name] = f"{state_name}"
+        state_abbrev[state_name] = row.state_abbrev
+
         # Each race is different so calculate the latest_candidate_votes here
         latest_candidate_votes = {c['candidate_key']: c['votes'] for c in row.candidates}
         latest_expected_votes = row.expected_votes if row.expected_votes is not None else 0
@@ -456,8 +460,8 @@ for rows in records.values():
         # Save info for the next iteration
         last_iteration_info = iteration_info
 
-    if summarized[state_name] and summarized[state_name][0].timestamp == latest_batch_time:
-        states_updated.append(state_name)
+        if summarized[state_name] and summarized[state_name][0].timestamp == latest_batch_time:
+            states_updated.append(state_name)
 
 # Pull out the battleground state summaries
 # battlegrounds_summarized = {
@@ -479,7 +483,7 @@ def txt_output(path, summarized, states_updated):
         print(tabulate([
             ["Last updated:", scrape_time.strftime("%Y-%m-%d %H:%M UTC")],
             ["Latest batch received: {}".format(f"({', '.join(states_updated)})" if states_updated else ""), batch_time.strftime("%Y-%m-%d %H:%M UTC")],
-            ["Prettier web version:", "https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html"],
+            ["Prettier web version:", "https://zcsinger.github.io/nyt-2020-election-scraper-house/battleground-state-changes.html"],
         ]), file=f)
 
         for (state, timestamped_results) in sorted(summarized.items()):
