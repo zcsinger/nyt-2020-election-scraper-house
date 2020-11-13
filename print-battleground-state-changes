@@ -32,7 +32,8 @@ CACHE_DIR = '_cache'
 # Bump this with any changes to `fetch_all_records`
 CACHE_VERSION = 2
 
-JSON_FILE = "new-jersey.json"
+# Example json file used as hash for HTML metadata
+JSON_FILE_HASH = "new-jersey.json"
 
 def git_commits_for(path):
     return subprocess.check_output(['git', 'log', "--format=%H", path]).strip().decode().splitlines()
@@ -42,8 +43,8 @@ def git_show(ref, name, repo_client):
 
     return commit_tree[name].data_stream.read()
 
-def fetch_all_records():
-    commits = git_commits_for(JSON_FILE)
+def fetch_all_records(json_file, close_race_indices):
+    commits = git_commits_for(json_file)
 
     repo = git.Repo('.', odbt=git.db.GitCmdObjectDB)
 
@@ -62,11 +63,11 @@ def fetch_all_records():
                     for row in record['rows']:
                         out.append(InputRecord(*row))
                     continue
-        blob = git_show(ref, JSON_FILE, repo)
+        blob = git_show(ref, json_file, repo)
         json = parser.parse(blob)
         timestamp = json['meta']['timestamp']
         rows = []
-        for index in STATE_INDEXES:
+        for index in close_race_indices:
             race = json['data']['races'][index]
 
             county_tot_exp_vote = [county['tot_exp_vote'] for county in race['counties']]
@@ -305,7 +306,11 @@ def html_summary(state_slug: str, summary: IterationSummary, always_visible: boo
 scrape_time = datetime.datetime.utcnow()
 
 # Dict[str, List[InputRecords]]
-records = fetch_all_records()
+records_nj = fetch_all_records("new-jersey.json", [12])
+records_ca = fetch_all_records("california.json", [21, 25, 39])
+records_ia = fetch_all_records("iowa.json", [2])
+records_list = [records_nj, records_ca, records_ia]
+records = {k: v for d in records_list for k, v in d.items()}
 
 # Where we’ll aggregate the data from the JSON files
 summarized = {}
@@ -475,7 +480,7 @@ for rows in records.values():
 
 # print the summaries (changed from battlegrounds_summarized)
 batch_time = max(itertools.chain.from_iterable(summarized.values()), key=lambda s: s.timestamp).timestamp
-with open(JSON_FILE, "r", encoding='utf8') as f:
+with open(JSON_FILE_HASH, "r", encoding='utf8') as f:
     RESULTS_HASH = hashlib.sha256(f.read().encode('utf8')).hexdigest()
 
 def txt_output(path, summarized, states_updated):
