@@ -1272,7 +1272,7 @@
           {
             "fips": "49039",
             "name": "Sanpete",
-            "votes": 12280,
+            "votes": 12455,
             "absentee_votes": 0,
             "reporting": 29,
             "precincts": 29,
@@ -1289,14 +1289,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "trumpd": 10173,
-              "bidenj": 1746,
-              "jorgensenj": 210,
-              "blankenshipd": 49,
+              "trumpd": 10315,
+              "bidenj": 1773,
+              "jorgensenj": 213,
+              "blankenshipd": 50,
               "westk": 38,
               "mchughj": 20,
-              "pierceb": 19,
-              "hawkinsh": 18,
+              "pierceb": 20,
+              "hawkinsh": 19,
               "la_rivag": 7
             },
             "results_absentee": {
@@ -1310,12 +1310,12 @@
               "hawkinsh": 0,
               "la_rivag": 0
             },
-            "last_updated": "2020-11-11T03:27:02Z",
-            "leader_margin_value": 68.62378,
+            "last_updated": "2020-11-13T23:00:47Z",
+            "leader_margin_value": 68.5829,
             "leader_margin_display": "R+69",
             "leader_margin_name_display": "Trump +69",
             "leader_party_id": "republican",
-            "margin2020": 68.62378,
+            "margin2020": 68.5829,
             "votes2016": 10247,
             "margin2016": 45.2,
             "votes2012": 9547,
@@ -1428,7 +1428,7 @@
           {
             "fips": "49045",
             "name": "Tooele",
-            "votes": 31503,
+            "votes": 31506,
             "absentee_votes": 26903,
             "reporting": 62,
             "precincts": 62,
@@ -1445,7 +1445,7 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "trumpd": 21011,
+              "trumpd": 21014,
               "bidenj": 8943,
               "jorgensenj": 958,
               "blankenshipd": 181,
@@ -1466,12 +1466,12 @@
               "pierceb": 46,
               "la_rivag": 29
             },
-            "last_updated": "2020-11-13T00:00:47Z",
-            "leader_margin_value": 38.30746,
+            "last_updated": "2020-11-13T23:00:47Z",
+            "leader_margin_value": 38.31334,
             "leader_margin_display": "R+38",
             "leader_margin_name_display": "Trump +38",
             "leader_party_id": "republican",
-            "margin2020": 38.30746,
+            "margin2020": 38.31334,
             "votes2016": 21992,
             "margin2016": 29.1,
             "votes2012": 19261,
@@ -1740,7 +1740,7 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 108335,
+            "votes": 110601,
             "absentee_votes": 0,
             "reporting": 154,
             "precincts": 154,
@@ -1757,15 +1757,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "trumpd": 64066,
-              "bidenj": 39652,
-              "jorgensenj": 2757,
-              "westk": 510,
-              "hawkinsh": 467,
-              "blankenshipd": 407,
-              "pierceb": 245,
-              "mchughj": 178,
-              "la_rivag": 53
+              "trumpd": 65414,
+              "bidenj": 40458,
+              "jorgensenj": 2827,
+              "westk": 520,
+              "hawkinsh": 478,
+              "blankenshipd": 415,
+              "pierceb": 250,
+              "mchughj": 184,
+              "la_rivag": 55
             },
             "results_absentee": {
               "trumpd": 0,
@@ -1778,12 +1778,12 @@
               "mchughj": 0,
               "la_rivag": 0
             },
-            "last_updated": "2020-11-11T03:25:32Z",
-            "leader_margin_value": 22.53565,
+            "last_updated": "2020-11-13T23:02:48Z",
+            "leader_margin_value": 22.56399,
             "leader_margin_display": "R+23",
             "leader_margin_name_display": "Trump +23",
             "leader_party_id": "republican",
-            "margin2020": 22.53565,
+            "margin2020": 22.56399,
             "votes2016": 86006,
             "margin2016": 19.9,
             "votes2012": 75912,
@@ -2555,7 +2555,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 335590,
+        "votes": 337573,
         "absentee_votes": 81821,
         "absentee_counties": 3,
         "absentee_count_progress": "unknown",
@@ -2580,7 +2580,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-13T22:01:53Z",
+        "last_updated": "2020-11-13T23:02:53Z",
         "candidates": [
           {
             "candidate_id": "moore-20073829-45-h",
@@ -2593,7 +2593,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 233400,
+            "votes": 234657,
             "percent": 69.5,
             "percent_display": "69.5",
             "electoral_votes": 0,
@@ -2614,9 +2614,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 102148,
-            "percent": 30.4,
-            "percent_display": "30.4",
+            "votes": 102874,
+            "percent": 30.5,
+            "percent_display": "30.5",
             "electoral_votes": 0,
             "absentee_votes": 28964,
             "absentee_percent": 35.4,
@@ -2647,8 +2647,8 @@
           }
         ],
         "has_incumbent": false,
-        "leader_margin_value": 39.11082,
-        "leader_margin_votes": 131252,
+        "leader_margin_value": 39.03837,
+        "leader_margin_votes": 131783,
         "leader_margin_display": "R+39",
         "leader_margin_name_display": "Moore +39",
         "leader_party_id": "republican",
@@ -2955,7 +2955,7 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 103876,
+            "votes": 105859,
             "absentee_votes": 67447,
             "reporting": 154,
             "precincts": 154,
@@ -2972,15 +2972,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mooreb": 67317,
-              "parryd": 36559
+              "mooreb": 68574,
+              "parryd": 37285
             },
             "results_absentee": {
               "mooreb": 41402,
               "parryd": 26045
             },
-            "last_updated": "2020-11-11T03:27:05Z",
-            "leader_margin_value": 29.6103,
+            "last_updated": "2020-11-13T23:02:50Z",
+            "leader_margin_value": 29.55724,
             "leader_margin_display": "R+30",
             "leader_margin_name_display": "Moore +30",
             "leader_party_id": "republican"
@@ -3410,6 +3410,17 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-13T22:01:53Z"
+          },
+          {
+            "vote_shares": {
+              "mooreb": 0.695,
+              "parryd": 0.305,
+              "write-ins": 0
+            },
+            "votes": 337573,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-13T23:02:53Z"
           }
         ]
       },
@@ -3441,7 +3452,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 348929,
+        "votes": 349088,
         "absentee_votes": 207046,
         "absentee_counties": 3,
         "absentee_count_progress": "unknown",
@@ -3466,7 +3477,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-13T22:01:53Z",
+        "last_updated": "2020-11-13T23:00:48Z",
         "candidates": [
           {
             "candidate_id": "stewart-61890-45-h",
@@ -3479,7 +3490,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 205976,
+            "votes": 206101,
             "percent": 59,
             "percent_display": "59.0",
             "electoral_votes": 0,
@@ -3500,7 +3511,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 127931,
+            "votes": 127956,
             "percent": 36.7,
             "percent_display": "36.7",
             "electoral_votes": 0,
@@ -3521,7 +3532,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 15022,
+            "votes": 15031,
             "percent": 4.3,
             "percent_display": "4.3",
             "electoral_votes": 0,
@@ -3533,8 +3544,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 22.36701,
-        "leader_margin_votes": 78045,
+        "leader_margin_value": 22.38547,
+        "leader_margin_votes": 78145,
         "leader_margin_display": "R+22",
         "leader_margin_name_display": "Stewart +22",
         "leader_party_id": "republican",
@@ -3857,15 +3868,15 @@
           {
             "fips": "49039",
             "name": "Sanpete",
-            "votes": 6012,
+            "votes": 6168,
             "absentee_votes": 0,
             "reporting": 15,
             "precincts": 16,
             "absentee_method": "Released as a separate subtotal as first report of the night",
-            "eevp": 96,
+            "eevp": 98,
             "tot_exp_vote": 6282,
-            "eevp_value": "96%",
-            "eevp_display": "96% reported",
+            "eevp_value": "98%",
+            "eevp_display": "98% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "unknown",
@@ -3874,17 +3885,17 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "stewartc": 5105,
-              "westonk": 700,
-              "lathamr": 207
+              "stewartc": 5227,
+              "westonk": 725,
+              "lathamr": 216
             },
             "results_absentee": {
               "stewartc": 0,
               "westonk": 0,
               "lathamr": 0
             },
-            "last_updated": "2020-11-11T03:26:41Z",
-            "leader_margin_value": 73.27013,
+            "last_updated": "2020-11-13T23:00:46Z",
+            "leader_margin_value": 72.98962,
             "leader_margin_display": "R+73",
             "leader_margin_name_display": "Stewart +73",
             "leader_party_id": "republican"
@@ -3927,7 +3938,7 @@
           {
             "fips": "49045",
             "name": "Tooele",
-            "votes": 30451,
+            "votes": 30454,
             "absentee_votes": 26183,
             "reporting": 62,
             "precincts": 62,
@@ -3944,7 +3955,7 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "stewartc": 21240,
+              "stewartc": 21243,
               "westonk": 7665,
               "lathamr": 1546
             },
@@ -3953,8 +3964,8 @@
               "westonk": 6880,
               "lathamr": 1226
             },
-            "last_updated": "2020-11-13T00:00:47Z",
-            "leader_margin_value": 44.57982,
+            "last_updated": "2020-11-13T23:00:46Z",
+            "leader_margin_value": 44.58528,
             "leader_margin_display": "R+45",
             "leader_margin_name_display": "Stewart +45",
             "leader_party_id": "republican"
@@ -4564,6 +4575,17 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-13T22:01:53Z"
+          },
+          {
+            "vote_shares": {
+              "stewartc": 0.59,
+              "westonk": 0.367,
+              "lathamj": 0.043
+            },
+            "votes": 349088,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-13T23:00:48Z"
           }
         ]
       },
@@ -7236,7 +7258,7 @@
           {
             "fips": "49045",
             "name": "Tooele",
-            "votes": 30393,
+            "votes": 30396,
             "absentee_votes": 26093,
             "reporting": 62,
             "precincts": 62,
@@ -7253,7 +7275,7 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "coxs": 21290,
+              "coxs": 21293,
               "petersonc": 7058,
               "cottamd": 1383,
               "duerdeng": 662
@@ -7264,8 +7286,8 @@
               "cottamd": 1084,
               "duerdeng": 532
             },
-            "last_updated": "2020-11-13T00:00:47Z",
-            "leader_margin_value": 46.82657,
+            "last_updated": "2020-11-13T23:00:46Z",
+            "leader_margin_value": 46.83182,
             "leader_margin_display": "R+47",
             "leader_margin_name_display": "Cox +47",
             "leader_party_id": "republican"
@@ -7460,7 +7482,7 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 104819,
+            "votes": 106876,
             "absentee_votes": 67875,
             "reporting": 154,
             "precincts": 154,
@@ -7477,10 +7499,10 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "coxs": 67074,
-              "petersonc": 32144,
-              "cottamd": 3767,
-              "duerdeng": 1834
+              "coxs": 68330,
+              "petersonc": 32781,
+              "cottamd": 3891,
+              "duerdeng": 1874
             },
             "results_absentee": {
               "coxs": 42042,
@@ -7488,8 +7510,8 @@
               "cottamd": 1806,
               "duerdeng": 926
             },
-            "last_updated": "2020-11-11T03:25:05Z",
-            "leader_margin_value": 33.32411,
+            "last_updated": "2020-11-13T23:02:45Z",
+            "leader_margin_value": 33.26191,
             "leader_margin_display": "R+33",
             "leader_margin_name_display": "Cox +33",
             "leader_party_id": "republican"
@@ -8633,7 +8655,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1417895,
+        "votes": 1420104,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -8646,7 +8668,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 2573,
+        "precincts_reporting": 2576,
         "precincts_total": 2619,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -8658,7 +8680,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-13T22:01:13.640Z",
+        "last_updated": "2020-11-13T23:02:32.320Z",
         "candidates": [
           {
             "candidate_id": "reyes-50534",
@@ -8671,7 +8693,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 857866,
+            "votes": 859225,
             "percent": 60.5,
             "percent_display": "60.5",
             "electoral_votes": 0,
@@ -8692,7 +8714,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 480858,
+            "votes": 481478,
             "percent": 33.9,
             "percent_display": "33.9",
             "electoral_votes": 0,
@@ -8713,7 +8735,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 79171,
+            "votes": 79401,
             "percent": 5.6,
             "percent_display": "5.6",
             "electoral_votes": 0,
@@ -9318,7 +9340,7 @@
           {
             "fips": "49039",
             "name": "Sanpete",
-            "votes": 11981,
+            "votes": 12145,
             "absentee_votes": 0,
             "reporting": 23,
             "precincts": 24,
@@ -9335,16 +9357,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "reyess": 9805,
-              "skordasg": 1601,
-              "bautistar": 575
+              "reyess": 9935,
+              "skordasg": 1621,
+              "bautistar": 589
             },
             "results_absentee": {
               "reyess": 0,
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-10T23:00:44.860Z"
+            "last_updated": "2020-11-13T23:01:31.530Z"
           },
           {
             "fips": "49041",
@@ -9411,7 +9433,7 @@
           {
             "fips": "49045",
             "name": "Tooele",
-            "votes": 31012,
+            "votes": 31015,
             "absentee_votes": 0,
             "reporting": 65,
             "precincts": 65,
@@ -9428,7 +9450,7 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "reyess": 20806,
+              "reyess": 20809,
               "skordasg": 8218,
               "bautistar": 1988
             },
@@ -9437,7 +9459,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-13T00:00:09.583Z"
+            "last_updated": "2020-11-13T23:01:31.530Z"
           },
           {
             "fips": "49047",
@@ -9597,9 +9619,9 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 106475,
+            "votes": 108517,
             "absentee_votes": 0,
-            "reporting": 187,
+            "reporting": 190,
             "precincts": 190,
             "absentee_method": null,
             "eevp": null,
@@ -9614,16 +9636,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "reyess": 64878,
-              "skordasg": 35068,
-              "bautistar": 6529
+              "reyess": 66104,
+              "skordasg": 35668,
+              "bautistar": 6745
             },
             "results_absentee": {
               "reyess": 0,
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-08T02:49:59.723Z"
+            "last_updated": "2020-11-13T23:02:32.320Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -10427,7 +10449,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 47314,
+        "votes": 48024,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -10453,7 +10475,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-08T02:49:59.723Z",
+        "last_updated": "2020-11-13T23:02:32.320Z",
         "candidates": [
           {
             "candidate_id": "johnson-51152",
@@ -10466,7 +10488,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 26962,
+            "votes": 27375,
             "percent": 57,
             "percent_display": "57.0",
             "electoral_votes": 0,
@@ -10487,7 +10509,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 20352,
+            "votes": 20649,
             "percent": 43,
             "percent_display": "43.0",
             "electoral_votes": 0,
@@ -10697,7 +10719,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 44644,
+        "votes": 44803,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -10723,7 +10745,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-13T22:01:13.640Z",
+        "last_updated": "2020-11-13T23:01:31.530Z",
         "candidates": [
           {
             "candidate_id": "owens-50904",
@@ -10736,7 +10758,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 40284,
+            "votes": 40420,
             "percent": 90.2,
             "percent_display": "90.2",
             "electoral_votes": 0,
@@ -10757,7 +10779,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 4360,
+            "votes": 4383,
             "percent": 9.8,
             "percent_display": "9.8",
             "electoral_votes": 0,
@@ -11716,7 +11738,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 18249,
+        "votes": 18553,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -11742,7 +11764,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-06T23:00:39.423Z",
+        "last_updated": "2020-11-13T23:02:32.320Z",
         "candidates": [
           {
             "candidate_id": "wilcox-50009",
@@ -11755,7 +11777,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 11782,
+            "votes": 11977,
             "percent": 64.6,
             "percent_display": "64.6",
             "electoral_votes": 0,
@@ -11776,7 +11798,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6467,
+            "votes": 6576,
             "percent": 35.4,
             "percent_display": "35.4",
             "electoral_votes": 0,
@@ -11820,7 +11842,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 17194,
+        "votes": 17535,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -11846,7 +11868,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-06T23:04:45.847Z",
+        "last_updated": "2020-11-13T23:02:32.320Z",
         "candidates": [
           {
             "candidate_id": "waldrip-51000",
@@ -11859,7 +11881,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 9801,
+            "votes": 9997,
             "percent": 57,
             "percent_display": "57.0",
             "electoral_votes": 0,
@@ -11880,7 +11902,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7393,
+            "votes": 7538,
             "percent": 43,
             "percent_display": "43.0",
             "electoral_votes": 0,
@@ -11924,7 +11946,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 13971,
+        "votes": 14296,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -11937,10 +11959,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 24,
+        "precincts_reporting": 32,
         "precincts_total": 32,
-        "reporting_display": "75% reporting",
-        "reporting_value": "75%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -11950,7 +11972,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-08T02:49:59.723Z",
+        "last_updated": "2020-11-13T23:02:32.320Z",
         "candidates": [
           {
             "candidate_id": "musselman-51002",
@@ -11963,9 +11985,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 8147,
-            "percent": 58.3,
-            "percent_display": "58.3",
+            "votes": 8343,
+            "percent": 58.4,
+            "percent_display": "58.4",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -11984,9 +12006,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 5824,
-            "percent": 41.7,
-            "percent_display": "41.7",
+            "votes": 5953,
+            "percent": 41.6,
+            "percent_display": "41.6",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -12028,7 +12050,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 13447,
+        "votes": 13793,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -12041,10 +12063,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 23,
+        "precincts_reporting": 25,
         "precincts_total": 25,
-        "reporting_display": "92% reporting",
-        "reporting_value": "92%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -12054,7 +12076,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-08T02:49:59.723Z",
+        "last_updated": "2020-11-13T23:02:32.320Z",
         "candidates": [
           {
             "candidate_id": "shurtliff-51005",
@@ -12067,9 +12089,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 6884,
-            "percent": 51.2,
-            "percent_display": "51.2",
+            "votes": 7042,
+            "percent": 51.1,
+            "percent_display": "51.1",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -12088,9 +12110,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6563,
-            "percent": 48.8,
-            "percent_display": "48.8",
+            "votes": 6751,
+            "percent": 48.9,
+            "percent_display": "48.9",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -12132,7 +12154,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 17895,
+        "votes": 18116,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -12158,7 +12180,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-12T23:00:50.773Z",
+        "last_updated": "2020-11-13T23:02:32.320Z",
         "candidates": [
           {
             "candidate_id": "miles-50870",
@@ -12171,9 +12193,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 10768,
-            "percent": 60.2,
-            "percent_display": "60.2",
+            "votes": 10922,
+            "percent": 60.3,
+            "percent_display": "60.3",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -12192,9 +12214,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7127,
-            "percent": 39.8,
-            "percent_display": "39.8",
+            "votes": 7194,
+            "percent": 39.7,
+            "percent_display": "39.7",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -12236,7 +12258,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 17075,
+        "votes": 17334,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -12249,10 +12271,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 32,
+        "precincts_reporting": 37,
         "precincts_total": 38,
-        "reporting_display": "84% reporting",
-        "reporting_value": "84%",
+        "reporting_display": "97% reporting",
+        "reporting_value": "97%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -12262,7 +12284,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-12T23:00:50.773Z",
+        "last_updated": "2020-11-13T23:02:32.320Z",
         "candidates": [
           {
             "candidate_id": "schultz-50703",
@@ -12275,7 +12297,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 13180,
+            "votes": 13379,
             "percent": 77.2,
             "percent_display": "77.2",
             "electoral_votes": 0,
@@ -12296,7 +12318,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 3895,
+            "votes": 3955,
             "percent": 22.8,
             "percent_display": "22.8",
             "electoral_votes": 0,
@@ -13214,7 +13236,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16435,
+        "votes": 16436,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -13240,7 +13262,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-13T00:00:09.583Z",
+        "last_updated": "2020-11-13T23:01:31.530Z",
         "candidates": [
           {
             "candidate_id": "sagers-50248",
@@ -13253,7 +13275,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 10467,
+            "votes": 10468,
             "percent": 63.7,
             "percent_display": "63.7",
             "electoral_votes": 0,
@@ -14004,7 +14026,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 21903,
+        "votes": 22089,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -14017,10 +14039,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 39,
+        "precincts_reporting": 44,
         "precincts_total": 44,
-        "reporting_display": "89% reporting",
-        "reporting_value": "89%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -14030,7 +14052,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-13T22:01:13.640Z",
+        "last_updated": "2020-11-13T23:02:32.320Z",
         "candidates": [
           {
             "candidate_id": "gwynn-51180",
@@ -14043,7 +14065,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 17207,
+            "votes": 17355,
             "percent": 78.6,
             "percent_display": "78.6",
             "electoral_votes": 0,
@@ -14064,7 +14086,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 4012,
+            "votes": 4045,
             "percent": 18.3,
             "percent_display": "18.3",
             "electoral_votes": 0,
@@ -14085,7 +14107,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 684,
+            "votes": 689,
             "percent": 3.1,
             "percent_display": "3.1",
             "electoral_votes": 0,
@@ -17167,7 +17189,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16698,
+        "votes": 16856,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -17193,7 +17215,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-10T23:00:44.860Z",
+        "last_updated": "2020-11-13T23:01:31.530Z",
         "candidates": [
           {
             "candidate_id": "lund-51220",
@@ -17206,7 +17228,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 14149,
+            "votes": 14272,
             "percent": 84.7,
             "percent_display": "84.7",
             "electoral_votes": 0,
@@ -17227,9 +17249,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1754,
-            "percent": 10.5,
-            "percent_display": "10.5",
+            "votes": 1783,
+            "percent": 10.6,
+            "percent_display": "10.6",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -17248,7 +17270,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 795,
+            "votes": 801,
             "percent": 4.8,
             "percent_display": "4.8",
             "electoral_votes": 0,
@@ -18165,7 +18187,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 21002,
+        "votes": 21004,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -18191,7 +18213,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-13T22:01:13.640Z",
+        "last_updated": "2020-11-13T23:01:31.530Z",
         "candidates": [
           {
             "candidate_id": "nelson-50620",
@@ -18204,7 +18226,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 15791,
+            "votes": 15793,
             "percent": 75.2,
             "percent_display": "75.2",
             "electoral_votes": 0,
@@ -18373,7 +18395,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 17544,
+        "votes": 17548,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -18399,7 +18421,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-13T22:01:13.640Z",
+        "last_updated": "2020-11-13T23:01:31.530Z",
         "candidates": [
           {
             "candidate_id": "albrecht-50911",
@@ -18412,7 +18434,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 14398,
+            "votes": 14402,
             "percent": 82.1,
             "percent_display": "82.1",
             "electoral_votes": 0,
@@ -18978,7 +19000,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1360596,
+        "votes": 1362702,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -18991,7 +19013,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 2573,
+        "precincts_reporting": 2576,
         "precincts_total": 2619,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -19003,7 +19025,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-13T22:01:13.640Z",
+        "last_updated": "2020-11-13T23:02:32.320Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -19015,7 +19037,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 1090269,
+            "votes": 1091941,
             "percent": 80.1,
             "percent_display": "80.1",
             "electoral_votes": 0,
@@ -19035,7 +19057,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 270327,
+            "votes": 270761,
             "percent": 19.9,
             "percent_display": "19.9",
             "electoral_votes": 0,
@@ -19602,7 +19624,7 @@
           {
             "fips": "49039",
             "name": "Sanpete",
-            "votes": 11625,
+            "votes": 11784,
             "absentee_votes": 0,
             "reporting": 23,
             "precincts": 24,
@@ -19619,14 +19641,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 8643,
-              "against": 2982
+              "for": 8765,
+              "against": 3019
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-10T23:00:44.860Z"
+            "last_updated": "2020-11-13T23:01:31.530Z"
           },
           {
             "fips": "49041",
@@ -19689,7 +19711,7 @@
           {
             "fips": "49045",
             "name": "Tooele",
-            "votes": 30186,
+            "votes": 30189,
             "absentee_votes": 0,
             "reporting": 65,
             "precincts": 65,
@@ -19706,14 +19728,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 23145,
-              "against": 7041
+              "for": 23147,
+              "against": 7042
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T00:00:09.583Z"
+            "last_updated": "2020-11-13T23:01:31.530Z"
           },
           {
             "fips": "49047",
@@ -19863,9 +19885,9 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 102309,
+            "votes": 104253,
             "absentee_votes": 0,
-            "reporting": 187,
+            "reporting": 190,
             "precincts": 190,
             "absentee_method": null,
             "eevp": null,
@@ -19880,14 +19902,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 81606,
-              "against": 20703
+              "for": 83154,
+              "against": 21099
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-08T02:49:59.723Z"
+            "last_updated": "2020-11-13T23:02:32.320Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -19924,7 +19946,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1383477,
+        "votes": 1385639,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -19937,7 +19959,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 2573,
+        "precincts_reporting": 2576,
         "precincts_total": 2619,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -19949,7 +19971,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-13T22:01:13.640Z",
+        "last_updated": "2020-11-13T23:02:32.320Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -19961,7 +19983,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 1115225,
+            "votes": 1116785,
             "percent": 80.6,
             "percent_display": "80.6",
             "electoral_votes": 0,
@@ -19981,7 +20003,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 268252,
+            "votes": 268854,
             "percent": 19.4,
             "percent_display": "19.4",
             "electoral_votes": 0,
@@ -20548,7 +20570,7 @@
           {
             "fips": "49039",
             "name": "Sanpete",
-            "votes": 11783,
+            "votes": 11943,
             "absentee_votes": 0,
             "reporting": 23,
             "precincts": 24,
@@ -20565,14 +20587,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 7982,
-              "against": 3801
+              "for": 8086,
+              "against": 3857
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-10T23:00:44.860Z"
+            "last_updated": "2020-11-13T23:01:31.530Z"
           },
           {
             "fips": "49041",
@@ -20635,7 +20657,7 @@
           {
             "fips": "49045",
             "name": "Tooele",
-            "votes": 30422,
+            "votes": 30424,
             "absentee_votes": 0,
             "reporting": 65,
             "precincts": 65,
@@ -20652,14 +20674,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 22379,
+              "for": 22381,
               "against": 8043
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T00:00:09.583Z"
+            "last_updated": "2020-11-13T23:01:31.530Z"
           },
           {
             "fips": "49047",
@@ -20809,9 +20831,9 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 103373,
+            "votes": 105373,
             "absentee_votes": 0,
-            "reporting": 187,
+            "reporting": 190,
             "precincts": 190,
             "absentee_method": null,
             "eevp": null,
@@ -20826,14 +20848,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 80845,
-              "against": 22528
+              "for": 82299,
+              "against": 23074
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-08T02:49:59.723Z"
+            "last_updated": "2020-11-13T23:02:32.320Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -20870,7 +20892,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1323785,
+        "votes": 1325805,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -20883,7 +20905,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 2573,
+        "precincts_reporting": 2576,
         "precincts_total": 2619,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -20895,7 +20917,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-13T22:01:13.640Z",
+        "last_updated": "2020-11-13T23:02:32.320Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -20907,7 +20929,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 809240,
+            "votes": 810436,
             "percent": 61.1,
             "percent_display": "61.1",
             "electoral_votes": 0,
@@ -20927,7 +20949,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 514545,
+            "votes": 515369,
             "percent": 38.9,
             "percent_display": "38.9",
             "electoral_votes": 0,
@@ -21494,7 +21516,7 @@
           {
             "fips": "49039",
             "name": "Sanpete",
-            "votes": 11520,
+            "votes": 11678,
             "absentee_votes": 0,
             "reporting": 23,
             "precincts": 24,
@@ -21511,14 +21533,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 6276,
-              "against": 5244
+              "for": 6363,
+              "against": 5315
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-10T23:00:44.860Z"
+            "last_updated": "2020-11-13T23:01:31.530Z"
           },
           {
             "fips": "49041",
@@ -21581,7 +21603,7 @@
           {
             "fips": "49045",
             "name": "Tooele",
-            "votes": 29541,
+            "votes": 29543,
             "absentee_votes": 0,
             "reporting": 65,
             "precincts": 65,
@@ -21598,14 +21620,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 14436,
-              "against": 15105
+              "for": 14437,
+              "against": 15106
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T00:00:09.583Z"
+            "last_updated": "2020-11-13T23:01:31.530Z"
           },
           {
             "fips": "49047",
@@ -21755,9 +21777,9 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 100155,
+            "votes": 102015,
             "absentee_votes": 0,
-            "reporting": 187,
+            "reporting": 190,
             "precincts": 190,
             "absentee_method": null,
             "eevp": null,
@@ -21772,14 +21794,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 58848,
-              "against": 41307
+              "for": 59956,
+              "against": 42059
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-08T02:49:59.723Z"
+            "last_updated": "2020-11-13T23:02:32.320Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -21816,7 +21838,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1386720,
+        "votes": 1388932,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -21829,7 +21851,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 2573,
+        "precincts_reporting": 2576,
         "precincts_total": 2619,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -21841,7 +21863,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-13T22:01:13.640Z",
+        "last_updated": "2020-11-13T23:02:32.320Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -21853,7 +21875,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 1037242,
+            "votes": 1039032,
             "percent": 74.8,
             "percent_display": "74.8",
             "electoral_votes": 0,
@@ -21873,7 +21895,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 349478,
+            "votes": 349900,
             "percent": 25.2,
             "percent_display": "25.2",
             "electoral_votes": 0,
@@ -22440,7 +22462,7 @@
           {
             "fips": "49039",
             "name": "Sanpete",
-            "votes": 11899,
+            "votes": 12064,
             "absentee_votes": 0,
             "reporting": 23,
             "precincts": 24,
@@ -22457,14 +22479,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 9928,
-              "against": 1971
+              "for": 10066,
+              "against": 1998
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-10T23:00:44.860Z"
+            "last_updated": "2020-11-13T23:01:31.530Z"
           },
           {
             "fips": "49041",
@@ -22527,7 +22549,7 @@
           {
             "fips": "49045",
             "name": "Tooele",
-            "votes": 30604,
+            "votes": 30607,
             "absentee_votes": 0,
             "reporting": 65,
             "precincts": 65,
@@ -22544,14 +22566,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 25221,
+              "for": 25224,
               "against": 5383
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T00:00:09.583Z"
+            "last_updated": "2020-11-13T23:01:31.530Z"
           },
           {
             "fips": "49047",
@@ -22701,9 +22723,9 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 103974,
+            "votes": 106018,
             "absentee_votes": 0,
-            "reporting": 187,
+            "reporting": 190,
             "precincts": 190,
             "absentee_method": null,
             "eevp": null,
@@ -22718,14 +22740,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 82121,
-              "against": 21853
+              "for": 83770,
+              "against": 22248
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-08T02:49:59.723Z"
+            "last_updated": "2020-11-13T23:02:32.320Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -22762,7 +22784,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1316994,
+        "votes": 1318999,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -22775,7 +22797,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 2573,
+        "precincts_reporting": 2576,
         "precincts_total": 2619,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -22787,7 +22809,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-13T22:01:13.640Z",
+        "last_updated": "2020-11-13T23:02:32.320Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -22799,9 +22821,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 876474,
-            "percent": 66.6,
-            "percent_display": "66.6",
+            "votes": 877709,
+            "percent": 66.5,
+            "percent_display": "66.5",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -22819,9 +22841,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 440520,
-            "percent": 33.4,
-            "percent_display": "33.4",
+            "votes": 441290,
+            "percent": 33.5,
+            "percent_display": "33.5",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -23386,7 +23408,7 @@
           {
             "fips": "49039",
             "name": "Sanpete",
-            "votes": 11428,
+            "votes": 11579,
             "absentee_votes": 0,
             "reporting": 23,
             "precincts": 24,
@@ -23403,14 +23425,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 6982,
-              "against": 4446
+              "for": 7075,
+              "against": 4504
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-10T23:00:44.860Z"
+            "last_updated": "2020-11-13T23:01:31.530Z"
           },
           {
             "fips": "49041",
@@ -23473,7 +23495,7 @@
           {
             "fips": "49045",
             "name": "Tooele",
-            "votes": 29280,
+            "votes": 29282,
             "absentee_votes": 0,
             "reporting": 65,
             "precincts": 65,
@@ -23490,14 +23512,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 17838,
-              "against": 11442
+              "for": 17839,
+              "against": 11443
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T00:00:09.583Z"
+            "last_updated": "2020-11-13T23:01:31.530Z"
           },
           {
             "fips": "49047",
@@ -23647,9 +23669,9 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 100025,
+            "votes": 101877,
             "absentee_votes": 0,
-            "reporting": 187,
+            "reporting": 190,
             "precincts": 190,
             "absentee_method": null,
             "eevp": null,
@@ -23664,14 +23686,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 65786,
-              "against": 34239
+              "for": 66927,
+              "against": 34950
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-08T02:49:59.723Z"
+            "last_updated": "2020-11-13T23:02:32.320Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -23708,7 +23730,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1381533,
+        "votes": 1383713,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -23721,7 +23743,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 2573,
+        "precincts_reporting": 2576,
         "precincts_total": 2619,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -23733,7 +23755,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-13T22:01:13.640Z",
+        "last_updated": "2020-11-13T23:02:32.320Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -23745,7 +23767,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 743974,
+            "votes": 745329,
             "percent": 53.9,
             "percent_display": "53.9",
             "electoral_votes": 0,
@@ -23765,7 +23787,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 637559,
+            "votes": 638384,
             "percent": 46.1,
             "percent_display": "46.1",
             "electoral_votes": 0,
@@ -24332,7 +24354,7 @@
           {
             "fips": "49039",
             "name": "Sanpete",
-            "votes": 11809,
+            "votes": 11972,
             "absentee_votes": 0,
             "reporting": 23,
             "precincts": 24,
@@ -24349,14 +24371,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 5948,
-              "against": 5861
+              "for": 6051,
+              "against": 5921
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-10T23:00:44.860Z"
+            "last_updated": "2020-11-13T23:01:31.530Z"
           },
           {
             "fips": "49041",
@@ -24419,7 +24441,7 @@
           {
             "fips": "49045",
             "name": "Tooele",
-            "votes": 30239,
+            "votes": 30241,
             "absentee_votes": 0,
             "reporting": 65,
             "precincts": 65,
@@ -24436,14 +24458,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 16366,
-              "against": 13873
+              "for": 16367,
+              "against": 13874
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T00:00:09.583Z"
+            "last_updated": "2020-11-13T23:01:31.530Z"
           },
           {
             "fips": "49047",
@@ -24593,9 +24615,9 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 103483,
+            "votes": 105498,
             "absentee_votes": 0,
-            "reporting": 187,
+            "reporting": 190,
             "precincts": 190,
             "absentee_method": null,
             "eevp": null,
@@ -24610,14 +24632,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 57488,
-              "against": 45995
+              "for": 58739,
+              "against": 46759
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-08T02:49:59.723Z"
+            "last_updated": "2020-11-13T23:02:32.320Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -24654,7 +24676,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1403636,
+        "votes": 1405817,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -24667,7 +24689,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 2573,
+        "precincts_reporting": 2576,
         "precincts_total": 2619,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -24679,7 +24701,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-13T22:01:13.640Z",
+        "last_updated": "2020-11-13T23:02:32.320Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -24691,7 +24713,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 812550,
+            "votes": 813622,
             "percent": 57.9,
             "percent_display": "57.9",
             "electoral_votes": 0,
@@ -24711,7 +24733,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 591086,
+            "votes": 592195,
             "percent": 42.1,
             "percent_display": "42.1",
             "electoral_votes": 0,
@@ -25278,7 +25300,7 @@
           {
             "fips": "49039",
             "name": "Sanpete",
-            "votes": 11892,
+            "votes": 12053,
             "absentee_votes": 0,
             "reporting": 23,
             "precincts": 24,
@@ -25295,14 +25317,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 4779,
-              "against": 7113
+              "for": 4835,
+              "against": 7218
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-10T23:00:44.860Z"
+            "last_updated": "2020-11-13T23:01:31.530Z"
           },
           {
             "fips": "49041",
@@ -25365,7 +25387,7 @@
           {
             "fips": "49045",
             "name": "Tooele",
-            "votes": 30849,
+            "votes": 30852,
             "absentee_votes": 0,
             "reporting": 65,
             "precincts": 65,
@@ -25383,13 +25405,13 @@
             "provisional_count_progress": null,
             "results": {
               "for": 14293,
-              "against": 16556
+              "against": 16559
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T00:00:09.583Z"
+            "last_updated": "2020-11-13T23:01:31.530Z"
           },
           {
             "fips": "49047",
@@ -25539,9 +25561,9 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 104063,
+            "votes": 106080,
             "absentee_votes": 0,
-            "reporting": 187,
+            "reporting": 190,
             "precincts": 190,
             "absentee_method": null,
             "eevp": null,
@@ -25556,14 +25578,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 57612,
-              "against": 46451
+              "for": 58628,
+              "against": 47452
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-08T02:49:59.723Z"
+            "last_updated": "2020-11-13T23:02:32.320Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -25598,7 +25620,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1308077,
+        "votes": 1310096,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -25611,7 +25633,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 2573,
+        "precincts_reporting": 2576,
         "precincts_total": 2619,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -25623,7 +25645,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-13T22:01:13.640Z",
+        "last_updated": "2020-11-13T23:02:32.320Z",
         "candidates": [
           {
             "candidate_id": "dougall-58489",
@@ -25636,7 +25658,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 978448,
+            "votes": 979887,
             "percent": 74.8,
             "percent_display": "74.8",
             "electoral_votes": 0,
@@ -25657,7 +25679,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 170249,
+            "votes": 170519,
             "percent": 13,
             "percent_display": "13.0",
             "electoral_votes": 0,
@@ -25678,7 +25700,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 159380,
+            "votes": 159690,
             "percent": 12.2,
             "percent_display": "12.2",
             "electoral_votes": 0,
@@ -26283,7 +26305,7 @@
           {
             "fips": "49039",
             "name": "Sanpete",
-            "votes": 11593,
+            "votes": 11755,
             "absentee_votes": 0,
             "reporting": 23,
             "precincts": 24,
@@ -26300,16 +26322,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "dougallj": 9592,
-              "ostlerj": 1226,
-              "fabbib": 775
+              "dougallj": 9724,
+              "ostlerj": 1249,
+              "fabbib": 782
             },
             "results_absentee": {
               "dougallj": 0,
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-10T23:00:44.860Z"
+            "last_updated": "2020-11-13T23:01:31.530Z"
           },
           {
             "fips": "49041",
@@ -26376,7 +26398,7 @@
           {
             "fips": "49045",
             "name": "Tooele",
-            "votes": 29458,
+            "votes": 29461,
             "absentee_votes": 0,
             "reporting": 65,
             "precincts": 65,
@@ -26393,7 +26415,7 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "dougallj": 22665,
+              "dougallj": 22668,
               "ostlerj": 4165,
               "fabbib": 2628
             },
@@ -26402,7 +26424,7 @@
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-13T00:00:09.583Z"
+            "last_updated": "2020-11-13T23:01:31.530Z"
           },
           {
             "fips": "49047",
@@ -26562,9 +26584,9 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 98949,
+            "votes": 100803,
             "absentee_votes": 0,
-            "reporting": 187,
+            "reporting": 190,
             "precincts": 190,
             "absentee_method": null,
             "eevp": null,
@@ -26579,16 +26601,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "dougallj": 73310,
-              "ostlerj": 13839,
-              "fabbib": 11800
+              "dougallj": 74614,
+              "ostlerj": 14126,
+              "fabbib": 12063
             },
             "results_absentee": {
               "dougallj": 0,
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-08T02:49:59.723Z"
+            "last_updated": "2020-11-13T23:02:32.320Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -26623,7 +26645,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 71795,
+        "votes": 71797,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -26648,7 +26670,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-13T00:00:09.583Z",
+        "last_updated": "2020-11-13T23:01:31.530Z",
         "candidates": [
           {
             "candidate_id": "hymas-51238",
@@ -26661,7 +26683,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 42815,
+            "votes": 42817,
             "percent": 59.6,
             "percent_display": "59.6",
             "electoral_votes": 0,
@@ -26756,7 +26778,7 @@
           {
             "fips": "49045",
             "name": "Tooele",
-            "votes": 30027,
+            "votes": 30029,
             "absentee_votes": 0,
             "reporting": 65,
             "precincts": 65,
@@ -26773,14 +26795,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "hymasm": 21072,
+              "hymasm": 21074,
               "garnerb": 8955
             },
             "results_absentee": {
               "hymasm": 0,
               "garnerb": 0
             },
-            "last_updated": "2020-11-13T00:00:09.583Z"
+            "last_updated": "2020-11-13T23:01:31.530Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -27755,7 +27777,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1302410,
+        "votes": 1304474,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -27768,7 +27790,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 2573,
+        "precincts_reporting": 2576,
         "precincts_total": 2619,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -27780,7 +27802,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-13T22:01:13.640Z",
+        "last_updated": "2020-11-13T23:02:32.320Z",
         "candidates": [
           {
             "candidate_id": "damschen-50850",
@@ -27793,7 +27815,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 972569,
+            "votes": 973955,
             "percent": 74.7,
             "percent_display": "74.7",
             "electoral_votes": 0,
@@ -27814,7 +27836,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 192791,
+            "votes": 193235,
             "percent": 14.8,
             "percent_display": "14.8",
             "electoral_votes": 0,
@@ -27835,7 +27857,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 137050,
+            "votes": 137284,
             "percent": 10.5,
             "percent_display": "10.5",
             "electoral_votes": 0,
@@ -28440,7 +28462,7 @@
           {
             "fips": "49039",
             "name": "Sanpete",
-            "votes": 11533,
+            "votes": 11691,
             "absentee_votes": 0,
             "reporting": 23,
             "precincts": 24,
@@ -28457,16 +28479,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "damschend": 9547,
-              "proctorr": 1263,
-              "specialej": 723
+              "damschend": 9667,
+              "proctorr": 1290,
+              "specialej": 734
             },
             "results_absentee": {
               "damschend": 0,
               "proctorr": 0,
               "specialej": 0
             },
-            "last_updated": "2020-11-10T23:00:44.860Z"
+            "last_updated": "2020-11-13T23:01:31.530Z"
           },
           {
             "fips": "49041",
@@ -28533,7 +28555,7 @@
           {
             "fips": "49045",
             "name": "Tooele",
-            "votes": 29382,
+            "votes": 29385,
             "absentee_votes": 0,
             "reporting": 65,
             "precincts": 65,
@@ -28550,7 +28572,7 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "damschend": 21874,
+              "damschend": 21877,
               "proctorr": 3754,
               "specialej": 3754
             },
@@ -28559,7 +28581,7 @@
               "proctorr": 0,
               "specialej": 0
             },
-            "last_updated": "2020-11-13T00:00:09.583Z"
+            "last_updated": "2020-11-13T23:01:31.530Z"
           },
           {
             "fips": "49047",
@@ -28719,9 +28741,9 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 99622,
+            "votes": 101525,
             "absentee_votes": 0,
-            "reporting": 187,
+            "reporting": 190,
             "precincts": 190,
             "absentee_method": null,
             "eevp": null,
@@ -28736,16 +28758,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "damschend": 72168,
-              "specialej": 15878,
-              "proctorr": 11576
+              "damschend": 73431,
+              "specialej": 16311,
+              "proctorr": 11783
             },
             "results_absentee": {
               "damschend": 0,
               "specialej": 0,
               "proctorr": 0
             },
-            "last_updated": "2020-11-08T02:49:59.723Z"
+            "last_updated": "2020-11-13T23:02:32.320Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -28768,7 +28790,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 218,
-            "votes": 73894667,
+            "votes": 73933554,
             "percent": "50.3",
             "change": -5,
             "flip_count": 3,
@@ -28785,7 +28807,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 202,
-            "votes": 70982191,
+            "votes": 70998372,
             "percent": "48.3",
             "change": 6,
             "flip_count": 9,
@@ -28802,7 +28824,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2080987,
+            "votes": 2081268,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -28830,7 +28852,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 78048538,
+            "votes": 78058463,
             "percent": "50.8",
             "change": 0,
             "flip_count": 0,
@@ -28847,7 +28869,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 72701661,
+            "votes": 72707083,
             "percent": "47.4",
             "change": 0,
             "flip_count": 0,
@@ -28864,7 +28886,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2768175,
+            "votes": 2768532,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -28896,7 +28918,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 41397377,
+            "votes": 41407111,
             "percent": "47.1",
             "change": 1,
             "flip_count": 2,
@@ -28913,8 +28935,8 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 43650474,
-            "percent": "49.7",
+            "votes": 43655133,
+            "percent": "49.6",
             "change": -1,
             "flip_count": 1,
             "leader_count": 0,
@@ -28930,7 +28952,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2863336,
+            "votes": 2863734,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -40065,7 +40087,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2277938,
+          "votes": 2278117,
           "percent": 56.8,
           "percent_display": "56.8",
           "electoral_votes": 0,
@@ -40202,7 +40224,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2351933,
+          "votes": 2352119,
           "percent": 58.4,
           "percent_display": "58.4",
           "electoral_votes": 12,
@@ -42632,7 +42654,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 758070,
+          "votes": 758098,
           "percent": 62.6,
           "percent_display": "62.6",
           "electoral_votes": 6,
@@ -42673,7 +42695,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 790955,
+          "votes": 790990,
           "percent": 66.6,
           "percent_display": "66.6",
           "electoral_votes": 0,
@@ -43260,9 +43282,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2313150,
-          "percent": 56.9,
-          "percent_display": "56.9",
+          "votes": 2322884,
+          "percent": 57,
+          "percent_display": "57.0",
           "electoral_votes": 0,
           "absentee_votes": 868079,
           "absentee_percent": 53.3,
@@ -43520,7 +43542,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2376358,
+          "votes": 2386085,
           "percent": 57.1,
           "percent_display": "57.1",
           "electoral_votes": 14,
@@ -45232,8 +45254,8 @@
     ]
   },
   "meta": {
-    "version": 16882,
+    "version": 16892,
     "track": "2020-11-03",
-    "timestamp": "2020-11-13T22:47:43.998Z"
+    "timestamp": "2020-11-13T23:07:22.396Z"
   }
 }
