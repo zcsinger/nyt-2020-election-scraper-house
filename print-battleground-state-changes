@@ -504,7 +504,7 @@ def txt_output(path, summarized, states_updated):
             print(tabulate([string_summary(summary) for summary in timestamped_results]), file=f)
 
 # txt_output("battleground-state-changes.txt", battlegrounds_summarized, battleground_states_updated)
-txt_output("new-jersey-changes.txt", summarized, states_updated)
+txt_output("house-changes.txt", summarized, states_updated)
 
 def html_table(summarized):
     for (state, timestamped_results) in summarized.items():
@@ -567,7 +567,7 @@ def html_output(path, html_table, states_updated, other_page_html):
 #     'View <a href="battleground-state-changes.html">battleground states only</a>.'
 # )
 html_output(
-    "new-jersey-changes.html",
+    "house-changes.html",
     html_table(summarized),
     states_updated,
     'View <a href="battleground-state-changes.html">battleground states only</a>.'
@@ -618,7 +618,7 @@ def rss_output(path, summarized):
 
 # rss_output('battleground-state-changes.xml', battlegrounds_summarized)
 # rss_output('all-state-changes.xml', summarized)
-rss_output('new-jersey-changes.xml', summarized)
+rss_output('house-changes.xml', summarized)
 
 # this file is deprecated and should not be used! it will be removed soontm
 # with open("notification-updates.json", "w") as f:
