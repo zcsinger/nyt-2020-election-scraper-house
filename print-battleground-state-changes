@@ -23,11 +23,15 @@ NV_INDEX = 33
 PA_INDEX = 38
 
 BATTLEGROUND_STATES = ["Alaska", "Arizona", "Georgia", "North Carolina", "Nevada", "Pennsylvania"]
-STATE_INDEXES = range(51) # 50 States + DC
+
+NUM_INDICES = 19 # 19 districts in NJ
+STATE_INDEXES = range(2, NUM_INDICES)
 
 CACHE_DIR = '_cache'
 # Bump this with any changes to `fetch_all_records`
 CACHE_VERSION = 2
+
+JSON_FILE = "new-jersey.json"
 
 def git_commits_for(path):
     return subprocess.check_output(['git', 'log', "--format=%H", path]).strip().decode().splitlines()
@@ -38,7 +42,7 @@ def git_show(ref, name, repo_client):
     return commit_tree[name].data_stream.read()
 
 def fetch_all_records():
-    commits = git_commits_for("results.json")
+    commits = git_commits_for(JSON_FILE)
 
     repo = git.Repo('.', odbt=git.db.GitCmdObjectDB)
 
@@ -57,7 +61,7 @@ def fetch_all_records():
                     for row in record['rows']:
                         out.append(InputRecord(*row))
                     continue
-        blob = git_show(ref, 'results.json', repo)
+        blob = git_show(ref, JSON_FILE, repo)
         json = parser.parse(blob)
         timestamp = json['meta']['timestamp']
         rows = []
@@ -78,7 +82,6 @@ def fetch_all_records():
                 timestamp,
                 race['state_name'],
                 race['state_id'],
-                race['electoral_votes'],
                 race['candidates'].as_list(),
                 race['votes'],
                 tot_exp_vote,
@@ -108,7 +111,6 @@ InputRecord = collections.namedtuple(
         'timestamp',
         'state_name',
         'state_abbrev',
-        'electoral_votes',
         'candidates',
         'votes',
         'expected_votes',
@@ -412,10 +414,10 @@ for rows in records.values():
     state_name = rows[0].state_name
 
     summarized[state_name] = []
-    state_formatted_name[state_name] = f"{state_name} (EV: {rows[0].electoral_votes})"
+    state_formatted_name[state_name] = f"{state_name}"
     state_abbrev[state_name] = rows[0].state_abbrev
 
-    last_iteration_info = IterationInfo(
+    last_iteration_info_list = [IterationInfo(
         vote_diff=None,
         votes=None,
         precincts_reporting=None,
@@ -423,12 +425,14 @@ for rows in records.values():
         leading_candidate_name=None,
         counties=None,
         candidate_votes=None,
-    )
+    ) for row_idx in range(len(rows))]
 
-    latest_candidate_votes = {c['candidate_key']: c['votes'] for c in rows[-1].candidates}
-    latest_expected_votes = rows[-1].expected_votes
-
-    for row in rows:
+    for row_idx in range(len(rows)):
+        row = rows[row_idx]
+        # Each race is different so calculate the latest_candidate_votes here
+        latest_candidate_votes = {c['candidate_key']: c['votes'] for c in row.candidates}
+        latest_expected_votes = row.expected_votes if row.expected_votes is not None else 0
+        last_iteration_info = last_iteration_info_list[row_idx]
         iteration_info, summary = json_to_summary(
             state_name,
             row,
@@ -452,18 +456,18 @@ for rows in records.values():
         states_updated.append(state_name)
 
 # Pull out the battleground state summaries
-battlegrounds_summarized = {
-    state: summarized[state]
-    for state in BATTLEGROUND_STATES
-}
-battleground_states_updated = [
-    state for state in states_updated
-    if state in BATTLEGROUND_STATES
-]
+# battlegrounds_summarized = {
+#     state: summarized[state]
+#     for state in BATTLEGROUND_STATES
+# }
+# battleground_states_updated = [
+#     state for state in states_updated
+#     if state in BATTLEGROUND_STATES
+# ]
 
-# print the summaries
-batch_time = max(itertools.chain.from_iterable(battlegrounds_summarized.values()), key=lambda s: s.timestamp).timestamp
-with open("results.json", "r", encoding='utf8') as f:
+# print the summaries (changed from battlegrounds_summarized)
+batch_time = max(itertools.chain.from_iterable(summarized.values()), key=lambda s: s.timestamp).timestamp
+with open(JSON_FILE, "r", encoding='utf8') as f:
     RESULTS_HASH = hashlib.sha256(f.read().encode('utf8')).hexdigest()
 
 def txt_output(path, summarized, states_updated):
@@ -478,8 +482,8 @@ def txt_output(path, summarized, states_updated):
             print(f'\n{state_formatted_name[state]} Total Votes: ({timestamped_results[0][1]}: {timestamped_results[0][3]:,}, {timestamped_results[0][2]}: {timestamped_results[0][4]:,})', file=f)
             print(tabulate([string_summary(summary) for summary in timestamped_results]), file=f)
 
-txt_output("battleground-state-changes.txt", battlegrounds_summarized, battleground_states_updated)
-txt_output("all-state-changes.txt", summarized, states_updated)
+# txt_output("battleground-state-changes.txt", battlegrounds_summarized, battleground_states_updated)
+txt_output("new-jersey-changes.txt", summarized, states_updated)
 
 def html_table(summarized):
     # The NYTimes array of states is not sorted alphabetically, so we'll use `sorted`
@@ -530,14 +534,20 @@ def html_output(path, html_table, states_updated, other_page_html):
 
         f.write(html)
 
+# html_output(
+#     "battleground-state-changes.html",
+#     html_table(battlegrounds_summarized),
+#     battleground_states_updated,
+#     'Data for all 50 states and DC is <a href="all-state-changes.html">also available</a>.'
+# )
+# html_output(
+#     "all-state-changes.html",
+#     html_table(summarized),
+#     states_updated,
+#     'View <a href="battleground-state-changes.html">battleground states only</a>.'
+# )
 html_output(
-    "battleground-state-changes.html",
-    html_table(battlegrounds_summarized),
-    battleground_states_updated,
-    'Data for all 50 states and DC is <a href="all-state-changes.html">also available</a>.'
-)
-html_output(
-    "all-state-changes.html",
+    "new-jersey-changes.html",
     html_table(summarized),
     states_updated,
     'View <a href="battleground-state-changes.html">battleground states only</a>.'
@@ -551,7 +561,7 @@ def csv_output(path, summarized):
             for row in results:
                 wr.writerow((state_formatted_name[state],) + row)
 
-csv_output('battleground-state-changes.csv', battlegrounds_summarized)
+# csv_output('battleground-state-changes.csv', battlegrounds_summarized)
 csv_output('all-state-changes.csv', summarized)
 
 def rss_output(path, summarized):
@@ -586,13 +596,14 @@ def rss_output(path, summarized):
             </rss>'''
         ), file=rssfile)
 
-rss_output('battleground-state-changes.xml', battlegrounds_summarized)
-rss_output('all-state-changes.xml', summarized)
+# rss_output('battleground-state-changes.xml', battlegrounds_summarized)
+# rss_output('all-state-changes.xml', summarized)
+rss_output('new-jersey-changes.xml', summarized)
 
 # this file is deprecated and should not be used! it will be removed soontm
-with open("notification-updates.json", "w") as f:
-    f.write(json.dumps({
-        "_comment": "this file is deprecated and should not be used",
-        "results_hash": RESULTS_HASH,
-        "states_updated": battleground_states_updated,
-    }))
+# with open("notification-updates.json", "w") as f:
+#     f.write(json.dumps({
+#         "_comment": "this file is deprecated and should not be used",
+#         "results_hash": RESULTS_HASH,
+#         "states_updated": battleground_states_updated,
+#     }))
