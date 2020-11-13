@@ -306,10 +306,18 @@ def html_summary(state_slug: str, summary: IterationSummary, always_visible: boo
 scrape_time = datetime.datetime.utcnow()
 
 # Dict[str, List[InputRecords]]
-records_nj = fetch_all_records("new-jersey.json", [12])
+# Close races in CA 21, 25, 39
 records_ca = fetch_all_records("california.json", [21, 25, 39])
+# Close race in IA 2
 records_ia = fetch_all_records("iowa.json", [2])
-records_list = [records_nj, records_ca, records_ia]
+# Close race in NJ 7
+records_nj = fetch_all_records("new-jersey.json", [8])
+# Close race in NY 1, 2, 3, 18, 19, 22, 24
+records_ny = fetch_all_records("new-york.json", [1, 2, 3, 18, 19, 22, 24])
+# Close race in UT 4
+records_ut = fetch_all_records("utah.json", [4])
+# Collect all races
+records_list = [records_ca, records_ia, records_nj, records_ny, records_ut]
 records = {k: v for d in records_list for k, v in d.items()}
 
 # Where we’ll aggregate the data from the JSON files
