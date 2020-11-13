@@ -19,6 +19,11 @@ jobs:
     - name: Fetch latest data
       run: |-
         curl "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/votes-remaining-page/national/president.json" | jq . > results.json
+        curl "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/state-page/california.json" | jq . > california.json
+        curl "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/state-page/iowa.json" | jq . > iowa.json
+        curl "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/state-page/new-jersey.json" | jq . > new-jersey.json
+        curl "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/state-page/new-york.json" | jq . > new-york.json
+        curl "https://static01.nyt.com/elections-assets/2020/data/api/2020-11-03/state-page/utah.json" | jq . > utah.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
