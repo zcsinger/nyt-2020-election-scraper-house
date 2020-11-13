@@ -8815,7 +8815,7 @@
         "result_source": "NYT",
         "gain": false,
         "lost_seat": "",
-        "votes": 404543,
+        "votes": 409036,
         "absentee_votes": 150779,
         "absentee_counties": 3,
         "absentee_count_progress": "unknown",
@@ -8828,19 +8828,19 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 575,
+        "precincts_reporting": 581,
         "precincts_total": 622,
-        "reporting_display": "92% reporting",
-        "reporting_value": "92%",
-        "eevp": 94,
+        "reporting_display": "93% reporting",
+        "reporting_value": "93%",
+        "eevp": 95,
         "tot_exp_vote": 431000,
         "eevp_source": "edison",
-        "eevp_value": "94%",
-        "eevp_display": "94% reported",
+        "eevp_value": "95%",
+        "eevp_display": "95% reported",
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-13T20:05:32Z",
+        "last_updated": "2020-11-13T21:33:53Z",
         "candidates": [
           {
             "candidate_id": "malinowski-20005-31-h",
@@ -8853,7 +8853,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 204849,
+            "votes": 206820,
             "percent": 50.6,
             "percent_display": "50.6",
             "electoral_votes": 0,
@@ -8874,7 +8874,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 199694,
+            "votes": 202216,
             "percent": 49.4,
             "percent_display": "49.4",
             "electoral_votes": 0,
@@ -8886,10 +8886,10 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 1.27428,
-        "leader_margin_votes": 5155,
-        "leader_margin_display": "D+1.3",
-        "leader_margin_name_display": "Malinowski +1.3",
+        "leader_margin_value": 1.12557,
+        "leader_margin_votes": 4604,
+        "leader_margin_display": "D+1.1",
+        "leader_margin_name_display": "Malinowski +1.1",
         "leader_party_id": "democrat",
         "counties": [
           {
@@ -8961,15 +8961,15 @@
           {
             "fips": "34027",
             "name": "Morris",
-            "votes": 60636,
+            "votes": 65129,
             "absentee_votes": 0,
-            "reporting": 82,
+            "reporting": 88,
             "precincts": 94,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 88,
+            "eevp": 94,
             "tot_exp_vote": 68954,
-            "eevp_value": "88%",
-            "eevp_display": "88% reported",
+            "eevp_value": "94%",
+            "eevp_display": "94% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "unknown",
@@ -8978,14 +8978,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "keant": 32348,
-              "malinowskit": 28288
+              "keant": 34870,
+              "malinowskit": 30259
             },
             "results_absentee": {
               "keant": 0,
               "malinowskit": 0
             },
-            "last_updated": "2020-11-13T13:52:49Z",
+            "last_updated": "2020-11-13T21:33:50Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9106,21 +9106,21 @@
             "sentence_type": "race_unwon"
           },
           "eevp": {
-            "sentence": "94% of the estimated vote total has been reported.",
-            "timestamp": 1605298050191,
+            "sentence": "95% of the estimated vote total has been reported.",
+            "timestamp": 1605303435818,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "94% of the estimated vote total has been reported.",
+            "generatedText": "95% of the estimated vote total has been reported.",
             "sentence_type": "has_eevp"
           },
           "eevp_leadin": {
-            "sentence": "We just received 4,447 additional votes from New Jersey. Malinowski is currently up by 5,155 votes.",
-            "timestamp": 1605298050191,
+            "sentence": "We just received 4,493 additional votes from New Jersey. Malinowski is currently up by 4,604 votes.",
+            "timestamp": 1605303435818,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received 4,447 additional votes from New Jersey. Malinowski is currently up by 5,155 votes.",
+            "generatedText": "We just received 4,493 additional votes from New Jersey. Malinowski is currently up by 4,604 votes.",
             "sentence_type": "additional_votes_reported"
           }
         },
@@ -9571,6 +9571,16 @@
             "eevp": 94,
             "eevp_source": "edison",
             "timestamp": "2020-11-13T20:05:32Z"
+          },
+          {
+            "vote_shares": {
+              "malinowskit": 0.506,
+              "kean_t": 0.494
+            },
+            "votes": 409036,
+            "eevp": 95,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-13T21:33:53Z"
           }
         ]
       },
@@ -11143,7 +11153,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 404923,
+        "votes": 418528,
         "absentee_votes": 74087,
         "absentee_counties": 2,
         "absentee_count_progress": "unknown",
@@ -11156,19 +11166,19 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 559,
+        "precincts_reporting": 577,
         "precincts_total": 613,
-        "reporting_display": "91% reporting",
-        "reporting_value": "91%",
-        "eevp": 92,
+        "reporting_display": "94% reporting",
+        "reporting_value": "94%",
+        "eevp": 95,
         "tot_exp_vote": 442000,
         "eevp_source": "edison",
-        "eevp_value": "92%",
-        "eevp_display": "92% reported",
+        "eevp_value": "95%",
+        "eevp_display": "95% reported",
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-13T13:52:53Z",
+        "last_updated": "2020-11-13T21:33:53Z",
         "candidates": [
           {
             "candidate_id": "sherrill-20014-31-h",
@@ -11181,9 +11191,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 217840,
-            "percent": 53.8,
-            "percent_display": "53.8",
+            "votes": 223682,
+            "percent": 53.4,
+            "percent_display": "53.4",
             "electoral_votes": 0,
             "absentee_votes": 36279,
             "absentee_percent": 49,
@@ -11202,9 +11212,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 187083,
-            "percent": 46.2,
-            "percent_display": "46.2",
+            "votes": 194846,
+            "percent": 46.6,
+            "percent_display": "46.6",
             "electoral_votes": 0,
             "absentee_votes": 37808,
             "absentee_percent": 51,
@@ -11214,10 +11224,10 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 7.59577,
-        "leader_margin_votes": 30757,
-        "leader_margin_display": "D+8",
-        "leader_margin_name_display": "Sherrill +8",
+        "leader_margin_value": 6.88986,
+        "leader_margin_votes": 28836,
+        "leader_margin_display": "D+7",
+        "leader_margin_name_display": "Sherrill +7",
         "leader_party_id": "democrat",
         "counties": [
           {
@@ -11256,15 +11266,15 @@
           {
             "fips": "34027",
             "name": "Morris",
-            "votes": 196703,
+            "votes": 210308,
             "absentee_votes": 0,
-            "reporting": 268,
+            "reporting": 286,
             "precincts": 302,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 89,
+            "eevp": 95,
             "tot_exp_vote": 221529,
-            "eevp_value": "89%",
-            "eevp_display": "89% reported",
+            "eevp_value": "95%",
+            "eevp_display": "95% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "unknown",
@@ -11273,17 +11283,17 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "sherrillm": 103528,
-              "becchir": 93175
+              "sherrillm": 109370,
+              "becchir": 100938
             },
             "results_absentee": {
               "sherrillm": 0,
               "becchir": 0
             },
-            "last_updated": "2020-11-13T13:52:47Z",
-            "leader_margin_value": 5.26326,
-            "leader_margin_display": "D+5",
-            "leader_margin_name_display": "Sherrill +5",
+            "last_updated": "2020-11-13T21:33:48Z",
+            "leader_margin_value": 4.00936,
+            "leader_margin_display": "D+4",
+            "leader_margin_name_display": "Sherrill +4",
             "leader_party_id": "democrat"
           },
           {
@@ -11368,12 +11378,12 @@
             "sentence_type": "race_won"
           },
           "eevp": {
-            "sentence": "92% of the estimated vote total has been reported.",
-            "timestamp": 1605275662929,
+            "sentence": "95% of the estimated vote total has been reported.",
+            "timestamp": 1605303435818,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "92% of the estimated vote total has been reported.",
+            "generatedText": "95% of the estimated vote total has been reported.",
             "sentence_type": "has_eevp"
           },
           "eevp_leadin": {
@@ -11693,6 +11703,16 @@
             "eevp": 92,
             "eevp_source": "edison",
             "timestamp": "2020-11-13T13:52:53Z"
+          },
+          {
+            "vote_shares": {
+              "sherrillm": 0.534,
+              "becchir": 0.466
+            },
+            "votes": 418528,
+            "eevp": 95,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-13T21:33:53Z"
           }
         ]
       },
@@ -13255,7 +13275,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3678574,
+        "votes": 3681562,
         "absentee_votes": 605634,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -13268,10 +13288,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 5805,
+        "precincts_reporting": 5809,
         "precincts_total": 6348,
-        "reporting_display": "91% reporting",
-        "reporting_value": "91%",
+        "reporting_display": "92% reporting",
+        "reporting_value": "92%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -13280,7 +13300,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-13T21:13:03.090Z",
+        "last_updated": "2020-11-13T21:36:09.247Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -13292,7 +13312,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2802052,
+            "votes": 2804489,
             "percent": 76.2,
             "percent_display": "76.2",
             "electoral_votes": 0,
@@ -13312,7 +13332,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 876522,
+            "votes": 877073,
             "percent": 23.8,
             "percent_display": "23.8",
             "electoral_votes": 0,
@@ -13850,9 +13870,9 @@
           {
             "fips": "34037",
             "name": "Sussex",
-            "votes": 82585,
+            "votes": 85573,
             "absentee_votes": 0,
-            "reporting": 109,
+            "reporting": 113,
             "precincts": 119,
             "absentee_method": null,
             "eevp": null,
@@ -13867,14 +13887,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 62564,
-              "no": 20021
+              "yes": 65001,
+              "no": 20572
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-12T22:02:10.297Z"
+            "last_updated": "2020-11-13T21:36:09.247Z"
           },
           {
             "fips": "34039",
@@ -13970,7 +13990,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3510637,
+        "votes": 3513479,
         "absentee_votes": 573888,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -13983,10 +14003,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 5805,
+        "precincts_reporting": 5809,
         "precincts_total": 6348,
-        "reporting_display": "91% reporting",
-        "reporting_value": "91%",
+        "reporting_display": "92% reporting",
+        "reporting_value": "92%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -13995,7 +14015,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-13T21:13:03.090Z",
+        "last_updated": "2020-11-13T21:36:09.247Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -14007,7 +14027,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2023913,
+            "votes": 2025575,
             "percent": 57.7,
             "percent_display": "57.7",
             "electoral_votes": 0,
@@ -14027,7 +14047,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1486724,
+            "votes": 1487904,
             "percent": 42.3,
             "percent_display": "42.3",
             "electoral_votes": 0,
@@ -14565,9 +14585,9 @@
           {
             "fips": "34037",
             "name": "Sussex",
-            "votes": 79143,
+            "votes": 81985,
             "absentee_votes": 0,
-            "reporting": 109,
+            "reporting": 113,
             "precincts": 119,
             "absentee_method": null,
             "eevp": null,
@@ -14582,14 +14602,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 41589,
-              "no": 37554
+              "yes": 43251,
+              "no": 38734
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-12T22:02:10.297Z"
+            "last_updated": "2020-11-13T21:36:09.247Z"
           },
           {
             "fips": "34039",
@@ -14670,7 +14690,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 218,
-            "votes": 73872252,
+            "votes": 73886020,
             "percent": "50.3",
             "change": -5,
             "flip_count": 3,
@@ -14687,7 +14707,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 202,
-            "votes": 70953731,
+            "votes": 70971865,
             "percent": "48.3",
             "change": 6,
             "flip_count": 9,
@@ -14704,7 +14724,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2081082,
+            "votes": 2080636,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -14732,7 +14752,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 78038127,
+            "votes": 78039893,
             "percent": "50.8",
             "change": 0,
             "flip_count": 0,
@@ -14749,7 +14769,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 72691349,
+            "votes": 72693706,
             "percent": "47.4",
             "change": 0,
             "flip_count": 0,
@@ -14766,7 +14786,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2767421,
+            "votes": 2767443,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -14798,7 +14818,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 41393540,
+            "votes": 41395008,
             "percent": "47.1",
             "change": 1,
             "flip_count": 2,
@@ -14815,7 +14835,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 43644169,
+            "votes": 43646218,
             "percent": "49.7",
             "change": -1,
             "flip_count": 1,
@@ -14832,7 +14852,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2863110,
+            "votes": 2863157,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -25753,7 +25773,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 650585,
+          "votes": 652632,
           "percent": 55.6,
           "percent_display": "55.6",
           "electoral_votes": 0,
@@ -29504,7 +29524,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1828922,
+          "votes": 1829279,
           "percent": 64.9,
           "percent_display": "64.9",
           "electoral_votes": 10,
@@ -29586,7 +29606,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 696775,
+          "votes": 698908,
           "percent": 59.3,
           "percent_display": "59.3",
           "electoral_votes": 6,
@@ -31134,8 +31154,8 @@
     ]
   },
   "meta": {
-    "version": 16793,
+    "version": 16809,
     "track": "2020-11-03",
-    "timestamp": "2020-11-13T21:36:43.932Z"
+    "timestamp": "2020-11-13T21:44:04.476Z"
   }
 }
