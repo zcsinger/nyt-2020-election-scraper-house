@@ -52,17 +52,17 @@ def fetch_all_records(json_file, close_race_indices):
 
     parser = simdjson.Parser()
     for ref in commits:
-        cache_path = os.path.join(CACHE_DIR, ref[:2], ref[2:] + ".json")
-        if os.path.exists(cache_path):
-            with open(cache_path) as fh:
-                try:
-                    record = simdjson.load(fh)
-                except ValueError:
-                    continue
-                if record['version'] == CACHE_VERSION:
-                    for row in record['rows']:
-                        out.append(InputRecord(*row))
-                    continue
+        # cache_path = os.path.join(CACHE_DIR, ref[:2], ref[2:] + ".json")
+        # if os.path.exists(cache_path):
+        #     with open(cache_path) as fh:
+        #         try:
+        #             record = simdjson.load(fh)
+        #         except ValueError:
+        #             continue
+        #         if record['version'] == CACHE_VERSION:
+        #             for row in record['rows']:
+        #                 out.append(InputRecord(*row))
+        #             continue
         blob = git_show(ref, json_file, repo)
         json = parser.parse(blob)
         timestamp = json['meta']['timestamp']
@@ -94,12 +94,12 @@ def fetch_all_records(json_file, close_race_indices):
             )
             rows.append(record)
             out.append(record)
-        try:
-            os.makedirs(os.path.dirname(cache_path))
-        except FileExistsError:
-            pass
-        with open(cache_path, 'w') as fh:
-            simdjson.dump({"version": CACHE_VERSION, "rows": rows}, fh)
+        # try:
+        #     os.makedirs(os.path.dirname(cache_path))
+        # except FileExistsError:
+        #     pass
+        # with open(cache_path, 'w') as fh:
+        #     simdjson.dump({"version": CACHE_VERSION, "rows": rows}, fh)
 
     out.sort(key=lambda row: row.timestamp)
     grouped = collections.defaultdict(list)
