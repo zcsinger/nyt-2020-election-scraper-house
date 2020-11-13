@@ -402,7 +402,7 @@
               "hammonsb": 85,
               "de_la_fuenter": 53
             },
-            "last_updated": "2020-11-13T13:53:10Z",
+            "last_updated": "2020-11-13T13:54:17Z",
             "leader_margin_value": 20.04813,
             "leader_margin_display": "D+20",
             "leader_margin_name_display": "Biden +20",
@@ -3141,7 +3141,7 @@
               "burked": 305,
               "write-ins": 87
             },
-            "last_updated": "2020-11-13T13:53:10Z",
+            "last_updated": "2020-11-13T13:54:17Z",
             "leader_margin_value": 19.07233,
             "leader_margin_display": "D+19",
             "leader_margin_name_display": "Booker +19",
@@ -5372,7 +5372,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 321226,
+        "votes": 321305,
         "absentee_votes": 110098,
         "absentee_counties": 2,
         "absentee_count_progress": "unknown",
@@ -5397,7 +5397,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-11T03:25:56Z",
+        "last_updated": "2020-11-13T13:54:18Z",
         "candidates": [
           {
             "candidate_id": "norcross-63457-31-h",
@@ -5410,7 +5410,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 202543,
+            "votes": 202596,
             "percent": 63.1,
             "percent_display": "63.1",
             "electoral_votes": 0,
@@ -5431,7 +5431,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 118683,
+            "votes": 118709,
             "percent": 36.9,
             "percent_display": "36.9",
             "electoral_votes": 0,
@@ -5443,8 +5443,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 26.10623,
-        "leader_margin_votes": 83860,
+        "leader_margin_value": 26.10821,
+        "leader_margin_votes": 83887,
         "leader_margin_display": "D+26",
         "leader_margin_name_display": "Norcross +26",
         "leader_party_id": "democrat",
@@ -5452,15 +5452,15 @@
           {
             "fips": "34005",
             "name": "Burlington",
-            "votes": 11806,
+            "votes": 11885,
             "absentee_votes": 9710,
             "reporting": 17,
             "precincts": 19,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 91,
+            "eevp": 92,
             "tot_exp_vote": 12986,
-            "eevp_value": "91%",
-            "eevp_display": "91% reported",
+            "eevp_value": "92%",
+            "eevp_display": "92% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "some",
@@ -5469,15 +5469,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "norcrossd": 7344,
-              "gustafsonc": 4462
+              "norcrossd": 7397,
+              "gustafsonc": 4488
             },
             "results_absentee": {
               "norcrossd": 6251,
               "gustafsonc": 3459
             },
-            "last_updated": "2020-11-13T13:53:10Z",
-            "leader_margin_value": 24.41132,
+            "last_updated": "2020-11-13T13:54:17Z",
+            "leader_margin_value": 24.47623,
             "leader_margin_display": "D+24",
             "leader_margin_name_display": "Norcross +24",
             "leader_party_id": "democrat"
@@ -5709,6 +5709,16 @@
             "eevp": 85,
             "eevp_source": "edison",
             "timestamp": "2020-11-10T17:23:37Z"
+          },
+          {
+            "vote_shares": {
+              "norcrossd": 0.631,
+              "gustafsonc": 0.369
+            },
+            "votes": 321305,
+            "eevp": 85,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-13T13:54:18Z"
           }
         ]
       },
@@ -5930,7 +5940,7 @@
               "ehrnstromj": 9,
               "harveyj": 7
             },
-            "last_updated": "2020-11-13T13:53:10Z",
+            "last_updated": "2020-11-13T13:54:17Z",
             "leader_margin_value": 36.87291,
             "leader_margin_display": "R+37",
             "leader_margin_name_display": "Van Drew +37",
@@ -6589,7 +6599,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 403842,
+        "votes": 407398,
         "absentee_votes": 314569,
         "absentee_counties": 2,
         "absentee_count_progress": "unknown",
@@ -6606,15 +6616,15 @@
         "precincts_total": 583,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
-        "eevp": 95,
+        "eevp": 96,
         "tot_exp_vote": 424000,
         "eevp_source": "edison",
-        "eevp_value": "95%",
-        "eevp_display": "95% reported",
+        "eevp_value": "96%",
+        "eevp_display": "96% reported",
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-11T03:25:58Z",
+        "last_updated": "2020-11-13T13:53:51Z",
         "candidates": [
           {
             "candidate_id": "kim-70001-31-h",
@@ -6627,7 +6637,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 215290,
+            "votes": 217184,
             "percent": 53.3,
             "percent_display": "53.3",
             "electoral_votes": 0,
@@ -6648,7 +6658,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 183443,
+            "votes": 185072,
             "percent": 45.4,
             "percent_display": "45.4",
             "electoral_votes": 0,
@@ -6669,7 +6679,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 3432,
+            "votes": 3450,
             "percent": 0.8,
             "percent_display": "0.8",
             "electoral_votes": 0,
@@ -6690,7 +6700,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1677,
+            "votes": 1692,
             "percent": 0.4,
             "percent_display": "0.4",
             "electoral_votes": 0,
@@ -6702,8 +6712,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 7.886,
-        "leader_margin_votes": 31847,
+        "leader_margin_value": 7.88222,
+        "leader_margin_votes": 32112,
         "leader_margin_display": "D+8",
         "leader_margin_name_display": "Kim +8",
         "leader_party_id": "democrat",
@@ -6711,15 +6721,15 @@
           {
             "fips": "34005",
             "name": "Burlington",
-            "votes": 224749,
+            "votes": 228305,
             "absentee_votes": 165806,
             "reporting": 323,
             "precincts": 344,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 94,
+            "eevp": 95,
             "tot_exp_vote": 239492,
-            "eevp_value": "94%",
-            "eevp_display": "94% reported",
+            "eevp_value": "95%",
+            "eevp_display": "95% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "some",
@@ -6728,10 +6738,10 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "kima": 140504,
-              "richterd": 82277,
-              "weberm": 1140,
-              "shapiror": 828
+              "kima": 142398,
+              "richterd": 83906,
+              "weberm": 1158,
+              "shapiror": 843
             },
             "results_absentee": {
               "kima": 109465,
@@ -6739,8 +6749,8 @@
               "weberm": 682,
               "shapiror": 508
             },
-            "last_updated": "2020-11-13T13:53:11Z",
-            "leader_margin_value": 25.90757,
+            "last_updated": "2020-11-13T13:54:17Z",
+            "leader_margin_value": 25.62011,
             "leader_margin_display": "D+26",
             "leader_margin_name_display": "Kim +26",
             "leader_party_id": "democrat"
@@ -6798,12 +6808,12 @@
             "sentence_type": "race_won"
           },
           "eevp": {
-            "sentence": "95% of the estimated vote total has been reported.",
-            "timestamp": 1605029096559,
+            "sentence": "96% of the estimated vote total has been reported.",
+            "timestamp": 1605275782562,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "95% of the estimated vote total has been reported.",
+            "generatedText": "96% of the estimated vote total has been reported.",
             "sentence_type": "has_eevp"
           },
           "eevp_leadin": {
@@ -7001,6 +7011,18 @@
             "eevp": 95,
             "eevp_source": "edison",
             "timestamp": "2020-11-10T17:24:28Z"
+          },
+          {
+            "vote_shares": {
+              "kima": 0.533,
+              "richterd": 0.454,
+              "weberm": 0.008,
+              "shapiror": 0.004
+            },
+            "votes": 407398,
+            "eevp": 96,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-13T13:53:51Z"
           }
         ]
       },
@@ -14498,7 +14520,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 218,
-            "votes": 73784838,
+            "votes": 73794169,
             "percent": "50.3",
             "change": -5,
             "flip_count": 3,
@@ -14515,7 +14537,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 202,
-            "votes": 70898666,
+            "votes": 70904951,
             "percent": "48.3",
             "change": 6,
             "flip_count": 9,
@@ -14532,7 +14554,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2079322,
+            "votes": 2079356,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -14560,7 +14582,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 290,
-            "votes": 77934340,
+            "votes": 77941177,
             "percent": "50.8",
             "change": 0,
             "flip_count": 0,
@@ -14577,7 +14599,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 217,
-            "votes": 72621833,
+            "votes": 72626112,
             "percent": "47.4",
             "change": 0,
             "flip_count": 0,
@@ -14594,7 +14616,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2762127,
+            "votes": 2764172,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -14626,7 +14648,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 41350890,
+            "votes": 41357883,
             "percent": "47.1",
             "change": 1,
             "flip_count": 2,
@@ -14643,7 +14665,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 43606192,
+            "votes": 43610883,
             "percent": "49.7",
             "change": -1,
             "flip_count": 1,
@@ -14660,7 +14682,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2860604,
+            "votes": 2860940,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -14884,12 +14906,12 @@
           "runoff": false,
           "winner": true,
           "result_source": "NYT",
-          "votes": 168954,
-          "percent": 54.1,
-          "percent_display": "54.1",
+          "votes": 173233,
+          "percent": 53.3,
+          "percent_display": "53.3",
           "electoral_votes": 3,
-          "absentee_votes": 51047,
-          "absentee_percent": 42.8,
+          "absentee_votes": 60159,
+          "absentee_percent": 40.4,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html",
@@ -14926,12 +14948,12 @@
           "runoff": false,
           "winner": true,
           "result_source": "NYT",
-          "votes": 170194,
-          "percent": 54.9,
-          "percent_display": "54.9",
+          "votes": 174885,
+          "percent": 54.3,
+          "percent_display": "54.3",
           "electoral_votes": 0,
-          "absentee_votes": 53177,
-          "absentee_percent": 44.7,
+          "absentee_votes": 63314,
+          "absentee_percent": 42.6,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/sullivan-64262-2-s.png",
           "has_image": false,
           "link": ""
@@ -30813,8 +30835,8 @@
     ]
   },
   "meta": {
-    "version": 16304,
+    "version": 16314,
     "track": "2020-11-03",
-    "timestamp": "2020-11-13T13:54:50.164Z"
+    "timestamp": "2020-11-13T14:02:30.128Z"
   }
 }
