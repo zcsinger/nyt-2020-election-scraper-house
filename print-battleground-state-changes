@@ -309,7 +309,7 @@ scrape_time = datetime.datetime.utcnow()
 # Close races in CA 21, 25, 39
 records_ca = fetch_all_records("california.json", [21, 25, 39])
 # Close race in IA 2
-records_ia = fetch_all_records("iowa.json", [2])
+records_ia = fetch_all_records("iowa.json", [3])
 # Close race in NJ 7
 records_nj = fetch_all_records("new-jersey.json", [8])
 # Close race in NY 1, 2, 3, 18, 19, 22, 24
