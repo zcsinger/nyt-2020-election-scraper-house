@@ -24,8 +24,9 @@ PA_INDEX = 38
 
 BATTLEGROUND_STATES = ["Alaska", "Arizona", "Georgia", "North Carolina", "Nevada", "Pennsylvania"]
 
-NUM_INDICES = 19 # 19 districts in NJ
-STATE_INDEXES = range(2, NUM_INDICES)
+STATE_HOUSE_START = 2 # the index where the house races start
+NUM_HOUSE_SEATS = 12
+STATE_INDEXES = range(STATE_HOUSE_START, STATE_HOUSE_START + NUM_HOUSE_SEATS)
 
 CACHE_DIR = '_cache'
 # Bump this with any changes to `fetch_all_records`
@@ -82,6 +83,7 @@ def fetch_all_records():
                 timestamp,
                 race['state_name'],
                 race['state_id'],
+                race['seat_name'],
                 race['candidates'].as_list(),
                 race['votes'],
                 tot_exp_vote,
@@ -101,6 +103,7 @@ def fetch_all_records():
     out.sort(key=lambda row: row.timestamp)
     grouped = collections.defaultdict(list)
     for row in out:
+        grouped_name = "{} - {}".format(row.state_name, row.seat_name)
         grouped[row.state_name].append(row)
 
     return grouped
@@ -111,6 +114,7 @@ InputRecord = collections.namedtuple(
         'timestamp',
         'state_name',
         'state_abbrev',
+        'seat_name',
         'candidates',
         'votes',
         'expected_votes',
