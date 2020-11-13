@@ -12218,7 +12218,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 108380,
+        "votes": 108496,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -12244,7 +12244,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-13T15:08:32.620Z",
+        "last_updated": "2020-11-13T20:21:52.043Z",
         "candidates": [
           {
             "candidate_id": "bucco-35153",
@@ -12257,7 +12257,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 58008,
+            "votes": 58091,
             "percent": 53.5,
             "percent_display": "53.5",
             "electoral_votes": 0,
@@ -12278,7 +12278,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 50372,
+            "votes": 50405,
             "percent": 46.5,
             "percent_display": "46.5",
             "electoral_votes": 0,
@@ -12323,7 +12323,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 107196,
+        "votes": 107312,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -12349,7 +12349,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-13T15:08:32.620Z",
+        "last_updated": "2020-11-13T20:21:52.043Z",
         "candidates": [
           {
             "candidate_id": "dunn-35291",
@@ -12362,7 +12362,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 55775,
+            "votes": 55852,
             "percent": 52,
             "percent_display": "52.0",
             "electoral_votes": 0,
@@ -12383,7 +12383,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 51421,
+            "votes": 51460,
             "percent": 48,
             "percent_display": "48.0",
             "electoral_votes": 0,
@@ -12432,7 +12432,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3741924,
+        "votes": 3747419,
         "absentee_votes": 621060,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -12445,7 +12445,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 5796,
+        "precincts_reporting": 5803,
         "precincts_total": 6348,
         "reporting_display": "91% reporting",
         "reporting_value": "91%",
@@ -12457,7 +12457,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-13T20:01:45.620Z",
+        "last_updated": "2020-11-13T20:22:52.657Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -12469,7 +12469,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2504006,
+            "votes": 2507338,
             "percent": 66.9,
             "percent_display": "66.9",
             "electoral_votes": 0,
@@ -12489,7 +12489,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1237918,
+            "votes": 1240081,
             "percent": 33.1,
             "percent_display": "33.1",
             "electoral_votes": 0,
@@ -12998,9 +12998,9 @@
           {
             "fips": "34035",
             "name": "Somerset",
-            "votes": 164144,
+            "votes": 169639,
             "absentee_votes": 0,
-            "reporting": 252,
+            "reporting": 259,
             "precincts": 265,
             "absentee_method": null,
             "eevp": null,
@@ -13015,14 +13015,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 104409,
-              "no": 59735
+              "yes": 107741,
+              "no": 61898
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-10T21:20:19.623Z"
+            "last_updated": "2020-11-13T20:22:52.657Z"
           },
           {
             "fips": "34037",
@@ -13147,7 +13147,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3673155,
+        "votes": 3678574,
         "absentee_votes": 605634,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -13160,7 +13160,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 5796,
+        "precincts_reporting": 5803,
         "precincts_total": 6348,
         "reporting_display": "91% reporting",
         "reporting_value": "91%",
@@ -13172,7 +13172,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-13T20:02:46.197Z",
+        "last_updated": "2020-11-13T20:23:53.267Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -13184,7 +13184,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2798222,
+            "votes": 2802052,
             "percent": 76.2,
             "percent_display": "76.2",
             "electoral_votes": 0,
@@ -13204,7 +13204,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 874933,
+            "votes": 876522,
             "percent": 23.8,
             "percent_display": "23.8",
             "electoral_votes": 0,
@@ -13713,9 +13713,9 @@
           {
             "fips": "34035",
             "name": "Somerset",
-            "votes": 161929,
+            "votes": 167348,
             "absentee_votes": 0,
-            "reporting": 252,
+            "reporting": 259,
             "precincts": 265,
             "absentee_method": null,
             "eevp": null,
@@ -13730,14 +13730,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 119385,
-              "no": 42544
+              "yes": 123215,
+              "no": 44133
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-10T21:20:19.623Z"
+            "last_updated": "2020-11-13T20:23:53.267Z"
           },
           {
             "fips": "34037",
@@ -13862,7 +13862,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3505347,
+        "votes": 3510637,
         "absentee_votes": 573888,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -13875,7 +13875,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 5796,
+        "precincts_reporting": 5803,
         "precincts_total": 6348,
         "reporting_display": "91% reporting",
         "reporting_value": "91%",
@@ -13887,7 +13887,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-13T20:02:46.197Z",
+        "last_updated": "2020-11-13T20:23:53.267Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -13899,7 +13899,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2021134,
+            "votes": 2023913,
             "percent": 57.7,
             "percent_display": "57.7",
             "electoral_votes": 0,
@@ -13919,7 +13919,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1484213,
+            "votes": 1486724,
             "percent": 42.3,
             "percent_display": "42.3",
             "electoral_votes": 0,
@@ -14428,9 +14428,9 @@
           {
             "fips": "34035",
             "name": "Somerset",
-            "votes": 157547,
+            "votes": 162837,
             "absentee_votes": 0,
-            "reporting": 252,
+            "reporting": 259,
             "precincts": 265,
             "absentee_method": null,
             "eevp": null,
@@ -14445,14 +14445,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 92027,
-              "no": 65520
+              "yes": 94806,
+              "no": 68031
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-10T21:20:19.623Z"
+            "last_updated": "2020-11-13T20:23:53.267Z"
           },
           {
             "fips": "34037",
@@ -14562,7 +14562,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 218,
-            "votes": 73820323,
+            "votes": 73821970,
             "percent": "50.3",
             "change": -5,
             "flip_count": 3,
@@ -14579,7 +14579,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 202,
-            "votes": 70921811,
+            "votes": 70922271,
             "percent": "48.3",
             "change": 6,
             "flip_count": 9,
@@ -14624,7 +14624,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 77972527,
+            "votes": 77973369,
             "percent": "50.8",
             "change": 0,
             "flip_count": 0,
@@ -14641,7 +14641,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 72654155,
+            "votes": 72654368,
             "percent": "47.4",
             "change": 0,
             "flip_count": 0,
@@ -14658,7 +14658,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2763878,
+            "votes": 2763891,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -14796,7 +14796,7 @@
         "author": "Nate Cohn",
         "author_title_or_location": "in New York",
         "text": "It’s final: Joe Biden wins 306 electoral votes, Donald Trump wins 232. Biden wins Georgia. Trump wins North Carolina.",
-        "link_url": "",
+        "link_url": "https://www.nytimes.com/live/2020/11/13/us/joe-biden-trump/biden-wins-georgia-and-trump-wins-north-carolina-the-final-states-to-be-called",
         "link_text": "",
         "linked_state_1": "",
         "linked_state_2": "",
@@ -29396,7 +29396,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1814223,
+          "votes": 1815065,
           "percent": 64.8,
           "percent_display": "64.8",
           "electoral_votes": 10,
@@ -31026,8 +31026,8 @@
     ]
   },
   "meta": {
-    "version": 16690,
+    "version": 16701,
     "track": "2020-11-03",
-    "timestamp": "2020-11-13T20:21:16.732Z"
+    "timestamp": "2020-11-13T20:28:59.272Z"
   }
 }
