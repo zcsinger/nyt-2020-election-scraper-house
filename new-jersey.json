@@ -1126,7 +1126,7 @@
               "de_la_fuenter": 0,
               "la_rivag": 0
             },
-            "last_updated": "2020-11-14T12:55:04Z",
+            "last_updated": "2020-11-14T12:57:35Z",
             "leader_margin_value": 13.31361,
             "leader_margin_display": "R+13",
             "leader_margin_name_display": "Trump +13",
@@ -3801,7 +3801,7 @@
               "burked": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-14T12:55:03Z",
+            "last_updated": "2020-11-14T12:57:35Z",
             "leader_margin_value": 10.81883,
             "leader_margin_display": "R+11",
             "leader_margin_name_display": "Mehta +11",
@@ -5943,7 +5943,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 340110,
+        "votes": 340633,
         "absentee_votes": 246675,
         "absentee_counties": 6,
         "absentee_count_progress": "unknown",
@@ -5956,10 +5956,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 481,
+        "precincts_reporting": 485,
         "precincts_total": 529,
-        "reporting_display": "91% reporting",
-        "reporting_value": "91%",
+        "reporting_display": "92% reporting",
+        "reporting_value": "92%",
         "eevp": 91,
         "tot_exp_vote": 373000,
         "eevp_source": "edison",
@@ -5968,7 +5968,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-14T12:49:20Z",
+        "last_updated": "2020-11-14T12:56:45Z",
         "candidates": [
           {
             "candidate_id": "van-drew-19998-31-h",
@@ -5981,7 +5981,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 177223,
+            "votes": 177488,
             "percent": 52.1,
             "percent_display": "52.1",
             "electoral_votes": 0,
@@ -6002,7 +6002,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 156896,
+            "votes": 157131,
             "percent": 46.1,
             "percent_display": "46.1",
             "electoral_votes": 0,
@@ -6023,7 +6023,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 3406,
+            "votes": 3419,
             "percent": 1,
             "percent_display": "1.0",
             "electoral_votes": 0,
@@ -6044,7 +6044,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 2585,
+            "votes": 2595,
             "percent": 0.8,
             "percent_display": "0.8",
             "electoral_votes": 0,
@@ -6056,8 +6056,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 5.9766,
-        "leader_margin_votes": 20327,
+        "leader_margin_value": 5.97623,
+        "leader_margin_votes": 20357,
         "leader_margin_display": "R+6",
         "leader_margin_name_display": "Van Drew +6",
         "leader_party_id": "republican",
@@ -6324,15 +6324,15 @@
           {
             "fips": "34033",
             "name": "Salem",
-            "votes": 31550,
+            "votes": 32073,
             "absentee_votes": 0,
-            "reporting": 41,
+            "reporting": 45,
             "precincts": 45,
             "absentee_method": "None",
-            "eevp": 92,
+            "eevp": 94,
             "tot_exp_vote": 34213,
-            "eevp_value": "92%",
-            "eevp_display": "92% reported",
+            "eevp_value": "94%",
+            "eevp_display": "94% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "some",
@@ -6341,10 +6341,10 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "van_drewj": 17247,
-              "kennedya": 13290,
-              "harveyj": 525,
-              "ehrnstromj": 488
+              "van_drewj": 17512,
+              "kennedya": 13525,
+              "harveyj": 538,
+              "ehrnstromj": 498
             },
             "results_absentee": {
               "van_drewj": 0,
@@ -6352,10 +6352,10 @@
               "harveyj": 0,
               "ehrnstromj": 0
             },
-            "last_updated": "2020-11-14T12:55:04Z",
-            "leader_margin_value": 12.542,
-            "leader_margin_display": "R+13",
-            "leader_margin_name_display": "Van Drew +13",
+            "last_updated": "2020-11-14T12:57:35Z",
+            "leader_margin_value": 12.43102,
+            "leader_margin_display": "R+12",
+            "leader_margin_name_display": "Van Drew +12",
             "leader_party_id": "republican"
           }
         ],
@@ -6769,6 +6769,18 @@
             "eevp": 91,
             "eevp_source": "edison",
             "timestamp": "2020-11-14T12:49:20Z"
+          },
+          {
+            "vote_shares": {
+              "van_drewj": 0.521,
+              "kennedya": 0.461,
+              "harveyj": 0.01,
+              "ehrnstromj": 0.008
+            },
+            "votes": 340633,
+            "eevp": 91,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-14T12:56:45Z"
           }
         ]
       },
@@ -14902,7 +14914,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 218,
-            "votes": 74348447,
+            "votes": 74348682,
             "percent": "50.3",
             "change": -6,
             "flip_count": 3,
@@ -14919,7 +14931,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 203,
-            "votes": 71263296,
+            "votes": 71263561,
             "percent": "48.2",
             "change": 7,
             "flip_count": 10,
@@ -14936,7 +14948,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2086980,
+            "votes": 2087003,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -20094,7 +20106,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 177223,
+          "votes": 177488,
           "percent": 52.1,
           "percent_display": "52.1",
           "electoral_votes": 0,
@@ -31366,8 +31378,8 @@
     ]
   },
   "meta": {
-    "version": 17153,
+    "version": 17155,
     "track": "2020-11-03",
-    "timestamp": "2020-11-14T12:57:46.597Z"
+    "timestamp": "2020-11-14T12:59:45.612Z"
   }
 }
