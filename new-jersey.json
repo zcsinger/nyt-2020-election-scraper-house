@@ -12784,7 +12784,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3787733,
+        "votes": 3779776,
         "absentee_votes": 621060,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -12797,7 +12797,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 5865,
+        "precincts_reporting": 5849,
         "precincts_total": 6348,
         "reporting_display": "92% reporting",
         "reporting_value": "92%",
@@ -12809,7 +12809,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-14T00:48:01.580Z",
+        "last_updated": "2020-11-14T21:15:19.830Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -12821,7 +12821,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2534909,
+            "votes": 2529504,
             "percent": 66.9,
             "percent_display": "66.9",
             "electoral_votes": 0,
@@ -12841,7 +12841,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1252824,
+            "votes": 1250272,
             "percent": 33.1,
             "percent_display": "33.1",
             "electoral_votes": 0,
@@ -12886,9 +12886,9 @@
           {
             "fips": "34003",
             "name": "Bergen",
-            "votes": 296402,
+            "votes": 288445,
             "absentee_votes": 239515,
-            "reporting": 541,
+            "reporting": 525,
             "precincts": 561,
             "absentee_method": null,
             "eevp": null,
@@ -12903,14 +12903,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 196683,
-              "no": 99719
+              "yes": 191278,
+              "no": 97167
             },
             "results_absentee": {
               "yes": 159049,
               "no": 80466
             },
-            "last_updated": "2020-11-13T20:01:45.620Z"
+            "last_updated": "2020-11-14T21:15:19.830Z"
           },
           {
             "fips": "34005",
@@ -13499,7 +13499,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3718069,
+        "votes": 3710523,
         "absentee_votes": 605634,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -13512,7 +13512,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 5865,
+        "precincts_reporting": 5849,
         "precincts_total": 6348,
         "reporting_display": "92% reporting",
         "reporting_value": "92%",
@@ -13524,7 +13524,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-14T00:48:01.580Z",
+        "last_updated": "2020-11-14T21:16:20.420Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -13536,7 +13536,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2832381,
+            "votes": 2826761,
             "percent": 76.2,
             "percent_display": "76.2",
             "electoral_votes": 0,
@@ -13556,7 +13556,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 885688,
+            "votes": 883762,
             "percent": 23.8,
             "percent_display": "23.8",
             "electoral_votes": 0,
@@ -13601,9 +13601,9 @@
           {
             "fips": "34003",
             "name": "Bergen",
-            "votes": 285321,
+            "votes": 277775,
             "absentee_votes": 231102,
-            "reporting": 541,
+            "reporting": 525,
             "precincts": 561,
             "absentee_method": null,
             "eevp": null,
@@ -13618,14 +13618,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 212773,
-              "no": 72548
+              "yes": 207153,
+              "no": 70622
             },
             "results_absentee": {
               "yes": 172481,
               "no": 58621
             },
-            "last_updated": "2020-11-13T20:02:46.197Z"
+            "last_updated": "2020-11-14T21:16:20.420Z"
           },
           {
             "fips": "34005",
@@ -14214,7 +14214,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3548151,
+        "votes": 3541224,
         "absentee_votes": 573888,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -14227,7 +14227,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 5865,
+        "precincts_reporting": 5849,
         "precincts_total": 6348,
         "reporting_display": "92% reporting",
         "reporting_value": "92%",
@@ -14239,7 +14239,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-14T00:48:01.580Z",
+        "last_updated": "2020-11-14T21:16:20.420Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -14251,7 +14251,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2044834,
+            "votes": 2040903,
             "percent": 57.6,
             "percent_display": "57.6",
             "electoral_votes": 0,
@@ -14271,7 +14271,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1503317,
+            "votes": 1500321,
             "percent": 42.4,
             "percent_display": "42.4",
             "electoral_votes": 0,
@@ -14316,9 +14316,9 @@
           {
             "fips": "34003",
             "name": "Bergen",
-            "votes": 263666,
+            "votes": 256739,
             "absentee_votes": 213828,
-            "reporting": 541,
+            "reporting": 525,
             "precincts": 561,
             "absentee_method": null,
             "eevp": null,
@@ -14333,14 +14333,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 151907,
-              "no": 111759
+              "yes": 147976,
+              "no": 108763
             },
             "results_absentee": {
               "yes": 125276,
               "no": 88552
             },
-            "last_updated": "2020-11-13T20:02:46.197Z"
+            "last_updated": "2020-11-14T21:16:20.420Z"
           },
           {
             "fips": "34005",
@@ -31378,8 +31378,8 @@
     ]
   },
   "meta": {
-    "version": 17258,
+    "version": 17262,
     "track": "2020-11-03",
-    "timestamp": "2020-11-14T21:06:26.539Z"
+    "timestamp": "2020-11-14T21:20:07.068Z"
   }
 }
