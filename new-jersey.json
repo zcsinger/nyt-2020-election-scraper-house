@@ -30,7 +30,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 4187143,
+        "votes": 4187668,
         "electoral_votes": 14,
         "absentee_votes": 1669277,
         "absentee_counties": 12,
@@ -44,7 +44,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 5876,
+        "precincts_reporting": 5879,
         "precincts_total": 6334,
         "reporting_display": "93% reporting",
         "reporting_value": "93%",
@@ -56,7 +56,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-14T12:46:41Z",
+        "last_updated": "2020-11-14T12:53:55Z",
         "candidates": [
           {
             "candidate_id": "biden-1036",
@@ -69,7 +69,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2389348,
+            "votes": 2389584,
             "percent": 57.1,
             "percent_display": "57.1",
             "electoral_votes": 14,
@@ -91,7 +91,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 1732943,
+            "votes": 1733217,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -113,7 +113,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 28942,
+            "votes": 28950,
             "percent": 0.7,
             "percent_display": "0.7",
             "electoral_votes": 0,
@@ -134,7 +134,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 12806,
+            "votes": 12808,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -155,7 +155,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 12317,
+            "votes": 12320,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -176,7 +176,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 3062,
+            "votes": 3063,
             "percent": 0.1,
             "percent_display": "0.1",
             "electoral_votes": 0,
@@ -197,7 +197,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 2683,
+            "votes": 2684,
             "percent": 0.1,
             "percent_display": "0.1",
             "electoral_votes": 0,
@@ -251,8 +251,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 15.67668,
-        "leader_margin_votes": 656405,
+        "leader_margin_value": 15.67381,
+        "leader_margin_votes": 656367,
         "leader_margin_display": "D+16",
         "leader_margin_name_display": "Biden +16",
         "leader_party_id": "democrat",
@@ -1088,15 +1088,15 @@
           {
             "fips": "34033",
             "name": "Salem",
-            "votes": 31923,
+            "votes": 32448,
             "absentee_votes": 0,
-            "reporting": 42,
+            "reporting": 45,
             "precincts": 45,
             "absentee_method": "None",
-            "eevp": 94,
+            "eevp": 96,
             "tot_exp_vote": 33926,
-            "eevp_value": "94%",
-            "eevp_display": "94% reported",
+            "eevp_value": "96%",
+            "eevp_display": "96% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "some",
@@ -1105,13 +1105,13 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 13486,
-              "trumpd": 17768,
-              "jorgensenj": 373,
-              "write-ins": 106,
-              "hawkinsh": 81,
-              "hammonsb": 39,
-              "blankenshipd": 36,
+              "bidenj": 13722,
+              "trumpd": 18042,
+              "jorgensenj": 381,
+              "write-ins": 109,
+              "hawkinsh": 83,
+              "hammonsb": 40,
+              "blankenshipd": 37,
               "de_la_fuenter": 18,
               "la_rivag": 16
             },
@@ -1126,12 +1126,12 @@
               "de_la_fuenter": 0,
               "la_rivag": 0
             },
-            "last_updated": "2020-11-11T16:54:17Z",
-            "leader_margin_value": 13.41353,
+            "last_updated": "2020-11-14T12:55:04Z",
+            "leader_margin_value": 13.31361,
             "leader_margin_display": "R+13",
             "leader_margin_name_display": "Trump +13",
             "leader_party_id": "republican",
-            "margin2020": 13.41353,
+            "margin2020": 13.31361,
             "votes2016": 29853,
             "margin2016": 15,
             "votes2012": 29622,
@@ -1376,12 +1376,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Camden County. We’re still waiting for more votes to be counted in 20 counties.",
-            "timestamp": 1605358096970,
+            "sentence": "We just received more votes from Salem County. We’re still waiting for more votes to be counted in 20 counties.",
+            "timestamp": 1605358537711,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Camden County. We’re still waiting for more votes to be counted in 20 counties.",
+            "generatedText": "We just received more votes from Salem County. We’re still waiting for more votes to be counted in 20 counties.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -2910,6 +2910,16 @@
             "eevp": 93,
             "eevp_source": "edison",
             "timestamp": "2020-11-14T12:46:41Z"
+          },
+          {
+            "vote_shares": {
+              "bidenj": 0.571,
+              "trumpd": 0.414
+            },
+            "votes": 4187668,
+            "eevp": 93,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-14T12:53:55Z"
           }
         ]
       },
@@ -2942,7 +2952,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 4084154,
+        "votes": 4084680,
         "absentee_votes": 1627802,
         "absentee_counties": 12,
         "absentee_count_progress": "unknown",
@@ -2955,7 +2965,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 5758,
+        "precincts_reporting": 5761,
         "precincts_total": 6334,
         "reporting_display": "91% reporting",
         "reporting_value": "91%",
@@ -2967,7 +2977,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-14T12:47:59Z",
+        "last_updated": "2020-11-14T12:55:04Z",
         "candidates": [
           {
             "candidate_id": "booker-63133",
@@ -2980,7 +2990,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 2326242,
+            "votes": 2326495,
             "percent": 57,
             "percent_display": "57.0",
             "electoral_votes": 0,
@@ -3002,7 +3012,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1683440,
+            "votes": 1683689,
             "percent": 41.2,
             "percent_display": "41.2",
             "electoral_votes": 0,
@@ -3023,7 +3033,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 34753,
+            "votes": 34762,
             "percent": 0.9,
             "percent_display": "0.9",
             "electoral_votes": 0,
@@ -3044,7 +3054,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 26987,
+            "votes": 26999,
             "percent": 0.7,
             "percent_display": "0.7",
             "electoral_votes": 0,
@@ -3065,7 +3075,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 10037,
+            "votes": 10040,
             "percent": 0.2,
             "percent_display": "0.2",
             "electoral_votes": 0,
@@ -3098,8 +3108,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 15.73893,
-        "leader_margin_votes": 642802,
+        "leader_margin_value": 15.737,
+        "leader_margin_votes": 642806,
         "leader_margin_display": "D+16",
         "leader_margin_name_display": "Booker +16",
         "leader_party_id": "democrat",
@@ -3759,15 +3769,15 @@
           {
             "fips": "34033",
             "name": "Salem",
-            "votes": 31483,
+            "votes": 32009,
             "absentee_votes": 0,
-            "reporting": 42,
+            "reporting": 45,
             "precincts": 45,
             "absentee_method": "None",
-            "eevp": 93,
+            "eevp": 94,
             "tot_exp_vote": 33926,
-            "eevp_value": "93%",
-            "eevp_display": "93% reported",
+            "eevp_value": "94%",
+            "eevp_display": "94% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "some",
@@ -3776,11 +3786,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bookerc": 13493,
-              "mehtar": 16960,
-              "hoffmanm": 472,
-              "fernandezv": 353,
-              "burked": 158,
+              "bookerc": 13746,
+              "mehtar": 17209,
+              "hoffmanm": 481,
+              "fernandezv": 365,
+              "burked": 161,
               "write-ins": 47
             },
             "results_absentee": {
@@ -3791,8 +3801,8 @@
               "burked": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-11T16:57:07Z",
-            "leader_margin_value": 11.01229,
+            "last_updated": "2020-11-14T12:55:03Z",
+            "leader_margin_value": 10.81883,
             "leader_margin_display": "R+11",
             "leader_margin_name_display": "Mehta +11",
             "leader_party_id": "republican"
@@ -3986,12 +3996,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Camden County. We’re still waiting for more votes to be counted in 20 counties.",
-            "timestamp": 1605358216439,
+            "sentence": "We just received more votes from Salem County. We’re still waiting for more votes to be counted in 20 counties.",
+            "timestamp": 1605358637617,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Camden County. We’re still waiting for more votes to be counted in 20 counties.",
+            "generatedText": "We just received more votes from Salem County. We’re still waiting for more votes to be counted in 20 counties.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -5500,6 +5510,16 @@
             "eevp": 91,
             "eevp_source": "edison",
             "timestamp": "2020-11-14T12:47:59Z"
+          },
+          {
+            "vote_shares": {
+              "bookerc": 0.57,
+              "mehtar": 0.412
+            },
+            "votes": 4084680,
+            "eevp": 91,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-14T12:55:04Z"
           }
         ]
       },
@@ -6332,7 +6352,7 @@
               "harveyj": 0,
               "ehrnstromj": 0
             },
-            "last_updated": "2020-11-11T16:57:43Z",
+            "last_updated": "2020-11-14T12:55:04Z",
             "leader_margin_value": 12.542,
             "leader_margin_display": "R+13",
             "leader_margin_name_display": "Van Drew +13",
@@ -6382,358 +6402,11 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": true,
-            "additional_precincts_reported": true,
-            "has_eevp": true,
-            "first_precincts_reported": false,
-            "first_votes_reported": false,
-            "candidate_took_the_lead": false,
-            "candidate_took_the_lead_first_alignment": false,
-            "candidate_took_the_lead_final_alignment": false,
-            "candidates_tied": false,
-            "precinct_percentage_points_grew_by_more_than_2_percent": false,
-            "precinct_percentage_points_grew_by_more_than_5_percent": false,
-            "eevp_grew_by_more_than_2_percent": false,
-            "eevp_grew_by_more_than_5_percent": false,
-            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
-            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
-            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
-            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
-            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
-            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
-            "precinct_percentage_reporting_passes_80": false,
-            "precinct_percentage_reporting_passes_90": false,
-            "precinct_percentage_reporting_reaches_100": false,
-            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
-            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
-            "first_votes_for_some_county": false,
-            "candidate_wins_some_county": true,
-            "additional_votes_for_at_least_one_county": true,
-            "first_votes_for_only_one_county": false
+            "additional_votes_reported": false,
+            "additional_precincts_reported": false,
+            "has_eevp": true
           },
-          "details_about_changes": {
-            "num_additional_eevp": 0,
-            "prev_eevp": 91,
-            "num_additional_votes": 531,
-            "prev_votes": 339579,
-            "num_additional_precincts": 1,
-            "prev_precincts": 480,
-            "num_additional_delegates_allocated": null,
-            "num_additional_precinct_percentage_points": 0.2,
-            "prev_precinct_percentage_points": 90.7,
-            "lead_margin_change_votes": 230,
-            "lead_margin_change_percentage_points": 0.10000000000000142,
-            "previous_leading_candidate": {
-              "candidate_id": "van-drew-19998-31-h",
-              "candidate_key": "van_drewj",
-              "first_name": "Jeff",
-              "last_name": "Van Drew",
-              "order": 2,
-              "name_display": "Jeff Van Drew",
-              "party_id": "republican",
-              "incumbent": true,
-              "runoff": false,
-              "winner": true,
-              "votes": 176845,
-              "percent": 52.1,
-              "percent_display": "52.1",
-              "electoral_votes": 0,
-              "absentee_votes": 125197,
-              "absentee_percent": 50.8,
-              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/van-drew-19998-31-h.png",
-              "has_image": false,
-              "link": ""
-            },
-            "previous_second_candidate": {
-              "candidate_id": "kennedy-20073832-31-h",
-              "candidate_key": "kennedya",
-              "first_name": "Amy",
-              "last_name": "Kennedy",
-              "order": 1,
-              "name_display": "Amy Kennedy",
-              "party_id": "democrat",
-              "incumbent": false,
-              "runoff": false,
-              "winner": false,
-              "votes": 156748,
-              "percent": 46.2,
-              "percent_display": "46.2",
-              "electoral_votes": 0,
-              "absentee_votes": 117989,
-              "absentee_percent": 47.8,
-              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/kennedy-20073832-31-h.png",
-              "has_image": false,
-              "link": ""
-            },
-            "num_additional_votes_and_percentage_points_by_candidate": [
-              {
-                "candidate_id": "van-drew-19998-31-h",
-                "num_additional_votes": 378,
-                "prev_votes": 176845,
-                "num_additional_delegates": null,
-                "num_additional_final_alignment": null,
-                "num_additional_percentage_points": 0,
-                "prev_percent": 52.1
-              },
-              {
-                "candidate_id": "kennedy-20073832-31-h",
-                "num_additional_votes": 148,
-                "prev_votes": 156748,
-                "num_additional_delegates": null,
-                "num_additional_final_alignment": null,
-                "num_additional_percentage_points": -0.1,
-                "prev_percent": 46.2
-              },
-              {
-                "candidate_id": "harvey-20074099-31-h",
-                "num_additional_votes": 2,
-                "prev_votes": 3404,
-                "num_additional_delegates": null,
-                "num_additional_final_alignment": null,
-                "num_additional_percentage_points": 0,
-                "prev_percent": 1
-              },
-              {
-                "candidate_id": "ehrnstrom-20074098-31-h",
-                "num_additional_votes": 3,
-                "prev_votes": 2582,
-                "num_additional_delegates": null,
-                "num_additional_final_alignment": null,
-                "num_additional_percentage_points": 0,
-                "prev_percent": 0.8
-              }
-            ],
-            "counties_with_first_results_of_night": [],
-            "counties_won_by_candidates": [
-              "34007"
-            ],
-            "change_by_county": [
-              {
-                "name": "Atlantic",
-                "fips": "34001",
-                "num_additional_votes": 0,
-                "prev_votes": 129013,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 151,
-                "prev_eevp": 95,
-                "candidate_changes": {
-                  "van_drewj": {
-                    "prev_votes": 62024,
-                    "num_additional_votes": 0
-                  },
-                  "kennedya": {
-                    "prev_votes": 65017,
-                    "num_additional_votes": 0
-                  },
-                  "harveyj": {
-                    "prev_votes": 1277,
-                    "num_additional_votes": 0
-                  },
-                  "ehrnstromj": {
-                    "prev_votes": 695,
-                    "num_additional_votes": 0
-                  }
-                }
-              },
-              {
-                "name": "Burlington",
-                "fips": "34005",
-                "num_additional_votes": 0,
-                "prev_votes": 1196,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 2,
-                "prev_eevp": 94,
-                "candidate_changes": {
-                  "van_drewj": {
-                    "prev_votes": 806,
-                    "num_additional_votes": 0
-                  },
-                  "kennedya": {
-                    "prev_votes": 365,
-                    "num_additional_votes": 0
-                  },
-                  "ehrnstromj": {
-                    "prev_votes": 15,
-                    "num_additional_votes": 0
-                  },
-                  "harveyj": {
-                    "prev_votes": 10,
-                    "num_additional_votes": 0
-                  }
-                }
-              },
-              {
-                "name": "Camden",
-                "fips": "34007",
-                "num_additional_votes": 531,
-                "prev_votes": 5310,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 8,
-                "prev_precincts": 8,
-                "prev_eevp": 89,
-                "candidate_changes": {
-                  "van_drewj": {
-                    "prev_votes": 2923,
-                    "num_additional_votes": 378
-                  },
-                  "kennedya": {
-                    "prev_votes": 2301,
-                    "num_additional_votes": 148
-                  },
-                  "ehrnstromj": {
-                    "prev_votes": 57,
-                    "num_additional_votes": 3
-                  },
-                  "harveyj": {
-                    "prev_votes": 29,
-                    "num_additional_votes": 2
-                  }
-                }
-              },
-              {
-                "name": "Cape May",
-                "fips": "34009",
-                "num_additional_votes": 0,
-                "prev_votes": 56291,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 127,
-                "prev_eevp": 100,
-                "candidate_changes": {
-                  "van_drewj": {
-                    "prev_votes": 34198,
-                    "num_additional_votes": 0
-                  },
-                  "kennedya": {
-                    "prev_votes": 21547,
-                    "num_additional_votes": 0
-                  },
-                  "ehrnstromj": {
-                    "prev_votes": 333,
-                    "num_additional_votes": 0
-                  },
-                  "harveyj": {
-                    "prev_votes": 213,
-                    "num_additional_votes": 0
-                  }
-                }
-              },
-              {
-                "name": "Cumberland",
-                "fips": "34011",
-                "num_additional_votes": 0,
-                "prev_votes": 39556,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 92,
-                "prev_eevp": 63,
-                "candidate_changes": {
-                  "van_drewj": {
-                    "prev_votes": 17384,
-                    "num_additional_votes": 0
-                  },
-                  "kennedya": {
-                    "prev_votes": 21431,
-                    "num_additional_votes": 0
-                  },
-                  "harveyj": {
-                    "prev_votes": 547,
-                    "num_additional_votes": 0
-                  },
-                  "ehrnstromj": {
-                    "prev_votes": 194,
-                    "num_additional_votes": 0
-                  }
-                }
-              },
-              {
-                "name": "Gloucester",
-                "fips": "34015",
-                "num_additional_votes": 0,
-                "prev_votes": 51986,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 71,
-                "prev_eevp": 100,
-                "candidate_changes": {
-                  "van_drewj": {
-                    "prev_votes": 27104,
-                    "num_additional_votes": 0
-                  },
-                  "kennedya": {
-                    "prev_votes": 23678,
-                    "num_additional_votes": 0
-                  },
-                  "harveyj": {
-                    "prev_votes": 623,
-                    "num_additional_votes": 0
-                  },
-                  "ehrnstromj": {
-                    "prev_votes": 581,
-                    "num_additional_votes": 0
-                  }
-                }
-              },
-              {
-                "name": "Ocean",
-                "fips": "34029",
-                "num_additional_votes": 0,
-                "prev_votes": 24677,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 33,
-                "prev_eevp": 96,
-                "candidate_changes": {
-                  "van_drewj": {
-                    "prev_votes": 15159,
-                    "num_additional_votes": 0
-                  },
-                  "kennedya": {
-                    "prev_votes": 9119,
-                    "num_additional_votes": 0
-                  },
-                  "ehrnstromj": {
-                    "prev_votes": 219,
-                    "num_additional_votes": 0
-                  },
-                  "harveyj": {
-                    "prev_votes": 180,
-                    "num_additional_votes": 0
-                  }
-                }
-              },
-              {
-                "name": "Salem",
-                "fips": "34033",
-                "num_additional_votes": 0,
-                "prev_votes": 31550,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 45,
-                "prev_eevp": 92,
-                "candidate_changes": {
-                  "van_drewj": {
-                    "prev_votes": 17247,
-                    "num_additional_votes": 0
-                  },
-                  "kennedya": {
-                    "prev_votes": 13290,
-                    "num_additional_votes": 0
-                  },
-                  "harveyj": {
-                    "prev_votes": 525,
-                    "num_additional_votes": 0
-                  },
-                  "ehrnstromj": {
-                    "prev_votes": 488,
-                    "num_additional_votes": 0
-                  }
-                }
-              }
-            ]
-          }
+          "details_about_changes": {}
         },
         "winnerCalledTimestamp": 1604682704590,
         "timeseries": [
@@ -15291,7 +14964,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 78190742,
+            "votes": 78190978,
             "percent": "50.9",
             "change": 0,
             "flip_count": 0,
@@ -15308,7 +14981,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 72770945,
+            "votes": 72771219,
             "percent": "47.3",
             "change": 0,
             "flip_count": 0,
@@ -15325,7 +14998,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2771273,
+            "votes": 2771288,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -15357,7 +15030,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 41529136,
+            "votes": 41529389,
             "percent": "47.1",
             "change": 1,
             "flip_count": 2,
@@ -15374,7 +15047,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 43716441,
+            "votes": 43716690,
             "percent": "49.6",
             "change": -1,
             "flip_count": 1,
@@ -15391,7 +15064,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2873470,
+            "votes": 2873494,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -29721,7 +29394,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2326242,
+          "votes": 2326495,
           "percent": 57,
           "percent_display": "57.0",
           "electoral_votes": 0,
@@ -29981,7 +29654,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2389348,
+          "votes": 2389584,
           "percent": 57.1,
           "percent_display": "57.1",
           "electoral_votes": 14,
@@ -31693,8 +31366,8 @@
     ]
   },
   "meta": {
-    "version": 17148,
+    "version": 17153,
     "track": "2020-11-03",
-    "timestamp": "2020-11-14T12:52:05.052Z"
+    "timestamp": "2020-11-14T12:57:46.597Z"
   }
 }
