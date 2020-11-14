@@ -1208,7 +1208,7 @@
               "la_rivag": 521,
               "write-ins": 0
             },
-            "last_updated": "2020-11-14T15:44:20Z",
+            "last_updated": "2020-11-14T16:13:11Z",
             "leader_margin_value": 11.06886,
             "leader_margin_display": "D+11",
             "leader_margin_name_display": "Biden +11",
@@ -1728,7 +1728,7 @@
               "pierceb": 0,
               "mchughj": 0
             },
-            "last_updated": "2020-11-14T00:18:47Z",
+            "last_updated": "2020-11-14T16:13:27Z",
             "leader_margin_value": 53.30043,
             "leader_margin_display": "R+53",
             "leader_margin_name_display": "Trump +53",
@@ -3871,7 +3871,7 @@
               "westonk": 72801,
               "lathamr": 4026
             },
-            "last_updated": "2020-11-14T15:44:24Z",
+            "last_updated": "2020-11-14T16:13:14Z",
             "leader_margin_value": 34.4548,
             "leader_margin_display": "D+34",
             "leader_margin_name_display": "Weston +34",
@@ -4046,7 +4046,7 @@
               "westonk": 0,
               "lathamr": 0
             },
-            "last_updated": "2020-11-14T00:18:47Z",
+            "last_updated": "2020-11-14T16:13:27Z",
             "leader_margin_value": 53.48387,
             "leader_margin_display": "R+53",
             "leader_margin_name_display": "Stewart +53",
@@ -4901,7 +4901,7 @@
               "cummingsd": 1327,
               "mcneillt": 1234
             },
-            "last_updated": "2020-11-14T15:44:23Z",
+            "last_updated": "2020-11-14T16:13:14Z",
             "leader_margin_value": 12.57191,
             "leader_margin_display": "R+13",
             "leader_margin_name_display": "Curtis +13",
@@ -5751,7 +5751,7 @@
               "molnarj": 9189,
               "broderickj": 5946
             },
-            "last_updated": "2020-11-14T15:44:24Z",
+            "last_updated": "2020-11-14T16:13:14Z",
             "leader_margin_value": 9.04392,
             "leader_margin_display": "D+9",
             "leader_margin_name_display": "McAdams +9",
@@ -6343,8 +6343,8 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1406809,
-        "absentee_votes": 680168,
+        "votes": 1420230,
+        "absentee_votes": 679835,
         "absentee_counties": 6,
         "absentee_count_progress": "unknown",
         "absentee_outstanding": null,
@@ -6356,7 +6356,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 2173,
+        "precincts_reporting": 2174,
         "precincts_total": 2187,
         "reporting_display": "99% reporting",
         "reporting_value": "99%",
@@ -6368,7 +6368,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-13T15:21:03Z",
+        "last_updated": "2020-11-14T16:13:27Z",
         "candidates": [
           {
             "candidate_id": "cox-20073827-45-g",
@@ -6381,12 +6381,12 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 895076,
+            "votes": 903016,
             "percent": 63.6,
             "percent_display": "63.6",
             "electoral_votes": 0,
             "absentee_votes": 371608,
-            "absentee_percent": 54.6,
+            "absentee_percent": 54.7,
             "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/cox-20073827-45-g.png",
             "has_image": false,
             "link": ""
@@ -6402,7 +6402,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 433415,
+            "votes": 438042,
             "percent": 30.8,
             "percent_display": "30.8",
             "electoral_votes": 0,
@@ -6423,7 +6423,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 49237,
+            "votes": 50161,
             "percent": 3.5,
             "percent_display": "3.5",
             "electoral_votes": 0,
@@ -6444,7 +6444,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 24977,
+            "votes": 25279,
             "percent": 1.8,
             "percent_display": "1.8",
             "electoral_votes": 0,
@@ -6465,20 +6465,20 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 4104,
+            "votes": 3732,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
-            "absentee_votes": 4065,
-            "absentee_percent": 0.6,
+            "absentee_votes": 3732,
+            "absentee_percent": 0.5,
             "img_url": null,
             "has_image": false,
             "link": ""
           }
         ],
         "has_incumbent": false,
-        "leader_margin_value": 32.81618,
-        "leader_margin_votes": 461661,
+        "leader_margin_value": 32.73935,
+        "leader_margin_votes": 464974,
         "leader_margin_display": "R+33",
         "leader_margin_name_display": "Cox +33",
         "leader_party_id": "republican",
@@ -7139,15 +7139,17 @@
               "coxs": 265560,
               "petersonc": 237746,
               "cottamd": 15938,
-              "duerdeng": 6114
+              "duerdeng": 6114,
+              "write-ins": 0
             },
             "results_absentee": {
               "coxs": 248010,
               "petersonc": 228402,
               "cottamd": 13945,
-              "duerdeng": 5396
+              "duerdeng": 5396,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-14T15:44:21Z",
+            "last_updated": "2020-11-14T16:13:06Z",
             "leader_margin_value": 5.29429,
             "leader_margin_display": "R+5",
             "leader_margin_name_display": "Cox +5",
@@ -7495,7 +7497,7 @@
             "name": "Wayne",
             "votes": 1537,
             "absentee_votes": 0,
-            "reporting": 6,
+            "reporting": 7,
             "precincts": 7,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "eevp": 92,
@@ -7513,15 +7515,17 @@
               "coxs": 1115,
               "petersonc": 321,
               "cottamd": 55,
-              "duerdeng": 46
+              "duerdeng": 46,
+              "write-ins": 0
             },
             "results_absentee": {
               "coxs": 0,
               "petersonc": 0,
               "cottamd": 0,
-              "duerdeng": 0
+              "duerdeng": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-14T00:18:46Z",
+            "last_updated": "2020-11-14T16:13:27Z",
             "leader_margin_value": 51.65908,
             "leader_margin_display": "R+52",
             "leader_margin_name_display": "Cox +52",
@@ -8673,6 +8677,19 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-13T00:00:49Z"
+          },
+          {
+            "vote_shares": {
+              "coxs": 0.636,
+              "petersonc": 0.308,
+              "cottamd": 0.035,
+              "duerdeng": 0.018,
+              "write-ins": 0.003
+            },
+            "votes": 1420230,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-14T16:13:12Z"
           }
         ]
       },
@@ -41102,12 +41119,12 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 895076,
+          "votes": 903016,
           "percent": 63.6,
           "percent_display": "63.6",
           "electoral_votes": 0,
           "absentee_votes": 371608,
-          "absentee_percent": 54.6,
+          "absentee_percent": 54.7,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/cox-20073827-45-g.png",
           "has_image": false,
           "link": ""
@@ -45302,8 +45319,8 @@
     ]
   },
   "meta": {
-    "version": 17179,
+    "version": 17186,
     "track": "2020-11-03",
-    "timestamp": "2020-11-14T15:59:26.058Z"
+    "timestamp": "2020-11-14T16:16:46.303Z"
   }
 }
