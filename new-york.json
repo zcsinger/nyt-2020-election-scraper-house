@@ -28918,7 +28918,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 122996,
+        "votes": 123598,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -28944,7 +28944,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-11T17:28:26.280Z",
+        "last_updated": "2020-11-14T20:56:59Z",
         "candidates": [
           {
             "candidate_id": "tedisco-57042",
@@ -28957,7 +28957,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 84262,
+            "votes": 84659,
             "percent": 68.5,
             "percent_display": "68.5",
             "electoral_votes": 0,
@@ -28978,7 +28978,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 38734,
+            "votes": 38939,
             "percent": 31.5,
             "percent_display": "31.5",
             "electoral_votes": 0,
@@ -62517,8 +62517,8 @@
     ]
   },
   "meta": {
-    "version": 17244,
+    "version": 17258,
     "track": "2020-11-03",
-    "timestamp": "2020-11-14T20:57:46.965Z"
+    "timestamp": "2020-11-14T21:06:26.539Z"
   }
 }
