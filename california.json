@@ -45212,7 +45212,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16185194,
+        "votes": 16224090,
         "absentee_votes": 984314,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -45225,7 +45225,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19505,
+        "precincts_reporting": 19543,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -45237,7 +45237,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-15T01:57:48.030Z",
+        "last_updated": "2020-11-15T02:22:02.020Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -45249,7 +45249,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8259636,
+            "votes": 8278955,
             "percent": 51,
             "percent_display": "51.0",
             "electoral_votes": 0,
@@ -45269,7 +45269,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7925558,
+            "votes": 7945135,
             "percent": 49,
             "percent_display": "49.0",
             "electoral_votes": 0,
@@ -46213,9 +46213,9 @@
           {
             "fips": "06065",
             "name": "Riverside",
-            "votes": 808541,
+            "votes": 847437,
             "absentee_votes": 0,
-            "reporting": 818,
+            "reporting": 856,
             "precincts": 864,
             "absentee_method": null,
             "eevp": null,
@@ -46230,14 +46230,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 390972,
-              "no": 417569
+              "yes": 410291,
+              "no": 437146
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.97Z"
+            "last_updated": "2020-11-15T02:22:02.020Z"
           },
           {
             "fips": "06067",
@@ -77767,8 +77767,8 @@
     ]
   },
   "meta": {
-    "version": 17457,
+    "version": 17458,
     "track": "2020-11-03",
-    "timestamp": "2020-11-15T02:08:28.045Z"
+    "timestamp": "2020-11-15T02:23:48.724Z"
   }
 }
