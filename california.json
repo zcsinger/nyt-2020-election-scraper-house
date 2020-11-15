@@ -30490,7 +30490,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 389157,
+        "votes": 395290,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -30503,10 +30503,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 992,
+        "precincts_reporting": 1001,
         "precincts_total": 1153,
-        "reporting_display": "86% reporting",
-        "reporting_value": "86%",
+        "reporting_display": "87% reporting",
+        "reporting_value": "87%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -30516,7 +30516,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-14T21:21:57.397Z",
+        "last_updated": "2020-11-15T02:29:07.750Z",
         "candidates": [
           {
             "candidate_id": "bogh-13541",
@@ -30529,9 +30529,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 203970,
-            "percent": 52.4,
-            "percent_display": "52.4",
+            "votes": 207561,
+            "percent": 52.5,
+            "percent_display": "52.5",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -30550,9 +30550,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 185187,
-            "percent": 47.6,
-            "percent_display": "47.6",
+            "votes": 187729,
+            "percent": 47.5,
+            "percent_display": "47.5",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -39841,7 +39841,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16244875,
+        "votes": 16283590,
         "absentee_votes": 985738,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -39854,7 +39854,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19505,
+        "precincts_reporting": 19543,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -39866,7 +39866,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-15T01:59:49.283Z",
+        "last_updated": "2020-11-15T02:23:02.900Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -39878,7 +39878,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9272126,
+            "votes": 9297477,
             "percent": 57.1,
             "percent_display": "57.1",
             "electoral_votes": 0,
@@ -39898,7 +39898,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6972749,
+            "votes": 6986113,
             "percent": 42.9,
             "percent_display": "42.9",
             "electoral_votes": 0,
@@ -40842,9 +40842,9 @@
           {
             "fips": "06065",
             "name": "Riverside",
-            "votes": 806837,
+            "votes": 845552,
             "absentee_votes": 0,
-            "reporting": 818,
+            "reporting": 856,
             "precincts": 864,
             "absentee_method": null,
             "eevp": null,
@@ -40859,14 +40859,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 525303,
-              "yes": 281534
+              "no": 550654,
+              "yes": 294898
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-15T02:23:02.900Z"
           },
           {
             "fips": "06067",
@@ -41632,7 +41632,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16418657,
+        "votes": 16457732,
         "absentee_votes": 993320,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -41645,7 +41645,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19505,
+        "precincts_reporting": 19543,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -41657,7 +41657,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-15T01:59:49.283Z",
+        "last_updated": "2020-11-15T02:24:03.733Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -41669,7 +41669,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9623647,
+            "votes": 9643710,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -41689,7 +41689,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6795010,
+            "votes": 6814022,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -42633,9 +42633,9 @@
           {
             "fips": "06065",
             "name": "Riverside",
-            "votes": 812332,
+            "votes": 851407,
             "absentee_votes": 0,
-            "reporting": 818,
+            "reporting": 856,
             "precincts": 864,
             "absentee_method": null,
             "eevp": null,
@@ -42650,14 +42650,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 404833,
-              "no": 407499
+              "yes": 424896,
+              "no": 426511
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-15T02:24:03.733Z"
           },
           {
             "fips": "06067",
@@ -43423,7 +43423,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 15978172,
+        "votes": 16017270,
         "absentee_votes": 975963,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -43436,7 +43436,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19505,
+        "precincts_reporting": 19543,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -43448,7 +43448,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-15T02:02:51.627Z",
+        "last_updated": "2020-11-15T02:28:07.010Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -43460,7 +43460,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8998586,
+            "votes": 9023107,
             "percent": 56.3,
             "percent_display": "56.3",
             "electoral_votes": 0,
@@ -43480,7 +43480,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6979586,
+            "votes": 6994163,
             "percent": 43.7,
             "percent_display": "43.7",
             "electoral_votes": 0,
@@ -44424,9 +44424,9 @@
           {
             "fips": "06065",
             "name": "Riverside",
-            "votes": 799755,
+            "votes": 838853,
             "absentee_votes": 0,
-            "reporting": 818,
+            "reporting": 856,
             "precincts": 864,
             "absentee_method": null,
             "eevp": null,
@@ -44441,14 +44441,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 502336,
-              "yes": 297419
+              "no": 526857,
+              "yes": 311996
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-15T02:28:07.010Z"
           },
           {
             "fips": "06067",
@@ -47001,7 +47001,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16461639,
+        "votes": 16500728,
         "absentee_votes": 998550,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -47014,7 +47014,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19505,
+        "precincts_reporting": 19543,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -47026,7 +47026,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-15T01:57:48.030Z",
+        "last_updated": "2020-11-15T02:23:02.900Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -47038,7 +47038,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8556162,
+            "votes": 8579025,
             "percent": 52,
             "percent_display": "52.0",
             "electoral_votes": 0,
@@ -47058,7 +47058,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7905477,
+            "votes": 7921703,
             "percent": 48,
             "percent_display": "48.0",
             "electoral_votes": 0,
@@ -48002,9 +48002,9 @@
           {
             "fips": "06065",
             "name": "Riverside",
-            "votes": 813897,
+            "votes": 852986,
             "absentee_votes": 0,
-            "reporting": 818,
+            "reporting": 856,
             "precincts": 864,
             "absentee_method": null,
             "eevp": null,
@@ -48019,14 +48019,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 489311,
-              "yes": 324586
+              "no": 512174,
+              "yes": 340812
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-15T02:23:02.900Z"
           },
           {
             "fips": "06067",
@@ -48792,7 +48792,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16454707,
+        "votes": 16494010,
         "absentee_votes": 994775,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -48805,7 +48805,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19505,
+        "precincts_reporting": 19543,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -48817,7 +48817,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-15T01:59:49.283Z",
+        "last_updated": "2020-11-15T02:25:04.520Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -48829,7 +48829,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9203404,
+            "votes": 9228301,
             "percent": 55.9,
             "percent_display": "55.9",
             "electoral_votes": 0,
@@ -48849,7 +48849,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7251303,
+            "votes": 7265709,
             "percent": 44.1,
             "percent_display": "44.1",
             "electoral_votes": 0,
@@ -49793,9 +49793,9 @@
           {
             "fips": "06065",
             "name": "Riverside",
-            "votes": 814270,
+            "votes": 853573,
             "absentee_votes": 0,
-            "reporting": 818,
+            "reporting": 856,
             "precincts": 864,
             "absentee_method": null,
             "eevp": null,
@@ -49810,14 +49810,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 518419,
-              "yes": 295851
+              "no": 543316,
+              "yes": 310257
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-15T02:25:04.520Z"
           },
           {
             "fips": "06067",
@@ -50581,7 +50581,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16099564,
+        "votes": 16138576,
         "absentee_votes": 978441,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -50594,7 +50594,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19505,
+        "precincts_reporting": 19543,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -50606,7 +50606,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-15T02:00:50.040Z",
+        "last_updated": "2020-11-15T02:25:04.520Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -50618,7 +50618,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8220187,
+            "votes": 8239145,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -50638,7 +50638,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7879377,
+            "votes": 7899431,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -51582,9 +51582,9 @@
           {
             "fips": "06065",
             "name": "Riverside",
-            "votes": 805206,
+            "votes": 844218,
             "absentee_votes": 0,
-            "reporting": 818,
+            "reporting": 856,
             "precincts": 864,
             "absentee_method": null,
             "eevp": null,
@@ -51599,14 +51599,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 397798,
-              "no": 407408
+              "yes": 416756,
+              "no": 427462
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-15T02:25:04.520Z"
           },
           {
             "fips": "06067",
@@ -52370,7 +52370,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16057463,
+        "votes": 16096561,
         "absentee_votes": 975847,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -52383,7 +52383,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19505,
+        "precincts_reporting": 19543,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -52395,7 +52395,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-15T02:00:50.040Z",
+        "last_updated": "2020-11-15T02:26:05.347Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -52407,7 +52407,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9930257,
+            "votes": 9951882,
             "percent": 61.8,
             "percent_display": "61.8",
             "electoral_votes": 0,
@@ -52427,7 +52427,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6127206,
+            "votes": 6144679,
             "percent": 38.2,
             "percent_display": "38.2",
             "electoral_votes": 0,
@@ -53371,9 +53371,9 @@
           {
             "fips": "06065",
             "name": "Riverside",
-            "votes": 805893,
+            "votes": 844991,
             "absentee_votes": 0,
-            "reporting": 818,
+            "reporting": 856,
             "precincts": 864,
             "absentee_method": null,
             "eevp": null,
@@ -53388,14 +53388,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 446880,
-              "yes": 359013
+              "no": 468505,
+              "yes": 376486
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-15T02:26:05.347Z"
           },
           {
             "fips": "06067",
@@ -54161,7 +54161,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16238299,
+        "votes": 16278129,
         "absentee_votes": 986242,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -54174,7 +54174,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19505,
+        "precincts_reporting": 19543,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -54186,7 +54186,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-15T02:01:50.817Z",
+        "last_updated": "2020-11-15T02:26:05.347Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -54198,7 +54198,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9713570,
+            "votes": 9739230,
             "percent": 59.8,
             "percent_display": "59.8",
             "electoral_votes": 0,
@@ -54218,7 +54218,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6524729,
+            "votes": 6538899,
             "percent": 40.2,
             "percent_display": "40.2",
             "electoral_votes": 0,
@@ -55162,9 +55162,9 @@
           {
             "fips": "06065",
             "name": "Riverside",
-            "votes": 811857,
+            "votes": 851687,
             "absentee_votes": 0,
-            "reporting": 818,
+            "reporting": 856,
             "precincts": 864,
             "absentee_method": null,
             "eevp": null,
@@ -55179,14 +55179,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 539144,
-              "yes": 272713
+              "no": 564804,
+              "yes": 286883
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-15T02:26:05.347Z"
           },
           {
             "fips": "06067",
@@ -55952,7 +55952,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16352122,
+        "votes": 16392217,
         "absentee_votes": 992295,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -55965,7 +55965,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19505,
+        "precincts_reporting": 19543,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -55977,7 +55977,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-15T02:01:50.817Z",
+        "last_updated": "2020-11-15T02:27:06.227Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -55989,7 +55989,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9581724,
+            "votes": 9607449,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -56009,7 +56009,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6770398,
+            "votes": 6784768,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -56953,9 +56953,9 @@
           {
             "fips": "06065",
             "name": "Riverside",
-            "votes": 815677,
+            "votes": 855772,
             "absentee_votes": 0,
-            "reporting": 818,
+            "reporting": 856,
             "precincts": 864,
             "absentee_method": null,
             "eevp": null,
@@ -56970,14 +56970,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 535699,
-              "no": 279978
+              "yes": 561424,
+              "no": 294348
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-15T02:27:06.227Z"
           },
           {
             "fips": "06067",
@@ -57741,7 +57741,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16216877,
+        "votes": 16256781,
         "absentee_votes": 984773,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -57754,7 +57754,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19505,
+        "precincts_reporting": 19543,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -57766,7 +57766,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-15T02:02:51.627Z",
+        "last_updated": "2020-11-15T02:27:06.227Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -57778,7 +57778,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10311154,
+            "votes": 10337168,
             "percent": 63.6,
             "percent_display": "63.6",
             "electoral_votes": 0,
@@ -57798,7 +57798,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 5905723,
+            "votes": 5919613,
             "percent": 36.4,
             "percent_display": "36.4",
             "electoral_votes": 0,
@@ -58742,9 +58742,9 @@
           {
             "fips": "06065",
             "name": "Riverside",
-            "votes": 814081,
+            "votes": 853985,
             "absentee_votes": 0,
-            "reporting": 818,
+            "reporting": 856,
             "precincts": 864,
             "absentee_method": null,
             "eevp": null,
@@ -58759,14 +58759,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 554523,
-              "yes": 259558
+              "no": 580537,
+              "yes": 273448
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-15T02:27:06.227Z"
           },
           {
             "fips": "06067",
@@ -59530,7 +59530,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16070766,
+        "votes": 16110263,
         "absentee_votes": 979988,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -59543,7 +59543,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19505,
+        "precincts_reporting": 19543,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -59555,7 +59555,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-15T02:02:51.627Z",
+        "last_updated": "2020-11-15T02:28:07.010Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -59567,7 +59567,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9019035,
+            "votes": 9041034,
             "percent": 56.1,
             "percent_display": "56.1",
             "electoral_votes": 0,
@@ -59587,7 +59587,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7051731,
+            "votes": 7069229,
             "percent": 43.9,
             "percent_display": "43.9",
             "electoral_votes": 0,
@@ -60531,9 +60531,9 @@
           {
             "fips": "06065",
             "name": "Riverside",
-            "votes": 805398,
+            "votes": 844895,
             "absentee_votes": 0,
-            "reporting": 818,
+            "reporting": 856,
             "precincts": 864,
             "absentee_method": null,
             "eevp": null,
@@ -60548,14 +60548,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 439085,
-              "no": 366313
+              "yes": 461084,
+              "no": 383811
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-15T02:28:07.010Z"
           },
           {
             "fips": "06067",
@@ -77767,8 +77767,8 @@
     ]
   },
   "meta": {
-    "version": 17458,
+    "version": 17465,
     "track": "2020-11-03",
-    "timestamp": "2020-11-15T02:23:48.724Z"
+    "timestamp": "2020-11-15T02:30:47.121Z"
   }
 }
