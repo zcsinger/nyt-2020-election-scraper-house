@@ -29775,10 +29775,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 714,
+        "precincts_reporting": 731,
         "precincts_total": 731,
-        "reporting_display": "98% reporting",
-        "reporting_value": "98%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -29788,7 +29788,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-14T21:21:55.123Z",
+        "last_updated": "2020-11-15T22:37:39.730Z",
         "candidates": [
           {
             "candidate_id": "glazer-12414",
@@ -33569,10 +33569,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 119,
+        "precincts_reporting": 226,
         "precincts_total": 226,
-        "reporting_display": "53% reporting",
-        "reporting_value": "53%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -33582,7 +33582,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-14T21:21:55.123Z",
+        "last_updated": "2020-11-15T22:37:39.730Z",
         "candidates": [
           {
             "candidate_id": "quirk-11950",
@@ -77887,8 +77887,8 @@
     ]
   },
   "meta": {
-    "version": 17673,
+    "version": 17677,
     "track": "2020-11-03",
-    "timestamp": "2020-11-15T21:19:10.626Z"
+    "timestamp": "2020-11-15T22:39:51.436Z"
   }
 }
