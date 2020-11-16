@@ -31,7 +31,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16874943,
+        "votes": 16909159,
         "electoral_votes": 55,
         "absentee_votes": 8420480,
         "absentee_counties": 32,
@@ -57,7 +57,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T15:47:34Z",
+        "last_updated": "2020-11-16T20:35:45Z",
         "candidates": [
           {
             "candidate_id": "biden-1036",
@@ -70,7 +70,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10761303,
+            "votes": 10786144,
             "percent": 63.8,
             "percent_display": "63.8",
             "electoral_votes": 55,
@@ -92,7 +92,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 5751655,
+            "votes": 5760221,
             "percent": 34.1,
             "percent_display": "34.1",
             "electoral_votes": 0,
@@ -114,7 +114,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 179447,
+            "votes": 179821,
             "percent": 1.1,
             "percent_display": "1.1",
             "electoral_votes": 0,
@@ -135,7 +135,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 77625,
+            "votes": 77796,
             "percent": 0.5,
             "percent_display": "0.5",
             "electoral_votes": 0,
@@ -156,7 +156,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 56702,
+            "votes": 56848,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -177,7 +177,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 48156,
+            "votes": 48274,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -210,8 +210,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 29.6869,
-        "leader_margin_votes": 5009648,
+        "leader_margin_value": 29.72308,
+        "leader_margin_votes": 5025923,
         "leader_margin_display": "D+30",
         "leader_margin_name_display": "Biden +30",
         "leader_party_id": "democrat",
@@ -2157,7 +2157,7 @@
           {
             "fips": "06085",
             "name": "Santa Clara",
-            "votes": 808509,
+            "votes": 842725,
             "absentee_votes": 0,
             "reporting": 596,
             "precincts": 596,
@@ -2174,12 +2174,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 587945,
-              "trumpd": 203648,
-              "jorgensenj": 8634,
-              "hawkinsh": 3829,
-              "de_la_fuenter": 2452,
-              "la_rivag": 2001
+              "bidenj": 612786,
+              "trumpd": 212214,
+              "jorgensenj": 9008,
+              "hawkinsh": 4000,
+              "de_la_fuenter": 2598,
+              "la_rivag": 2119
             },
             "results_absentee": {
               "bidenj": 0,
@@ -2189,12 +2189,12 @@
               "de_la_fuenter": 0,
               "la_rivag": 0
             },
-            "last_updated": "2020-11-16T15:48:09Z",
-            "leader_margin_value": 47.53157,
+            "last_updated": "2020-11-16T20:35:44Z",
+            "leader_margin_value": 47.53294,
             "leader_margin_display": "D+48",
             "leader_margin_name_display": "Biden +48",
             "leader_party_id": "democrat",
-            "margin2020": -47.53157,
+            "margin2020": -47.53294,
             "votes2016": 703709,
             "margin2016": -52.1,
             "votes2012": 643091,
@@ -2925,12 +2925,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from San Diego County.",
-            "timestamp": 1605494242977,
+            "sentence": "We just received more votes from Santa Clara County.",
+            "timestamp": 1605559024470,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from San Diego County.",
+            "generatedText": "We just received more votes from Santa Clara County.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -4789,6 +4789,16 @@
             "eevp": 98,
             "eevp_source": "edison",
             "timestamp": "2020-11-16T02:36:13Z"
+          },
+          {
+            "vote_shares": {
+              "bidenj": 0.638,
+              "trumpd": 0.341
+            },
+            "votes": 16909159,
+            "eevp": 98,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-16T20:35:45Z"
           }
         ]
       },
@@ -13291,7 +13301,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 286710,
+        "votes": 295562,
         "absentee_votes": 29394,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -13316,7 +13326,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-16T15:48:04Z",
+        "last_updated": "2020-11-16T20:36:11Z",
         "candidates": [
           {
             "candidate_id": "khanna-7547-5-h",
@@ -13329,9 +13339,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 204507,
-            "percent": 71.3,
-            "percent_display": "71.3",
+            "votes": 210889,
+            "percent": 71.4,
+            "percent_display": "71.4",
             "electoral_votes": 0,
             "absentee_votes": 22691,
             "absentee_percent": 77.2,
@@ -13350,9 +13360,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 82203,
-            "percent": 28.7,
-            "percent_display": "28.7",
+            "votes": 84673,
+            "percent": 28.6,
+            "percent_display": "28.6",
             "electoral_votes": 0,
             "absentee_votes": 6703,
             "absentee_percent": 22.8,
@@ -13362,8 +13372,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 42.65774,
-        "leader_margin_votes": 122304,
+        "leader_margin_value": 42.70373,
+        "leader_margin_votes": 126216,
         "leader_margin_display": "D+43",
         "leader_margin_name_display": "Khanna +43",
         "leader_party_id": "democrat",
@@ -13404,7 +13414,7 @@
           {
             "fips": "06085",
             "name": "Santa Clara",
-            "votes": 211182,
+            "votes": 220034,
             "absentee_votes": 0,
             "reporting": 159,
             "precincts": 159,
@@ -13421,15 +13431,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "khannar": 151067,
-              "tandonr": 60115
+              "khannar": 157449,
+              "tandonr": 62585
             },
             "results_absentee": {
               "khannar": 0,
               "tandonr": 0
             },
-            "last_updated": "2020-11-16T15:48:28Z",
-            "leader_margin_value": 43.06806,
+            "last_updated": "2020-11-16T20:36:09Z",
+            "leader_margin_value": 43.11334,
             "leader_margin_display": "D+43",
             "leader_margin_name_display": "Khanna +43",
             "leader_party_id": "democrat"
@@ -13695,6 +13705,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-13T01:20:52Z"
+          },
+          {
+            "vote_shares": {
+              "khannar": 0.714,
+              "tandonr": 0.286
+            },
+            "votes": 295562,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-16T20:36:11Z"
           }
         ]
       },
@@ -13728,7 +13748,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 332450,
+        "votes": 341359,
         "absentee_votes": 38115,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -13741,19 +13761,19 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 283,
+        "precincts_reporting": 289,
         "precincts_total": 325,
-        "reporting_display": "87% reporting",
-        "reporting_value": "87%",
-        "eevp": 87,
+        "reporting_display": "89% reporting",
+        "reporting_value": "89%",
+        "eevp": 89,
         "tot_exp_vote": 382000,
         "eevp_source": "edison",
-        "eevp_value": "87%",
-        "eevp_display": "87% reported",
+        "eevp_value": "89%",
+        "eevp_display": "89% reported",
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-16T15:48:05Z",
+        "last_updated": "2020-11-16T20:36:11Z",
         "candidates": [
           {
             "candidate_id": "eshoo-43-5-h",
@@ -13766,7 +13786,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 210220,
+            "votes": 215749,
             "percent": 63.2,
             "percent_display": "63.2",
             "electoral_votes": 0,
@@ -13787,7 +13807,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 122230,
+            "votes": 125610,
             "percent": 36.8,
             "percent_display": "36.8",
             "electoral_votes": 0,
@@ -13799,8 +13819,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 26.46714,
-        "leader_margin_votes": 87990,
+        "leader_margin_value": 26.40592,
+        "leader_margin_votes": 90139,
         "leader_margin_display": "D+26",
         "leader_margin_name_display": "Eshoo +26",
         "leader_party_id": "democrat",
@@ -13841,15 +13861,15 @@
           {
             "fips": "06085",
             "name": "Santa Clara",
-            "votes": 243928,
+            "votes": 252837,
             "absentee_votes": 0,
-            "reporting": 183,
+            "reporting": 189,
             "precincts": 212,
             "absentee_method": "Released as a separate subtotal as first report of the night",
-            "eevp": 86,
+            "eevp": 90,
             "tot_exp_vote": 282438,
-            "eevp_value": "86%",
-            "eevp_display": "86% reported",
+            "eevp_value": "90%",
+            "eevp_display": "90% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "some",
@@ -13858,15 +13878,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "eshooa": 150427,
-              "kumarr": 93501
+              "eshooa": 155956,
+              "kumarr": 96881
             },
             "results_absentee": {
               "eshooa": 0,
               "kumarr": 0
             },
-            "last_updated": "2020-11-16T15:48:29Z",
-            "leader_margin_value": 23.33721,
+            "last_updated": "2020-11-16T20:36:09Z",
+            "leader_margin_value": 23.36486,
             "leader_margin_display": "D+23",
             "leader_margin_name_display": "Eshoo +23",
             "leader_party_id": "democrat"
@@ -13920,12 +13940,12 @@
             "sentence_type": "race_won"
           },
           "eevp": {
-            "sentence": "87% of the estimated vote total has been reported.",
-            "timestamp": 1605310676996,
+            "sentence": "89% of the estimated vote total has been reported.",
+            "timestamp": 1605559024470,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "87% of the estimated vote total has been reported.",
+            "generatedText": "89% of the estimated vote total has been reported.",
             "sentence_type": "has_eevp"
           },
           "eevp_leadin": {
@@ -14285,6 +14305,16 @@
             "eevp": 87,
             "eevp_source": "edison",
             "timestamp": "2020-11-14T02:37:20Z"
+          },
+          {
+            "vote_shares": {
+              "eshooa": 0.632,
+              "kumarr": 0.368
+            },
+            "votes": 341359,
+            "eevp": 89,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-16T20:36:11Z"
           }
         ]
       },
@@ -30140,7 +30170,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 451175,
+        "votes": 457224,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -30166,7 +30196,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-14T21:21:55.123Z",
+        "last_updated": "2020-11-16T20:35:01.780Z",
         "candidates": [
           {
             "candidate_id": "becker-13523",
@@ -30179,7 +30209,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 340315,
+            "votes": 344928,
             "percent": 75.4,
             "percent_display": "75.4",
             "electoral_votes": 0,
@@ -30200,7 +30230,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 110860,
+            "votes": 112296,
             "percent": 24.6,
             "percent_display": "24.6",
             "electoral_votes": 0,
@@ -30246,7 +30276,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 369437,
+        "votes": 384229,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -30259,10 +30289,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 268,
+        "precincts_reporting": 325,
         "precincts_total": 325,
-        "reporting_display": "82% reporting",
-        "reporting_value": "82%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -30272,7 +30302,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-14T21:21:55.123Z",
+        "last_updated": "2020-11-16T20:35:01.780Z",
         "candidates": [
           {
             "candidate_id": "cortese-12524",
@@ -30285,9 +30315,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 201961,
-            "percent": 54.7,
-            "percent_display": "54.7",
+            "votes": 210426,
+            "percent": 54.8,
+            "percent_display": "54.8",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -30306,9 +30336,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 167476,
-            "percent": 45.3,
-            "percent_display": "45.3",
+            "votes": 173803,
+            "percent": 45.2,
+            "percent_display": "45.2",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -30352,7 +30382,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 483175,
+        "votes": 487026,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -30365,10 +30395,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 446,
+        "precincts_reporting": 465,
         "precincts_total": 475,
-        "reporting_display": "94% reporting",
-        "reporting_value": "94%",
+        "reporting_display": "98% reporting",
+        "reporting_value": "98%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -30378,7 +30408,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-14T21:21:55.123Z",
+        "last_updated": "2020-11-16T20:35:01.780Z",
         "candidates": [
           {
             "candidate_id": "laird-13532",
@@ -30391,7 +30421,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 313167,
+            "votes": 315805,
             "percent": 64.8,
             "percent_display": "64.8",
             "electoral_votes": 0,
@@ -30412,7 +30442,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 170008,
+            "votes": 171221,
             "percent": 35.2,
             "percent_display": "35.2",
             "electoral_votes": 0,
@@ -34019,7 +34049,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 207797,
+        "votes": 213781,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -34045,7 +34075,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-14T21:21:55.123Z",
+        "last_updated": "2020-11-16T20:35:01.780Z",
         "candidates": [
           {
             "candidate_id": "berman-12749",
@@ -34058,7 +34088,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 152575,
+            "votes": 157019,
             "percent": 73.4,
             "percent_display": "73.4",
             "electoral_votes": 0,
@@ -34079,7 +34109,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 55222,
+            "votes": 56762,
             "percent": 26.6,
             "percent_display": "26.6",
             "electoral_votes": 0,
@@ -34125,7 +34155,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 186039,
+        "votes": 191313,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -34138,10 +34168,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 123,
+        "precincts_reporting": 142,
         "precincts_total": 142,
-        "reporting_display": "87% reporting",
-        "reporting_value": "87%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -34151,7 +34181,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-14T21:21:55.123Z",
+        "last_updated": "2020-11-16T20:35:01.780Z",
         "candidates": [
           {
             "candidate_id": "lee-13560",
@@ -34164,7 +34194,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 131171,
+            "votes": 134880,
             "percent": 70.5,
             "percent_display": "70.5",
             "electoral_votes": 0,
@@ -34185,7 +34215,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 54868,
+            "votes": 56433,
             "percent": 29.5,
             "percent_display": "29.5",
             "electoral_votes": 0,
@@ -34337,7 +34367,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 166548,
+        "votes": 174240,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -34363,7 +34393,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-14T21:21:55.123Z",
+        "last_updated": "2020-11-16T20:35:01.780Z",
         "candidates": [
           {
             "candidate_id": "kalra-12776",
@@ -34376,9 +34406,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 121194,
-            "percent": 72.8,
-            "percent_display": "72.8",
+            "votes": 126640,
+            "percent": 72.7,
+            "percent_display": "72.7",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -34397,9 +34427,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 45354,
-            "percent": 27.2,
-            "percent_display": "27.2",
+            "votes": 47600,
+            "percent": 27.3,
+            "percent_display": "27.3",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -34443,7 +34473,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 222853,
+        "votes": 231058,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -34456,10 +34486,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 161,
+        "precincts_reporting": 190,
         "precincts_total": 190,
-        "reporting_display": "85% reporting",
-        "reporting_value": "85%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -34469,7 +34499,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-14T21:21:55.123Z",
+        "last_updated": "2020-11-16T20:35:01.780Z",
         "candidates": [
           {
             "candidate_id": "low-12433",
@@ -34482,9 +34512,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 159669,
-            "percent": 71.6,
-            "percent_display": "71.6",
+            "votes": 165600,
+            "percent": 71.7,
+            "percent_display": "71.7",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -34503,9 +34533,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 63184,
-            "percent": 28.4,
-            "percent_display": "28.4",
+            "votes": 65458,
+            "percent": 28.3,
+            "percent_display": "28.3",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -34549,7 +34579,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 248901,
+        "votes": 250830,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -34562,10 +34592,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 245,
+        "precincts_reporting": 263,
         "precincts_total": 263,
-        "reporting_display": "93% reporting",
-        "reporting_value": "93%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -34575,7 +34605,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-14T21:21:55.123Z",
+        "last_updated": "2020-11-16T20:35:01.780Z",
         "candidates": [
           {
             "candidate_id": "stone-11748",
@@ -34588,7 +34618,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 181935,
+            "votes": 183315,
             "percent": 73.1,
             "percent_display": "73.1",
             "electoral_votes": 0,
@@ -34609,7 +34639,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 66966,
+            "votes": 67515,
             "percent": 26.9,
             "percent_display": "26.9",
             "electoral_votes": 0,
@@ -34655,7 +34685,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 172297,
+        "votes": 174009,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -34668,10 +34698,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 193,
+        "precincts_reporting": 202,
         "precincts_total": 245,
-        "reporting_display": "79% reporting",
-        "reporting_value": "79%",
+        "reporting_display": "82% reporting",
+        "reporting_value": "82%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -34681,7 +34711,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-14T21:21:55.123Z",
+        "last_updated": "2020-11-16T20:35:01.780Z",
         "candidates": [
           {
             "candidate_id": "rivas-13198",
@@ -34694,9 +34724,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 119982,
-            "percent": 69.6,
-            "percent_display": "69.6",
+            "votes": 121258,
+            "percent": 69.7,
+            "percent_display": "69.7",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -34715,9 +34745,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 52315,
-            "percent": 30.4,
-            "percent_display": "30.4",
+            "votes": 52751,
+            "percent": 30.3,
+            "percent_display": "30.3",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -40021,7 +40051,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16290342,
+        "votes": 16321538,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -40034,7 +40064,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19557,
+        "precincts_reporting": 19566,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -40046,7 +40076,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T01:11:41.080Z",
+        "last_updated": "2020-11-16T20:35:01.780Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -40058,7 +40088,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9301882,
+            "votes": 9317017,
             "percent": 57.1,
             "percent_display": "57.1",
             "electoral_votes": 0,
@@ -40078,7 +40108,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6988460,
+            "votes": 7004521,
             "percent": 42.9,
             "percent_display": "42.9",
             "electoral_votes": 0,
@@ -41312,9 +41342,9 @@
           {
             "fips": "06085",
             "name": "Santa Clara",
-            "votes": 778343,
+            "votes": 809539,
             "absentee_votes": 0,
-            "reporting": 587,
+            "reporting": 596,
             "precincts": 596,
             "absentee_method": null,
             "eevp": null,
@@ -41329,14 +41359,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 411135,
-              "yes": 367208
+              "no": 426270,
+              "yes": 383269
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T20:35:01.780Z"
           },
           {
             "fips": "06087",
@@ -41812,7 +41842,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16464559,
+        "votes": 16496046,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -41825,7 +41855,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19557,
+        "precincts_reporting": 19566,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -41837,7 +41867,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T01:12:41.870Z",
+        "last_updated": "2020-11-16T20:35:01.780Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -41849,7 +41879,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9647101,
+            "votes": 9668581,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -41869,7 +41899,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6817458,
+            "votes": 6827465,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -43103,9 +43133,9 @@
           {
             "fips": "06085",
             "name": "Santa Clara",
-            "votes": 785475,
+            "votes": 816962,
             "absentee_votes": 0,
-            "reporting": 587,
+            "reporting": 596,
             "precincts": 596,
             "absentee_method": null,
             "eevp": null,
@@ -43120,14 +43150,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 505288,
-              "no": 280187
+              "yes": 526768,
+              "no": 290194
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T20:35:01.780Z"
           },
           {
             "fips": "06087",
@@ -43603,7 +43633,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16023854,
+        "votes": 16054048,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -43616,7 +43646,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19557,
+        "precincts_reporting": 19566,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -43628,7 +43658,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T01:16:45.110Z",
+        "last_updated": "2020-11-16T20:35:01.780Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -43640,7 +43670,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9027310,
+            "votes": 9040950,
             "percent": 56.3,
             "percent_display": "56.3",
             "electoral_votes": 0,
@@ -43660,7 +43690,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6996544,
+            "votes": 7013098,
             "percent": 43.7,
             "percent_display": "43.7",
             "electoral_votes": 0,
@@ -44894,9 +44924,9 @@
           {
             "fips": "06085",
             "name": "Santa Clara",
-            "votes": 766580,
+            "votes": 796774,
             "absentee_votes": 0,
-            "reporting": 587,
+            "reporting": 596,
             "precincts": 596,
             "absentee_method": null,
             "eevp": null,
@@ -44911,14 +44941,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 364093,
-              "yes": 402487
+              "no": 377733,
+              "yes": 419041
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T20:35:01.780Z"
           },
           {
             "fips": "06087",
@@ -45392,7 +45422,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16230751,
+        "votes": 16261692,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -45405,7 +45435,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19557,
+        "precincts_reporting": 19566,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -45417,7 +45447,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T01:10:40.247Z",
+        "last_updated": "2020-11-16T20:35:01.780Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -45429,7 +45459,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8282319,
+            "votes": 8301417,
             "percent": 51,
             "percent_display": "51.0",
             "electoral_votes": 0,
@@ -45449,7 +45479,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7948432,
+            "votes": 7960275,
             "percent": 49,
             "percent_display": "49.0",
             "electoral_votes": 0,
@@ -46683,9 +46713,9 @@
           {
             "fips": "06085",
             "name": "Santa Clara",
-            "votes": 774863,
+            "votes": 805804,
             "absentee_votes": 0,
-            "reporting": 587,
+            "reporting": 596,
             "precincts": 596,
             "absentee_method": null,
             "eevp": null,
@@ -46700,14 +46730,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 432098,
-              "no": 342765
+              "yes": 451196,
+              "no": 354608
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.97Z"
+            "last_updated": "2020-11-16T20:35:01.780Z"
           },
           {
             "fips": "06087",
@@ -47181,7 +47211,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16507549,
+        "votes": 16539219,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -47194,7 +47224,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19557,
+        "precincts_reporting": 19566,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -47206,7 +47236,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T01:11:41.080Z",
+        "last_updated": "2020-11-16T20:35:01.780Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -47218,7 +47248,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8582806,
+            "votes": 8594753,
             "percent": 52,
             "percent_display": "52.0",
             "electoral_votes": 0,
@@ -47238,7 +47268,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7924743,
+            "votes": 7944466,
             "percent": 48,
             "percent_display": "48.0",
             "electoral_votes": 0,
@@ -48472,9 +48502,9 @@
           {
             "fips": "06085",
             "name": "Santa Clara",
-            "votes": 788156,
+            "votes": 819826,
             "absentee_votes": 0,
-            "reporting": 587,
+            "reporting": 596,
             "precincts": 596,
             "absentee_method": null,
             "eevp": null,
@@ -48489,14 +48519,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 352177,
-              "yes": 435979
+              "no": 364124,
+              "yes": 455702
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T20:35:01.780Z"
           },
           {
             "fips": "06087",
@@ -48972,7 +49002,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16500856,
+        "votes": 16532333,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -48985,7 +49015,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19557,
+        "precincts_reporting": 19566,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -48997,7 +49027,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T01:12:41.870Z",
+        "last_updated": "2020-11-16T20:35:01.780Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -49009,9 +49039,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9232712,
-            "percent": 56,
-            "percent_display": "56.0",
+            "votes": 9247691,
+            "percent": 55.9,
+            "percent_display": "55.9",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -49029,9 +49059,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7268144,
-            "percent": 44,
-            "percent_display": "44.0",
+            "votes": 7284642,
+            "percent": 44.1,
+            "percent_display": "44.1",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -50263,9 +50293,9 @@
           {
             "fips": "06085",
             "name": "Santa Clara",
-            "votes": 786174,
+            "votes": 817651,
             "absentee_votes": 0,
-            "reporting": 587,
+            "reporting": 596,
             "precincts": 596,
             "absentee_method": null,
             "eevp": null,
@@ -50280,14 +50310,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 408890,
-              "yes": 377284
+              "no": 423869,
+              "yes": 393782
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T20:35:01.780Z"
           },
           {
             "fips": "06087",
@@ -50761,7 +50791,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16145215,
+        "votes": 16175717,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -50774,7 +50804,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19557,
+        "precincts_reporting": 19566,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -50786,7 +50816,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T01:13:42.627Z",
+        "last_updated": "2020-11-16T20:35:01.780Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -50798,7 +50828,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8242398,
+            "votes": 8260879,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -50818,7 +50848,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7902817,
+            "votes": 7914838,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -52052,9 +52082,9 @@
           {
             "fips": "06085",
             "name": "Santa Clara",
-            "votes": 768652,
+            "votes": 799154,
             "absentee_votes": 0,
-            "reporting": 587,
+            "reporting": 596,
             "precincts": 596,
             "absentee_method": null,
             "eevp": null,
@@ -52069,14 +52099,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 425880,
-              "no": 342772
+              "yes": 444361,
+              "no": 354793
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T20:35:01.780Z"
           },
           {
             "fips": "06087",
@@ -52550,7 +52580,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16103215,
+        "votes": 16133682,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -52563,7 +52593,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19557,
+        "precincts_reporting": 19566,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -52575,7 +52605,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T01:14:43.420Z",
+        "last_updated": "2020-11-16T20:35:01.780Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -52587,7 +52617,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9955475,
+            "votes": 9974605,
             "percent": 61.8,
             "percent_display": "61.8",
             "electoral_votes": 0,
@@ -52607,7 +52637,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6147740,
+            "votes": 6159077,
             "percent": 38.2,
             "percent_display": "38.2",
             "electoral_votes": 0,
@@ -53841,9 +53871,9 @@
           {
             "fips": "06085",
             "name": "Santa Clara",
-            "votes": 768665,
+            "votes": 799132,
             "absentee_votes": 0,
-            "reporting": 587,
+            "reporting": 596,
             "precincts": 596,
             "absentee_method": null,
             "eevp": null,
@@ -53858,14 +53888,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 489757,
-              "yes": 278908
+              "no": 508887,
+              "yes": 290245
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T20:35:01.780Z"
           },
           {
             "fips": "06087",
@@ -54341,7 +54371,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16284828,
+        "votes": 16315648,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -54354,7 +54384,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19557,
+        "precincts_reporting": 19566,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -54366,7 +54396,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T01:14:43.420Z",
+        "last_updated": "2020-11-16T20:35:01.780Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -54378,7 +54408,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9743648,
+            "votes": 9759452,
             "percent": 59.8,
             "percent_display": "59.8",
             "electoral_votes": 0,
@@ -54398,7 +54428,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6541180,
+            "votes": 6556196,
             "percent": 40.2,
             "percent_display": "40.2",
             "electoral_votes": 0,
@@ -55632,9 +55662,9 @@
           {
             "fips": "06085",
             "name": "Santa Clara",
-            "votes": 776506,
+            "votes": 807326,
             "absentee_votes": 0,
-            "reporting": 587,
+            "reporting": 596,
             "precincts": 596,
             "absentee_method": null,
             "eevp": null,
@@ -55649,14 +55679,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 444491,
-              "yes": 332015
+              "no": 460295,
+              "yes": 347031
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T20:35:01.780Z"
           },
           {
             "fips": "06087",
@@ -56132,7 +56162,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16398980,
+        "votes": 16430209,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -56145,7 +56175,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19557,
+        "precincts_reporting": 19566,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -56157,7 +56187,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T01:15:44.283Z",
+        "last_updated": "2020-11-16T20:35:01.780Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -56169,7 +56199,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9611751,
+            "votes": 9627853,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -56189,7 +56219,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6787229,
+            "votes": 6802356,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -57423,9 +57453,9 @@
           {
             "fips": "06085",
             "name": "Santa Clara",
-            "votes": 784463,
+            "votes": 815692,
             "absentee_votes": 0,
-            "reporting": 587,
+            "reporting": 596,
             "precincts": 596,
             "absentee_method": null,
             "eevp": null,
@@ -57440,14 +57470,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 417427,
-              "no": 367036
+              "yes": 433529,
+              "no": 382163
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T20:35:01.780Z"
           },
           {
             "fips": "06087",
@@ -57921,7 +57951,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16263481,
+        "votes": 16294079,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -57934,7 +57964,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19557,
+        "precincts_reporting": 19566,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -57946,7 +57976,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T01:15:44.283Z",
+        "last_updated": "2020-11-16T20:35:01.780Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -57958,7 +57988,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10341121,
+            "votes": 10357200,
             "percent": 63.6,
             "percent_display": "63.6",
             "electoral_votes": 0,
@@ -57978,7 +58008,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 5922360,
+            "votes": 5936879,
             "percent": 36.4,
             "percent_display": "36.4",
             "electoral_votes": 0,
@@ -59212,9 +59242,9 @@
           {
             "fips": "06085",
             "name": "Santa Clara",
-            "votes": 773758,
+            "votes": 804356,
             "absentee_votes": 0,
-            "reporting": 587,
+            "reporting": 596,
             "precincts": 596,
             "absentee_method": null,
             "eevp": null,
@@ -59229,14 +59259,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 472065,
-              "yes": 301693
+              "no": 488144,
+              "yes": 316212
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T20:35:01.780Z"
           },
           {
             "fips": "06087",
@@ -59710,7 +59740,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16116918,
+        "votes": 16147662,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -59723,7 +59753,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19557,
+        "precincts_reporting": 19566,
         "precincts_total": 20499,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -59735,7 +59765,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T01:16:45.110Z",
+        "last_updated": "2020-11-16T20:35:01.780Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -59747,7 +59777,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9044793,
+            "votes": 9064818,
             "percent": 56.1,
             "percent_display": "56.1",
             "electoral_votes": 0,
@@ -59767,7 +59797,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7072125,
+            "votes": 7082844,
             "percent": 43.9,
             "percent_display": "43.9",
             "electoral_votes": 0,
@@ -61001,9 +61031,9 @@
           {
             "fips": "06085",
             "name": "Santa Clara",
-            "votes": 773108,
+            "votes": 803852,
             "absentee_votes": 0,
-            "reporting": 587,
+            "reporting": 596,
             "precincts": 596,
             "absentee_method": null,
             "eevp": null,
@@ -61018,14 +61048,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 451351,
-              "no": 321757
+              "yes": 471376,
+              "no": 332476
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T20:35:01.780Z"
           },
           {
             "fips": "06087",
@@ -61483,7 +61513,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 218,
-            "votes": 74556327,
+            "votes": 74571618,
             "percent": "50.4",
             "change": -6,
             "flip_count": 3,
@@ -61500,7 +61530,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 203,
-            "votes": 71420992,
+            "votes": 71423462,
             "percent": "48.2",
             "change": 7,
             "flip_count": 10,
@@ -61545,7 +61575,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 78751474,
+            "votes": 78776315,
             "percent": "50.9",
             "change": 0,
             "flip_count": 0,
@@ -61562,7 +61592,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73150873,
+            "votes": 73159439,
             "percent": "47.3",
             "change": 0,
             "flip_count": 0,
@@ -61579,7 +61609,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2788650,
+            "votes": 2789459,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -73040,7 +73070,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 10761303,
+          "votes": 10786144,
           "percent": 63.8,
           "percent_display": "63.8",
           "electoral_votes": 55,
@@ -77947,8 +77977,8 @@
     ]
   },
   "meta": {
-    "version": 18130,
+    "version": 18136,
     "track": "2020-11-03",
-    "timestamp": "2020-11-16T20:27:53.209Z"
+    "timestamp": "2020-11-16T20:37:52.028Z"
   }
 }
