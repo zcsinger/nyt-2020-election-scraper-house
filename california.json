@@ -315,7 +315,7 @@
           {
             "fips": "06005",
             "name": "Amador",
-            "votes": 22282,
+            "votes": 22294,
             "absentee_votes": 17773,
             "reporting": 30,
             "precincts": 30,
@@ -332,8 +332,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 8147,
-              "trumpd": 13571,
+              "bidenj": 8150,
+              "trumpd": 13580,
               "jorgensenj": 349,
               "hawkinsh": 110,
               "de_la_fuenter": 64,
@@ -347,12 +347,12 @@
               "de_la_fuenter": 50,
               "la_rivag": 29
             },
-            "last_updated": "2020-11-16T15:47:40Z",
-            "leader_margin_value": 24.34252,
+            "last_updated": "2020-11-16T23:35:44Z",
+            "leader_margin_value": 24.35633,
             "leader_margin_display": "R+24",
             "leader_margin_name_display": "Trump +24",
             "leader_party_id": "republican",
-            "margin2020": 24.34252,
+            "margin2020": 24.35633,
             "votes2016": 17963,
             "margin2016": 24.9,
             "votes2012": 17649,
@@ -2203,15 +2203,15 @@
           {
             "fips": "06087",
             "name": "Santa Cruz",
-            "votes": 143095,
+            "votes": 143757,
             "absentee_votes": 0,
             "reporting": 164,
             "precincts": 168,
             "absentee_method": "Released as a separate subtotal as first report of the night",
-            "eevp": 97,
+            "eevp": 98,
             "tot_exp_vote": 146856,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
+            "eevp_value": "98%",
+            "eevp_display": "98% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "some",
@@ -2220,12 +2220,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 112975,
-              "trumpd": 26565,
-              "jorgensenj": 1676,
-              "hawkinsh": 1045,
-              "de_la_fuenter": 428,
-              "la_rivag": 406
+              "bidenj": 113487,
+              "trumpd": 26688,
+              "jorgensenj": 1688,
+              "hawkinsh": 1055,
+              "de_la_fuenter": 429,
+              "la_rivag": 410
             },
             "results_absentee": {
               "bidenj": 0,
@@ -2235,12 +2235,12 @@
               "de_la_fuenter": 0,
               "la_rivag": 0
             },
-            "last_updated": "2020-11-16T15:48:10Z",
-            "leader_margin_value": 60.38646,
+            "last_updated": "2020-11-16T23:35:43Z",
+            "leader_margin_value": 60.37897,
             "leader_margin_display": "D+60",
             "leader_margin_name_display": "Biden +60",
             "leader_party_id": "democrat",
-            "margin2020": -60.38646,
+            "margin2020": -60.37897,
             "votes2016": 130012,
             "margin2016": -56,
             "votes2012": 120095,
@@ -2617,46 +2617,44 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 5095,
-            "absentee_votes": 5095,
-            "reporting": 19,
+            "votes": 6252,
+            "absentee_votes": 5048,
+            "reporting": 24,
             "precincts": 25,
             "absentee_method": "None",
-            "eevp": 79,
+            "eevp": 96,
             "tot_exp_vote": 6482,
-            "eevp_value": "79%",
-            "eevp_display": "79% reported",
+            "eevp_value": "96%",
+            "eevp_display": "96% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
-            "absentee_count_progress": "some",
+            "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": 6488,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 2383,
-              "trumpd": 2513,
-              "jorgensenj": 86,
-              "write-ins": 47,
-              "hawkinsh": 30,
-              "de_la_fuenter": 23,
-              "la_rivag": 13
+              "bidenj": 2848,
+              "trumpd": 3185,
+              "jorgensenj": 117,
+              "hawkinsh": 50,
+              "de_la_fuenter": 27,
+              "la_rivag": 25
             },
             "results_absentee": {
               "bidenj": 2383,
               "trumpd": 2513,
               "jorgensenj": 86,
-              "write-ins": 47,
               "hawkinsh": 30,
               "de_la_fuenter": 23,
               "la_rivag": 13
             },
-            "last_updated": "2020-11-16T15:48:15Z",
-            "leader_margin_value": 2.55152,
-            "leader_margin_display": "R+3",
-            "leader_margin_name_display": "Trump +3",
+            "last_updated": "2020-11-16T23:35:43Z",
+            "leader_margin_value": 5.39028,
+            "leader_margin_display": "R+5",
+            "leader_margin_name_display": "Trump +5",
             "leader_party_id": "republican",
-            "margin2020": 2.55152,
+            "margin2020": 5.39028,
             "votes2016": 5784,
             "margin2016": 10.3,
             "votes2012": 5674,
@@ -5816,7 +5814,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 355263,
+        "votes": 355410,
         "absentee_votes": 41893,
         "absentee_counties": 2,
         "absentee_count_progress": "unknown",
@@ -5829,10 +5827,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 630,
+        "precincts_reporting": 634,
         "precincts_total": 756,
-        "reporting_display": "83% reporting",
-        "reporting_value": "83%",
+        "reporting_display": "84% reporting",
+        "reporting_value": "84%",
         "eevp": 90,
         "tot_exp_vote": 394000,
         "eevp_source": "edison",
@@ -5841,7 +5839,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-16T15:47:53Z",
+        "last_updated": "2020-11-16T23:35:13Z",
         "candidates": [
           {
             "candidate_id": "huffman-62063-5-h",
@@ -5854,7 +5852,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 272830,
+            "votes": 272909,
             "percent": 76.8,
             "percent_display": "76.8",
             "electoral_votes": 0,
@@ -5875,7 +5873,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 82433,
+            "votes": 82501,
             "percent": 23.2,
             "percent_display": "23.2",
             "electoral_votes": 0,
@@ -5887,8 +5885,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 53.59325,
-        "leader_margin_votes": 190397,
+        "leader_margin_value": 53.57418,
+        "leader_margin_votes": 190408,
         "leader_margin_display": "D+54",
         "leader_margin_name_display": "Huffman +54",
         "leader_party_id": "democrat",
@@ -6061,15 +6059,15 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 5979,
+            "votes": 6126,
             "absentee_votes": 4976,
-            "reporting": 20,
+            "reporting": 24,
             "precincts": 25,
             "absentee_method": "None",
-            "eevp": 94,
+            "eevp": 96,
             "tot_exp_vote": 6370,
-            "eevp_value": "94%",
-            "eevp_display": "94% reported",
+            "eevp_value": "96%",
+            "eevp_display": "96% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "unknown",
@@ -6078,17 +6076,17 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "huffmanj": 2939,
-              "mensingd": 3040
+              "huffmanj": 3018,
+              "mensingd": 3108
             },
             "results_absentee": {
               "huffmanj": 2503,
               "mensingd": 2473
             },
-            "last_updated": "2020-11-16T15:47:58Z",
-            "leader_margin_value": 1.68925,
-            "leader_margin_display": "R+1.7",
-            "leader_margin_name_display": "Mensing +1.7",
+            "last_updated": "2020-11-16T23:35:12Z",
+            "leader_margin_value": 1.46915,
+            "leader_margin_display": "R+1.5",
+            "leader_margin_name_display": "Mensing +1.5",
             "leader_party_id": "republican"
           }
         ],
@@ -6392,6 +6390,16 @@
             "eevp": 90,
             "eevp_source": "edison",
             "timestamp": "2020-11-14T02:37:22Z"
+          },
+          {
+            "vote_shares": {
+              "huffmanj": 0.768,
+              "mensingd": 0.232
+            },
+            "votes": 355410,
+            "eevp": 90,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-16T23:35:13Z"
           }
         ]
       },
@@ -13748,7 +13756,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 341359,
+        "votes": 341444,
         "absentee_votes": 38115,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -13773,7 +13781,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-16T20:36:11Z",
+        "last_updated": "2020-11-16T23:35:17Z",
         "candidates": [
           {
             "candidate_id": "eshoo-43-5-h",
@@ -13786,7 +13794,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 215749,
+            "votes": 215803,
             "percent": 63.2,
             "percent_display": "63.2",
             "electoral_votes": 0,
@@ -13807,7 +13815,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 125610,
+            "votes": 125641,
             "percent": 36.8,
             "percent_display": "36.8",
             "electoral_votes": 0,
@@ -13819,8 +13827,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 26.40592,
-        "leader_margin_votes": 90139,
+        "leader_margin_value": 26.40609,
+        "leader_margin_votes": 90162,
         "leader_margin_display": "D+26",
         "leader_margin_name_display": "Eshoo +26",
         "leader_party_id": "democrat",
@@ -13894,7 +13902,7 @@
           {
             "fips": "06087",
             "name": "Santa Cruz",
-            "votes": 29154,
+            "votes": 29239,
             "absentee_votes": 0,
             "reporting": 33,
             "precincts": 38,
@@ -13911,15 +13919,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "eshooa": 18468,
-              "kumarr": 10686
+              "eshooa": 18522,
+              "kumarr": 10717
             },
             "results_absentee": {
               "eshooa": 0,
               "kumarr": 0
             },
-            "last_updated": "2020-11-16T15:48:29Z",
-            "leader_margin_value": 26.69274,
+            "last_updated": "2020-11-16T23:35:11Z",
+            "leader_margin_value": 26.6938,
             "leader_margin_display": "D+27",
             "leader_margin_name_display": "Eshoo +27",
             "leader_party_id": "democrat"
@@ -14315,6 +14323,16 @@
             "eevp": 89,
             "eevp_source": "edison",
             "timestamp": "2020-11-16T20:36:11Z"
+          },
+          {
+            "vote_shares": {
+              "eshooa": 0.632,
+              "kumarr": 0.368
+            },
+            "votes": 341444,
+            "eevp": 89,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-16T23:35:17Z"
           }
         ]
       },
@@ -14652,7 +14670,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 302325,
+        "votes": 302853,
         "absentee_votes": 133281,
         "absentee_counties": 2,
         "absentee_count_progress": "unknown",
@@ -14677,7 +14695,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-16T15:48:06Z",
+        "last_updated": "2020-11-16T23:35:17Z",
         "candidates": [
           {
             "candidate_id": "panetta-65030-5-h",
@@ -14690,7 +14708,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 232379,
+            "votes": 232805,
             "percent": 76.9,
             "percent_display": "76.9",
             "electoral_votes": 0,
@@ -14711,7 +14729,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 69946,
+            "votes": 70048,
             "percent": 23.1,
             "percent_display": "23.1",
             "electoral_votes": 0,
@@ -14723,8 +14741,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 53.72794,
-        "leader_margin_votes": 162433,
+        "leader_margin_value": 53.74125,
+        "leader_margin_votes": 162757,
         "leader_margin_display": "D+54",
         "leader_margin_name_display": "Panetta +54",
         "leader_party_id": "democrat",
@@ -14831,7 +14849,7 @@
           {
             "fips": "06087",
             "name": "Santa Cruz",
-            "votes": 109016,
+            "votes": 109544,
             "absentee_votes": 0,
             "reporting": 127,
             "precincts": 130,
@@ -14848,15 +14866,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "panettaj": 89927,
-              "gormanj": 19089
+              "panettaj": 90353,
+              "gormanj": 19191
             },
             "results_absentee": {
               "panettaj": 0,
               "gormanj": 0
             },
-            "last_updated": "2020-11-16T15:47:46Z",
-            "leader_margin_value": 64.97945,
+            "last_updated": "2020-11-16T23:35:12Z",
+            "leader_margin_value": 64.96202,
             "leader_margin_display": "D+65",
             "leader_margin_name_display": "Panetta +65",
             "leader_party_id": "democrat"
@@ -15232,6 +15250,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-14T02:37:20Z"
+          },
+          {
+            "vote_shares": {
+              "panettaj": 0.769,
+              "gormanj": 0.231
+            },
+            "votes": 302853,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-16T23:35:17Z"
           }
         ]
       },
@@ -30382,7 +30410,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 487026,
+        "votes": 487642,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -30395,7 +30423,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 465,
+        "precincts_reporting": 466,
         "precincts_total": 475,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -30408,7 +30436,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-16T20:35:01.780Z",
+        "last_updated": "2020-11-16T23:35:09.417Z",
         "candidates": [
           {
             "candidate_id": "laird-13532",
@@ -30421,9 +30449,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 315805,
-            "percent": 64.8,
-            "percent_display": "64.8",
+            "votes": 316278,
+            "percent": 64.9,
+            "percent_display": "64.9",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -30442,9 +30470,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 171221,
-            "percent": 35.2,
-            "percent_display": "35.2",
+            "votes": 171364,
+            "percent": 35.1,
+            "percent_display": "35.1",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -31760,7 +31788,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 200694,
+        "votes": 205843,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -31773,10 +31801,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 489,
+        "precincts_reporting": 509,
         "precincts_total": 671,
-        "reporting_display": "73% reporting",
-        "reporting_value": "73%",
+        "reporting_display": "76% reporting",
+        "reporting_value": "76%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -31786,7 +31814,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-14T21:21:55.123Z",
+        "last_updated": "2020-11-16T23:35:09.417Z",
         "candidates": [
           {
             "candidate_id": "wood-12211",
@@ -31799,9 +31827,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 140864,
-            "percent": 70.2,
-            "percent_display": "70.2",
+            "votes": 143434,
+            "percent": 69.7,
+            "percent_display": "69.7",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -31820,9 +31848,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 59830,
-            "percent": 29.8,
-            "percent_display": "29.8",
+            "votes": 62409,
+            "percent": 30.3,
+            "percent_display": "30.3",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -34579,7 +34607,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 250830,
+        "votes": 191304,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -34592,10 +34620,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 263,
+        "precincts_reporting": 206,
         "precincts_total": 263,
-        "reporting_display": "100% reporting",
-        "reporting_value": "100%",
+        "reporting_display": "78% reporting",
+        "reporting_value": "78%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -34605,7 +34633,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-16T20:35:01.780Z",
+        "last_updated": "2020-11-16T23:35:09.417Z",
         "candidates": [
           {
             "candidate_id": "stone-11748",
@@ -34618,9 +34646,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 183315,
-            "percent": 73.1,
-            "percent_display": "73.1",
+            "votes": 123674,
+            "percent": 64.6,
+            "percent_display": "64.6",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -34639,9 +34667,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 67515,
-            "percent": 26.9,
-            "percent_display": "26.9",
+            "votes": 67630,
+            "percent": 35.4,
+            "percent_display": "35.4",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -34685,7 +34713,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 174009,
+        "votes": 174140,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -34711,7 +34739,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-16T20:35:01.780Z",
+        "last_updated": "2020-11-16T23:35:09.417Z",
         "candidates": [
           {
             "candidate_id": "rivas-13198",
@@ -34724,7 +34752,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 121258,
+            "votes": 121365,
             "percent": 69.7,
             "percent_display": "69.7",
             "electoral_votes": 0,
@@ -34745,7 +34773,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 52751,
+            "votes": 52775,
             "percent": 30.3,
             "percent_display": "30.3",
             "electoral_votes": 0,
@@ -40051,7 +40079,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16321538,
+        "votes": 16327229,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -40064,10 +40092,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19566,
+        "precincts_reporting": 19587,
         "precincts_total": 20499,
-        "reporting_display": "95% reporting",
-        "reporting_value": "95%",
+        "reporting_display": "96% reporting",
+        "reporting_value": "96%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -40076,7 +40104,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T20:35:01.780Z",
+        "last_updated": "2020-11-16T23:35:09.417Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -40088,7 +40116,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9317017,
+            "votes": 9321139,
             "percent": 57.1,
             "percent_display": "57.1",
             "electoral_votes": 0,
@@ -40108,7 +40136,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7004521,
+            "votes": 7006090,
             "percent": 42.9,
             "percent_display": "42.9",
             "electoral_votes": 0,
@@ -40182,7 +40210,7 @@
           {
             "fips": "06005",
             "name": "Amador",
-            "votes": 21778,
+            "votes": 21790,
             "absentee_votes": 0,
             "reporting": 29,
             "precincts": 30,
@@ -40199,14 +40227,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 17713,
-              "yes": 4065
+              "no": 17722,
+              "yes": 4068
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06007",
@@ -41371,9 +41399,9 @@
           {
             "fips": "06087",
             "name": "Santa Cruz",
-            "votes": 137771,
+            "votes": 138390,
             "absentee_votes": 0,
-            "reporting": 160,
+            "reporting": 161,
             "precincts": 168,
             "absentee_method": null,
             "eevp": null,
@@ -41388,14 +41416,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 67184,
-              "yes": 70587
+              "no": 67496,
+              "yes": 70894
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06089",
@@ -41632,9 +41660,9 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 988,
+            "votes": 6048,
             "absentee_votes": 0,
-            "reporting": 3,
+            "reporting": 23,
             "precincts": 25,
             "absentee_method": null,
             "eevp": null,
@@ -41649,14 +41677,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 776,
-              "yes": 212
+              "no": 4577,
+              "yes": 1471
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06107",
@@ -41842,7 +41870,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16496046,
+        "votes": 16501842,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -41855,10 +41883,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19566,
+        "precincts_reporting": 19587,
         "precincts_total": 20499,
-        "reporting_display": "95% reporting",
-        "reporting_value": "95%",
+        "reporting_display": "96% reporting",
+        "reporting_value": "96%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -41867,7 +41895,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T20:35:01.780Z",
+        "last_updated": "2020-11-16T23:35:09.417Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -41879,7 +41907,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9668581,
+            "votes": 9671484,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -41899,7 +41927,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6827465,
+            "votes": 6830358,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -41973,7 +42001,7 @@
           {
             "fips": "06005",
             "name": "Amador",
-            "votes": 22048,
+            "votes": 22060,
             "absentee_votes": 0,
             "reporting": 29,
             "precincts": 30,
@@ -41990,14 +42018,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 7609,
-              "no": 14439
+              "yes": 7614,
+              "no": 14446
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06007",
@@ -43162,9 +43190,9 @@
           {
             "fips": "06087",
             "name": "Santa Cruz",
-            "votes": 140472,
+            "votes": 141107,
             "absentee_votes": 0,
-            "reporting": 160,
+            "reporting": 161,
             "precincts": 168,
             "absentee_method": null,
             "eevp": null,
@@ -43179,14 +43207,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 100814,
-              "no": 39658
+              "yes": 101270,
+              "no": 39837
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06089",
@@ -43423,9 +43451,9 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 1021,
+            "votes": 6170,
             "absentee_votes": 0,
-            "reporting": 3,
+            "reporting": 23,
             "precincts": 25,
             "absentee_method": null,
             "eevp": null,
@@ -43440,14 +43468,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 526,
-              "no": 495
+              "yes": 2968,
+              "no": 3202
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06107",
@@ -43633,7 +43661,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16054048,
+        "votes": 16059651,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -43646,10 +43674,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19566,
+        "precincts_reporting": 19587,
         "precincts_total": 20499,
-        "reporting_display": "95% reporting",
-        "reporting_value": "95%",
+        "reporting_display": "96% reporting",
+        "reporting_value": "96%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -43658,7 +43686,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T20:35:01.780Z",
+        "last_updated": "2020-11-16T23:35:09.417Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -43670,7 +43698,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9040950,
+            "votes": 9044551,
             "percent": 56.3,
             "percent_display": "56.3",
             "electoral_votes": 0,
@@ -43690,7 +43718,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7013098,
+            "votes": 7015100,
             "percent": 43.7,
             "percent_display": "43.7",
             "electoral_votes": 0,
@@ -43764,7 +43792,7 @@
           {
             "fips": "06005",
             "name": "Amador",
-            "votes": 21458,
+            "votes": 21469,
             "absentee_votes": 0,
             "reporting": 29,
             "precincts": 30,
@@ -43781,14 +43809,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 15453,
-              "yes": 6005
+              "no": 15462,
+              "yes": 6007
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06007",
@@ -44953,9 +44981,9 @@
           {
             "fips": "06087",
             "name": "Santa Cruz",
-            "votes": 135415,
+            "votes": 136019,
             "absentee_votes": 0,
-            "reporting": 160,
+            "reporting": 161,
             "precincts": 168,
             "absentee_method": null,
             "eevp": null,
@@ -44970,14 +44998,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 60312,
-              "yes": 75103
+              "no": 60602,
+              "yes": 75417
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06089",
@@ -45214,9 +45242,9 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 980,
+            "votes": 5968,
             "absentee_votes": 0,
-            "reporting": 3,
+            "reporting": 23,
             "precincts": 25,
             "absentee_method": null,
             "eevp": null,
@@ -45231,14 +45259,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 658,
-              "yes": 322
+              "no": 3960,
+              "yes": 2008
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06107",
@@ -45422,7 +45450,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16261692,
+        "votes": 16267329,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -45435,10 +45463,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19566,
+        "precincts_reporting": 19587,
         "precincts_total": 20499,
-        "reporting_display": "95% reporting",
-        "reporting_value": "95%",
+        "reporting_display": "96% reporting",
+        "reporting_value": "96%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -45447,7 +45475,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T20:35:01.780Z",
+        "last_updated": "2020-11-16T23:35:09.417Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -45459,7 +45487,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8301417,
+            "votes": 8303699,
             "percent": 51,
             "percent_display": "51.0",
             "electoral_votes": 0,
@@ -45479,7 +45507,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7960275,
+            "votes": 7963630,
             "percent": 49,
             "percent_display": "49.0",
             "electoral_votes": 0,
@@ -45553,7 +45581,7 @@
           {
             "fips": "06005",
             "name": "Amador",
-            "votes": 21797,
+            "votes": 21809,
             "absentee_votes": 0,
             "reporting": 29,
             "precincts": 30,
@@ -45570,14 +45598,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 7340,
-              "no": 14457
+              "yes": 7344,
+              "no": 14465
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.97Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06007",
@@ -46742,9 +46770,9 @@
           {
             "fips": "06087",
             "name": "Santa Cruz",
-            "votes": 137058,
+            "votes": 137676,
             "absentee_votes": 0,
-            "reporting": 160,
+            "reporting": 161,
             "precincts": 168,
             "absentee_method": null,
             "eevp": null,
@@ -46759,14 +46787,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 77936,
-              "no": 59122
+              "yes": 78311,
+              "no": 59365
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.97Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06089",
@@ -47003,9 +47031,9 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 991,
+            "votes": 5998,
             "absentee_votes": 0,
-            "reporting": 3,
+            "reporting": 23,
             "precincts": 25,
             "absentee_method": null,
             "eevp": null,
@@ -47020,14 +47048,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 363,
-              "no": 628
+              "yes": 2266,
+              "no": 3732
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.97Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06107",
@@ -47211,7 +47239,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16539219,
+        "votes": 16544983,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -47224,10 +47252,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19566,
+        "precincts_reporting": 19587,
         "precincts_total": 20499,
-        "reporting_display": "95% reporting",
-        "reporting_value": "95%",
+        "reporting_display": "96% reporting",
+        "reporting_value": "96%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -47236,7 +47264,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T20:35:01.780Z",
+        "last_updated": "2020-11-16T23:35:09.417Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -47248,7 +47276,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8594753,
+            "votes": 8598305,
             "percent": 52,
             "percent_display": "52.0",
             "electoral_votes": 0,
@@ -47268,7 +47296,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7944466,
+            "votes": 7946678,
             "percent": 48,
             "percent_display": "48.0",
             "electoral_votes": 0,
@@ -47342,7 +47370,7 @@
           {
             "fips": "06005",
             "name": "Amador",
-            "votes": 22038,
+            "votes": 22050,
             "absentee_votes": 0,
             "reporting": 29,
             "precincts": 30,
@@ -47359,14 +47387,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 16346,
-              "yes": 5692
+              "no": 16356,
+              "yes": 5694
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06007",
@@ -48531,9 +48559,9 @@
           {
             "fips": "06087",
             "name": "Santa Cruz",
-            "votes": 140342,
+            "votes": 140975,
             "absentee_votes": 0,
-            "reporting": 160,
+            "reporting": 161,
             "precincts": 168,
             "absentee_method": null,
             "eevp": null,
@@ -48548,14 +48576,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 58496,
-              "yes": 81846
+              "no": 58717,
+              "yes": 82258
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06089",
@@ -48792,9 +48820,9 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 1018,
+            "votes": 6137,
             "absentee_votes": 0,
-            "reporting": 3,
+            "reporting": 23,
             "precincts": 25,
             "absentee_method": null,
             "eevp": null,
@@ -48809,14 +48837,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 656,
-              "yes": 362
+              "no": 3977,
+              "yes": 2160
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06107",
@@ -49002,7 +49030,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16532333,
+        "votes": 16538130,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -49015,10 +49043,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19566,
+        "precincts_reporting": 19587,
         "precincts_total": 20499,
-        "reporting_display": "95% reporting",
-        "reporting_value": "95%",
+        "reporting_display": "96% reporting",
+        "reporting_value": "96%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -49027,7 +49055,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T20:35:01.780Z",
+        "last_updated": "2020-11-16T23:35:09.417Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -49039,7 +49067,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9247691,
+            "votes": 9251556,
             "percent": 55.9,
             "percent_display": "55.9",
             "electoral_votes": 0,
@@ -49059,7 +49087,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7284642,
+            "votes": 7286574,
             "percent": 44.1,
             "percent_display": "44.1",
             "electoral_votes": 0,
@@ -49133,7 +49161,7 @@
           {
             "fips": "06005",
             "name": "Amador",
-            "votes": 22095,
+            "votes": 22107,
             "absentee_votes": 0,
             "reporting": 29,
             "precincts": 30,
@@ -49150,14 +49178,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 17362,
-              "yes": 4733
+              "no": 17370,
+              "yes": 4737
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06007",
@@ -50322,9 +50350,9 @@
           {
             "fips": "06087",
             "name": "Santa Cruz",
-            "votes": 140516,
+            "votes": 141152,
             "absentee_votes": 0,
-            "reporting": 160,
+            "reporting": 161,
             "precincts": 168,
             "absentee_method": null,
             "eevp": null,
@@ -50339,14 +50367,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 63581,
-              "yes": 76935
+              "no": 63837,
+              "yes": 77315
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06089",
@@ -50583,9 +50611,9 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 1022,
+            "votes": 6171,
             "absentee_votes": 0,
-            "reporting": 3,
+            "reporting": 23,
             "precincts": 25,
             "absentee_method": null,
             "eevp": null,
@@ -50600,14 +50628,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 701,
-              "yes": 321
+              "no": 4302,
+              "yes": 1869
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06107",
@@ -50791,7 +50819,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16175717,
+        "votes": 16181377,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -50804,10 +50832,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19566,
+        "precincts_reporting": 19587,
         "precincts_total": 20499,
-        "reporting_display": "95% reporting",
-        "reporting_value": "95%",
+        "reporting_display": "96% reporting",
+        "reporting_value": "96%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -50816,7 +50844,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T20:35:01.780Z",
+        "last_updated": "2020-11-16T23:35:09.417Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -50828,7 +50856,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8260879,
+            "votes": 8263449,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -50848,7 +50876,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7914838,
+            "votes": 7917928,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -50922,7 +50950,7 @@
           {
             "fips": "06005",
             "name": "Amador",
-            "votes": 21589,
+            "votes": 21601,
             "absentee_votes": 0,
             "reporting": 29,
             "precincts": 30,
@@ -50939,14 +50967,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 8069,
-              "no": 13520
+              "yes": 8071,
+              "no": 13530
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06007",
@@ -52111,9 +52139,9 @@
           {
             "fips": "06087",
             "name": "Santa Cruz",
-            "votes": 136773,
+            "votes": 137387,
             "absentee_votes": 0,
-            "reporting": 160,
+            "reporting": 161,
             "precincts": 168,
             "absentee_method": null,
             "eevp": null,
@@ -52128,14 +52156,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 75879,
-              "no": 60894
+              "yes": 76229,
+              "no": 61158
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06089",
@@ -52372,9 +52400,9 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 981,
+            "votes": 6015,
             "absentee_votes": 0,
-            "reporting": 3,
+            "reporting": 23,
             "precincts": 25,
             "absentee_method": null,
             "eevp": null,
@@ -52389,14 +52417,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 395,
-              "no": 586
+              "yes": 2613,
+              "no": 3402
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06107",
@@ -52580,7 +52608,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16133682,
+        "votes": 16139305,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -52593,10 +52621,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19566,
+        "precincts_reporting": 19587,
         "precincts_total": 20499,
-        "reporting_display": "95% reporting",
-        "reporting_value": "95%",
+        "reporting_display": "96% reporting",
+        "reporting_value": "96%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -52605,7 +52633,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T20:35:01.780Z",
+        "last_updated": "2020-11-16T23:35:09.417Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -52617,7 +52645,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9974605,
+            "votes": 9977908,
             "percent": 61.8,
             "percent_display": "61.8",
             "electoral_votes": 0,
@@ -52637,7 +52665,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6159077,
+            "votes": 6161397,
             "percent": 38.2,
             "percent_display": "38.2",
             "electoral_votes": 0,
@@ -52711,7 +52739,7 @@
           {
             "fips": "06005",
             "name": "Amador",
-            "votes": 21568,
+            "votes": 21580,
             "absentee_votes": 0,
             "reporting": 29,
             "precincts": 30,
@@ -52728,14 +52756,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 11388,
-              "yes": 10180
+              "no": 11396,
+              "yes": 10184
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06007",
@@ -53900,9 +53928,9 @@
           {
             "fips": "06087",
             "name": "Santa Cruz",
-            "votes": 135734,
+            "votes": 136344,
             "absentee_votes": 0,
-            "reporting": 160,
+            "reporting": 161,
             "precincts": 168,
             "absentee_method": null,
             "eevp": null,
@@ -53917,14 +53945,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 96106,
-              "yes": 39628
+              "no": 96544,
+              "yes": 39800
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06089",
@@ -54161,9 +54189,9 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 982,
+            "votes": 5983,
             "absentee_votes": 0,
-            "reporting": 3,
+            "reporting": 23,
             "precincts": 25,
             "absentee_method": null,
             "eevp": null,
@@ -54178,14 +54206,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 582,
-              "yes": 400
+              "no": 3439,
+              "yes": 2544
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06107",
@@ -54371,7 +54399,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16315648,
+        "votes": 16321308,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -54384,10 +54412,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19566,
+        "precincts_reporting": 19587,
         "precincts_total": 20499,
-        "reporting_display": "95% reporting",
-        "reporting_value": "95%",
+        "reporting_display": "96% reporting",
+        "reporting_value": "96%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -54396,7 +54424,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T20:35:01.780Z",
+        "last_updated": "2020-11-16T23:35:09.417Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -54408,7 +54436,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9759452,
+            "votes": 9763533,
             "percent": 59.8,
             "percent_display": "59.8",
             "electoral_votes": 0,
@@ -54428,7 +54456,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6556196,
+            "votes": 6557775,
             "percent": 40.2,
             "percent_display": "40.2",
             "electoral_votes": 0,
@@ -54502,7 +54530,7 @@
           {
             "fips": "06005",
             "name": "Amador",
-            "votes": 21692,
+            "votes": 21704,
             "absentee_votes": 0,
             "reporting": 29,
             "precincts": 30,
@@ -54519,14 +54547,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 17069,
-              "yes": 4623
+              "no": 17080,
+              "yes": 4624
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06007",
@@ -55691,9 +55719,9 @@
           {
             "fips": "06087",
             "name": "Santa Cruz",
-            "votes": 137333,
+            "votes": 137954,
             "absentee_votes": 0,
-            "reporting": 160,
+            "reporting": 161,
             "precincts": 168,
             "absentee_method": null,
             "eevp": null,
@@ -55708,14 +55736,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 75105,
-              "yes": 62228
+              "no": 75399,
+              "yes": 62555
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06089",
@@ -55952,9 +55980,9 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 987,
+            "votes": 6014,
             "absentee_votes": 0,
-            "reporting": 3,
+            "reporting": 23,
             "precincts": 25,
             "absentee_method": null,
             "eevp": null,
@@ -55969,14 +55997,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 740,
-              "yes": 247
+              "no": 4516,
+              "yes": 1498
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06107",
@@ -56162,7 +56190,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16430209,
+        "votes": 16435866,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -56175,10 +56203,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19566,
+        "precincts_reporting": 19587,
         "precincts_total": 20499,
-        "reporting_display": "95% reporting",
-        "reporting_value": "95%",
+        "reporting_display": "96% reporting",
+        "reporting_value": "96%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -56187,7 +56215,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T20:35:01.780Z",
+        "last_updated": "2020-11-16T23:35:09.417Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -56199,7 +56227,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9627853,
+            "votes": 9631199,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -56219,7 +56247,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6802356,
+            "votes": 6804667,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -56293,7 +56321,7 @@
           {
             "fips": "06005",
             "name": "Amador",
-            "votes": 21744,
+            "votes": 21756,
             "absentee_votes": 0,
             "reporting": 29,
             "precincts": 30,
@@ -56310,14 +56338,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 14619,
-              "no": 7125
+              "yes": 14625,
+              "no": 7131
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06007",
@@ -57482,9 +57510,9 @@
           {
             "fips": "06087",
             "name": "Santa Cruz",
-            "votes": 138069,
+            "votes": 138691,
             "absentee_votes": 0,
-            "reporting": 160,
+            "reporting": 161,
             "precincts": 168,
             "absentee_method": null,
             "eevp": null,
@@ -57499,14 +57527,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 64743,
-              "no": 73326
+              "yes": 65017,
+              "no": 73674
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06089",
@@ -57743,9 +57771,9 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 992,
+            "votes": 6015,
             "absentee_votes": 0,
-            "reporting": 3,
+            "reporting": 23,
             "precincts": 25,
             "absentee_method": null,
             "eevp": null,
@@ -57760,14 +57788,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 611,
-              "no": 381
+              "yes": 3677,
+              "no": 2338
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06107",
@@ -57951,7 +57979,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16294079,
+        "votes": 16299754,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -57964,10 +57992,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19566,
+        "precincts_reporting": 19587,
         "precincts_total": 20499,
-        "reporting_display": "95% reporting",
-        "reporting_value": "95%",
+        "reporting_display": "96% reporting",
+        "reporting_value": "96%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -57976,7 +58004,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T20:35:01.780Z",
+        "last_updated": "2020-11-16T23:35:09.417Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -57988,7 +58016,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10357200,
+            "votes": 10361326,
             "percent": 63.6,
             "percent_display": "63.6",
             "electoral_votes": 0,
@@ -58008,7 +58036,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 5936879,
+            "votes": 5938428,
             "percent": 36.4,
             "percent_display": "36.4",
             "electoral_votes": 0,
@@ -58082,7 +58110,7 @@
           {
             "fips": "06005",
             "name": "Amador",
-            "votes": 21742,
+            "votes": 21754,
             "absentee_votes": 0,
             "reporting": 29,
             "precincts": 30,
@@ -58099,14 +58127,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 17134,
-              "yes": 4608
+              "no": 17141,
+              "yes": 4613
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06007",
@@ -59271,9 +59299,9 @@
           {
             "fips": "06087",
             "name": "Santa Cruz",
-            "votes": 136746,
+            "votes": 137364,
             "absentee_votes": 0,
-            "reporting": 160,
+            "reporting": 161,
             "precincts": 168,
             "absentee_method": null,
             "eevp": null,
@@ -59288,14 +59316,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 82303,
-              "yes": 54443
+              "no": 82616,
+              "yes": 54748
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06089",
@@ -59532,9 +59560,9 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 990,
+            "votes": 6035,
             "absentee_votes": 0,
-            "reporting": 3,
+            "reporting": 23,
             "precincts": 25,
             "absentee_method": null,
             "eevp": null,
@@ -59549,14 +59577,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 697,
-              "yes": 293
+              "no": 4503,
+              "yes": 1532
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06107",
@@ -59740,7 +59768,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16147662,
+        "votes": 16153332,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -59753,10 +59781,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19566,
+        "precincts_reporting": 19587,
         "precincts_total": 20499,
-        "reporting_display": "95% reporting",
-        "reporting_value": "95%",
+        "reporting_display": "96% reporting",
+        "reporting_value": "96%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -59765,7 +59793,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T20:35:01.780Z",
+        "last_updated": "2020-11-16T23:35:09.417Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -59777,7 +59805,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9064818,
+            "votes": 9067561,
             "percent": 56.1,
             "percent_display": "56.1",
             "electoral_votes": 0,
@@ -59797,7 +59825,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7082844,
+            "votes": 7085771,
             "percent": 43.9,
             "percent_display": "43.9",
             "electoral_votes": 0,
@@ -59871,7 +59899,7 @@
           {
             "fips": "06005",
             "name": "Amador",
-            "votes": 21613,
+            "votes": 21624,
             "absentee_votes": 0,
             "reporting": 29,
             "precincts": 30,
@@ -59888,14 +59916,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 8951,
-              "no": 12662
+              "yes": 8955,
+              "no": 12669
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06007",
@@ -61060,9 +61088,9 @@
           {
             "fips": "06087",
             "name": "Santa Cruz",
-            "votes": 136363,
+            "votes": 136977,
             "absentee_votes": 0,
-            "reporting": 160,
+            "reporting": 161,
             "precincts": 168,
             "absentee_method": null,
             "eevp": null,
@@ -61077,14 +61105,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 76005,
-              "no": 60358
+              "yes": 76387,
+              "no": 60590
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06089",
@@ -61321,9 +61349,9 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 983,
+            "votes": 6028,
             "absentee_votes": 0,
-            "reporting": 3,
+            "reporting": 23,
             "precincts": 25,
             "absentee_method": null,
             "eevp": null,
@@ -61338,14 +61366,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 518,
-              "no": 465
+              "yes": 2875,
+              "no": 3153
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-16T23:35:09.417Z"
           },
           {
             "fips": "06107",
@@ -61513,7 +61541,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 218,
-            "votes": 74645289,
+            "votes": 74646036,
             "percent": "50.3",
             "change": -7,
             "flip_count": 3,
@@ -61530,7 +61558,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 204,
-            "votes": 71639836,
+            "votes": 71640136,
             "percent": "48.3",
             "change": 8,
             "flip_count": 11,
@@ -61575,7 +61603,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 78795774,
+            "votes": 78796050,
             "percent": "50.9",
             "change": 0,
             "flip_count": 0,
@@ -61592,7 +61620,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73172743,
+            "votes": 73172883,
             "percent": "47.3",
             "change": 0,
             "flip_count": 0,
@@ -61609,7 +61637,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2789538,
+            "votes": 2789565,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -72850,7 +72878,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2282461,
+          "votes": 2282732,
           "percent": 56.8,
           "percent_display": "56.8",
           "electoral_votes": 0,
@@ -72987,7 +73015,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2356752,
+          "votes": 2357028,
           "percent": 58.4,
           "percent_display": "58.4",
           "electoral_votes": 12,
@@ -78017,8 +78045,8 @@
     ]
   },
   "meta": {
-    "version": 18322,
+    "version": 18326,
     "track": "2020-11-03",
-    "timestamp": "2020-11-16T23:35:13.525Z"
+    "timestamp": "2020-11-16T23:42:32.848Z"
   }
 }
