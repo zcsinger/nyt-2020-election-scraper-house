@@ -43850,7 +43850,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 51295,
+        "votes": 51883,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -43876,7 +43876,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-16T18:02:40.150Z",
+        "last_updated": "2020-11-16T21:36:42.367Z",
         "candidates": [
           {
             "candidate_id": "manktelow-53781",
@@ -43889,9 +43889,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 36893,
-            "percent": 71.9,
-            "percent_display": "71.9",
+            "votes": 37165,
+            "percent": 71.6,
+            "percent_display": "71.6",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -43910,9 +43910,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 14402,
-            "percent": 28.1,
-            "percent_display": "28.1",
+            "votes": 14718,
+            "percent": 28.4,
+            "percent_display": "28.4",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -46318,7 +46318,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2788992,
+            "votes": 2788977,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -62686,8 +62686,8 @@
     ]
   },
   "meta": {
-    "version": 18193,
+    "version": 18196,
     "track": "2020-11-03",
-    "timestamp": "2020-11-16T21:37:12.878Z"
+    "timestamp": "2020-11-16T21:44:52.139Z"
   }
 }
