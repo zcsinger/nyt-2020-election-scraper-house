@@ -12973,10 +12973,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 164,
+        "precincts_reporting": 155,
         "precincts_total": 176,
-        "reporting_display": "93% reporting",
-        "reporting_value": "93%",
+        "reporting_display": "88% reporting",
+        "reporting_value": "88%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -12986,7 +12986,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-16T21:09:45.127Z",
+        "last_updated": "2020-11-17T02:53:08.743Z",
         "candidates": [
           {
             "candidate_id": "bucco-35153",
@@ -13078,10 +13078,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 163,
+        "precincts_reporting": 154,
         "precincts_total": 176,
-        "reporting_display": "93% reporting",
-        "reporting_value": "93%",
+        "reporting_display": "88% reporting",
+        "reporting_value": "88%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -13091,7 +13091,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-16T21:09:45.127Z",
+        "last_updated": "2020-11-17T02:53:08.743Z",
         "candidates": [
           {
             "candidate_id": "dunn-35291",
@@ -13187,7 +13187,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 5994,
+        "precincts_reporting": 5971,
         "precincts_total": 6348,
         "reporting_display": "94% reporting",
         "reporting_value": "94%",
@@ -13199,7 +13199,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T22:55:22.343Z",
+        "last_updated": "2020-11-17T02:53:08.743Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -13626,7 +13626,7 @@
             "name": "Morris",
             "votes": 277724,
             "absentee_votes": 0,
-            "reporting": 395,
+            "reporting": 372,
             "precincts": 396,
             "absentee_method": null,
             "eevp": null,
@@ -13648,7 +13648,7 @@
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-16T21:09:45.127Z"
+            "last_updated": "2020-11-17T02:53:08.743Z"
           },
           {
             "fips": "34029",
@@ -13902,10 +13902,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 5958,
+        "precincts_reporting": 5935,
         "precincts_total": 6348,
-        "reporting_display": "94% reporting",
-        "reporting_value": "94%",
+        "reporting_display": "93% reporting",
+        "reporting_value": "93%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -13914,7 +13914,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T22:55:22.343Z",
+        "last_updated": "2020-11-17T02:53:08.743Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -14341,7 +14341,7 @@
             "name": "Morris",
             "votes": 273619,
             "absentee_votes": 0,
-            "reporting": 395,
+            "reporting": 372,
             "precincts": 396,
             "absentee_method": null,
             "eevp": null,
@@ -14363,7 +14363,7 @@
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-16T21:09:45.127Z"
+            "last_updated": "2020-11-17T02:53:08.743Z"
           },
           {
             "fips": "34029",
@@ -28425,7 +28425,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 235473,
+          "votes": 235479,
           "percent": 69.2,
           "percent_display": "69.2",
           "electoral_votes": 0,
@@ -31808,8 +31808,8 @@
     ]
   },
   "meta": {
-    "version": 18440,
+    "version": 18443,
     "track": "2020-11-03",
-    "timestamp": "2020-11-17T02:45:32.921Z"
+    "timestamp": "2020-11-17T02:54:53.511Z"
   }
 }
