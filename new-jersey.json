@@ -30,7 +30,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 4347717,
+        "votes": 4350051,
         "electoral_votes": 14,
         "absentee_votes": 1669277,
         "absentee_counties": 12,
@@ -56,7 +56,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T20:18:03Z",
+        "last_updated": "2020-11-17T21:30:52Z",
         "candidates": [
           {
             "candidate_id": "biden-1036",
@@ -69,7 +69,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2478859,
+            "votes": 2479945,
             "percent": 57,
             "percent_display": "57.0",
             "electoral_votes": 14,
@@ -91,7 +91,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 1800827,
+            "votes": 1802013,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -113,7 +113,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 30188,
+            "votes": 30224,
             "percent": 0.7,
             "percent_display": "0.7",
             "electoral_votes": 0,
@@ -134,7 +134,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 13449,
+            "votes": 13459,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -155,7 +155,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 13078,
+            "votes": 13089,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -176,7 +176,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 3150,
+            "votes": 3152,
             "percent": 0.1,
             "percent_display": "0.1",
             "electoral_votes": 0,
@@ -197,7 +197,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 2818,
+            "votes": 2820,
             "percent": 0.1,
             "percent_display": "0.1",
             "electoral_votes": 0,
@@ -218,7 +218,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 2772,
+            "votes": 2773,
             "percent": 0.1,
             "percent_display": "0.1",
             "electoral_votes": 0,
@@ -251,8 +251,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 15.59513,
-        "leader_margin_votes": 678032,
+        "leader_margin_value": 15.58446,
+        "leader_margin_votes": 677932,
         "leader_margin_display": "D+16",
         "leader_margin_name_display": "Biden +16",
         "leader_party_id": "democrat",
@@ -932,7 +932,7 @@
           {
             "fips": "34027",
             "name": "Morris",
-            "votes": 291266,
+            "votes": 293600,
             "absentee_votes": 0,
             "reporting": 396,
             "precincts": 396,
@@ -949,14 +949,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 148913,
-              "trumpd": 136659,
-              "jorgensenj": 2348,
-              "write-ins": 1552,
-              "hawkinsh": 964,
-              "la_rivag": 240,
-              "hammonsb": 216,
-              "blankenshipd": 198,
+              "bidenj": 149999,
+              "trumpd": 137845,
+              "jorgensenj": 2384,
+              "write-ins": 1563,
+              "hawkinsh": 974,
+              "la_rivag": 241,
+              "hammonsb": 218,
+              "blankenshipd": 200,
               "de_la_fuenter": 176
             },
             "results_absentee": {
@@ -970,12 +970,12 @@
               "blankenshipd": 0,
               "de_la_fuenter": 0
             },
-            "last_updated": "2020-11-16T20:43:43Z",
-            "leader_margin_value": 4.20715,
+            "last_updated": "2020-11-17T21:30:48Z",
+            "leader_margin_value": 4.13965,
             "leader_margin_display": "D+4",
             "leader_margin_name_display": "Biden +4",
             "leader_party_id": "democrat",
-            "margin2020": -4.20715,
+            "margin2020": -4.13965,
             "votes2016": 253537,
             "margin2016": 4.3,
             "votes2012": 227885,
@@ -1376,12 +1376,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Middlesex County. We’re still waiting for more votes to be counted in 20 counties.",
-            "timestamp": 1605644471237,
-            "is_new": false,
+            "sentence": "We just received more votes from Morris County. We’re still waiting for more votes to be counted in 20 counties.",
+            "timestamp": 1605648730251,
+            "is_new": true,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Middlesex County. We’re still waiting for more votes to be counted in 20 counties.",
+            "generatedText": "We just received more votes from Morris County. We’re still waiting for more votes to be counted in 20 counties.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -1413,11 +1413,1193 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
+            "additional_votes_reported": true,
             "additional_precincts_reported": false,
-            "has_eevp": true
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": false,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false,
+            "biden_takes_at_least_one_more_2016_trump_county": false,
+            "trump_takes_at_least_one_more_2016_clinton_county": false,
+            "at_least_one_county_flipped": false,
+            "at_least_one_county_just_flipped": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 0,
+            "prev_eevp": 97,
+            "num_additional_votes": 2334,
+            "prev_votes": 4347717,
+            "num_additional_precincts": 0,
+            "prev_precincts": 6052,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 0,
+            "prev_precinct_percentage_points": 95.5,
+            "lead_margin_change_votes": -100,
+            "lead_margin_change_percentage_points": 0,
+            "previous_leading_candidate": {
+              "candidate_id": "biden-1036",
+              "candidate_key": "bidenj",
+              "first_name": "Joseph R.",
+              "last_name": "Biden",
+              "order": 4,
+              "name_display": "Joseph R. Biden Jr.",
+              "party_id": "democrat",
+              "incumbent": false,
+              "runoff": false,
+              "winner": true,
+              "votes": 2478859,
+              "percent": 57,
+              "percent_display": "57.0",
+              "electoral_votes": 14,
+              "absentee_votes": 891202,
+              "absentee_percent": 53.4,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/bidenj.png",
+              "has_image": true,
+              "link": "https://www.nytimes.com/interactive/2020/us/elections/joe-biden.html",
+              "pronoun": "he"
+            },
+            "previous_second_candidate": {
+              "candidate_id": "trump-8639",
+              "candidate_key": "trumpd",
+              "first_name": "Donald J.",
+              "last_name": "Trump",
+              "order": 3,
+              "name_display": "Donald J. Trump",
+              "party_id": "republican",
+              "incumbent": true,
+              "runoff": false,
+              "winner": false,
+              "votes": 1800827,
+              "percent": 41.4,
+              "percent_display": "41.4",
+              "electoral_votes": 0,
+              "absentee_votes": 753404,
+              "absentee_percent": 45.1,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
+              "has_image": true,
+              "link": "https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html",
+              "pronoun": "he"
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "biden-1036",
+                "num_additional_votes": 1086,
+                "prev_votes": 2478859,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 57
+              },
+              {
+                "candidate_id": "trump-8639",
+                "num_additional_votes": 1186,
+                "prev_votes": 1800827,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 41.4
+              },
+              {
+                "candidate_id": "jorgensen-20062680-31-p",
+                "num_additional_votes": 36,
+                "prev_votes": 30188,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0.7
+              },
+              {
+                "candidate_id": "hawkins-32916-31-p",
+                "num_additional_votes": 10,
+                "prev_votes": 13449,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0.3
+              },
+              {
+                "candidate_id": "write-ins-21303-31-p",
+                "num_additional_votes": 11,
+                "prev_votes": 13078,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0.3
+              },
+              {
+                "candidate_id": "hammons-59790-31-p",
+                "num_additional_votes": 2,
+                "prev_votes": 3150,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0.1
+              },
+              {
+                "candidate_id": "blankenship-19247-31-p",
+                "num_additional_votes": 2,
+                "prev_votes": 2818,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0.1
+              },
+              {
+                "candidate_id": "la-riva-254-31-p",
+                "num_additional_votes": 1,
+                "prev_votes": 2772,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0.1
+              },
+              {
+                "candidate_id": "de-la-fuente-64542-31-p",
+                "num_additional_votes": 0,
+                "prev_votes": 2576,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0.1
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [],
+            "change_by_county": [
+              {
+                "name": "Atlantic",
+                "fips": "34001",
+                "num_additional_votes": 0,
+                "prev_votes": 139523,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 151,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 73289,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 64054,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 951,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 405,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 366,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 176,
+                    "num_additional_votes": 0
+                  },
+                  "hammonsb": {
+                    "prev_votes": 108,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 102,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 72,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Bergen",
+                "fips": "34003",
+                "num_additional_votes": 0,
+                "prev_votes": 497160,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 561,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 285811,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 204277,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 2849,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 1611,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 1374,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 384,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 327,
+                    "num_additional_votes": 0
+                  },
+                  "hammonsb": {
+                    "prev_votes": 284,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 243,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Burlington",
+                "fips": "34005",
+                "num_additional_votes": 0,
+                "prev_votes": 246427,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 365,
+                "prev_eevp": 98,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 145987,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 96583,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 2069,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 557,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 538,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 335,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 158,
+                    "num_additional_votes": 0
+                  },
+                  "hammonsb": {
+                    "prev_votes": 125,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 75,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Camden",
+                "fips": "34007",
+                "num_additional_votes": 0,
+                "prev_votes": 264912,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 345,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 174575,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 86024,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 1876,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 979,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 780,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 217,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 200,
+                    "num_additional_votes": 0
+                  },
+                  "hammonsb": {
+                    "prev_votes": 150,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 111,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Cape May",
+                "fips": "34009",
+                "num_additional_votes": 0,
+                "prev_votes": 56954,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 127,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 23583,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 32770,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 304,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 138,
+                    "num_additional_votes": 0
+                  },
+                  "hammonsb": {
+                    "prev_votes": 58,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 56,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 29,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 16,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Cumberland",
+                "fips": "34011",
+                "num_additional_votes": 0,
+                "prev_votes": 62472,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 92,
+                "prev_eevp": 98,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 32689,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 28904,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 396,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 167,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 139,
+                    "num_additional_votes": 0
+                  },
+                  "hammonsb": {
+                    "prev_votes": 70,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 49,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 32,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 26,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Essex",
+                "fips": "34013",
+                "num_additional_votes": 0,
+                "prev_votes": 308715,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 550,
+                "prev_eevp": 86,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 237981,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 68038,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 1172,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 863,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 245,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 213,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 110,
+                    "num_additional_votes": 0
+                  },
+                  "hammonsb": {
+                    "prev_votes": 93,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Gloucester",
+                "fips": "34015",
+                "num_additional_votes": 0,
+                "prev_votes": 173308,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 229,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 86588,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 83312,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 1614,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 798,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 446,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 197,
+                    "num_additional_votes": 0
+                  },
+                  "hammonsb": {
+                    "prev_votes": 149,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 122,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 82,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Hudson",
+                "fips": "34017",
+                "num_additional_votes": 0,
+                "prev_votes": 223733,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 454,
+                "prev_eevp": 89,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 164396,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 56406,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 1093,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 709,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 542,
+                    "num_additional_votes": 0
+                  },
+                  "hammonsb": {
+                    "prev_votes": 231,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 184,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 93,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 79,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Hunterdon",
+                "fips": "34019",
+                "num_additional_votes": 0,
+                "prev_votes": 82865,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 116,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 38658,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 42203,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 963,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 425,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 392,
+                    "num_additional_votes": 0
+                  },
+                  "hammonsb": {
+                    "prev_votes": 75,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 70,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 44,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 35,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Mercer",
+                "fips": "34021",
+                "num_additional_votes": 0,
+                "prev_votes": 163520,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 243,
+                "prev_eevp": 91,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 112845,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 47788,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 1319,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 645,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 524,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 118,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 110,
+                    "num_additional_votes": 0
+                  },
+                  "hammonsb": {
+                    "prev_votes": 87,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 84,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Middlesex",
+                "fips": "34023",
+                "num_additional_votes": 0,
+                "prev_votes": 344738,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 615,
+                "prev_eevp": 92,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 208902,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 130801,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 2336,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 1110,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 777,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 227,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 227,
+                    "num_additional_votes": 0
+                  },
+                  "hammonsb": {
+                    "prev_votes": 193,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 165,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Monmouth",
+                "fips": "34025",
+                "num_additional_votes": 0,
+                "prev_votes": 373820,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 511,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 179245,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 189359,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 2674,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 1385,
+                    "num_additional_votes": 0
+                  },
+                  "hammonsb": {
+                    "prev_votes": 338,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 239,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 222,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 181,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 177,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Morris",
+                "fips": "34027",
+                "num_additional_votes": 2334,
+                "prev_votes": 291266,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 396,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 148913,
+                    "num_additional_votes": 1086
+                  },
+                  "trumpd": {
+                    "prev_votes": 136659,
+                    "num_additional_votes": 1186
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 2348,
+                    "num_additional_votes": 36
+                  },
+                  "write-ins": {
+                    "prev_votes": 1552,
+                    "num_additional_votes": 11
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 964,
+                    "num_additional_votes": 10
+                  },
+                  "la_rivag": {
+                    "prev_votes": 240,
+                    "num_additional_votes": 1
+                  },
+                  "hammonsb": {
+                    "prev_votes": 216,
+                    "num_additional_votes": 2
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 198,
+                    "num_additional_votes": 2
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 176,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Ocean",
+                "fips": "34029",
+                "num_additional_votes": 0,
+                "prev_votes": 322036,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 413,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 113359,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 203613,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 2223,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 1119,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 967,
+                    "num_additional_votes": 0
+                  },
+                  "hammonsb": {
+                    "prev_votes": 462,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 133,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 115,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 45,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Passaic",
+                "fips": "34031",
+                "num_additional_votes": 0,
+                "prev_votes": 205977,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 284,
+                "prev_eevp": 92,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 118112,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 84873,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 1017,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 747,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 586,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 256,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 150,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 133,
+                    "num_additional_votes": 0
+                  },
+                  "hammonsb": {
+                    "prev_votes": 103,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Salem",
+                "fips": "34033",
+                "num_additional_votes": 0,
+                "prev_votes": 32448,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 45,
+                "prev_eevp": 96,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 13722,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 18042,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 381,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 109,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 83,
+                    "num_additional_votes": 0
+                  },
+                  "hammonsb": {
+                    "prev_votes": 40,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 37,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 18,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 16,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Somerset",
+                "fips": "34035",
+                "num_additional_votes": 0,
+                "prev_votes": 174640,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 265,
+                "prev_eevp": 97,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 103875,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 67335,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 1533,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 930,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 564,
+                    "num_additional_votes": 0
+                  },
+                  "hammonsb": {
+                    "prev_votes": 127,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 109,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 108,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 59,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Sussex",
+                "fips": "34037",
+                "num_additional_votes": 0,
+                "prev_votes": 88148,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 119,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 34417,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 51566,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 1090,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 390,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 351,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 103,
+                    "num_additional_votes": 0
+                  },
+                  "hammonsb": {
+                    "prev_votes": 91,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 90,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 50,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Union",
+                "fips": "34039",
+                "num_additional_votes": 0,
+                "prev_votes": 236873,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 431,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 158051,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 75222,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 1351,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 1009,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 745,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 269,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 111,
+                    "num_additional_votes": 0
+                  },
+                  "hammonsb": {
+                    "prev_votes": 61,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 54,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Warren",
+                "fips": "34041",
+                "num_additional_votes": 0,
+                "prev_votes": 58182,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 22,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 23861,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 32998,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 629,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 257,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 245,
+                    "num_additional_votes": 0
+                  },
+                  "hammonsb": {
+                    "prev_votes": 89,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 39,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 39,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 25,
+                    "num_additional_votes": 0
+                  }
+                }
+              }
+            ],
+            "total_estimated_votes_remaining_for_2016_clinton_counties": 41653,
+            "total_estimated_votes_remaining_for_2016_trump_counties": -42577,
+            "total_estimated_percentage_reporting_for_2016_clinton_counties": 0.9856879412495365,
+            "total_estimated_percentage_reporting_for_2016_trump_counties": 1.0295923502068414,
+            "estimated_percentage_remaining_clinton_2016_counties": 34,
+            "estimated_percentage_remaining_trump_2016_counties": 66,
+            "counties_flipped_to_biden": [],
+            "counties_just_flipped_to_biden": [],
+            "counties_flipped_to_trump": [],
+            "counties_just_flipped_to_trump": []
+          }
         },
         "winnerCalledTimestamp": 1604451663030,
         "timeseries": [
@@ -3060,6 +4242,16 @@
             "eevp": 97,
             "eevp_source": "edison",
             "timestamp": "2020-11-17T20:18:03Z"
+          },
+          {
+            "vote_shares": {
+              "bidenj": 0.57,
+              "trumpd": 0.414
+            },
+            "votes": 4350051,
+            "eevp": 97,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-17T21:30:52Z"
           }
         ]
       },
@@ -3092,7 +4284,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 4238643,
+        "votes": 4240855,
         "absentee_votes": 1627802,
         "absentee_counties": 12,
         "absentee_count_progress": "unknown",
@@ -3105,7 +4297,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 5954,
+        "precincts_reporting": 5957,
         "precincts_total": 6334,
         "reporting_display": "94% reporting",
         "reporting_value": "94%",
@@ -3117,7 +4309,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-17T20:18:52Z",
+        "last_updated": "2020-11-17T21:30:57Z",
         "candidates": [
           {
             "candidate_id": "booker-63133",
@@ -3130,9 +4322,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 2414074,
-            "percent": 57,
-            "percent_display": "57.0",
+            "votes": 2415102,
+            "percent": 56.9,
+            "percent_display": "56.9",
             "electoral_votes": 0,
             "absentee_votes": 868079,
             "absentee_percent": 53.3,
@@ -3152,7 +4344,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1745334,
+            "votes": 1746468,
             "percent": 41.2,
             "percent_display": "41.2",
             "electoral_votes": 0,
@@ -3173,7 +4365,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 36226,
+            "votes": 36247,
             "percent": 0.9,
             "percent_display": "0.9",
             "electoral_votes": 0,
@@ -3194,7 +4386,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 29195,
+            "votes": 29216,
             "percent": 0.7,
             "percent_display": "0.7",
             "electoral_votes": 0,
@@ -3215,7 +4407,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 10815,
+            "votes": 10822,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -3236,7 +4428,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 2999,
+            "votes": 3000,
             "percent": 0.1,
             "percent_display": "0.1",
             "electoral_votes": 0,
@@ -3248,8 +4440,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 15.77722,
-        "leader_margin_votes": 668740,
+        "leader_margin_value": 15.76649,
+        "leader_margin_votes": 668634,
         "leader_margin_display": "D+16",
         "leader_margin_name_display": "Booker +16",
         "leader_party_id": "democrat",
@@ -3786,15 +4978,15 @@
           {
             "fips": "34027",
             "name": "Morris",
-            "votes": 282093,
+            "votes": 284305,
             "absentee_votes": 0,
-            "reporting": 387,
+            "reporting": 390,
             "precincts": 396,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 98,
+            "eevp": 99,
             "tot_exp_vote": 287978,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "unknown",
@@ -3803,12 +4995,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bookerc": 141351,
-              "mehtar": 137223,
-              "hoffmanm": 1656,
-              "fernandezv": 1083,
-              "burked": 530,
-              "write-ins": 250
+              "bookerc": 142379,
+              "mehtar": 138357,
+              "hoffmanm": 1677,
+              "fernandezv": 1104,
+              "burked": 537,
+              "write-ins": 251
             },
             "results_absentee": {
               "bookerc": 0,
@@ -3818,10 +5010,10 @@
               "burked": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-16T20:43:42Z",
-            "leader_margin_value": 1.46335,
-            "leader_margin_display": "D+1.5",
-            "leader_margin_name_display": "Booker +1.5",
+            "last_updated": "2020-11-17T21:30:48Z",
+            "leader_margin_value": 1.41468,
+            "leader_margin_display": "D+1.4",
+            "leader_margin_name_display": "Booker +1.4",
             "leader_party_id": "democrat"
           },
           {
@@ -4136,12 +5328,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Middlesex County. We’re still waiting for more votes to be counted in 20 counties.",
-            "timestamp": 1605644471237,
-            "is_new": false,
+            "sentence": "We just received more votes from Morris County. We’re still waiting for more votes to be counted in 20 counties.",
+            "timestamp": 1605648730251,
+            "is_new": true,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Middlesex County. We’re still waiting for more votes to be counted in 20 counties.",
+            "generatedText": "We just received more votes from Morris County. We’re still waiting for more votes to be counted in 20 counties.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -4173,11 +5365,899 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
-            "additional_precincts_reported": false,
-            "has_eevp": true
+            "additional_votes_reported": true,
+            "additional_precincts_reported": true,
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": false,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 0,
+            "prev_eevp": 94,
+            "num_additional_votes": 2212,
+            "prev_votes": 4238643,
+            "num_additional_precincts": 3,
+            "prev_precincts": 5954,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 0,
+            "prev_precinct_percentage_points": 94,
+            "lead_margin_change_votes": -106,
+            "lead_margin_change_percentage_points": -0.10000000000000142,
+            "previous_leading_candidate": {
+              "candidate_id": "booker-63133",
+              "candidate_key": "bookerc",
+              "first_name": "Cory",
+              "last_name": "Booker",
+              "order": 1,
+              "name_display": "Cory Booker",
+              "party_id": "democrat",
+              "incumbent": true,
+              "runoff": false,
+              "winner": true,
+              "votes": 2414074,
+              "percent": 57,
+              "percent_display": "57.0",
+              "electoral_votes": 0,
+              "absentee_votes": 868079,
+              "absentee_percent": 53.3,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/booker-63133.png",
+              "has_image": true,
+              "link": "",
+              "pronoun": "he"
+            },
+            "previous_second_candidate": {
+              "candidate_id": "mehta-20073678-31-s",
+              "candidate_key": "mehtar",
+              "first_name": "Rikin",
+              "last_name": "Mehta",
+              "order": 2,
+              "name_display": "Rikin Mehta",
+              "party_id": "republican",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 1745334,
+              "percent": 41.2,
+              "percent_display": "41.2",
+              "electoral_votes": 0,
+              "absentee_votes": 731288,
+              "absentee_percent": 44.9,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/mehta-20073678-31-s.png",
+              "has_image": false,
+              "link": ""
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "booker-63133",
+                "num_additional_votes": 1028,
+                "prev_votes": 2414074,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": -0.1,
+                "prev_percent": 57
+              },
+              {
+                "candidate_id": "mehta-20073678-31-s",
+                "num_additional_votes": 1134,
+                "prev_votes": 1745334,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 41.2
+              },
+              {
+                "candidate_id": "hoffman-70003-31-s",
+                "num_additional_votes": 21,
+                "prev_votes": 36226,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0.9
+              },
+              {
+                "candidate_id": "fernandez-20073796-31-s",
+                "num_additional_votes": 21,
+                "prev_votes": 29195,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0.7
+              },
+              {
+                "candidate_id": "burke-20073795-31-s",
+                "num_additional_votes": 7,
+                "prev_votes": 10815,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0.3
+              },
+              {
+                "candidate_id": "write-ins-21303-31-s",
+                "num_additional_votes": 1,
+                "prev_votes": 2999,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0.1
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [],
+            "change_by_county": [
+              {
+                "name": "Atlantic",
+                "fips": "34001",
+                "num_additional_votes": 0,
+                "prev_votes": 134923,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 151,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bookerc": {
+                    "prev_votes": 70928,
+                    "num_additional_votes": 0
+                  },
+                  "mehtar": {
+                    "prev_votes": 61234,
+                    "num_additional_votes": 0
+                  },
+                  "fernandezv": {
+                    "prev_votes": 1702,
+                    "num_additional_votes": 0
+                  },
+                  "hoffmanm": {
+                    "prev_votes": 528,
+                    "num_additional_votes": 0
+                  },
+                  "burked": {
+                    "prev_votes": 435,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 96,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Bergen",
+                "fips": "34003",
+                "num_additional_votes": 0,
+                "prev_votes": 483340,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 561,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bookerc": {
+                    "prev_votes": 279907,
+                    "num_additional_votes": 0
+                  },
+                  "mehtar": {
+                    "prev_votes": 195059,
+                    "num_additional_votes": 0
+                  },
+                  "fernandezv": {
+                    "prev_votes": 3583,
+                    "num_additional_votes": 0
+                  },
+                  "hoffmanm": {
+                    "prev_votes": 2816,
+                    "num_additional_votes": 0
+                  },
+                  "burked": {
+                    "prev_votes": 1702,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 273,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Burlington",
+                "fips": "34005",
+                "num_additional_votes": 0,
+                "prev_votes": 240495,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 365,
+                "prev_eevp": 96,
+                "candidate_changes": {
+                  "bookerc": {
+                    "prev_votes": 141654,
+                    "num_additional_votes": 0
+                  },
+                  "mehtar": {
+                    "prev_votes": 95786,
+                    "num_additional_votes": 0
+                  },
+                  "hoffmanm": {
+                    "prev_votes": 1618,
+                    "num_additional_votes": 0
+                  },
+                  "fernandezv": {
+                    "prev_votes": 914,
+                    "num_additional_votes": 0
+                  },
+                  "burked": {
+                    "prev_votes": 436,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 87,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Camden",
+                "fips": "34007",
+                "num_additional_votes": 0,
+                "prev_votes": 260915,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 345,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bookerc": {
+                    "prev_votes": 172802,
+                    "num_additional_votes": 0
+                  },
+                  "mehtar": {
+                    "prev_votes": 85219,
+                    "num_additional_votes": 0
+                  },
+                  "hoffmanm": {
+                    "prev_votes": 1673,
+                    "num_additional_votes": 0
+                  },
+                  "fernandezv": {
+                    "prev_votes": 726,
+                    "num_additional_votes": 0
+                  },
+                  "burked": {
+                    "prev_votes": 295,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 200,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Cape May",
+                "fips": "34009",
+                "num_additional_votes": 0,
+                "prev_votes": 54430,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 127,
+                "prev_eevp": 97,
+                "candidate_changes": {
+                  "bookerc": {
+                    "prev_votes": 22570,
+                    "num_additional_votes": 0
+                  },
+                  "mehtar": {
+                    "prev_votes": 30937,
+                    "num_additional_votes": 0
+                  },
+                  "hoffmanm": {
+                    "prev_votes": 404,
+                    "num_additional_votes": 0
+                  },
+                  "fernandezv": {
+                    "prev_votes": 393,
+                    "num_additional_votes": 0
+                  },
+                  "burked": {
+                    "prev_votes": 126,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Cumberland",
+                "fips": "34011",
+                "num_additional_votes": 0,
+                "prev_votes": 60681,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 92,
+                "prev_eevp": 95,
+                "candidate_changes": {
+                  "bookerc": {
+                    "prev_votes": 31944,
+                    "num_additional_votes": 0
+                  },
+                  "mehtar": {
+                    "prev_votes": 26584,
+                    "num_additional_votes": 0
+                  },
+                  "fernandezv": {
+                    "prev_votes": 1401,
+                    "num_additional_votes": 0
+                  },
+                  "hoffmanm": {
+                    "prev_votes": 397,
+                    "num_additional_votes": 0
+                  },
+                  "burked": {
+                    "prev_votes": 296,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 59,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Essex",
+                "fips": "34013",
+                "num_additional_votes": 0,
+                "prev_votes": 300326,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 550,
+                "prev_eevp": 84,
+                "candidate_changes": {
+                  "bookerc": {
+                    "prev_votes": 232299,
+                    "num_additional_votes": 0
+                  },
+                  "mehtar": {
+                    "prev_votes": 63931,
+                    "num_additional_votes": 0
+                  },
+                  "hoffmanm": {
+                    "prev_votes": 2190,
+                    "num_additional_votes": 0
+                  },
+                  "fernandezv": {
+                    "prev_votes": 1525,
+                    "num_additional_votes": 0
+                  },
+                  "burked": {
+                    "prev_votes": 381,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Gloucester",
+                "fips": "34015",
+                "num_additional_votes": 0,
+                "prev_votes": 169973,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 229,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bookerc": {
+                    "prev_votes": 85376,
+                    "num_additional_votes": 0
+                  },
+                  "mehtar": {
+                    "prev_votes": 80917,
+                    "num_additional_votes": 0
+                  },
+                  "hoffmanm": {
+                    "prev_votes": 2248,
+                    "num_additional_votes": 0
+                  },
+                  "fernandezv": {
+                    "prev_votes": 952,
+                    "num_additional_votes": 0
+                  },
+                  "burked": {
+                    "prev_votes": 286,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 194,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Hudson",
+                "fips": "34017",
+                "num_additional_votes": 0,
+                "prev_votes": 215433,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 454,
+                "prev_eevp": 85,
+                "candidate_changes": {
+                  "bookerc": {
+                    "prev_votes": 160378,
+                    "num_additional_votes": 0
+                  },
+                  "mehtar": {
+                    "prev_votes": 49287,
+                    "num_additional_votes": 0
+                  },
+                  "fernandezv": {
+                    "prev_votes": 3233,
+                    "num_additional_votes": 0
+                  },
+                  "hoffmanm": {
+                    "prev_votes": 1734,
+                    "num_additional_votes": 0
+                  },
+                  "burked": {
+                    "prev_votes": 694,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 107,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Hunterdon",
+                "fips": "34019",
+                "num_additional_votes": 0,
+                "prev_votes": 81123,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 116,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bookerc": {
+                    "prev_votes": 35964,
+                    "num_additional_votes": 0
+                  },
+                  "mehtar": {
+                    "prev_votes": 43042,
+                    "num_additional_votes": 0
+                  },
+                  "hoffmanm": {
+                    "prev_votes": 1419,
+                    "num_additional_votes": 0
+                  },
+                  "fernandezv": {
+                    "prev_votes": 375,
+                    "num_additional_votes": 0
+                  },
+                  "burked": {
+                    "prev_votes": 176,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 147,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Mercer",
+                "fips": "34021",
+                "num_additional_votes": 0,
+                "prev_votes": 159428,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 243,
+                "prev_eevp": 89,
+                "candidate_changes": {
+                  "bookerc": {
+                    "prev_votes": 108436,
+                    "num_additional_votes": 0
+                  },
+                  "mehtar": {
+                    "prev_votes": 48643,
+                    "num_additional_votes": 0
+                  },
+                  "hoffmanm": {
+                    "prev_votes": 1100,
+                    "num_additional_votes": 0
+                  },
+                  "fernandezv": {
+                    "prev_votes": 939,
+                    "num_additional_votes": 0
+                  },
+                  "burked": {
+                    "prev_votes": 227,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 83,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Middlesex",
+                "fips": "34023",
+                "num_additional_votes": 0,
+                "prev_votes": 337089,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 615,
+                "prev_eevp": 90,
+                "candidate_changes": {
+                  "bookerc": {
+                    "prev_votes": 204744,
+                    "num_additional_votes": 0
+                  },
+                  "mehtar": {
+                    "prev_votes": 124263,
+                    "num_additional_votes": 0
+                  },
+                  "hoffmanm": {
+                    "prev_votes": 3264,
+                    "num_additional_votes": 0
+                  },
+                  "fernandezv": {
+                    "prev_votes": 2662,
+                    "num_additional_votes": 0
+                  },
+                  "burked": {
+                    "prev_votes": 1802,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 354,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Monmouth",
+                "fips": "34025",
+                "num_additional_votes": 0,
+                "prev_votes": 367985,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 511,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bookerc": {
+                    "prev_votes": 171611,
+                    "num_additional_votes": 0
+                  },
+                  "mehtar": {
+                    "prev_votes": 189425,
+                    "num_additional_votes": 0
+                  },
+                  "hoffmanm": {
+                    "prev_votes": 4397,
+                    "num_additional_votes": 0
+                  },
+                  "fernandezv": {
+                    "prev_votes": 1645,
+                    "num_additional_votes": 0
+                  },
+                  "burked": {
+                    "prev_votes": 863,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 44,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Morris",
+                "fips": "34027",
+                "num_additional_votes": 2212,
+                "prev_votes": 282093,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 1,
+                "prev_precincts": 396,
+                "prev_eevp": 98,
+                "candidate_changes": {
+                  "bookerc": {
+                    "prev_votes": 141351,
+                    "num_additional_votes": 1028
+                  },
+                  "mehtar": {
+                    "prev_votes": 137223,
+                    "num_additional_votes": 1134
+                  },
+                  "hoffmanm": {
+                    "prev_votes": 1656,
+                    "num_additional_votes": 21
+                  },
+                  "fernandezv": {
+                    "prev_votes": 1083,
+                    "num_additional_votes": 21
+                  },
+                  "burked": {
+                    "prev_votes": 530,
+                    "num_additional_votes": 7
+                  },
+                  "write-ins": {
+                    "prev_votes": 250,
+                    "num_additional_votes": 1
+                  }
+                }
+              },
+              {
+                "name": "Ocean",
+                "fips": "34029",
+                "num_additional_votes": 0,
+                "prev_votes": 310062,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 413,
+                "prev_eevp": 98,
+                "candidate_changes": {
+                  "bookerc": {
+                    "prev_votes": 109833,
+                    "num_additional_votes": 0
+                  },
+                  "mehtar": {
+                    "prev_votes": 194849,
+                    "num_additional_votes": 0
+                  },
+                  "hoffmanm": {
+                    "prev_votes": 2555,
+                    "num_additional_votes": 0
+                  },
+                  "fernandezv": {
+                    "prev_votes": 1987,
+                    "num_additional_votes": 0
+                  },
+                  "burked": {
+                    "prev_votes": 485,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 353,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Passaic",
+                "fips": "34031",
+                "num_additional_votes": 0,
+                "prev_votes": 201349,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 284,
+                "prev_eevp": 90,
+                "candidate_changes": {
+                  "bookerc": {
+                    "prev_votes": 120016,
+                    "num_additional_votes": 0
+                  },
+                  "mehtar": {
+                    "prev_votes": 75666,
+                    "num_additional_votes": 0
+                  },
+                  "fernandezv": {
+                    "prev_votes": 2436,
+                    "num_additional_votes": 0
+                  },
+                  "hoffmanm": {
+                    "prev_votes": 2286,
+                    "num_additional_votes": 0
+                  },
+                  "burked": {
+                    "prev_votes": 805,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 140,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Salem",
+                "fips": "34033",
+                "num_additional_votes": 0,
+                "prev_votes": 32009,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 45,
+                "prev_eevp": 94,
+                "candidate_changes": {
+                  "bookerc": {
+                    "prev_votes": 13746,
+                    "num_additional_votes": 0
+                  },
+                  "mehtar": {
+                    "prev_votes": 17209,
+                    "num_additional_votes": 0
+                  },
+                  "hoffmanm": {
+                    "prev_votes": 481,
+                    "num_additional_votes": 0
+                  },
+                  "fernandezv": {
+                    "prev_votes": 365,
+                    "num_additional_votes": 0
+                  },
+                  "burked": {
+                    "prev_votes": 161,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 47,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Somerset",
+                "fips": "34035",
+                "num_additional_votes": 0,
+                "prev_votes": 172116,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 265,
+                "prev_eevp": 95,
+                "candidate_changes": {
+                  "bookerc": {
+                    "prev_votes": 98721,
+                    "num_additional_votes": 0
+                  },
+                  "mehtar": {
+                    "prev_votes": 71017,
+                    "num_additional_votes": 0
+                  },
+                  "hoffmanm": {
+                    "prev_votes": 1455,
+                    "num_additional_votes": 0
+                  },
+                  "fernandezv": {
+                    "prev_votes": 559,
+                    "num_additional_votes": 0
+                  },
+                  "burked": {
+                    "prev_votes": 236,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 128,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Sussex",
+                "fips": "34037",
+                "num_additional_votes": 0,
+                "prev_votes": 86310,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 119,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bookerc": {
+                    "prev_votes": 33853,
+                    "num_additional_votes": 0
+                  },
+                  "mehtar": {
+                    "prev_votes": 49763,
+                    "num_additional_votes": 0
+                  },
+                  "hoffmanm": {
+                    "prev_votes": 1645,
+                    "num_additional_votes": 0
+                  },
+                  "fernandezv": {
+                    "prev_votes": 626,
+                    "num_additional_votes": 0
+                  },
+                  "burked": {
+                    "prev_votes": 242,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 181,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Union",
+                "fips": "34039",
+                "num_additional_votes": 0,
+                "prev_votes": 231630,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 431,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bookerc": {
+                    "prev_votes": 154870,
+                    "num_additional_votes": 0
+                  },
+                  "mehtar": {
+                    "prev_votes": 73001,
+                    "num_additional_votes": 0
+                  },
+                  "fernandezv": {
+                    "prev_votes": 1647,
+                    "num_additional_votes": 0
+                  },
+                  "hoffmanm": {
+                    "prev_votes": 1477,
+                    "num_additional_votes": 0
+                  },
+                  "burked": {
+                    "prev_votes": 462,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 173,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Warren",
+                "fips": "34041",
+                "num_additional_votes": 0,
+                "prev_votes": 56933,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 22,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bookerc": {
+                    "prev_votes": 23071,
+                    "num_additional_votes": 0
+                  },
+                  "mehtar": {
+                    "prev_votes": 32279,
+                    "num_additional_votes": 0
+                  },
+                  "hoffmanm": {
+                    "prev_votes": 883,
+                    "num_additional_votes": 0
+                  },
+                  "fernandezv": {
+                    "prev_votes": 442,
+                    "num_additional_votes": 0
+                  },
+                  "burked": {
+                    "prev_votes": 175,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 83,
+                    "num_additional_votes": 0
+                  }
+                }
+              }
+            ]
+          }
         },
         "winnerCalledTimestamp": 1604451701592,
         "timeseries": [
@@ -5800,6 +7880,16 @@
             "eevp": 94,
             "eevp_source": "edison",
             "timestamp": "2020-11-17T20:18:52Z"
+          },
+          {
+            "vote_shares": {
+              "bookerc": 0.569,
+              "mehtar": 0.412
+            },
+            "votes": 4240855,
+            "eevp": 94,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-17T21:30:57Z"
           }
         ]
       },
@@ -9340,7 +11430,7 @@
         "result_source": "NYT",
         "gain": false,
         "lost_seat": "",
-        "votes": 419414,
+        "votes": 419994,
         "absentee_votes": 150779,
         "absentee_counties": 3,
         "absentee_count_progress": "unknown",
@@ -9353,7 +11443,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 598,
+        "precincts_reporting": 599,
         "precincts_total": 622,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -9365,7 +11455,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-16T21:49:46Z",
+        "last_updated": "2020-11-17T21:31:00Z",
         "candidates": [
           {
             "candidate_id": "malinowski-20005-31-h",
@@ -9378,7 +11468,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 212003,
+            "votes": 212284,
             "percent": 50.5,
             "percent_display": "50.5",
             "electoral_votes": 0,
@@ -9399,7 +11489,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 207411,
+            "votes": 207710,
             "percent": 49.5,
             "percent_display": "49.5",
             "electoral_votes": 0,
@@ -9411,8 +11501,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 1.09486,
-        "leader_margin_votes": 4592,
+        "leader_margin_value": 1.08906,
+        "leader_margin_votes": 4574,
         "leader_margin_display": "D+1.1",
         "leader_margin_name_display": "Malinowski +1.1",
         "leader_party_id": "democrat",
@@ -9486,9 +11576,9 @@
           {
             "fips": "34027",
             "name": "Morris",
-            "votes": 67920,
+            "votes": 68500,
             "absentee_votes": 0,
-            "reporting": 92,
+            "reporting": 93,
             "precincts": 94,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
             "eevp": 99,
@@ -9503,14 +11593,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "keant": 36289,
-              "malinowskit": 31631
+              "keant": 36588,
+              "malinowskit": 31912
             },
             "results_absentee": {
               "keant": 0,
               "malinowskit": 0
             },
-            "last_updated": "2020-11-16T20:43:44Z",
+            "last_updated": "2020-11-17T21:30:57Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -9640,12 +11730,12 @@
             "sentence_type": "has_eevp"
           },
           "eevp_leadin": {
-            "sentence": "We just received 2,278 additional votes from New Jersey. Malinowski is currently up by 4,592 votes.",
-            "timestamp": 1605563584556,
-            "is_new": false,
+            "sentence": "We just received 580 additional votes from New Jersey. Malinowski is currently up by 4,574 votes.",
+            "timestamp": 1605648730251,
+            "is_new": true,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received 2,278 additional votes from New Jersey. Malinowski is currently up by 4,592 votes.",
+            "generatedText": "We just received 580 additional votes from New Jersey. Malinowski is currently up by 4,574 votes.",
             "sentence_type": "additional_votes_reported"
           }
         },
@@ -9659,11 +11749,234 @@
             "race_won": false,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
-            "additional_precincts_reported": false,
-            "has_eevp": true
+            "additional_votes_reported": true,
+            "additional_precincts_reported": true,
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": true,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": true,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": true,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": true,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": false,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 0,
+            "prev_eevp": 97,
+            "num_additional_votes": 580,
+            "prev_votes": 419414,
+            "num_additional_precincts": 1,
+            "prev_precincts": 598,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 0.2,
+            "prev_precinct_percentage_points": 96.1,
+            "lead_margin_change_votes": -18,
+            "lead_margin_change_percentage_points": 0,
+            "previous_leading_candidate": {
+              "candidate_id": "malinowski-20005-31-h",
+              "candidate_key": "malinowskit",
+              "first_name": "Tom",
+              "last_name": "Malinowski",
+              "order": 1,
+              "name_display": "Tom Malinowski",
+              "party_id": "democrat",
+              "incumbent": true,
+              "runoff": false,
+              "winner": false,
+              "votes": 212003,
+              "percent": 50.5,
+              "percent_display": "50.5",
+              "electoral_votes": 0,
+              "absentee_votes": 78561,
+              "absentee_percent": 52.1,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/malinowski-20005-31-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "previous_second_candidate": {
+              "candidate_id": "kean-56741-31-h",
+              "candidate_key": "kean_t",
+              "first_name": "Thomas",
+              "last_name": "Kean ",
+              "order": 2,
+              "name_display": "Thomas Kean ",
+              "party_id": "republican",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 207411,
+              "percent": 49.5,
+              "percent_display": "49.5",
+              "electoral_votes": 0,
+              "absentee_votes": 72218,
+              "absentee_percent": 47.9,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/kean-56741-31-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "kean-56741-31-h",
+                "num_additional_votes": 299,
+                "prev_votes": 207411,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 49.5
+              },
+              {
+                "candidate_id": "malinowski-20005-31-h",
+                "num_additional_votes": 281,
+                "prev_votes": 212003,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 50.5
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [],
+            "change_by_county": [
+              {
+                "name": "Essex",
+                "fips": "34013",
+                "num_additional_votes": 0,
+                "prev_votes": 11079,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 18,
+                "prev_eevp": 96,
+                "candidate_changes": {
+                  "malinowskit": {
+                    "prev_votes": 7364,
+                    "num_additional_votes": 0
+                  },
+                  "keant": {
+                    "prev_votes": 3715,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Hunterdon",
+                "fips": "34019",
+                "num_additional_votes": 0,
+                "prev_votes": 81500,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 116,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "keant": {
+                    "prev_votes": 45457,
+                    "num_additional_votes": 0
+                  },
+                  "malinowskit": {
+                    "prev_votes": 36043,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Morris",
+                "fips": "34027",
+                "num_additional_votes": 580,
+                "prev_votes": 67920,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 94,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "keant": {
+                    "prev_votes": 36289,
+                    "num_additional_votes": 299
+                  },
+                  "malinowskit": {
+                    "prev_votes": 31631,
+                    "num_additional_votes": 281
+                  }
+                }
+              },
+              {
+                "name": "Somerset",
+                "fips": "34035",
+                "num_additional_votes": 0,
+                "prev_votes": 130612,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 199,
+                "prev_eevp": 95,
+                "candidate_changes": {
+                  "malinowskit": {
+                    "prev_votes": 69133,
+                    "num_additional_votes": 0
+                  },
+                  "keant": {
+                    "prev_votes": 61479,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Union",
+                "fips": "34039",
+                "num_additional_votes": 0,
+                "prev_votes": 108988,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 187,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "malinowskit": {
+                    "prev_votes": 59550,
+                    "num_additional_votes": 0
+                  },
+                  "keant": {
+                    "prev_votes": 49438,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Warren",
+                "fips": "34041",
+                "num_additional_votes": 0,
+                "prev_votes": 19315,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 8,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "keant": {
+                    "prev_votes": 11033,
+                    "num_additional_votes": 0
+                  },
+                  "malinowskit": {
+                    "prev_votes": 8282,
+                    "num_additional_votes": 0
+                  }
+                }
+              }
+            ]
+          }
         },
         "winnerCalledTimestamp": null,
         "timeseries": [
@@ -10176,6 +12489,16 @@
             "eevp": 97,
             "eevp_source": "edison",
             "timestamp": "2020-11-16T21:49:46Z"
+          },
+          {
+            "vote_shares": {
+              "malinowskit": 0.505,
+              "kean_t": 0.495
+            },
+            "votes": 419994,
+            "eevp": 97,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-17T21:31:00Z"
           }
         ]
       },
@@ -11855,7 +14178,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 424317,
+        "votes": 425939,
         "absentee_votes": 74087,
         "absentee_counties": 2,
         "absentee_count_progress": "unknown",
@@ -11868,7 +14191,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 586,
+        "precincts_reporting": 588,
         "precincts_total": 613,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -11880,7 +14203,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-16T20:43:49Z",
+        "last_updated": "2020-11-17T21:31:00Z",
         "candidates": [
           {
             "candidate_id": "sherrill-20014-31-h",
@@ -11893,7 +14216,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 226331,
+            "votes": 227074,
             "percent": 53.3,
             "percent_display": "53.3",
             "electoral_votes": 0,
@@ -11914,7 +14237,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 197986,
+            "votes": 198865,
             "percent": 46.7,
             "percent_display": "46.7",
             "electoral_votes": 0,
@@ -11926,8 +14249,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 6.68015,
-        "leader_margin_votes": 28345,
+        "leader_margin_value": 6.62278,
+        "leader_margin_votes": 28209,
         "leader_margin_display": "D+7",
         "leader_margin_name_display": "Sherrill +7",
         "leader_party_id": "democrat",
@@ -11968,15 +14291,15 @@
           {
             "fips": "34027",
             "name": "Morris",
-            "votes": 215025,
+            "votes": 216647,
             "absentee_votes": 0,
-            "reporting": 293,
+            "reporting": 295,
             "precincts": 302,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 97,
+            "eevp": 98,
             "tot_exp_vote": 221529,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
+            "eevp_value": "98%",
+            "eevp_display": "98% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "unknown",
@@ -11985,15 +14308,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "sherrillm": 111539,
-              "becchir": 103486
+              "sherrillm": 112282,
+              "becchir": 104365
             },
             "results_absentee": {
               "sherrillm": 0,
               "becchir": 0
             },
-            "last_updated": "2020-11-16T20:43:43Z",
-            "leader_margin_value": 3.74515,
+            "last_updated": "2020-11-17T21:30:54Z",
+            "leader_margin_value": 3.65433,
             "leader_margin_display": "D+4",
             "leader_margin_name_display": "Sherrill +4",
             "leader_party_id": "democrat"
@@ -12108,11 +14431,194 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
-            "additional_precincts_reported": false,
-            "has_eevp": true
+            "additional_votes_reported": true,
+            "additional_precincts_reported": true,
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": false,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 0,
+            "prev_eevp": 96,
+            "num_additional_votes": 1622,
+            "prev_votes": 424317,
+            "num_additional_precincts": 2,
+            "prev_precincts": 586,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 0.3,
+            "prev_precinct_percentage_points": 95.6,
+            "lead_margin_change_votes": -136,
+            "lead_margin_change_percentage_points": 0,
+            "previous_leading_candidate": {
+              "candidate_id": "sherrill-20014-31-h",
+              "candidate_key": "sherrillm",
+              "first_name": "Mikie",
+              "last_name": "Sherrill",
+              "order": 1,
+              "name_display": "Mikie Sherrill",
+              "party_id": "democrat",
+              "incumbent": true,
+              "runoff": false,
+              "winner": true,
+              "votes": 226331,
+              "percent": 53.3,
+              "percent_display": "53.3",
+              "electoral_votes": 0,
+              "absentee_votes": 36279,
+              "absentee_percent": 49,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/sherrill-20014-31-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "previous_second_candidate": {
+              "candidate_id": "becchi-20073514-31-h",
+              "candidate_key": "becchir",
+              "first_name": "Rosemary",
+              "last_name": "Becchi",
+              "order": 2,
+              "name_display": "Rosemary Becchi",
+              "party_id": "republican",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 197986,
+              "percent": 46.7,
+              "percent_display": "46.7",
+              "electoral_votes": 0,
+              "absentee_votes": 37808,
+              "absentee_percent": 51,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/becchi-20073514-31-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "sherrill-20014-31-h",
+                "num_additional_votes": 743,
+                "prev_votes": 226331,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 53.3
+              },
+              {
+                "candidate_id": "becchi-20073514-31-h",
+                "num_additional_votes": 879,
+                "prev_votes": 197986,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 46.7
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [],
+            "change_by_county": [
+              {
+                "name": "Essex",
+                "fips": "34013",
+                "num_additional_votes": 0,
+                "prev_votes": 109099,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 176,
+                "prev_eevp": 95,
+                "candidate_changes": {
+                  "sherrillm": {
+                    "prev_votes": 67994,
+                    "num_additional_votes": 0
+                  },
+                  "becchir": {
+                    "prev_votes": 41105,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Morris",
+                "fips": "34027",
+                "num_additional_votes": 1622,
+                "prev_votes": 215025,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 1,
+                "prev_precincts": 302,
+                "prev_eevp": 97,
+                "candidate_changes": {
+                  "sherrillm": {
+                    "prev_votes": 111539,
+                    "num_additional_votes": 743
+                  },
+                  "becchir": {
+                    "prev_votes": 103486,
+                    "num_additional_votes": 879
+                  }
+                }
+              },
+              {
+                "name": "Passaic",
+                "fips": "34031",
+                "num_additional_votes": 0,
+                "prev_votes": 70861,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 94,
+                "prev_eevp": 94,
+                "candidate_changes": {
+                  "sherrillm": {
+                    "prev_votes": 33988,
+                    "num_additional_votes": 0
+                  },
+                  "becchir": {
+                    "prev_votes": 36873,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Sussex",
+                "fips": "34037",
+                "num_additional_votes": 0,
+                "prev_votes": 29332,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 41,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "sherrillm": {
+                    "prev_votes": 12810,
+                    "num_additional_votes": 0
+                  },
+                  "becchir": {
+                    "prev_votes": 16522,
+                    "num_additional_votes": 0
+                  }
+                }
+              }
+            ]
+          }
         },
         "winnerCalledTimestamp": 1604458227683,
         "timeseries": [
@@ -12445,6 +14951,16 @@
             "eevp": 96,
             "eevp_source": "edison",
             "timestamp": "2020-11-16T20:43:49Z"
+          },
+          {
+            "vote_shares": {
+              "sherrillm": 0.533,
+              "becchir": 0.467
+            },
+            "votes": 425939,
+            "eevp": 96,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-17T21:31:00Z"
           }
         ]
       },
@@ -15494,7 +18010,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 218,
-            "votes": 74829292,
+            "votes": 74832132,
             "percent": "50.3",
             "change": -7,
             "flip_count": 3,
@@ -15511,7 +18027,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 204,
-            "votes": 71777649,
+            "votes": 71785811,
             "percent": "48.3",
             "change": 8,
             "flip_count": 11,
@@ -15528,7 +18044,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2077187,
+            "votes": 2077748,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -15556,7 +18072,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 78958507,
+            "votes": 78963097,
             "percent": "50.9",
             "change": 0,
             "flip_count": 0,
@@ -15573,7 +18089,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73289552,
+            "votes": 73300625,
             "percent": "47.3",
             "change": 0,
             "flip_count": 0,
@@ -15590,7 +18106,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2810725,
+            "votes": 2811681,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -15622,7 +18138,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 41707356,
+            "votes": 41708384,
             "percent": "47.2",
             "change": 1,
             "flip_count": 2,
@@ -15639,7 +18155,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 43857928,
+            "votes": 43859069,
             "percent": "49.6",
             "change": -1,
             "flip_count": 1,
@@ -15656,7 +18172,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2887124,
+            "votes": 2887176,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -26722,9 +29238,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 854774,
-          "percent": 58,
-          "percent_display": "58.0",
+          "votes": 864654,
+          "percent": 58.1,
+          "percent_display": "58.1",
           "electoral_votes": 6,
           "absentee_votes": 306506,
           "absentee_percent": 48,
@@ -27798,9 +30314,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 907776,
-          "percent": 63.6,
-          "percent_display": "63.6",
+          "votes": 917561,
+          "percent": 63.7,
+          "percent_display": "63.7",
           "electoral_votes": 0,
           "absentee_votes": 371608,
           "absentee_percent": 54.7,
@@ -29398,7 +31914,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 759495,
+          "votes": 759502,
           "percent": 62.4,
           "percent_display": "62.4",
           "electoral_votes": 6,
@@ -29439,7 +31955,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 792619,
+          "votes": 792626,
           "percent": 66.5,
           "percent_display": "66.5",
           "electoral_votes": 0,
@@ -30026,9 +32542,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2414074,
-          "percent": 57,
-          "percent_display": "57.0",
+          "votes": 2415102,
+          "percent": 56.9,
+          "percent_display": "56.9",
           "electoral_votes": 0,
           "absentee_votes": 868079,
           "absentee_percent": 53.3,
@@ -30286,7 +32802,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2478859,
+          "votes": 2479945,
           "percent": 57,
           "percent_display": "57.0",
           "electoral_votes": 14,
@@ -31998,8 +34514,8 @@
     ]
   },
   "meta": {
-    "version": 18921,
+    "version": 18924,
     "track": "2020-11-03",
-    "timestamp": "2020-11-17T21:23:39.449Z"
+    "timestamp": "2020-11-17T21:32:18.405Z"
   }
 }
