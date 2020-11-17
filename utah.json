@@ -29,7 +29,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1469654,
+        "votes": 1470817,
         "electoral_votes": 6,
         "absentee_votes": 638509,
         "absentee_counties": 5,
@@ -55,7 +55,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T17:23:52Z",
+        "last_updated": "2020-11-17T17:50:55Z",
         "candidates": [
           {
             "candidate_id": "trump-8639",
@@ -68,7 +68,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 852687,
+            "votes": 853475,
             "percent": 58,
             "percent_display": "58.0",
             "electoral_votes": 6,
@@ -90,7 +90,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 555725,
+            "votes": 556059,
             "percent": 37.8,
             "percent_display": "37.8",
             "electoral_votes": 0,
@@ -112,7 +112,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 37768,
+            "votes": 37794,
             "percent": 2.6,
             "percent_display": "2.6",
             "electoral_votes": 0,
@@ -133,7 +133,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7082,
+            "votes": 7090,
             "percent": 0.5,
             "percent_display": "0.5",
             "electoral_votes": 0,
@@ -175,7 +175,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 4984,
+            "votes": 4989,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -196,7 +196,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 2581,
+            "votes": 2583,
             "percent": 0.2,
             "percent_display": "0.2",
             "electoral_votes": 0,
@@ -271,8 +271,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 20.20625,
-        "leader_margin_votes": 296962,
+        "leader_margin_value": 20.22114,
+        "leader_margin_votes": 297416,
         "leader_margin_display": "R+20",
         "leader_margin_name_display": "Trump +20",
         "leader_party_id": "republican",
@@ -1582,7 +1582,7 @@
           {
             "fips": "49051",
             "name": "Wasatch",
-            "votes": 17218,
+            "votes": 17579,
             "absentee_votes": 0,
             "reporting": 38,
             "precincts": 38,
@@ -1599,14 +1599,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "trumpd": 10542,
-              "bidenj": 6090,
-              "jorgensenj": 348,
-              "westk": 82,
+              "trumpd": 10795,
+              "bidenj": 6187,
+              "jorgensenj": 352,
+              "westk": 86,
               "blankenshipd": 53,
-              "hawkinsh": 44,
+              "hawkinsh": 45,
               "mchughj": 34,
-              "pierceb": 18,
+              "pierceb": 20,
               "la_rivag": 7
             },
             "results_absentee": {
@@ -1620,12 +1620,12 @@
               "pierceb": 0,
               "la_rivag": 0
             },
-            "last_updated": "2020-11-16T15:48:38Z",
-            "leader_margin_value": 25.85666,
+            "last_updated": "2020-11-17T17:50:50Z",
+            "leader_margin_value": 26.2131,
             "leader_margin_display": "R+26",
             "leader_margin_name_display": "Trump +26",
             "leader_party_id": "republican",
-            "margin2020": 25.85666,
+            "margin2020": 26.2131,
             "votes2016": 12266,
             "margin2016": 24.9,
             "votes2012": 9589,
@@ -1738,7 +1738,7 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 110601,
+            "votes": 111403,
             "absentee_votes": 0,
             "reporting": 154,
             "precincts": 154,
@@ -1755,11 +1755,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "trumpd": 65414,
-              "bidenj": 40458,
-              "jorgensenj": 2827,
-              "westk": 520,
-              "hawkinsh": 478,
+              "trumpd": 65949,
+              "bidenj": 40695,
+              "jorgensenj": 2849,
+              "westk": 524,
+              "hawkinsh": 482,
               "blankenshipd": 415,
               "pierceb": 250,
               "mchughj": 184,
@@ -1776,12 +1776,12 @@
               "mchughj": 0,
               "la_rivag": 0
             },
-            "last_updated": "2020-11-16T15:47:42Z",
-            "leader_margin_value": 22.56399,
+            "last_updated": "2020-11-17T17:50:50Z",
+            "leader_margin_value": 22.66905,
             "leader_margin_display": "R+23",
             "leader_margin_name_display": "Trump +23",
             "leader_party_id": "republican",
-            "margin2020": 22.56399,
+            "margin2020": 22.66905,
             "votes2016": 86006,
             "margin2016": 19.9,
             "votes2012": 75912,
@@ -1818,12 +1818,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from San Juan County.",
-            "timestamp": 1605633993889,
-            "is_new": false,
+            "sentence": "We just received more votes from Weber and Wasatch Counties.",
+            "timestamp": 1605635613923,
+            "is_new": true,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from San Juan County.",
+            "generatedText": "We just received more votes from Weber and Wasatch Counties.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -1855,11 +1855,1598 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
+            "additional_votes_reported": true,
             "additional_precincts_reported": false,
-            "has_eevp": true
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": false,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false,
+            "biden_takes_at_least_one_more_2016_trump_county": false,
+            "trump_takes_at_least_one_more_2016_clinton_county": false,
+            "at_least_one_county_flipped": false,
+            "at_least_one_county_just_flipped": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 0,
+            "prev_eevp": 99,
+            "num_additional_votes": 1163,
+            "prev_votes": 1469654,
+            "num_additional_precincts": 0,
+            "prev_precincts": 2183,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 0,
+            "prev_precinct_percentage_points": 99.8,
+            "lead_margin_change_votes": 454,
+            "lead_margin_change_percentage_points": 0,
+            "previous_leading_candidate": {
+              "candidate_id": "trump-8639",
+              "candidate_key": "trumpd",
+              "first_name": "Donald J.",
+              "last_name": "Trump",
+              "order": 3,
+              "name_display": "Donald J. Trump",
+              "party_id": "republican",
+              "incumbent": true,
+              "runoff": false,
+              "winner": true,
+              "votes": 852687,
+              "percent": 58,
+              "percent_display": "58.0",
+              "electoral_votes": 6,
+              "absentee_votes": 306506,
+              "absentee_percent": 48,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
+              "has_image": true,
+              "link": "https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html",
+              "pronoun": "he"
+            },
+            "previous_second_candidate": {
+              "candidate_id": "biden-1036",
+              "candidate_key": "bidenj",
+              "first_name": "Joseph R.",
+              "last_name": "Biden",
+              "order": 4,
+              "name_display": "Joseph R. Biden Jr.",
+              "party_id": "democrat",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 555725,
+              "percent": 37.8,
+              "percent_display": "37.8",
+              "electoral_votes": 0,
+              "absentee_votes": 308563,
+              "absentee_percent": 48.3,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/bidenj.png",
+              "has_image": true,
+              "link": "https://www.nytimes.com/interactive/2020/us/elections/joe-biden.html",
+              "pronoun": "he"
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "trump-8639",
+                "num_additional_votes": 788,
+                "prev_votes": 852687,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 58
+              },
+              {
+                "candidate_id": "biden-1036",
+                "num_additional_votes": 334,
+                "prev_votes": 555725,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 37.8
+              },
+              {
+                "candidate_id": "jorgensen-20062680-45-p",
+                "num_additional_votes": 26,
+                "prev_votes": 37768,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 2.6
+              },
+              {
+                "candidate_id": "west-20073902-45-p",
+                "num_additional_votes": 8,
+                "prev_votes": 7082,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0.5
+              },
+              {
+                "candidate_id": "blankenship-19247-45-p",
+                "num_additional_votes": 0,
+                "prev_votes": 5487,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0.4
+              },
+              {
+                "candidate_id": "hawkins-32916-45-p",
+                "num_additional_votes": 5,
+                "prev_votes": 4984,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0.3
+              },
+              {
+                "candidate_id": "pierce-20073903-45-p",
+                "num_additional_votes": 2,
+                "prev_votes": 2581,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0.2
+              },
+              {
+                "candidate_id": "mchugh-20073954-45-p",
+                "num_additional_votes": 0,
+                "prev_votes": 2194,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0.1
+              },
+              {
+                "candidate_id": "la-riva-254-45-p",
+                "num_additional_votes": 0,
+                "prev_votes": 1146,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0.1
+              },
+              {
+                "candidate_id": "write-ins-21303-45-p",
+                "num_additional_votes": 0,
+                "prev_votes": 0,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [],
+            "change_by_county": [
+              {
+                "name": "Beaver",
+                "fips": "49001",
+                "num_additional_votes": 0,
+                "prev_votes": 3100,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 9,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 2695,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 357,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 23,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 7,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 6,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 4,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 4,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 3,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 1,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Box Elder",
+                "fips": "49003",
+                "num_additional_votes": 0,
+                "prev_votes": 26955,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 53,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 21494,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 4461,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 613,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 133,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 112,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 55,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 36,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 33,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 18,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Cache",
+                "fips": "49005",
+                "num_additional_votes": 0,
+                "prev_votes": 57529,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 91,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 38029,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 16648,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 1796,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 351,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 230,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 217,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 106,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 98,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 54,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Carbon",
+                "fips": "49007",
+                "num_additional_votes": 0,
+                "prev_votes": 8822,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 20,
+                "prev_eevp": 94,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 6255,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 2306,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 138,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 42,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 22,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 21,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 18,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 17,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 3,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Daggett",
+                "fips": "49009",
+                "num_additional_votes": 0,
+                "prev_votes": 590,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 3,
+                "prev_eevp": 96,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 473,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 105,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 7,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 2,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 2,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 1,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 0,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 0,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 0,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Davis",
+                "fips": "49011",
+                "num_additional_votes": 0,
+                "prev_votes": 169653,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 224,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 104033,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 57356,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 5003,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 1012,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 826,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 596,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 380,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 329,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 118,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Duchesne",
+                "fips": "49013",
+                "num_additional_votes": 0,
+                "prev_votes": 8524,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 34,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 7513,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 843,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 107,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 21,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 18,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 9,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 6,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 4,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 3,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Emery",
+                "fips": "49015",
+                "num_additional_votes": 0,
+                "prev_votes": 4865,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 12,
+                "prev_eevp": 93,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 4207,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 572,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 47,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 15,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 8,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 6,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 4,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 4,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 2,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Garfield",
+                "fips": "49017",
+                "num_additional_votes": 0,
+                "prev_votes": 2732,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 11,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 2158,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 514,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 37,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 11,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 3,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 3,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 3,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 2,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 1,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Grand",
+                "fips": "49019",
+                "num_additional_votes": 0,
+                "prev_votes": 5027,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 18,
+                "prev_eevp": 94,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 2168,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 2733,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 61,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 22,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 18,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 13,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 6,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 5,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 1,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Iron",
+                "fips": "49021",
+                "num_additional_votes": 0,
+                "prev_votes": 23775,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 41,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 18143,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 4685,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 626,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 84,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 81,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 73,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 40,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 23,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 20,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Juab",
+                "fips": "49023",
+                "num_additional_votes": 0,
+                "prev_votes": 5884,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 10,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 5087,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 645,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 91,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 20,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 16,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 13,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 5,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 4,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 3,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 0,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Kane",
+                "fips": "49025",
+                "num_additional_votes": 0,
+                "prev_votes": 4180,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 12,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 2998,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 1083,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 51,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 16,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 15,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 8,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 7,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 2,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 0,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Millard",
+                "fips": "49027",
+                "num_additional_votes": 0,
+                "prev_votes": 5872,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 17,
+                "prev_eevp": 95,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 5145,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 603,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 61,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 25,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 16,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 11,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 5,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 5,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 1,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Morgan",
+                "fips": "49029",
+                "num_additional_votes": 0,
+                "prev_votes": 6254,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 15,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 4957,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 1060,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 155,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 33,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 21,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 13,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 10,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 5,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 0,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Piute",
+                "fips": "49031",
+                "num_additional_votes": 0,
+                "prev_votes": 871,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 5,
+                "prev_eevp": 94,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 773,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 86,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 7,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 3,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 1,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 1,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 0,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 0,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 0,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Rich",
+                "fips": "49033",
+                "num_additional_votes": 0,
+                "prev_votes": 1363,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 5,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 1157,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 180,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 14,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 4,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 3,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 2,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 2,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 1,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 0,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Salt Lake",
+                "fips": "49035",
+                "num_additional_votes": 0,
+                "prev_votes": 540758,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 788,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 230093,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 289793,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 12213,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 2589,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 2201,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 1570,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 946,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 774,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 579,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "San Juan",
+                "fips": "49037",
+                "num_additional_votes": 0,
+                "prev_votes": 6877,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 23,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 3535,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 3113,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 99,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 45,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 28,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 19,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 17,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 16,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 5,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Sanpete",
+                "fips": "49039",
+                "num_additional_votes": 0,
+                "prev_votes": 12455,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 29,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 10315,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 1773,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 213,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 50,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 38,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 20,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 20,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 19,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 7,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Sevier",
+                "fips": "49041",
+                "num_additional_votes": 0,
+                "prev_votes": 10362,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 23,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 9052,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 1084,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 133,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 31,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 28,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 14,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 13,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 4,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 3,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Summit",
+                "fips": "49043",
+                "num_additional_votes": 0,
+                "prev_votes": 25439,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 50,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 9928,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 14947,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 351,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 82,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 60,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 24,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 18,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 17,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 12,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Tooele",
+                "fips": "49045",
+                "num_additional_votes": 0,
+                "prev_votes": 31506,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 62,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 21014,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 8943,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 958,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 181,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 152,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 81,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 81,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 63,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 33,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Uintah",
+                "fips": "49047",
+                "num_additional_votes": 0,
+                "prev_votes": 15303,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 26,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 13261,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 1663,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 226,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 56,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 37,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 29,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 16,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 10,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 5,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Utah",
+                "fips": "49049",
+                "num_additional_votes": 0,
+                "prev_votes": 271126,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 294,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 183778,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 72739,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 9814,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 1581,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 1320,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 804,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 493,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 438,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 159,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Wasatch",
+                "fips": "49051",
+                "num_additional_votes": 361,
+                "prev_votes": 17218,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 38,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 10542,
+                    "num_additional_votes": 253
+                  },
+                  "bidenj": {
+                    "prev_votes": 6090,
+                    "num_additional_votes": 97
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 348,
+                    "num_additional_votes": 4
+                  },
+                  "westk": {
+                    "prev_votes": 82,
+                    "num_additional_votes": 4
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 53,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 44,
+                    "num_additional_votes": 1
+                  },
+                  "mchughj": {
+                    "prev_votes": 34,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 18,
+                    "num_additional_votes": 2
+                  },
+                  "la_rivag": {
+                    "prev_votes": 7,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Washington",
+                "fips": "49053",
+                "num_additional_votes": 0,
+                "prev_votes": 90392,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 113,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 67241,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 20520,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 1740,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 298,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 220,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 187,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 81,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 72,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 33,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Wayne",
+                "fips": "49055",
+                "num_additional_votes": 0,
+                "prev_votes": 1621,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 7,
+                "prev_eevp": 97,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 1229,
+                    "num_additional_votes": 0
+                  },
+                  "bidenj": {
+                    "prev_votes": 365,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 9,
+                    "num_additional_votes": 0
+                  },
+                  "westk": {
+                    "prev_votes": 7,
+                    "num_additional_votes": 0
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 3,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 3,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 2,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 2,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 1,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Weber",
+                "fips": "49057",
+                "num_additional_votes": 802,
+                "prev_votes": 110601,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 154,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "trumpd": {
+                    "prev_votes": 65414,
+                    "num_additional_votes": 535
+                  },
+                  "bidenj": {
+                    "prev_votes": 40458,
+                    "num_additional_votes": 237
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 2827,
+                    "num_additional_votes": 22
+                  },
+                  "westk": {
+                    "prev_votes": 520,
+                    "num_additional_votes": 4
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 478,
+                    "num_additional_votes": 4
+                  },
+                  "blankenshipd": {
+                    "prev_votes": 415,
+                    "num_additional_votes": 0
+                  },
+                  "pierceb": {
+                    "prev_votes": 250,
+                    "num_additional_votes": 0
+                  },
+                  "mchughj": {
+                    "prev_votes": 184,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 55,
+                    "num_additional_votes": 0
+                  }
+                }
+              }
+            ],
+            "total_estimated_votes_remaining_for_2016_clinton_counties": -47577,
+            "total_estimated_votes_remaining_for_2016_trump_counties": -80667,
+            "total_estimated_percentage_reporting_for_2016_clinton_counties": 1.0917376884809686,
+            "total_estimated_percentage_reporting_for_2016_trump_counties": 1.0979024289006776,
+            "estimated_percentage_remaining_clinton_2016_counties": 62,
+            "estimated_percentage_remaining_trump_2016_counties": 38,
+            "counties_flipped_to_biden": [],
+            "counties_just_flipped_to_biden": [],
+            "counties_flipped_to_trump": [],
+            "counties_just_flipped_to_trump": []
+          }
         },
         "winnerCalledTimestamp": 1604462923506,
         "timeseries": [
@@ -2572,6 +4159,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-17T17:23:52Z"
+          },
+          {
+            "vote_shares": {
+              "trumpd": 0.58,
+              "bidenj": 0.378
+            },
+            "votes": 1470817,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-17T17:50:55Z"
           }
         ]
       },
@@ -2603,7 +4200,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 340548,
+        "votes": 341254,
         "absentee_votes": 81821,
         "absentee_counties": 3,
         "absentee_count_progress": "unknown",
@@ -2628,7 +4225,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-16T22:57:49Z",
+        "last_updated": "2020-11-17T17:50:55Z",
         "candidates": [
           {
             "candidate_id": "moore-20073829-45-h",
@@ -2641,9 +4238,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 236855,
-            "percent": 69.6,
-            "percent_display": "69.6",
+            "votes": 237342,
+            "percent": 69.5,
+            "percent_display": "69.5",
             "electoral_votes": 0,
             "absentee_votes": 52816,
             "absentee_percent": 64.6,
@@ -2662,7 +4259,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 103652,
+            "votes": 103871,
             "percent": 30.4,
             "percent_display": "30.4",
             "electoral_votes": 0,
@@ -2695,8 +4292,8 @@
           }
         ],
         "has_incumbent": false,
-        "leader_margin_value": 39.11431,
-        "leader_margin_votes": 133203,
+        "leader_margin_value": 39.11192,
+        "leader_margin_votes": 133471,
         "leader_margin_display": "R+39",
         "leader_margin_name_display": "Moore +39",
         "leader_party_id": "republican",
@@ -3001,7 +4598,7 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 105859,
+            "votes": 106565,
             "absentee_votes": 67447,
             "reporting": 154,
             "precincts": 154,
@@ -3018,15 +4615,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mooreb": 68574,
-              "parryd": 37285
+              "mooreb": 69061,
+              "parryd": 37504
             },
             "results_absentee": {
               "mooreb": 41402,
               "parryd": 26045
             },
-            "last_updated": "2020-11-16T15:48:37Z",
-            "leader_margin_value": 29.55724,
+            "last_updated": "2020-11-17T17:50:50Z",
+            "leader_margin_value": 29.61291,
             "leader_margin_display": "R+30",
             "leader_margin_name_display": "Moore +30",
             "leader_party_id": "republican"
@@ -3075,11 +4672,323 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
+            "additional_votes_reported": true,
             "additional_precincts_reported": false,
-            "has_eevp": true
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": false,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 0,
+            "prev_eevp": 99,
+            "num_additional_votes": 706,
+            "prev_votes": 340548,
+            "num_additional_precincts": 0,
+            "prev_precincts": 569,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 0,
+            "prev_precinct_percentage_points": 99.6,
+            "lead_margin_change_votes": 268,
+            "lead_margin_change_percentage_points": -0.09999999999999432,
+            "previous_leading_candidate": {
+              "candidate_id": "moore-20073829-45-h",
+              "candidate_key": "mooreb",
+              "first_name": "Blake",
+              "last_name": "Moore",
+              "order": 2,
+              "name_display": "Blake Moore",
+              "party_id": "republican",
+              "incumbent": false,
+              "runoff": false,
+              "winner": true,
+              "votes": 236855,
+              "percent": 69.6,
+              "percent_display": "69.6",
+              "electoral_votes": 0,
+              "absentee_votes": 52816,
+              "absentee_percent": 64.6,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/moore-20073829-45-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "previous_second_candidate": {
+              "candidate_id": "parry-20073828-45-h",
+              "candidate_key": "parryd",
+              "first_name": "Darren",
+              "last_name": "Parry",
+              "order": 1,
+              "name_display": "Darren Parry",
+              "party_id": "democrat",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 103652,
+              "percent": 30.4,
+              "percent_display": "30.4",
+              "electoral_votes": 0,
+              "absentee_votes": 28964,
+              "absentee_percent": 35.4,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/parry-20073828-45-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "moore-20073829-45-h",
+                "num_additional_votes": 487,
+                "prev_votes": 236855,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": -0.1,
+                "prev_percent": 69.6
+              },
+              {
+                "candidate_id": "parry-20073828-45-h",
+                "num_additional_votes": 219,
+                "prev_votes": 103652,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 30.4
+              },
+              {
+                "candidate_id": "write-ins-21303-45-h",
+                "num_additional_votes": 0,
+                "prev_votes": 41,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [],
+            "change_by_county": [
+              {
+                "name": "Box Elder",
+                "fips": "49003",
+                "num_additional_votes": 0,
+                "prev_votes": 25398,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 53,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "mooreb": {
+                    "prev_votes": 20751,
+                    "num_additional_votes": 0
+                  },
+                  "parryd": {
+                    "prev_votes": 4647,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Cache",
+                "fips": "49005",
+                "num_additional_votes": 0,
+                "prev_votes": 54174,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 91,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "mooreb": {
+                    "prev_votes": 38145,
+                    "num_additional_votes": 0
+                  },
+                  "parryd": {
+                    "prev_votes": 16029,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Daggett",
+                "fips": "49009",
+                "num_additional_votes": 0,
+                "prev_votes": 545,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 3,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "mooreb": {
+                    "prev_votes": 451,
+                    "num_additional_votes": 0
+                  },
+                  "parryd": {
+                    "prev_votes": 94,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Davis",
+                "fips": "49011",
+                "num_additional_votes": 0,
+                "prev_votes": 101227,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 140,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "mooreb": {
+                    "prev_votes": 72476,
+                    "num_additional_votes": 0
+                  },
+                  "parryd": {
+                    "prev_votes": 28751,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Duchesne",
+                "fips": "49013",
+                "num_additional_votes": 0,
+                "prev_votes": 7883,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 34,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "mooreb": {
+                    "prev_votes": 7066,
+                    "num_additional_votes": 0
+                  },
+                  "parryd": {
+                    "prev_votes": 817,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Morgan",
+                "fips": "49029",
+                "num_additional_votes": 0,
+                "prev_votes": 6016,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 15,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "mooreb": {
+                    "prev_votes": 5079,
+                    "num_additional_votes": 0
+                  },
+                  "parryd": {
+                    "prev_votes": 937,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Rich",
+                "fips": "49033",
+                "num_additional_votes": 0,
+                "prev_votes": 1282,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 5,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "mooreb": {
+                    "prev_votes": 1078,
+                    "num_additional_votes": 0
+                  },
+                  "parryd": {
+                    "prev_votes": 204,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Summit",
+                "fips": "49043",
+                "num_additional_votes": 0,
+                "prev_votes": 23853,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 50,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "mooreb": {
+                    "prev_votes": 10569,
+                    "num_additional_votes": 0
+                  },
+                  "parryd": {
+                    "prev_votes": 13284,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Uintah",
+                "fips": "49047",
+                "num_additional_votes": 0,
+                "prev_votes": 14270,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 26,
+                "prev_eevp": 98,
+                "candidate_changes": {
+                  "mooreb": {
+                    "prev_votes": 12666,
+                    "num_additional_votes": 0
+                  },
+                  "parryd": {
+                    "prev_votes": 1604,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Weber",
+                "fips": "49057",
+                "num_additional_votes": 706,
+                "prev_votes": 105859,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 154,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "mooreb": {
+                    "prev_votes": 68574,
+                    "num_additional_votes": 487
+                  },
+                  "parryd": {
+                    "prev_votes": 37285,
+                    "num_additional_votes": 219
+                  }
+                }
+              }
+            ]
+          }
         },
         "winnerCalledTimestamp": 1604461679658,
         "timeseries": [
@@ -3478,6 +5387,17 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-16T22:57:49Z"
+          },
+          {
+            "vote_shares": {
+              "mooreb": 0.695,
+              "parryd": 0.304,
+              "write-ins": 0
+            },
+            "votes": 341254,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-17T17:50:55Z"
           }
         ]
       },
@@ -4707,7 +6627,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 349261,
+        "votes": 349582,
         "absentee_votes": 99683,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -4732,7 +6652,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-17T17:23:52Z",
+        "last_updated": "2020-11-17T17:50:55Z",
         "candidates": [
           {
             "candidate_id": "curtis-1479-45-h",
@@ -4745,7 +6665,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 239719,
+            "votes": 239948,
             "percent": 68.6,
             "percent_display": "68.6",
             "electoral_votes": 0,
@@ -4766,7 +6686,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 94157,
+            "votes": 94233,
             "percent": 27,
             "percent_display": "27.0",
             "electoral_votes": 0,
@@ -4787,7 +6707,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8569,
+            "votes": 8580,
             "percent": 2.5,
             "percent_display": "2.5",
             "electoral_votes": 0,
@@ -4808,7 +6728,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6816,
+            "votes": 6821,
             "percent": 2,
             "percent_display": "2.0",
             "electoral_votes": 0,
@@ -4820,8 +6740,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 41.67714,
-        "leader_margin_votes": 145562,
+        "leader_margin_value": 41.68264,
+        "leader_margin_votes": 145715,
         "leader_margin_display": "R+42",
         "leader_margin_name_display": "Curtis +42",
         "leader_party_id": "republican",
@@ -5051,7 +6971,7 @@
           {
             "fips": "49051",
             "name": "Wasatch",
-            "votes": 16425,
+            "votes": 16746,
             "absentee_votes": 0,
             "reporting": 38,
             "precincts": 38,
@@ -5068,10 +6988,10 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "curtisj": 11132,
-              "thorped": 4736,
-              "cummingsd": 378,
-              "mcneillt": 179
+              "curtisj": 11361,
+              "thorped": 4812,
+              "cummingsd": 389,
+              "mcneillt": 184
             },
             "results_absentee": {
               "curtisj": 0,
@@ -5079,8 +6999,8 @@
               "cummingsd": 0,
               "mcneillt": 0
             },
-            "last_updated": "2020-11-16T15:47:53Z",
-            "leader_margin_value": 38.94064,
+            "last_updated": "2020-11-17T17:50:49Z",
+            "leader_margin_value": 39.10785,
             "leader_margin_display": "R+39",
             "leader_margin_name_display": "Curtis +39",
             "leader_party_id": "republican"
@@ -5129,11 +7049,328 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
+            "additional_votes_reported": true,
             "additional_precincts_reported": false,
-            "has_eevp": true
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": false,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 0,
+            "prev_eevp": 99,
+            "num_additional_votes": 321,
+            "prev_votes": 349261,
+            "num_additional_precincts": 0,
+            "prev_precincts": 520,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 0,
+            "prev_precinct_percentage_points": 99.4,
+            "lead_margin_change_votes": 153,
+            "lead_margin_change_percentage_points": 0,
+            "previous_leading_candidate": {
+              "candidate_id": "curtis-1479-45-h",
+              "candidate_key": "curtisj",
+              "first_name": "John",
+              "last_name": "Curtis",
+              "order": 2,
+              "name_display": "John Curtis",
+              "party_id": "republican",
+              "incumbent": true,
+              "runoff": false,
+              "winner": true,
+              "votes": 239719,
+              "percent": 68.6,
+              "percent_display": "68.6",
+              "electoral_votes": 0,
+              "absentee_votes": 53934,
+              "absentee_percent": 54.1,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/curtis-1479-45-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "previous_second_candidate": {
+              "candidate_id": "thorpe-20073587-45-h",
+              "candidate_key": "thorped",
+              "first_name": "Devin",
+              "last_name": "Thorpe",
+              "order": 1,
+              "name_display": "Devin Thorpe",
+              "party_id": "democrat",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 94157,
+              "percent": 27,
+              "percent_display": "27.0",
+              "electoral_votes": 0,
+              "absentee_votes": 43188,
+              "absentee_percent": 43.3,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/thorpe-20073587-45-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "curtis-1479-45-h",
+                "num_additional_votes": 229,
+                "prev_votes": 239719,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 68.6
+              },
+              {
+                "candidate_id": "thorpe-20073587-45-h",
+                "num_additional_votes": 76,
+                "prev_votes": 94157,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 27
+              },
+              {
+                "candidate_id": "cummings-62703-45-h",
+                "num_additional_votes": 11,
+                "prev_votes": 8569,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 2.5
+              },
+              {
+                "candidate_id": "mcneill-20074044-45-h",
+                "num_additional_votes": 5,
+                "prev_votes": 6816,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 2
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [],
+            "change_by_county": [
+              {
+                "name": "Carbon",
+                "fips": "49007",
+                "num_additional_votes": 0,
+                "prev_votes": 8456,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 20,
+                "prev_eevp": 94,
+                "candidate_changes": {
+                  "curtisj": {
+                    "prev_votes": 6210,
+                    "num_additional_votes": 0
+                  },
+                  "thorped": {
+                    "prev_votes": 1990,
+                    "num_additional_votes": 0
+                  },
+                  "cummingsd": {
+                    "prev_votes": 159,
+                    "num_additional_votes": 0
+                  },
+                  "mcneillt": {
+                    "prev_votes": 97,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Emery",
+                "fips": "49015",
+                "num_additional_votes": 0,
+                "prev_votes": 4680,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 12,
+                "prev_eevp": 95,
+                "candidate_changes": {
+                  "curtisj": {
+                    "prev_votes": 4075,
+                    "num_additional_votes": 0
+                  },
+                  "thorped": {
+                    "prev_votes": 478,
+                    "num_additional_votes": 0
+                  },
+                  "cummingsd": {
+                    "prev_votes": 90,
+                    "num_additional_votes": 0
+                  },
+                  "mcneillt": {
+                    "prev_votes": 37,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Grand",
+                "fips": "49019",
+                "num_additional_votes": 0,
+                "prev_votes": 4787,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 18,
+                "prev_eevp": 96,
+                "candidate_changes": {
+                  "curtisj": {
+                    "prev_votes": 2273,
+                    "num_additional_votes": 0
+                  },
+                  "thorped": {
+                    "prev_votes": 2394,
+                    "num_additional_votes": 0
+                  },
+                  "cummingsd": {
+                    "prev_votes": 62,
+                    "num_additional_votes": 0
+                  },
+                  "mcneillt": {
+                    "prev_votes": 58,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Salt Lake",
+                "fips": "49035",
+                "num_additional_votes": 0,
+                "prev_votes": 104660,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 170,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "curtisj": {
+                    "prev_votes": 57506,
+                    "num_additional_votes": 0
+                  },
+                  "thorped": {
+                    "prev_votes": 44348,
+                    "num_additional_votes": 0
+                  },
+                  "cummingsd": {
+                    "prev_votes": 1487,
+                    "num_additional_votes": 0
+                  },
+                  "mcneillt": {
+                    "prev_votes": 1319,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "San Juan",
+                "fips": "49037",
+                "num_additional_votes": 0,
+                "prev_votes": 6387,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 23,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "curtisj": {
+                    "prev_votes": 3536,
+                    "num_additional_votes": 0
+                  },
+                  "thorped": {
+                    "prev_votes": 2498,
+                    "num_additional_votes": 0
+                  },
+                  "cummingsd": {
+                    "prev_votes": 208,
+                    "num_additional_votes": 0
+                  },
+                  "mcneillt": {
+                    "prev_votes": 145,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Utah",
+                "fips": "49049",
+                "num_additional_votes": 0,
+                "prev_votes": 203866,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 242,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "curtisj": {
+                    "prev_votes": 154987,
+                    "num_additional_votes": 0
+                  },
+                  "thorped": {
+                    "prev_votes": 37713,
+                    "num_additional_votes": 0
+                  },
+                  "cummingsd": {
+                    "prev_votes": 6185,
+                    "num_additional_votes": 0
+                  },
+                  "mcneillt": {
+                    "prev_votes": 4981,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Wasatch",
+                "fips": "49051",
+                "num_additional_votes": 321,
+                "prev_votes": 16425,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 38,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "curtisj": {
+                    "prev_votes": 11132,
+                    "num_additional_votes": 229
+                  },
+                  "thorped": {
+                    "prev_votes": 4736,
+                    "num_additional_votes": 76
+                  },
+                  "cummingsd": {
+                    "prev_votes": 378,
+                    "num_additional_votes": 11
+                  },
+                  "mcneillt": {
+                    "prev_votes": 179,
+                    "num_additional_votes": 5
+                  }
+                }
+              }
+            ]
+          }
         },
         "winnerCalledTimestamp": 1604475668148,
         "timeseries": [
@@ -5611,6 +7848,18 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-17T17:23:52Z"
+          },
+          {
+            "vote_shares": {
+              "curtisj": 0.686,
+              "thorped": 0.27,
+              "cummingsd": 0.025,
+              "mcneillt": 0.02
+            },
+            "votes": 349582,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-17T17:50:55Z"
           }
         ]
       },
@@ -6490,7 +8739,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1424914,
+        "votes": 1425976,
         "absentee_votes": 679835,
         "absentee_counties": 6,
         "absentee_count_progress": "unknown",
@@ -6515,7 +8764,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-17T17:23:52Z",
+        "last_updated": "2020-11-17T17:50:55Z",
         "candidates": [
           {
             "candidate_id": "cox-20073827-45-g",
@@ -6528,7 +8777,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 906028,
+            "votes": 906736,
             "percent": 63.6,
             "percent_display": "63.6",
             "electoral_votes": 0,
@@ -6549,7 +8798,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 439322,
+            "votes": 439596,
             "percent": 30.8,
             "percent_display": "30.8",
             "electoral_votes": 0,
@@ -6570,7 +8819,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 50420,
+            "votes": 50473,
             "percent": 3.5,
             "percent_display": "3.5",
             "electoral_votes": 0,
@@ -6591,7 +8840,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 25412,
+            "votes": 25439,
             "percent": 1.8,
             "percent_display": "1.8",
             "electoral_votes": 0,
@@ -6624,8 +8873,8 @@
           }
         ],
         "has_incumbent": false,
-        "leader_margin_value": 32.75327,
-        "leader_margin_votes": 466706,
+        "leader_margin_value": 32.75932,
+        "leader_margin_votes": 467140,
         "leader_margin_display": "R+33",
         "leader_margin_name_display": "Cox +33",
         "leader_party_id": "republican",
@@ -7566,7 +9815,7 @@
           {
             "fips": "49051",
             "name": "Wasatch",
-            "votes": 16763,
+            "votes": 17094,
             "absentee_votes": 0,
             "reporting": 38,
             "precincts": 38,
@@ -7583,10 +9832,10 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "coxs": 11238,
-              "petersonc": 4832,
-              "cottamd": 492,
-              "duerdeng": 201
+              "coxs": 11472,
+              "petersonc": 4911,
+              "cottamd": 509,
+              "duerdeng": 202
             },
             "results_absentee": {
               "coxs": 0,
@@ -7594,8 +9843,8 @@
               "cottamd": 0,
               "duerdeng": 0
             },
-            "last_updated": "2020-11-16T15:48:01Z",
-            "leader_margin_value": 38.21512,
+            "last_updated": "2020-11-17T17:50:50Z",
+            "leader_margin_value": 38.38189,
             "leader_margin_display": "R+38",
             "leader_margin_name_display": "Cox +38",
             "leader_party_id": "republican"
@@ -7679,7 +9928,7 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 106876,
+            "votes": 107607,
             "absentee_votes": 67875,
             "reporting": 154,
             "precincts": 154,
@@ -7696,10 +9945,10 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "coxs": 68330,
-              "petersonc": 32781,
-              "cottamd": 3891,
-              "duerdeng": 1874
+              "coxs": 68804,
+              "petersonc": 32976,
+              "cottamd": 3927,
+              "duerdeng": 1900
             },
             "results_absentee": {
               "coxs": 42042,
@@ -7707,8 +9956,8 @@
               "cottamd": 1806,
               "duerdeng": 926
             },
-            "last_updated": "2020-11-16T15:48:03Z",
-            "leader_margin_value": 33.26191,
+            "last_updated": "2020-11-17T17:50:50Z",
+            "leader_margin_value": 33.29523,
             "leader_margin_display": "R+33",
             "leader_margin_name_display": "Cox +33",
             "leader_party_id": "republican"
@@ -7738,12 +9987,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from San Juan County.",
-            "timestamp": 1605633993889,
-            "is_new": false,
+            "sentence": "We just received more votes from Weber and Wasatch Counties.",
+            "timestamp": 1605635613923,
+            "is_new": true,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from San Juan County.",
+            "generatedText": "We just received more votes from Weber and Wasatch Counties.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -7775,11 +10024,973 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
+            "additional_votes_reported": true,
             "additional_precincts_reported": false,
-            "has_eevp": true
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": false,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 0,
+            "prev_eevp": 99,
+            "num_additional_votes": 1062,
+            "prev_votes": 1424914,
+            "num_additional_precincts": 0,
+            "prev_precincts": 2176,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 0,
+            "prev_precinct_percentage_points": 99.5,
+            "lead_margin_change_votes": 434,
+            "lead_margin_change_percentage_points": 0,
+            "previous_leading_candidate": {
+              "candidate_id": "cox-20073827-45-g",
+              "candidate_key": "coxs",
+              "first_name": "Spencer",
+              "last_name": "Cox",
+              "order": 2,
+              "name_display": "Spencer Cox",
+              "party_id": "republican",
+              "incumbent": false,
+              "runoff": false,
+              "winner": true,
+              "votes": 906028,
+              "percent": 63.6,
+              "percent_display": "63.6",
+              "electoral_votes": 0,
+              "absentee_votes": 371608,
+              "absentee_percent": 54.7,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/cox-20073827-45-g.png",
+              "has_image": false,
+              "link": ""
+            },
+            "previous_second_candidate": {
+              "candidate_id": "peterson-20073748-45-g",
+              "candidate_key": "petersonc",
+              "first_name": "Chris",
+              "last_name": "Peterson",
+              "order": 1,
+              "name_display": "Chris Peterson",
+              "party_id": "democrat",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 439322,
+              "percent": 30.8,
+              "percent_display": "30.8",
+              "electoral_votes": 0,
+              "absentee_votes": 274891,
+              "absentee_percent": 40.4,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/peterson-20073748-45-g.png",
+              "has_image": false,
+              "link": ""
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "cox-20073827-45-g",
+                "num_additional_votes": 708,
+                "prev_votes": 906028,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 63.6
+              },
+              {
+                "candidate_id": "peterson-20073748-45-g",
+                "num_additional_votes": 274,
+                "prev_votes": 439322,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 30.8
+              },
+              {
+                "candidate_id": "cottam-20073749-45-g",
+                "num_additional_votes": 53,
+                "prev_votes": 50420,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 3.5
+              },
+              {
+                "candidate_id": "duerden-20442-45-g",
+                "num_additional_votes": 27,
+                "prev_votes": 25412,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 1.8
+              },
+              {
+                "candidate_id": "write-ins-21303-45-g",
+                "num_additional_votes": 0,
+                "prev_votes": 3732,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0.3
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [],
+            "change_by_county": [
+              {
+                "name": "Beaver",
+                "fips": "49001",
+                "num_additional_votes": 0,
+                "prev_votes": 2909,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 9,
+                "prev_eevp": 96,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 2468,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 291,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 102,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 48,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Box Elder",
+                "fips": "49003",
+                "num_additional_votes": 0,
+                "prev_votes": 25689,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 53,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 20602,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 3503,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 1032,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 552,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Cache",
+                "fips": "49005",
+                "num_additional_votes": 0,
+                "prev_votes": 55674,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 91,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 39949,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 12942,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 1948,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 835,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Carbon",
+                "fips": "49007",
+                "num_additional_votes": 0,
+                "prev_votes": 8513,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 20,
+                "prev_eevp": 91,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 6104,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 2017,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 246,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 146,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Daggett",
+                "fips": "49009",
+                "num_additional_votes": 0,
+                "prev_votes": 557,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 3,
+                "prev_eevp": 91,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 451,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 83,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 14,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 9,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Davis",
+                "fips": "49011",
+                "num_additional_votes": 0,
+                "prev_votes": 166900,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 224,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 115438,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 41076,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 6015,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 4371,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Duchesne",
+                "fips": "49013",
+                "num_additional_votes": 0,
+                "prev_votes": 8195,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 34,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 6046,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 911,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 724,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 306,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 208,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Emery",
+                "fips": "49015",
+                "num_additional_votes": 0,
+                "prev_votes": 4600,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 12,
+                "prev_eevp": 88,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 3918,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 489,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 105,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 88,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Garfield",
+                "fips": "49017",
+                "num_additional_votes": 0,
+                "prev_votes": 2645,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 11,
+                "prev_eevp": 96,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 2123,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 428,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 73,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 21,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Grand",
+                "fips": "49019",
+                "num_additional_votes": 0,
+                "prev_votes": 4872,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 18,
+                "prev_eevp": 91,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 2230,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 2442,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 147,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 53,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Iron",
+                "fips": "49021",
+                "num_additional_votes": 0,
+                "prev_votes": 22596,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 41,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 16900,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 3721,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 1348,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 627,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Juab",
+                "fips": "49023",
+                "num_additional_votes": 0,
+                "prev_votes": 5783,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 10,
+                "prev_eevp": 98,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 4606,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 470,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 277,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 219,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 211,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Kane",
+                "fips": "49025",
+                "num_additional_votes": 0,
+                "prev_votes": 3931,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 12,
+                "prev_eevp": 95,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 2802,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 918,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 140,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 71,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Millard",
+                "fips": "49027",
+                "num_additional_votes": 0,
+                "prev_votes": 5154,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 17,
+                "prev_eevp": 83,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 4327,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 496,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 169,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 162,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Morgan",
+                "fips": "49029",
+                "num_additional_votes": 0,
+                "prev_votes": 6067,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 15,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 4980,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 750,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 219,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 118,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Piute",
+                "fips": "49031",
+                "num_additional_votes": 0,
+                "prev_votes": 800,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 5,
+                "prev_eevp": 87,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 672,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 65,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 36,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 27,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Rich",
+                "fips": "49033",
+                "num_additional_votes": 0,
+                "prev_votes": 1283,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 5,
+                "prev_eevp": 98,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 1081,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 158,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 28,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 16,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Salt Lake",
+                "fips": "49035",
+                "num_additional_votes": 0,
+                "prev_votes": 526372,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 788,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 266094,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 238161,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 15985,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 6132,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "San Juan",
+                "fips": "49037",
+                "num_additional_votes": 0,
+                "prev_votes": 6512,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 23,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 3477,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 2642,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 258,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 135,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Sanpete",
+                "fips": "49039",
+                "num_additional_votes": 0,
+                "prev_votes": 12089,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 29,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 9961,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 973,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 438,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 368,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 349,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Sevier",
+                "fips": "49041",
+                "num_additional_votes": 0,
+                "prev_votes": 9805,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 23,
+                "prev_eevp": 96,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 8364,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 882,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 288,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 271,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Summit",
+                "fips": "49043",
+                "num_additional_votes": 0,
+                "prev_votes": 24541,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 50,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 10966,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 12823,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 552,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 200,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Tooele",
+                "fips": "49045",
+                "num_additional_votes": 0,
+                "prev_votes": 30396,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 62,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 21293,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 7058,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 1383,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 662,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Uintah",
+                "fips": "49047",
+                "num_additional_votes": 0,
+                "prev_votes": 14303,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 26,
+                "prev_eevp": 95,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 9935,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 2106,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 1433,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 481,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 348,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Utah",
+                "fips": "49049",
+                "num_additional_votes": 0,
+                "prev_votes": 264835,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 294,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 199479,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 50155,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 10121,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 5080,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Wasatch",
+                "fips": "49051",
+                "num_additional_votes": 331,
+                "prev_votes": 16763,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 38,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 11238,
+                    "num_additional_votes": 234
+                  },
+                  "petersonc": {
+                    "prev_votes": 4832,
+                    "num_additional_votes": 79
+                  },
+                  "cottamd": {
+                    "prev_votes": 492,
+                    "num_additional_votes": 17
+                  },
+                  "duerdeng": {
+                    "prev_votes": 201,
+                    "num_additional_votes": 1
+                  }
+                }
+              },
+              {
+                "name": "Washington",
+                "fips": "49053",
+                "num_additional_votes": 0,
+                "prev_votes": 84717,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 113,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 61079,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 16688,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 4431,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 2519,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Wayne",
+                "fips": "49055",
+                "num_additional_votes": 0,
+                "prev_votes": 1537,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 7,
+                "prev_eevp": 92,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 1115,
+                    "num_additional_votes": 0
+                  },
+                  "petersonc": {
+                    "prev_votes": 321,
+                    "num_additional_votes": 0
+                  },
+                  "cottamd": {
+                    "prev_votes": 55,
+                    "num_additional_votes": 0
+                  },
+                  "duerdeng": {
+                    "prev_votes": 46,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 0,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Weber",
+                "fips": "49057",
+                "num_additional_votes": 731,
+                "prev_votes": 106876,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 154,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "coxs": {
+                    "prev_votes": 68330,
+                    "num_additional_votes": 474
+                  },
+                  "petersonc": {
+                    "prev_votes": 32781,
+                    "num_additional_votes": 195
+                  },
+                  "cottamd": {
+                    "prev_votes": 3891,
+                    "num_additional_votes": 36
+                  },
+                  "duerdeng": {
+                    "prev_votes": 1874,
+                    "num_additional_votes": 26
+                  }
+                }
+              }
+            ]
+          }
         },
         "winnerCalledTimestamp": 1604458872909,
         "timeseries": [
@@ -8887,6 +12098,19 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-17T17:23:52Z"
+          },
+          {
+            "vote_shares": {
+              "coxs": 0.636,
+              "petersonc": 0.308,
+              "cottamd": 0.035,
+              "duerdeng": 0.018,
+              "write-ins": 0.003
+            },
+            "votes": 1425976,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-17T17:50:55Z"
           }
         ]
       },
@@ -8917,7 +12141,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1434286,
+        "votes": 1435359,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -8942,7 +12166,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T17:24:28.400Z",
+        "last_updated": "2020-11-17T17:50:36.430Z",
         "candidates": [
           {
             "candidate_id": "reyes-50534",
@@ -8955,7 +12179,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 867065,
+            "votes": 867788,
             "percent": 60.5,
             "percent_display": "60.5",
             "electoral_votes": 0,
@@ -8976,7 +12200,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 486130,
+            "votes": 486398,
             "percent": 33.9,
             "percent_display": "33.9",
             "electoral_votes": 0,
@@ -8997,7 +12221,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 81091,
+            "votes": 81173,
             "percent": 5.7,
             "percent_display": "5.7",
             "electoral_votes": 0,
@@ -9788,7 +13012,7 @@
           {
             "fips": "49051",
             "name": "Wasatch",
-            "votes": 16753,
+            "votes": 17092,
             "absentee_votes": 0,
             "reporting": 40,
             "precincts": 40,
@@ -9805,16 +13029,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "reyess": 10625,
-              "skordasg": 5345,
-              "bautistar": 783
+              "reyess": 10862,
+              "skordasg": 5421,
+              "bautistar": 809
             },
             "results_absentee": {
               "reyess": 0,
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-12T23:00:50.773Z"
+            "last_updated": "2020-11-17T17:50:36.430Z"
           },
           {
             "fips": "49053",
@@ -9881,7 +13105,7 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 108517,
+            "votes": 109251,
             "absentee_votes": 0,
             "reporting": 190,
             "precincts": 190,
@@ -9898,16 +13122,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "reyess": 66104,
-              "skordasg": 35668,
-              "bautistar": 6745
+              "reyess": 66590,
+              "skordasg": 35860,
+              "bautistar": 6801
             },
             "results_absentee": {
               "reyess": 0,
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-13T23:02:32.320Z"
+            "last_updated": "2020-11-17T17:50:36.430Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -10711,7 +13935,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 48024,
+        "votes": 48314,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -10737,7 +13961,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-13T23:02:32.320Z",
+        "last_updated": "2020-11-17T17:50:36.430Z",
         "candidates": [
           {
             "candidate_id": "johnson-51152",
@@ -10750,7 +13974,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 27375,
+            "votes": 27554,
             "percent": 57,
             "percent_display": "57.0",
             "electoral_votes": 0,
@@ -10771,7 +13995,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 20649,
+            "votes": 20760,
             "percent": 43,
             "percent_display": "43.0",
             "electoral_votes": 0,
@@ -12000,7 +15224,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 18553,
+        "votes": 18662,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -12026,7 +15250,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-13T23:02:32.320Z",
+        "last_updated": "2020-11-17T17:50:36.430Z",
         "candidates": [
           {
             "candidate_id": "wilcox-50009",
@@ -12039,7 +15263,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 11977,
+            "votes": 12055,
             "percent": 64.6,
             "percent_display": "64.6",
             "electoral_votes": 0,
@@ -12060,7 +15284,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6576,
+            "votes": 6607,
             "percent": 35.4,
             "percent_display": "35.4",
             "electoral_votes": 0,
@@ -12104,7 +15328,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 17535,
+        "votes": 17667,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -12130,7 +15354,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-13T23:02:32.320Z",
+        "last_updated": "2020-11-17T17:50:36.430Z",
         "candidates": [
           {
             "candidate_id": "waldrip-51000",
@@ -12143,7 +15367,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 9997,
+            "votes": 10067,
             "percent": 57,
             "percent_display": "57.0",
             "electoral_votes": 0,
@@ -12164,7 +15388,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7538,
+            "votes": 7600,
             "percent": 43,
             "percent_display": "43.0",
             "electoral_votes": 0,
@@ -12208,7 +15432,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 14296,
+        "votes": 14425,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -12234,7 +15458,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-13T23:02:32.320Z",
+        "last_updated": "2020-11-17T17:50:36.430Z",
         "candidates": [
           {
             "candidate_id": "musselman-51002",
@@ -12247,7 +15471,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 8343,
+            "votes": 8426,
             "percent": 58.4,
             "percent_display": "58.4",
             "electoral_votes": 0,
@@ -12268,7 +15492,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 5953,
+            "votes": 5999,
             "percent": 41.6,
             "percent_display": "41.6",
             "electoral_votes": 0,
@@ -12312,7 +15536,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 13793,
+        "votes": 13825,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -12338,7 +15562,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-13T23:02:32.320Z",
+        "last_updated": "2020-11-17T17:50:36.430Z",
         "candidates": [
           {
             "candidate_id": "shurtliff-51005",
@@ -12351,9 +15575,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 7042,
-            "percent": 51.1,
-            "percent_display": "51.1",
+            "votes": 7054,
+            "percent": 51,
+            "percent_display": "51.0",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -12372,9 +15596,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6751,
-            "percent": 48.9,
-            "percent_display": "48.9",
+            "votes": 6771,
+            "percent": 49,
+            "percent_display": "49.0",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -12416,7 +15640,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 18156,
+        "votes": 18230,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -12442,7 +15666,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-16T22:57:11.400Z",
+        "last_updated": "2020-11-17T17:50:36.430Z",
         "candidates": [
           {
             "candidate_id": "miles-50870",
@@ -12455,7 +15679,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 10949,
+            "votes": 10993,
             "percent": 60.3,
             "percent_display": "60.3",
             "electoral_votes": 0,
@@ -12476,7 +15700,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7207,
+            "votes": 7237,
             "percent": 39.7,
             "percent_display": "39.7",
             "electoral_votes": 0,
@@ -12520,7 +15744,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 17343,
+        "votes": 17461,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -12546,7 +15770,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-16T22:57:11.400Z",
+        "last_updated": "2020-11-17T17:50:36.430Z",
         "candidates": [
           {
             "candidate_id": "schultz-50703",
@@ -12559,7 +15783,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 13385,
+            "votes": 13478,
             "percent": 77.2,
             "percent_display": "77.2",
             "electoral_votes": 0,
@@ -12580,7 +15804,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 3958,
+            "votes": 3983,
             "percent": 22.8,
             "percent_display": "22.8",
             "electoral_votes": 0,
@@ -14288,7 +17512,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 22089,
+        "votes": 22187,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -14314,7 +17538,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-13T23:02:32.320Z",
+        "last_updated": "2020-11-17T17:50:36.430Z",
         "candidates": [
           {
             "candidate_id": "gwynn-51180",
@@ -14327,7 +17551,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 17355,
+            "votes": 17444,
             "percent": 78.6,
             "percent_display": "78.6",
             "electoral_votes": 0,
@@ -14348,7 +17572,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 4045,
+            "votes": 4052,
             "percent": 18.3,
             "percent_display": "18.3",
             "electoral_votes": 0,
@@ -14369,7 +17593,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 689,
+            "votes": 691,
             "percent": 3.1,
             "percent_display": "3.1",
             "electoral_votes": 0,
@@ -17077,7 +20301,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 25722,
+        "votes": 26056,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -17103,7 +20327,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-12T23:00:50.773Z",
+        "last_updated": "2020-11-17T17:50:36.430Z",
         "candidates": [
           {
             "candidate_id": "kohler-51214",
@@ -17116,9 +20340,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 13946,
-            "percent": 54.2,
-            "percent_display": "54.2",
+            "votes": 14191,
+            "percent": 54.5,
+            "percent_display": "54.5",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -17137,9 +20361,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 11776,
-            "percent": 45.8,
-            "percent_display": "45.8",
+            "votes": 11865,
+            "percent": 45.5,
+            "percent_display": "45.5",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -19262,7 +22486,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1376189,
+        "votes": 1377157,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -19287,7 +22511,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T17:24:28.400Z",
+        "last_updated": "2020-11-17T17:50:36.430Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -19299,7 +22523,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 1102718,
+            "votes": 1103500,
             "percent": 80.1,
             "percent_display": "80.1",
             "electoral_votes": 0,
@@ -19319,7 +22543,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 273471,
+            "votes": 273657,
             "percent": 19.9,
             "percent_display": "19.9",
             "electoral_votes": 0,
@@ -20060,7 +23284,7 @@
           {
             "fips": "49051",
             "name": "Wasatch",
-            "votes": 16002,
+            "votes": 16312,
             "absentee_votes": 0,
             "reporting": 40,
             "precincts": 40,
@@ -20077,14 +23301,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 12759,
-              "against": 3243
+              "for": 12994,
+              "against": 3318
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-12T23:00:50.773Z"
+            "last_updated": "2020-11-17T17:50:36.430Z"
           },
           {
             "fips": "49053",
@@ -20147,7 +23371,7 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 104253,
+            "votes": 104911,
             "absentee_votes": 0,
             "reporting": 190,
             "precincts": 190,
@@ -20164,14 +23388,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 83154,
-              "against": 21099
+              "for": 83701,
+              "against": 21210
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T23:02:32.320Z"
+            "last_updated": "2020-11-17T17:50:36.430Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -20208,7 +23432,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1399388,
+        "votes": 1400363,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -20233,7 +23457,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T17:24:28.400Z",
+        "last_updated": "2020-11-17T17:50:36.430Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -20245,7 +23469,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 1127168,
+            "votes": 1127847,
             "percent": 80.5,
             "percent_display": "80.5",
             "electoral_votes": 0,
@@ -20265,7 +23489,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 272220,
+            "votes": 272516,
             "percent": 19.5,
             "percent_display": "19.5",
             "electoral_votes": 0,
@@ -21006,7 +24230,7 @@
           {
             "fips": "49051",
             "name": "Wasatch",
-            "votes": 16322,
+            "votes": 16631,
             "absentee_votes": 0,
             "reporting": 40,
             "precincts": 40,
@@ -21023,14 +24247,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 13310,
-              "against": 3012
+              "for": 13526,
+              "against": 3105
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-12T23:00:50.773Z"
+            "last_updated": "2020-11-17T17:50:36.430Z"
           },
           {
             "fips": "49053",
@@ -21093,7 +24317,7 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 105373,
+            "votes": 106039,
             "absentee_votes": 0,
             "reporting": 190,
             "precincts": 190,
@@ -21110,14 +24334,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 82299,
-              "against": 23074
+              "for": 82762,
+              "against": 23277
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T23:02:32.320Z"
+            "last_updated": "2020-11-17T17:50:36.430Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -21154,7 +24378,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1338728,
+        "votes": 1339664,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -21179,7 +24403,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T17:24:28.400Z",
+        "last_updated": "2020-11-17T17:50:36.430Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -21191,7 +24415,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 818571,
+            "votes": 819084,
             "percent": 61.1,
             "percent_display": "61.1",
             "electoral_votes": 0,
@@ -21211,7 +24435,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 520157,
+            "votes": 520580,
             "percent": 38.9,
             "percent_display": "38.9",
             "electoral_votes": 0,
@@ -21952,7 +25176,7 @@
           {
             "fips": "49051",
             "name": "Wasatch",
-            "votes": 15564,
+            "votes": 15859,
             "absentee_votes": 0,
             "reporting": 40,
             "precincts": 40,
@@ -21969,14 +25193,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 9042,
-              "against": 6522
+              "for": 9192,
+              "against": 6667
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-12T23:00:50.773Z"
+            "last_updated": "2020-11-17T17:50:36.430Z"
           },
           {
             "fips": "49053",
@@ -22039,7 +25263,7 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 102015,
+            "votes": 102656,
             "absentee_votes": 0,
             "reporting": 190,
             "precincts": 190,
@@ -22056,14 +25280,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 59956,
-              "against": 42059
+              "for": 60319,
+              "against": 42337
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T23:02:32.320Z"
+            "last_updated": "2020-11-17T17:50:36.430Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -22100,7 +25324,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1402897,
+        "votes": 1403911,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -22125,7 +25349,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T17:24:28.400Z",
+        "last_updated": "2020-11-17T17:50:36.430Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -22137,9 +25361,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 1050027,
-            "percent": 74.8,
-            "percent_display": "74.8",
+            "votes": 1050856,
+            "percent": 74.9,
+            "percent_display": "74.9",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -22157,9 +25381,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 352870,
-            "percent": 25.2,
-            "percent_display": "25.2",
+            "votes": 353055,
+            "percent": 25.1,
+            "percent_display": "25.1",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -22898,7 +26122,7 @@
           {
             "fips": "49051",
             "name": "Wasatch",
-            "votes": 16424,
+            "votes": 16744,
             "absentee_votes": 0,
             "reporting": 40,
             "precincts": 40,
@@ -22915,14 +26139,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 12436,
-              "against": 3988
+              "for": 12693,
+              "against": 4051
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-12T23:00:50.773Z"
+            "last_updated": "2020-11-17T17:50:36.430Z"
           },
           {
             "fips": "49053",
@@ -22985,7 +26209,7 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 106018,
+            "votes": 106712,
             "absentee_votes": 0,
             "reporting": 190,
             "precincts": 190,
@@ -23002,14 +26226,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 83770,
-              "against": 22248
+              "for": 84342,
+              "against": 22370
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T23:02:32.320Z"
+            "last_updated": "2020-11-17T17:50:36.430Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -23046,7 +26270,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1331676,
+        "votes": 1332595,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -23071,7 +26295,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T17:24:28.400Z",
+        "last_updated": "2020-11-17T17:50:36.430Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -23083,7 +26307,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 885922,
+            "votes": 886493,
             "percent": 66.5,
             "percent_display": "66.5",
             "electoral_votes": 0,
@@ -23103,7 +26327,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 445754,
+            "votes": 446102,
             "percent": 33.5,
             "percent_display": "33.5",
             "electoral_votes": 0,
@@ -23844,7 +27068,7 @@
           {
             "fips": "49051",
             "name": "Wasatch",
-            "votes": 15363,
+            "votes": 15653,
             "absentee_votes": 0,
             "reporting": 40,
             "precincts": 40,
@@ -23861,14 +27085,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 10325,
-              "against": 5038
+              "for": 10503,
+              "against": 5150
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-12T23:00:50.773Z"
+            "last_updated": "2020-11-17T17:50:36.430Z"
           },
           {
             "fips": "49053",
@@ -23931,7 +27155,7 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 101877,
+            "votes": 102506,
             "absentee_votes": 0,
             "reporting": 190,
             "precincts": 190,
@@ -23948,14 +27172,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 66927,
-              "against": 34950
+              "for": 67320,
+              "against": 35186
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T23:02:32.320Z"
+            "last_updated": "2020-11-17T17:50:36.430Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -23992,7 +27216,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1397476,
+        "votes": 1398462,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -24017,7 +27241,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T17:24:28.400Z",
+        "last_updated": "2020-11-17T17:50:36.430Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -24029,7 +27253,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 754921,
+            "votes": 755550,
             "percent": 54,
             "percent_display": "54.0",
             "electoral_votes": 0,
@@ -24049,7 +27273,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 642555,
+            "votes": 642912,
             "percent": 46,
             "percent_display": "46.0",
             "electoral_votes": 0,
@@ -24790,7 +28014,7 @@
           {
             "fips": "49051",
             "name": "Wasatch",
-            "votes": 16246,
+            "votes": 16559,
             "absentee_votes": 0,
             "reporting": 40,
             "precincts": 40,
@@ -24807,14 +28031,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 8860,
-              "against": 7386
+              "for": 9050,
+              "against": 7509
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-12T23:00:50.773Z"
+            "last_updated": "2020-11-17T17:50:36.430Z"
           },
           {
             "fips": "49053",
@@ -24877,7 +28101,7 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 105498,
+            "votes": 106171,
             "absentee_votes": 0,
             "reporting": 190,
             "precincts": 190,
@@ -24894,14 +28118,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 58739,
-              "against": 46759
+              "for": 59178,
+              "against": 46993
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T23:02:32.320Z"
+            "last_updated": "2020-11-17T17:50:36.430Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -24938,7 +28162,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1420046,
+        "votes": 1421062,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -24963,7 +28187,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T17:24:28.400Z",
+        "last_updated": "2020-11-17T17:50:36.430Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -24975,7 +28199,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 820844,
+            "votes": 821266,
             "percent": 57.8,
             "percent_display": "57.8",
             "electoral_votes": 0,
@@ -24995,7 +28219,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 599202,
+            "votes": 599796,
             "percent": 42.2,
             "percent_display": "42.2",
             "electoral_votes": 0,
@@ -25736,7 +28960,7 @@
           {
             "fips": "49051",
             "name": "Wasatch",
-            "votes": 16668,
+            "votes": 16994,
             "absentee_votes": 0,
             "reporting": 40,
             "precincts": 40,
@@ -25753,14 +28977,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 9361,
-              "against": 7307
+              "for": 9496,
+              "against": 7498
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-12T23:00:50.773Z"
+            "last_updated": "2020-11-17T17:50:36.430Z"
           },
           {
             "fips": "49053",
@@ -25823,7 +29047,7 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 106080,
+            "votes": 106770,
             "absentee_votes": 0,
             "reporting": 190,
             "precincts": 190,
@@ -25840,14 +29064,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 58628,
-              "against": 47452
+              "for": 58915,
+              "against": 47855
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T23:02:32.320Z"
+            "last_updated": "2020-11-17T17:50:36.430Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -25882,7 +29106,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1322939,
+        "votes": 1323913,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -25907,7 +29131,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T17:24:28.400Z",
+        "last_updated": "2020-11-17T17:50:36.430Z",
         "candidates": [
           {
             "candidate_id": "dougall-58489",
@@ -25920,7 +29144,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 988466,
+            "votes": 989214,
             "percent": 74.7,
             "percent_display": "74.7",
             "electoral_votes": 0,
@@ -25941,7 +29165,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 172283,
+            "votes": 172376,
             "percent": 13,
             "percent_display": "13.0",
             "electoral_votes": 0,
@@ -25962,7 +29186,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 162190,
+            "votes": 162323,
             "percent": 12.3,
             "percent_display": "12.3",
             "electoral_votes": 0,
@@ -26753,7 +29977,7 @@
           {
             "fips": "49051",
             "name": "Wasatch",
-            "votes": 15189,
+            "votes": 15496,
             "absentee_votes": 0,
             "reporting": 40,
             "precincts": 40,
@@ -26770,16 +29994,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "dougallj": 12118,
-              "ostlerj": 1638,
-              "fabbib": 1433
+              "dougallj": 12363,
+              "ostlerj": 1677,
+              "fabbib": 1456
             },
             "results_absentee": {
               "dougallj": 0,
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-12T23:00:50.773Z"
+            "last_updated": "2020-11-17T17:50:36.430Z"
           },
           {
             "fips": "49053",
@@ -26846,7 +30070,7 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 100803,
+            "votes": 101470,
             "absentee_votes": 0,
             "reporting": 190,
             "precincts": 190,
@@ -26863,16 +30087,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "dougallj": 74614,
-              "ostlerj": 14126,
-              "fabbib": 12063
+              "dougallj": 75117,
+              "ostlerj": 14220,
+              "fabbib": 12133
             },
             "results_absentee": {
               "dougallj": 0,
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-13T23:02:32.320Z"
+            "last_updated": "2020-11-17T17:50:36.430Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -27594,7 +30818,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 89016,
+        "votes": 89329,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -27619,7 +30843,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T22:57:11.400Z",
+        "last_updated": "2020-11-17T17:50:36.430Z",
         "candidates": [
           {
             "candidate_id": "moss-50935",
@@ -27632,7 +30856,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 68032,
+            "votes": 68285,
             "percent": 76.4,
             "percent_display": "76.4",
             "electoral_votes": 0,
@@ -27653,7 +30877,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 20984,
+            "votes": 21044,
             "percent": 23.6,
             "percent_display": "23.6",
             "electoral_votes": 0,
@@ -27814,7 +31038,7 @@
           {
             "fips": "49051",
             "name": "Wasatch",
-            "votes": 15181,
+            "votes": 15494,
             "absentee_votes": 0,
             "reporting": 39,
             "precincts": 39,
@@ -27831,14 +31055,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mossj": 11331,
-              "taylorb": 3850
+              "mossj": 11584,
+              "taylorb": 3910
             },
             "results_absentee": {
               "mossj": 0,
               "taylorb": 0
             },
-            "last_updated": "2020-11-12T23:00:50.773Z"
+            "last_updated": "2020-11-17T17:50:36.430Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -28039,7 +31263,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1317657,
+        "votes": 1318658,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -28064,7 +31288,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T17:24:28.400Z",
+        "last_updated": "2020-11-17T17:50:36.430Z",
         "candidates": [
           {
             "candidate_id": "damschen-50850",
@@ -28077,7 +31301,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 982196,
+            "votes": 982927,
             "percent": 74.5,
             "percent_display": "74.5",
             "electoral_votes": 0,
@@ -28098,7 +31322,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 196348,
+            "votes": 196520,
             "percent": 14.9,
             "percent_display": "14.9",
             "electoral_votes": 0,
@@ -28119,7 +31343,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 139113,
+            "votes": 139211,
             "percent": 10.6,
             "percent_display": "10.6",
             "electoral_votes": 0,
@@ -28910,7 +32134,7 @@
           {
             "fips": "49051",
             "name": "Wasatch",
-            "votes": 15176,
+            "votes": 15490,
             "absentee_votes": 0,
             "reporting": 40,
             "precincts": 40,
@@ -28927,16 +32151,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "damschend": 11809,
-              "specialej": 1935,
-              "proctorr": 1432
+              "damschend": 12052,
+              "specialej": 1976,
+              "proctorr": 1462
             },
             "results_absentee": {
               "damschend": 0,
               "specialej": 0,
               "proctorr": 0
             },
-            "last_updated": "2020-11-12T23:00:50.773Z"
+            "last_updated": "2020-11-17T17:50:36.430Z"
           },
           {
             "fips": "49053",
@@ -29003,7 +32227,7 @@
           {
             "fips": "49057",
             "name": "Weber",
-            "votes": 101525,
+            "votes": 102212,
             "absentee_votes": 0,
             "reporting": 190,
             "precincts": 190,
@@ -29020,16 +32244,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "damschend": 73431,
-              "specialej": 16311,
-              "proctorr": 11783
+              "damschend": 73919,
+              "specialej": 16442,
+              "proctorr": 11851
             },
             "results_absentee": {
               "damschend": 0,
               "specialej": 0,
               "proctorr": 0
             },
-            "last_updated": "2020-11-13T23:02:32.320Z"
+            "last_updated": "2020-11-17T17:50:36.430Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -29052,7 +32276,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 218,
-            "votes": 74742824,
+            "votes": 74743317,
             "percent": "50.3",
             "change": -7,
             "flip_count": 3,
@@ -29069,7 +32293,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 204,
-            "votes": 71709339,
+            "votes": 71710263,
             "percent": "48.3",
             "change": 8,
             "flip_count": 11,
@@ -29086,7 +32310,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2075596,
+            "votes": 2075569,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -29114,7 +32338,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 78895161,
+            "votes": 78895495,
             "percent": "50.9",
             "change": 0,
             "flip_count": 0,
@@ -29131,7 +32355,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73243273,
+            "votes": 73244061,
             "percent": "47.3",
             "change": 0,
             "flip_count": 0,
@@ -29148,7 +32372,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2795561,
+            "votes": 2795602,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -29180,7 +32404,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 41660540,
+            "votes": 41660717,
             "percent": "47.1",
             "change": 1,
             "flip_count": 2,
@@ -29197,7 +32421,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 43824085,
+            "votes": 43824307,
             "percent": "49.6",
             "change": -1,
             "flip_count": 1,
@@ -29214,7 +32438,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2884761,
+            "votes": 2884780,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -40280,7 +43504,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 852687,
+          "votes": 853475,
           "percent": 58,
           "percent_display": "58.0",
           "electoral_votes": 6,
@@ -41356,7 +44580,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 906028,
+          "votes": 906736,
           "percent": 63.6,
           "percent_display": "63.6",
           "electoral_votes": 0,
@@ -44666,7 +47890,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 546900,
+          "votes": 547122,
           "percent": 70.3,
           "percent_display": "70.3",
           "electoral_votes": 0,
@@ -45556,8 +48780,8 @@
     ]
   },
   "meta": {
-    "version": 18731,
+    "version": 18733,
     "track": "2020-11-03",
-    "timestamp": "2020-11-17T17:38:41.349Z"
+    "timestamp": "2020-11-17T17:53:42.155Z"
   }
 }
