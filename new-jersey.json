@@ -13190,7 +13190,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 120709,
+        "votes": 121971,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -13203,10 +13203,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 155,
+        "precincts_reporting": 157,
         "precincts_total": 176,
-        "reporting_display": "88% reporting",
-        "reporting_value": "88%",
+        "reporting_display": "89% reporting",
+        "reporting_value": "89%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -13216,7 +13216,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T20:20:33.427Z",
+        "last_updated": "2020-11-17T21:44:53.637Z",
         "candidates": [
           {
             "candidate_id": "bucco-35153",
@@ -13229,7 +13229,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 65290,
+            "votes": 65964,
             "percent": 54.1,
             "percent_display": "54.1",
             "electoral_votes": 0,
@@ -13250,7 +13250,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 55419,
+            "votes": 56007,
             "percent": 45.9,
             "percent_display": "45.9",
             "electoral_votes": 0,
@@ -13295,7 +13295,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 119353,
+        "votes": 120596,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -13308,7 +13308,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 154,
+        "precincts_reporting": 155,
         "precincts_total": 176,
         "reporting_display": "88% reporting",
         "reporting_value": "88%",
@@ -13321,7 +13321,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T20:21:34.580Z",
+        "last_updated": "2020-11-17T21:44:53.637Z",
         "candidates": [
           {
             "candidate_id": "dunn-35291",
@@ -13334,7 +13334,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 62719,
+            "votes": 63354,
             "percent": 52.5,
             "percent_display": "52.5",
             "electoral_votes": 0,
@@ -13355,7 +13355,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 56634,
+            "votes": 57242,
             "percent": 47.5,
             "percent_display": "47.5",
             "electoral_votes": 0,
@@ -13404,7 +13404,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3898118,
+        "votes": 3900309,
         "absentee_votes": 621060,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -13417,7 +13417,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 6024,
+        "precincts_reporting": 6027,
         "precincts_total": 6348,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -13429,7 +13429,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T21:36:49.263Z",
+        "last_updated": "2020-11-17T21:45:54.220Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -13441,7 +13441,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2611064,
+            "votes": 2612552,
             "percent": 67,
             "percent_display": "67.0",
             "electoral_votes": 0,
@@ -13461,7 +13461,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1287054,
+            "votes": 1287757,
             "percent": 33,
             "percent_display": "33.0",
             "electoral_votes": 0,
@@ -13854,9 +13854,9 @@
           {
             "fips": "34027",
             "name": "Morris",
-            "votes": 277724,
+            "votes": 279915,
             "absentee_votes": 0,
-            "reporting": 372,
+            "reporting": 375,
             "precincts": 396,
             "absentee_method": null,
             "eevp": null,
@@ -13871,14 +13871,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 179377,
-              "no": 98347
+              "yes": 180865,
+              "no": 99050
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-17T02:53:08.743Z"
+            "last_updated": "2020-11-17T21:45:54.220Z"
           },
           {
             "fips": "34029",
@@ -14119,7 +14119,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3829386,
+        "votes": 3831513,
         "absentee_votes": 605634,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -14132,7 +14132,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 5988,
+        "precincts_reporting": 5991,
         "precincts_total": 6348,
         "reporting_display": "94% reporting",
         "reporting_value": "94%",
@@ -14144,7 +14144,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T21:36:49.263Z",
+        "last_updated": "2020-11-17T21:45:54.220Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -14156,7 +14156,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2920662,
+            "votes": 2922293,
             "percent": 76.3,
             "percent_display": "76.3",
             "electoral_votes": 0,
@@ -14176,7 +14176,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 908724,
+            "votes": 909220,
             "percent": 23.7,
             "percent_display": "23.7",
             "electoral_votes": 0,
@@ -14569,9 +14569,9 @@
           {
             "fips": "34027",
             "name": "Morris",
-            "votes": 273619,
+            "votes": 275746,
             "absentee_votes": 0,
-            "reporting": 372,
+            "reporting": 375,
             "precincts": 396,
             "absentee_method": null,
             "eevp": null,
@@ -14586,14 +14586,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 203572,
-              "no": 70047
+              "yes": 205203,
+              "no": 70543
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-17T02:53:08.743Z"
+            "last_updated": "2020-11-17T21:45:54.220Z"
           },
           {
             "fips": "34029",
@@ -14834,7 +14834,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3681162,
+        "votes": 3683229,
         "absentee_votes": 360060,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -14847,7 +14847,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 6024,
+        "precincts_reporting": 6027,
         "precincts_total": 6348,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -14859,7 +14859,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T21:36:49.263Z",
+        "last_updated": "2020-11-17T21:45:54.220Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -14871,7 +14871,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2120864,
+            "votes": 2122044,
             "percent": 57.6,
             "percent_display": "57.6",
             "electoral_votes": 0,
@@ -14891,7 +14891,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1560298,
+            "votes": 1561185,
             "percent": 42.4,
             "percent_display": "42.4",
             "electoral_votes": 0,
@@ -15284,9 +15284,9 @@
           {
             "fips": "34027",
             "name": "Morris",
-            "votes": 263994,
+            "votes": 266061,
             "absentee_votes": 0,
-            "reporting": 372,
+            "reporting": 375,
             "precincts": 396,
             "absentee_method": null,
             "eevp": null,
@@ -15301,14 +15301,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 147393,
-              "no": 116601
+              "yes": 148573,
+              "no": 117488
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-17T02:54:09.377Z"
+            "last_updated": "2020-11-17T21:45:54.220Z"
           },
           {
             "fips": "34029",
@@ -15534,7 +15534,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 218,
-            "votes": 74832132,
+            "votes": 74832332,
             "percent": "50.3",
             "change": -7,
             "flip_count": 3,
@@ -15551,7 +15551,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 204,
-            "votes": 71785811,
+            "votes": 71786108,
             "percent": "48.3",
             "change": 8,
             "flip_count": 11,
@@ -15596,7 +15596,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 78963097,
+            "votes": 78963303,
             "percent": "50.9",
             "change": 0,
             "flip_count": 0,
@@ -15613,7 +15613,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73300625,
+            "votes": 73300932,
             "percent": "47.3",
             "change": 0,
             "flip_count": 0,
@@ -15630,7 +15630,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2811681,
+            "votes": 2811686,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -19371,7 +19371,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3434372,
+          "votes": 3434578,
           "percent": 49.9,
           "percent_display": "49.9",
           "electoral_votes": 20,
@@ -32038,8 +32038,8 @@
     ]
   },
   "meta": {
-    "version": 18927,
+    "version": 18931,
     "track": "2020-11-03",
-    "timestamp": "2020-11-17T21:37:39.165Z"
+    "timestamp": "2020-11-17T21:46:37.195Z"
   }
 }
