@@ -29,7 +29,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1469610,
+        "votes": 1469654,
         "electoral_votes": 6,
         "absentee_votes": 638509,
         "absentee_counties": 5,
@@ -55,7 +55,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T00:27:48Z",
+        "last_updated": "2020-11-17T17:23:52Z",
         "candidates": [
           {
             "candidate_id": "trump-8639",
@@ -68,7 +68,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 852677,
+            "votes": 852687,
             "percent": 58,
             "percent_display": "58.0",
             "electoral_votes": 6,
@@ -90,7 +90,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 555694,
+            "votes": 555725,
             "percent": 37.8,
             "percent_display": "37.8",
             "electoral_votes": 0,
@@ -133,7 +133,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7081,
+            "votes": 7082,
             "percent": 0.5,
             "percent_display": "0.5",
             "electoral_votes": 0,
@@ -154,7 +154,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 5486,
+            "votes": 5487,
             "percent": 0.4,
             "percent_display": "0.4",
             "electoral_votes": 0,
@@ -175,7 +175,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 4983,
+            "votes": 4984,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -271,8 +271,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 20.20829,
-        "leader_margin_votes": 296983,
+        "leader_margin_value": 20.20625,
+        "leader_margin_votes": 296962,
         "leader_margin_display": "R+20",
         "leader_margin_name_display": "Trump +20",
         "leader_party_id": "republican",
@@ -1218,7 +1218,7 @@
           {
             "fips": "49037",
             "name": "San Juan",
-            "votes": 6833,
+            "votes": 6877,
             "absentee_votes": 0,
             "reporting": 23,
             "precincts": 23,
@@ -1235,13 +1235,13 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "trumpd": 3525,
-              "bidenj": 3082,
+              "trumpd": 3535,
+              "bidenj": 3113,
               "jorgensenj": 99,
-              "westk": 44,
-              "blankenshipd": 27,
+              "westk": 45,
+              "blankenshipd": 28,
               "mchughj": 19,
-              "hawkinsh": 16,
+              "hawkinsh": 17,
               "pierceb": 16,
               "la_rivag": 5
             },
@@ -1256,12 +1256,12 @@
               "pierceb": 0,
               "la_rivag": 0
             },
-            "last_updated": "2020-11-16T15:48:37Z",
-            "leader_margin_value": 6.48324,
+            "last_updated": "2020-11-17T17:23:50Z",
+            "leader_margin_value": 6.1364,
             "leader_margin_display": "R+6",
             "leader_margin_name_display": "Trump +6",
             "leader_party_id": "republican",
-            "margin2020": 6.48324,
+            "margin2020": 6.1364,
             "votes2016": 5534,
             "margin2016": 10.9,
             "votes2012": 5307,
@@ -1818,12 +1818,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Beaver County.",
-            "timestamp": 1605572984703,
+            "sentence": "We just received more votes from San Juan County.",
+            "timestamp": 1605633993889,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Beaver County.",
+            "generatedText": "We just received more votes from San Juan County.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -2562,6 +2562,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-17T00:27:48Z"
+          },
+          {
+            "vote_shares": {
+              "trumpd": 0.58,
+              "bidenj": 0.378
+            },
+            "votes": 1469654,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-17T17:23:52Z"
           }
         ]
       },
@@ -4697,7 +4707,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 349223,
+        "votes": 349261,
         "absentee_votes": 99683,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -4722,7 +4732,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-17T00:06:48Z",
+        "last_updated": "2020-11-17T17:23:52Z",
         "candidates": [
           {
             "candidate_id": "curtis-1479-45-h",
@@ -4735,7 +4745,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 239704,
+            "votes": 239719,
             "percent": 68.6,
             "percent_display": "68.6",
             "electoral_votes": 0,
@@ -4756,7 +4766,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 94138,
+            "votes": 94157,
             "percent": 27,
             "percent_display": "27.0",
             "electoral_votes": 0,
@@ -4777,7 +4787,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8567,
+            "votes": 8569,
             "percent": 2.5,
             "percent_display": "2.5",
             "electoral_votes": 0,
@@ -4798,7 +4808,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6814,
+            "votes": 6816,
             "percent": 2,
             "percent_display": "2.0",
             "electoral_votes": 0,
@@ -4810,8 +4820,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 41.68282,
-        "leader_margin_votes": 145566,
+        "leader_margin_value": 41.67714,
+        "leader_margin_votes": 145562,
         "leader_margin_display": "R+42",
         "leader_margin_name_display": "Curtis +42",
         "leader_party_id": "republican",
@@ -4967,7 +4977,7 @@
           {
             "fips": "49037",
             "name": "San Juan",
-            "votes": 6349,
+            "votes": 6387,
             "absentee_votes": 0,
             "reporting": 23,
             "precincts": 23,
@@ -4984,10 +4994,10 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "curtisj": 3521,
-              "thorped": 2479,
-              "cummingsd": 206,
-              "mcneillt": 143
+              "curtisj": 3536,
+              "thorped": 2498,
+              "cummingsd": 208,
+              "mcneillt": 145
             },
             "results_absentee": {
               "curtisj": 0,
@@ -4995,8 +5005,8 @@
               "cummingsd": 0,
               "mcneillt": 0
             },
-            "last_updated": "2020-11-16T15:47:52Z",
-            "leader_margin_value": 16.41203,
+            "last_updated": "2020-11-17T17:23:50Z",
+            "leader_margin_value": 16.25176,
             "leader_margin_display": "R+16",
             "leader_margin_name_display": "Curtis +16",
             "leader_party_id": "republican"
@@ -5589,6 +5599,18 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-17T00:06:48Z"
+          },
+          {
+            "vote_shares": {
+              "curtisj": 0.686,
+              "thorped": 0.27,
+              "cummingsd": 0.025,
+              "mcneillt": 0.02
+            },
+            "votes": 349261,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-17T17:23:52Z"
           }
         ]
       },
@@ -6468,7 +6490,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1424876,
+        "votes": 1424914,
         "absentee_votes": 679835,
         "absentee_counties": 6,
         "absentee_count_progress": "unknown",
@@ -6493,7 +6515,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-17T00:27:48Z",
+        "last_updated": "2020-11-17T17:23:52Z",
         "candidates": [
           {
             "candidate_id": "cox-20073827-45-g",
@@ -6506,7 +6528,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 906019,
+            "votes": 906028,
             "percent": 63.6,
             "percent_display": "63.6",
             "electoral_votes": 0,
@@ -6527,7 +6549,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 439297,
+            "votes": 439322,
             "percent": 30.8,
             "percent_display": "30.8",
             "electoral_votes": 0,
@@ -6548,7 +6570,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 50418,
+            "votes": 50420,
             "percent": 3.5,
             "percent_display": "3.5",
             "electoral_votes": 0,
@@ -6569,7 +6591,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 25410,
+            "votes": 25412,
             "percent": 1.8,
             "percent_display": "1.8",
             "electoral_votes": 0,
@@ -6602,8 +6624,8 @@
           }
         ],
         "has_incumbent": false,
-        "leader_margin_value": 32.75527,
-        "leader_margin_votes": 466722,
+        "leader_margin_value": 32.75327,
+        "leader_margin_votes": 466706,
         "leader_margin_display": "R+33",
         "leader_margin_name_display": "Cox +33",
         "leader_party_id": "republican",
@@ -7281,7 +7303,7 @@
           {
             "fips": "49037",
             "name": "San Juan",
-            "votes": 6474,
+            "votes": 6512,
             "absentee_votes": 0,
             "reporting": 23,
             "precincts": 23,
@@ -7298,10 +7320,10 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "coxs": 3468,
-              "petersonc": 2617,
-              "cottamd": 256,
-              "duerdeng": 133
+              "coxs": 3477,
+              "petersonc": 2642,
+              "cottamd": 258,
+              "duerdeng": 135
             },
             "results_absentee": {
               "coxs": 0,
@@ -7309,8 +7331,8 @@
               "cottamd": 0,
               "duerdeng": 0
             },
-            "last_updated": "2020-11-16T15:47:57Z",
-            "leader_margin_value": 13.14489,
+            "last_updated": "2020-11-17T17:23:50Z",
+            "leader_margin_value": 12.82248,
             "leader_margin_display": "R+13",
             "leader_margin_name_display": "Cox +13",
             "leader_party_id": "republican"
@@ -7716,12 +7738,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Beaver County.",
-            "timestamp": 1605572984703,
+            "sentence": "We just received more votes from San Juan County.",
+            "timestamp": 1605633993889,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Beaver County.",
+            "generatedText": "We just received more votes from San Juan County.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -8852,6 +8874,19 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-17T00:27:48Z"
+          },
+          {
+            "vote_shares": {
+              "coxs": 0.636,
+              "petersonc": 0.308,
+              "cottamd": 0.035,
+              "duerdeng": 0.018,
+              "write-ins": 0.003
+            },
+            "votes": 1424914,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-17T17:23:52Z"
           }
         ]
       },
@@ -8882,7 +8917,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1434248,
+        "votes": 1434286,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -8907,7 +8942,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T00:27:40.123Z",
+        "last_updated": "2020-11-17T17:24:28.400Z",
         "candidates": [
           {
             "candidate_id": "reyes-50534",
@@ -8920,7 +8955,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 867054,
+            "votes": 867065,
             "percent": 60.5,
             "percent_display": "60.5",
             "electoral_votes": 0,
@@ -8941,7 +8976,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 486111,
+            "votes": 486130,
             "percent": 33.9,
             "percent_display": "33.9",
             "electoral_votes": 0,
@@ -8962,7 +8997,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 81083,
+            "votes": 81091,
             "percent": 5.7,
             "percent_display": "5.7",
             "electoral_votes": 0,
@@ -9536,7 +9571,7 @@
           {
             "fips": "49037",
             "name": "San Juan",
-            "votes": 6485,
+            "votes": 6523,
             "absentee_votes": 0,
             "reporting": 25,
             "precincts": 25,
@@ -9553,16 +9588,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "reyess": 3353,
-              "skordasg": 2652,
-              "bautistar": 480
+              "reyess": 3364,
+              "skordasg": 2671,
+              "bautistar": 488
             },
             "results_absentee": {
               "reyess": 0,
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-13T22:01:13.640Z"
+            "last_updated": "2020-11-17T17:24:28.400Z"
           },
           {
             "fips": "49039",
@@ -19227,7 +19262,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1376153,
+        "votes": 1376189,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -19252,7 +19287,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T00:27:40.123Z",
+        "last_updated": "2020-11-17T17:24:28.400Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -19264,7 +19299,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 1102692,
+            "votes": 1102718,
             "percent": 80.1,
             "percent_display": "80.1",
             "electoral_votes": 0,
@@ -19284,7 +19319,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 273461,
+            "votes": 273471,
             "percent": 19.9,
             "percent_display": "19.9",
             "electoral_votes": 0,
@@ -19822,7 +19857,7 @@
           {
             "fips": "49037",
             "name": "San Juan",
-            "votes": 6029,
+            "votes": 6065,
             "absentee_votes": 0,
             "reporting": 25,
             "precincts": 25,
@@ -19839,14 +19874,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 4441,
-              "against": 1588
+              "for": 4467,
+              "against": 1598
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T22:01:13.640Z"
+            "last_updated": "2020-11-17T17:24:28.400Z"
           },
           {
             "fips": "49039",
@@ -20173,7 +20208,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1399353,
+        "votes": 1399388,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -20198,7 +20233,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T00:27:40.123Z",
+        "last_updated": "2020-11-17T17:24:28.400Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -20210,7 +20245,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 1127146,
+            "votes": 1127168,
             "percent": 80.5,
             "percent_display": "80.5",
             "electoral_votes": 0,
@@ -20230,7 +20265,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 272207,
+            "votes": 272220,
             "percent": 19.5,
             "percent_display": "19.5",
             "electoral_votes": 0,
@@ -20768,7 +20803,7 @@
           {
             "fips": "49037",
             "name": "San Juan",
-            "votes": 6082,
+            "votes": 6117,
             "absentee_votes": 0,
             "reporting": 25,
             "precincts": 25,
@@ -20785,14 +20820,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 4009,
-              "against": 2073
+              "for": 4031,
+              "against": 2086
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T22:01:13.640Z"
+            "last_updated": "2020-11-17T17:24:28.400Z"
           },
           {
             "fips": "49039",
@@ -21119,7 +21154,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1338694,
+        "votes": 1338728,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -21144,7 +21179,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T00:27:40.123Z",
+        "last_updated": "2020-11-17T17:24:28.400Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -21156,7 +21191,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 818548,
+            "votes": 818571,
             "percent": 61.1,
             "percent_display": "61.1",
             "electoral_votes": 0,
@@ -21176,7 +21211,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 520146,
+            "votes": 520157,
             "percent": 38.9,
             "percent_display": "38.9",
             "electoral_votes": 0,
@@ -21714,7 +21749,7 @@
           {
             "fips": "49037",
             "name": "San Juan",
-            "votes": 5938,
+            "votes": 5972,
             "absentee_votes": 0,
             "reporting": 25,
             "precincts": 25,
@@ -21731,14 +21766,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 3335,
-              "against": 2603
+              "for": 3358,
+              "against": 2614
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T22:01:13.640Z"
+            "last_updated": "2020-11-17T17:24:28.400Z"
           },
           {
             "fips": "49039",
@@ -22065,7 +22100,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1402863,
+        "votes": 1402897,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -22090,7 +22125,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T00:27:40.123Z",
+        "last_updated": "2020-11-17T17:24:28.400Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -22102,7 +22137,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 1050001,
+            "votes": 1050027,
             "percent": 74.8,
             "percent_display": "74.8",
             "electoral_votes": 0,
@@ -22122,7 +22157,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 352862,
+            "votes": 352870,
             "percent": 25.2,
             "percent_display": "25.2",
             "electoral_votes": 0,
@@ -22660,7 +22695,7 @@
           {
             "fips": "49037",
             "name": "San Juan",
-            "votes": 6224,
+            "votes": 6258,
             "absentee_votes": 0,
             "reporting": 25,
             "precincts": 25,
@@ -22677,14 +22712,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 5091,
-              "against": 1133
+              "for": 5117,
+              "against": 1141
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T22:01:13.640Z"
+            "last_updated": "2020-11-17T17:24:28.400Z"
           },
           {
             "fips": "49039",
@@ -23011,7 +23046,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1331643,
+        "votes": 1331676,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -23036,7 +23071,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T00:27:40.123Z",
+        "last_updated": "2020-11-17T17:24:28.400Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -23048,7 +23083,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 885902,
+            "votes": 885922,
             "percent": 66.5,
             "percent_display": "66.5",
             "electoral_votes": 0,
@@ -23068,7 +23103,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 445741,
+            "votes": 445754,
             "percent": 33.5,
             "percent_display": "33.5",
             "electoral_votes": 0,
@@ -23606,7 +23641,7 @@
           {
             "fips": "49037",
             "name": "San Juan",
-            "votes": 5866,
+            "votes": 5899,
             "absentee_votes": 0,
             "reporting": 25,
             "precincts": 25,
@@ -23623,14 +23658,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 3524,
-              "against": 2342
+              "for": 3544,
+              "against": 2355
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T22:01:13.640Z"
+            "last_updated": "2020-11-17T17:24:28.400Z"
           },
           {
             "fips": "49039",
@@ -23957,7 +23992,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1397441,
+        "votes": 1397476,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -23982,7 +24017,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T00:27:40.123Z",
+        "last_updated": "2020-11-17T17:24:28.400Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -23994,7 +24029,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 754888,
+            "votes": 754921,
             "percent": 54,
             "percent_display": "54.0",
             "electoral_votes": 0,
@@ -24014,7 +24049,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 642553,
+            "votes": 642555,
             "percent": 46,
             "percent_display": "46.0",
             "electoral_votes": 0,
@@ -24552,7 +24587,7 @@
           {
             "fips": "49037",
             "name": "San Juan",
-            "votes": 6149,
+            "votes": 6184,
             "absentee_votes": 0,
             "reporting": 25,
             "precincts": 25,
@@ -24569,14 +24604,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 3692,
-              "against": 2457
+              "for": 3725,
+              "against": 2459
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T22:01:13.640Z"
+            "last_updated": "2020-11-17T17:24:28.400Z"
           },
           {
             "fips": "49039",
@@ -24903,7 +24938,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1420010,
+        "votes": 1420046,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -24928,7 +24963,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T00:27:40.123Z",
+        "last_updated": "2020-11-17T17:24:28.400Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -24940,7 +24975,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 820825,
+            "votes": 820844,
             "percent": 57.8,
             "percent_display": "57.8",
             "electoral_votes": 0,
@@ -24960,7 +24995,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 599185,
+            "votes": 599202,
             "percent": 42.2,
             "percent_display": "42.2",
             "electoral_votes": 0,
@@ -25498,7 +25533,7 @@
           {
             "fips": "49037",
             "name": "San Juan",
-            "votes": 6216,
+            "votes": 6252,
             "absentee_votes": 0,
             "reporting": 25,
             "precincts": 25,
@@ -25515,14 +25550,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 2821,
-              "against": 3395
+              "for": 2840,
+              "against": 3412
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T22:01:13.640Z"
+            "last_updated": "2020-11-17T17:24:28.400Z"
           },
           {
             "fips": "49039",
@@ -25847,7 +25882,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1322902,
+        "votes": 1322939,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -25872,7 +25907,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T00:27:40.123Z",
+        "last_updated": "2020-11-17T17:24:28.400Z",
         "candidates": [
           {
             "candidate_id": "dougall-58489",
@@ -25885,7 +25920,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 988453,
+            "votes": 988466,
             "percent": 74.7,
             "percent_display": "74.7",
             "electoral_votes": 0,
@@ -25906,7 +25941,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 172275,
+            "votes": 172283,
             "percent": 13,
             "percent_display": "13.0",
             "electoral_votes": 0,
@@ -25927,7 +25962,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 162174,
+            "votes": 162190,
             "percent": 12.3,
             "percent_display": "12.3",
             "electoral_votes": 0,
@@ -26501,7 +26536,7 @@
           {
             "fips": "49037",
             "name": "San Juan",
-            "votes": 5591,
+            "votes": 5628,
             "absentee_votes": 0,
             "reporting": 25,
             "precincts": 25,
@@ -26518,16 +26553,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "dougallj": 3853,
-              "ostlerj": 1107,
-              "fabbib": 631
+              "dougallj": 3866,
+              "ostlerj": 1123,
+              "fabbib": 639
             },
             "results_absentee": {
               "dougallj": 0,
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-13T22:01:13.640Z"
+            "last_updated": "2020-11-17T17:24:28.400Z"
           },
           {
             "fips": "49039",
@@ -28004,7 +28039,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1317620,
+        "votes": 1317657,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -28029,7 +28064,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T00:27:40.123Z",
+        "last_updated": "2020-11-17T17:24:28.400Z",
         "candidates": [
           {
             "candidate_id": "damschen-50850",
@@ -28042,7 +28077,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 982183,
+            "votes": 982196,
             "percent": 74.5,
             "percent_display": "74.5",
             "electoral_votes": 0,
@@ -28063,7 +28098,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 196339,
+            "votes": 196348,
             "percent": 14.9,
             "percent_display": "14.9",
             "electoral_votes": 0,
@@ -28084,7 +28119,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 139098,
+            "votes": 139113,
             "percent": 10.6,
             "percent_display": "10.6",
             "electoral_votes": 0,
@@ -28658,7 +28693,7 @@
           {
             "fips": "49037",
             "name": "San Juan",
-            "votes": 5690,
+            "votes": 5727,
             "absentee_votes": 0,
             "reporting": 25,
             "precincts": 25,
@@ -28675,16 +28710,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "damschend": 3811,
-              "proctorr": 1004,
-              "specialej": 875
+              "damschend": 3824,
+              "proctorr": 1019,
+              "specialej": 884
             },
             "results_absentee": {
               "damschend": 0,
               "proctorr": 0,
               "specialej": 0
             },
-            "last_updated": "2020-11-13T22:01:13.640Z"
+            "last_updated": "2020-11-17T17:24:28.400Z"
           },
           {
             "fips": "49039",
@@ -29017,7 +29052,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 218,
-            "votes": 74742662,
+            "votes": 74742595,
             "percent": "50.3",
             "change": -7,
             "flip_count": 3,
@@ -29034,7 +29069,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 204,
-            "votes": 71709093,
+            "votes": 71709110,
             "percent": "48.3",
             "change": 8,
             "flip_count": 11,
@@ -29051,7 +29086,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2076319,
+            "votes": 2076086,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -29079,7 +29114,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 78895130,
+            "votes": 78895161,
             "percent": "50.9",
             "change": 0,
             "flip_count": 0,
@@ -29096,7 +29131,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73243263,
+            "votes": 73243273,
             "percent": "47.3",
             "change": 0,
             "flip_count": 0,
@@ -29113,7 +29148,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2795558,
+            "votes": 2795561,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -40245,7 +40280,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 852677,
+          "votes": 852687,
           "percent": 58,
           "percent_display": "58.0",
           "electoral_votes": 6,
@@ -41321,7 +41356,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 906019,
+          "votes": 906028,
           "percent": 63.6,
           "percent_display": "63.6",
           "electoral_votes": 0,
@@ -45521,8 +45556,8 @@
     ]
   },
   "meta": {
-    "version": 18717,
+    "version": 18724,
     "track": "2020-11-03",
-    "timestamp": "2020-11-17T17:24:21.441Z"
+    "timestamp": "2020-11-17T17:31:43.125Z"
   }
 }
