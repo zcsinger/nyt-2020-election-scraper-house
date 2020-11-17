@@ -13909,7 +13909,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3826291,
+        "votes": 3829123,
         "absentee_votes": 605634,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -13922,7 +13922,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 5961,
+        "precincts_reporting": 5967,
         "precincts_total": 6348,
         "reporting_display": "94% reporting",
         "reporting_value": "94%",
@@ -13934,7 +13934,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T15:05:25.460Z",
+        "last_updated": "2020-11-17T15:21:30.713Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -13946,7 +13946,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2918194,
+            "votes": 2920450,
             "percent": 76.3,
             "percent_display": "76.3",
             "electoral_votes": 0,
@@ -13966,7 +13966,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 908097,
+            "votes": 908673,
             "percent": 23.7,
             "percent_display": "23.7",
             "electoral_votes": 0,
@@ -14127,9 +14127,9 @@
           {
             "fips": "34011",
             "name": "Cumberland",
-            "votes": 49677,
+            "votes": 52509,
             "absentee_votes": 0,
-            "reporting": 84,
+            "reporting": 90,
             "precincts": 92,
             "absentee_method": null,
             "eevp": null,
@@ -14144,14 +14144,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 37775,
-              "no": 11902
+              "yes": 40031,
+              "no": 12478
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-12T17:12:54.620Z"
+            "last_updated": "2020-11-17T15:21:30.713Z"
           },
           {
             "fips": "34013",
@@ -14624,7 +14624,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3678127,
+        "votes": 3680890,
         "absentee_votes": 360060,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -14637,7 +14637,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 5764,
+        "precincts_reporting": 5770,
         "precincts_total": 6348,
         "reporting_display": "91% reporting",
         "reporting_value": "91%",
@@ -14649,7 +14649,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T15:05:25.460Z",
+        "last_updated": "2020-11-17T15:21:30.713Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -14661,7 +14661,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2119037,
+            "votes": 2120691,
             "percent": 57.6,
             "percent_display": "57.6",
             "electoral_votes": 0,
@@ -14681,7 +14681,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1559090,
+            "votes": 1560199,
             "percent": 42.4,
             "percent_display": "42.4",
             "electoral_votes": 0,
@@ -14842,9 +14842,9 @@
           {
             "fips": "34011",
             "name": "Cumberland",
-            "votes": 48534,
+            "votes": 51297,
             "absentee_votes": 0,
-            "reporting": 84,
+            "reporting": 90,
             "precincts": 92,
             "absentee_method": null,
             "eevp": null,
@@ -14859,14 +14859,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 25682,
-              "no": 22852
+              "yes": 27336,
+              "no": 23961
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-12T17:12:54.620Z"
+            "last_updated": "2020-11-17T15:21:30.713Z"
           },
           {
             "fips": "34013",
@@ -31828,8 +31828,8 @@
     ]
   },
   "meta": {
-    "version": 18635,
+    "version": 18649,
     "track": "2020-11-03",
-    "timestamp": "2020-11-17T15:22:01.224Z"
+    "timestamp": "2020-11-17T15:30:42.085Z"
   }
 }
