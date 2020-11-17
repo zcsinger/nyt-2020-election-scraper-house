@@ -29458,7 +29458,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 91198,
+        "votes": 91784,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -29484,7 +29484,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-15T08:52:32.960Z",
+        "last_updated": "2020-11-17T19:20:07.583Z",
         "candidates": [
           {
             "candidate_id": "akshar-53635",
@@ -29497,7 +29497,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 80933,
+            "votes": 81394,
             "percent": 88.7,
             "percent_display": "88.7",
             "electoral_votes": 0,
@@ -29518,7 +29518,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 10265,
+            "votes": 10390,
             "percent": 11.3,
             "percent_display": "11.3",
             "electoral_votes": 0,
@@ -62782,8 +62782,8 @@
     ]
   },
   "meta": {
-    "version": 18795,
+    "version": 18804,
     "track": "2020-11-03",
-    "timestamp": "2020-11-17T19:15:41.932Z"
+    "timestamp": "2020-11-17T19:22:03.136Z"
   }
 }

@@ -34853,7 +34853,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 191538,
+        "votes": 251538,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -34866,10 +34866,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 206,
+        "precincts_reporting": 263,
         "precincts_total": 263,
-        "reporting_display": "78% reporting",
-        "reporting_value": "78%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -34879,7 +34879,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T01:05:45.737Z",
+        "last_updated": "2020-11-17T19:19:32.647Z",
         "candidates": [
           {
             "candidate_id": "stone-11748",
@@ -34892,9 +34892,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 123774,
-            "percent": 64.6,
-            "percent_display": "64.6",
+            "votes": 183774,
+            "percent": 73.1,
+            "percent_display": "73.1",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -34914,8 +34914,8 @@
             "runoff": false,
             "winner": false,
             "votes": 67764,
-            "percent": 35.4,
-            "percent_display": "35.4",
+            "percent": 26.9,
+            "percent_display": "26.9",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -40325,7 +40325,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16432721,
+        "votes": 16432991,
         "absentee_votes": 985738,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -40350,7 +40350,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T05:34:29.710Z",
+        "last_updated": "2020-11-17T19:17:31.447Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -40382,7 +40382,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7041807,
+            "votes": 7042077,
             "percent": 42.9,
             "percent_display": "42.9",
             "electoral_votes": 0,
@@ -41442,7 +41442,7 @@
           {
             "fips": "06073",
             "name": "San Diego",
-            "votes": 1544892,
+            "votes": 1545162,
             "absentee_votes": 0,
             "reporting": 1305,
             "precincts": 1414,
@@ -41460,13 +41460,13 @@
             "provisional_count_progress": null,
             "results": {
               "no": 928200,
-              "yes": 616692
+              "yes": 616962
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-17T01:04:44.863Z"
+            "last_updated": "2020-11-17T19:17:31.447Z"
           },
           {
             "fips": "06075",
@@ -78291,8 +78291,8 @@
     ]
   },
   "meta": {
-    "version": 18795,
+    "version": 18804,
     "track": "2020-11-03",
-    "timestamp": "2020-11-17T19:15:41.932Z"
+    "timestamp": "2020-11-17T19:22:03.136Z"
   }
 }
