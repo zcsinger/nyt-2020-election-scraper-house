@@ -31,7 +31,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16978904,
+        "votes": 17017610,
         "electoral_votes": 55,
         "absentee_votes": 8420433,
         "absentee_counties": 32,
@@ -45,7 +45,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20227,
+        "precincts_reporting": 20248,
         "precincts_total": 20498,
         "reporting_display": "99% reporting",
         "reporting_value": "99%",
@@ -57,7 +57,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T02:35:49Z",
+        "last_updated": "2020-11-17T05:35:57Z",
         "candidates": [
           {
             "candidate_id": "biden-1036",
@@ -70,7 +70,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10822615,
+            "votes": 10842414,
             "percent": 63.7,
             "percent_display": "63.7",
             "electoral_votes": 55,
@@ -92,7 +92,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 5791820,
+            "votes": 5809675,
             "percent": 34.1,
             "percent_display": "34.1",
             "electoral_votes": 0,
@@ -114,7 +114,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 180680,
+            "votes": 181189,
             "percent": 1.1,
             "percent_display": "1.1",
             "electoral_votes": 0,
@@ -135,7 +135,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 78111,
+            "votes": 78298,
             "percent": 0.5,
             "percent_display": "0.5",
             "electoral_votes": 0,
@@ -156,7 +156,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 57122,
+            "votes": 57337,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -177,7 +177,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 48548,
+            "votes": 48689,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -210,8 +210,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 29.62968,
-        "leader_margin_votes": 5030795,
+        "leader_margin_value": 29.57371,
+        "leader_margin_votes": 5032739,
         "leader_margin_display": "D+30",
         "leader_margin_name_display": "Biden +30",
         "leader_party_id": "democrat",
@@ -1975,15 +1975,15 @@
           {
             "fips": "06077",
             "name": "San Joaquin",
-            "votes": 229842,
+            "votes": 268548,
             "absentee_votes": 0,
-            "reporting": 186,
+            "reporting": 207,
             "precincts": 207,
             "absentee_method": "None",
-            "eevp": 90,
+            "eevp": 100,
             "tot_exp_vote": 255549,
-            "eevp_value": "90%",
-            "eevp_display": "90% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "unknown",
@@ -1992,12 +1992,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 130522,
-              "trumpd": 94693,
-              "jorgensenj": 2216,
-              "de_la_fuenter": 884,
-              "hawkinsh": 806,
-              "la_rivag": 721
+              "bidenj": 150321,
+              "trumpd": 112548,
+              "jorgensenj": 2725,
+              "de_la_fuenter": 1099,
+              "hawkinsh": 993,
+              "la_rivag": 862
             },
             "results_absentee": {
               "bidenj": 0,
@@ -2007,12 +2007,12 @@
               "hawkinsh": 0,
               "la_rivag": 0
             },
-            "last_updated": "2020-11-16T15:48:05Z",
-            "leader_margin_value": 15.58853,
-            "leader_margin_display": "D+16",
-            "leader_margin_name_display": "Biden +16",
+            "last_updated": "2020-11-17T05:35:50Z",
+            "leader_margin_value": 14.06564,
+            "leader_margin_display": "D+14",
+            "leader_margin_name_display": "Biden +14",
             "leader_party_id": "democrat",
-            "margin2020": -15.58853,
+            "margin2020": -14.06564,
             "votes2016": 227002,
             "margin2016": -14.2,
             "votes2012": 204697,
@@ -2927,12 +2927,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Riverside, Orange and two other counties.",
-            "timestamp": 1605580605079,
-            "is_new": false,
+            "sentence": "We just received more votes from San Joaquin County.",
+            "timestamp": 1605591450652,
+            "is_new": true,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Riverside, Orange and two other counties.",
+            "generatedText": "We just received more votes from San Joaquin County.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -2964,11 +2964,2289 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
-            "additional_precincts_reported": false,
-            "has_eevp": true
+            "additional_votes_reported": true,
+            "additional_precincts_reported": true,
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": true,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false,
+            "biden_takes_at_least_one_more_2016_trump_county": false,
+            "trump_takes_at_least_one_more_2016_clinton_county": false,
+            "at_least_one_county_flipped": false,
+            "at_least_one_county_just_flipped": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 0,
+            "prev_eevp": 99,
+            "num_additional_votes": 38706,
+            "prev_votes": 16978904,
+            "num_additional_precincts": 21,
+            "prev_precincts": 20227,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 0.1,
+            "prev_precinct_percentage_points": 98.7,
+            "lead_margin_change_votes": 1944,
+            "lead_margin_change_percentage_points": 0,
+            "previous_leading_candidate": {
+              "candidate_id": "biden-1036",
+              "candidate_key": "bidenj",
+              "first_name": "Joseph R.",
+              "last_name": "Biden",
+              "order": 4,
+              "name_display": "Joseph R. Biden Jr.",
+              "party_id": "democrat",
+              "incumbent": false,
+              "runoff": false,
+              "winner": true,
+              "votes": 10822615,
+              "percent": 63.7,
+              "percent_display": "63.7",
+              "electoral_votes": 55,
+              "absentee_votes": 5692094,
+              "absentee_percent": 67.6,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/bidenj.png",
+              "has_image": true,
+              "link": "https://www.nytimes.com/interactive/2020/us/elections/joe-biden.html",
+              "pronoun": "he"
+            },
+            "previous_second_candidate": {
+              "candidate_id": "trump-8639",
+              "candidate_key": "trumpd",
+              "first_name": "Donald J.",
+              "last_name": "Trump",
+              "order": 3,
+              "name_display": "Donald J. Trump",
+              "party_id": "republican",
+              "incumbent": true,
+              "runoff": false,
+              "winner": false,
+              "votes": 5791820,
+              "percent": 34.1,
+              "percent_display": "34.1",
+              "electoral_votes": 0,
+              "absentee_votes": 2575032,
+              "absentee_percent": 30.6,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
+              "has_image": true,
+              "link": "https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html",
+              "pronoun": "he"
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "biden-1036",
+                "num_additional_votes": 19799,
+                "prev_votes": 10822615,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 63.7
+              },
+              {
+                "candidate_id": "trump-8639",
+                "num_additional_votes": 17855,
+                "prev_votes": 5791820,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 34.1
+              },
+              {
+                "candidate_id": "jorgensen-20062680-5-p",
+                "num_additional_votes": 509,
+                "prev_votes": 180680,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 1.1
+              },
+              {
+                "candidate_id": "hawkins-32916-5-p",
+                "num_additional_votes": 187,
+                "prev_votes": 78111,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0.5
+              },
+              {
+                "candidate_id": "de-la-fuente-64542-5-p",
+                "num_additional_votes": 215,
+                "prev_votes": 57122,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0.3
+              },
+              {
+                "candidate_id": "la-riva-254-5-p",
+                "num_additional_votes": 141,
+                "prev_votes": 48548,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0.3
+              },
+              {
+                "candidate_id": "write-ins-21303-5-p",
+                "num_additional_votes": 0,
+                "prev_votes": 8,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [
+              "06077"
+            ],
+            "change_by_county": [
+              {
+                "name": "Alameda",
+                "fips": "06001",
+                "num_additional_votes": 0,
+                "prev_votes": 767961,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 521,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 616180,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 135925,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 6276,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 4655,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 2531,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 2394,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 0,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Alpine",
+                "fips": "06003",
+                "num_additional_votes": 0,
+                "prev_votes": 736,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 5,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 473,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 238,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 14,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 5,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 4,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 2,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 0,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Amador",
+                "fips": "06005",
+                "num_additional_votes": 0,
+                "prev_votes": 22294,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 30,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 8150,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 13580,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 349,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 110,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 64,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 41,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Butte",
+                "fips": "06007",
+                "num_additional_votes": 0,
+                "prev_votes": 99780,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 157,
+                "prev_eevp": 92,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 49402,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 47568,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 1728,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 495,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 312,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 275,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Calaveras",
+                "fips": "06009",
+                "num_additional_votes": 0,
+                "prev_votes": 26717,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 29,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 9845,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 16287,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 352,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 120,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 69,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 44,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Colusa",
+                "fips": "06011",
+                "num_additional_votes": 0,
+                "prev_votes": 7672,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 18,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 3114,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 4399,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 79,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 28,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 27,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 25,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Contra Costa",
+                "fips": "06013",
+                "num_additional_votes": 0,
+                "prev_votes": 567882,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 957,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 407639,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 148623,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 5970,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 2551,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 1868,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 1231,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Del Norte",
+                "fips": "06015",
+                "num_additional_votes": 0,
+                "prev_votes": 11403,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 18,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 4656,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 6434,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 149,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 78,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 53,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 33,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "El Dorado",
+                "fips": "06017",
+                "num_additional_votes": 0,
+                "prev_votes": 115753,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 202,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 51473,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 61614,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 1865,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 457,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 237,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 107,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Fresno",
+                "fips": "06019",
+                "num_additional_votes": 0,
+                "prev_votes": 360021,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 384,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 190403,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 162438,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 3963,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 1454,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 1111,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 652,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Glenn",
+                "fips": "06021",
+                "num_additional_votes": 0,
+                "prev_votes": 10890,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 74,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 3815,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 6854,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 120,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 37,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 32,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 32,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Humboldt",
+                "fips": "06023",
+                "num_additional_votes": 0,
+                "prev_votes": 56448,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 66,
+                "prev_eevp": 84,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 37367,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 17474,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 774,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 443,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 211,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 179,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Imperial",
+                "fips": "06025",
+                "num_additional_votes": 0,
+                "prev_votes": 47752,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 218,
+                "prev_eevp": 87,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 29709,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 17063,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 314,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 238,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 229,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 199,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Inyo",
+                "fips": "06027",
+                "num_additional_votes": 0,
+                "prev_votes": 9460,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 21,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 4623,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 4611,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 128,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 45,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 31,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 22,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Kern",
+                "fips": "06029",
+                "num_additional_votes": 0,
+                "prev_votes": 276834,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 694,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 121930,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 148297,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 3596,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 1080,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 995,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 936,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Kings",
+                "fips": "06031",
+                "num_additional_votes": 0,
+                "prev_votes": 41933,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 96,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 17729,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 23169,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 575,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 175,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 165,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 120,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Lake",
+                "fips": "06033",
+                "num_additional_votes": 0,
+                "prev_votes": 11038,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 70,
+                "prev_eevp": 40,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 6874,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 3955,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 94,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 71,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 26,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 18,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Lassen",
+                "fips": "06035",
+                "num_additional_votes": 0,
+                "prev_votes": 11779,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 57,
+                "prev_eevp": 97,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 2772,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 8798,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 137,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 31,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 25,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 16,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Los Angeles",
+                "fips": "06037",
+                "num_additional_votes": 0,
+                "prev_votes": 4188764,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 3383,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 2980478,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 1121538,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 34762,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 21184,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 15423,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 15379,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Madera",
+                "fips": "06039",
+                "num_additional_votes": 0,
+                "prev_votes": 53036,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 72,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 22814,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 29065,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 613,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 214,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 170,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 160,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Marin",
+                "fips": "06041",
+                "num_additional_votes": 0,
+                "prev_votes": 153475,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 112,
+                "prev_eevp": 97,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 126652,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 24007,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 1494,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 705,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 366,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 251,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Mariposa",
+                "fips": "06043",
+                "num_additional_votes": 0,
+                "prev_votes": 10280,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 25,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 4088,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 5950,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 155,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 39,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 26,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 22,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Mendocino",
+                "fips": "06045",
+                "num_additional_votes": 0,
+                "prev_votes": 25171,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 250,
+                "prev_eevp": 59,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 18303,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 6312,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 248,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 179,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 90,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 39,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Merced",
+                "fips": "06047",
+                "num_additional_votes": 0,
+                "prev_votes": 88533,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 268,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 47861,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 38568,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 926,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 419,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 382,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 377,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Modoc",
+                "fips": "06049",
+                "num_additional_votes": 0,
+                "prev_votes": 3805,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 22,
+                "prev_eevp": 84,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 1063,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 2675,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 31,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 14,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 12,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 10,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Mono",
+                "fips": "06051",
+                "num_additional_votes": 0,
+                "prev_votes": 6713,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 12,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 3998,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 2504,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 126,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 42,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 25,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 18,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Monterey",
+                "fips": "06053",
+                "num_additional_votes": 0,
+                "prev_votes": 160205,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 188,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 111656,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 45031,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 1770,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 730,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 545,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 473,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Napa",
+                "fips": "06055",
+                "num_additional_votes": 0,
+                "prev_votes": 67847,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 191,
+                "prev_eevp": 97,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 46962,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 19388,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 844,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 292,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 217,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 144,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Nevada",
+                "fips": "06057",
+                "num_additional_votes": 0,
+                "prev_votes": 62352,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 111,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 34959,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 25864,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 889,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 322,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 183,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 135,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Orange",
+                "fips": "06059",
+                "num_additional_votes": 0,
+                "prev_votes": 1519356,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 1795,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 812803,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 675381,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 17297,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 5811,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 4638,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 3426,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Placer",
+                "fips": "06061",
+                "num_additional_votes": 0,
+                "prev_votes": 225001,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 127,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 102749,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 116910,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 3727,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 738,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 558,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 319,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Plumas",
+                "fips": "06063",
+                "num_additional_votes": 0,
+                "prev_votes": 10950,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 29,
+                "prev_eevp": 96,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 4465,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 6247,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 142,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 38,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 30,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 25,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 3,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Riverside",
+                "fips": "06065",
+                "num_additional_votes": 0,
+                "prev_votes": 927705,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 864,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 493368,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 416515,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 9160,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 3115,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 3056,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 2491,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Sacramento",
+                "fips": "06067",
+                "num_additional_votes": 0,
+                "prev_votes": 653395,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 677,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 402630,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 234854,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 8636,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 2909,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 2269,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 2097,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "San Benito",
+                "fips": "06069",
+                "num_additional_votes": 0,
+                "prev_votes": 28317,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 54,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 17315,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 10412,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 337,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 89,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 83,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 81,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "San Bernardino",
+                "fips": "06071",
+                "num_additional_votes": 0,
+                "prev_votes": 804316,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 2327,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 436162,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 350310,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 8395,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 3432,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 3147,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 2870,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 0,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "San Diego",
+                "fips": "06073",
+                "num_additional_votes": 0,
+                "prev_votes": 1597603,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 1414,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 962325,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 598434,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 21307,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 7393,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 5287,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 2857,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "San Francisco",
+                "fips": "06075",
+                "num_additional_votes": 0,
+                "prev_votes": 440418,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 609,
+                "prev_eevp": 95,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 375630,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 55988,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 3261,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 2762,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 1529,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 1248,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "San Joaquin",
+                "fips": "06077",
+                "num_additional_votes": 38706,
+                "prev_votes": 229842,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 10,
+                "prev_precincts": 207,
+                "prev_eevp": 90,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 130522,
+                    "num_additional_votes": 19799
+                  },
+                  "trumpd": {
+                    "prev_votes": 94693,
+                    "num_additional_votes": 17855
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 2216,
+                    "num_additional_votes": 509
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 884,
+                    "num_additional_votes": 215
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 806,
+                    "num_additional_votes": 187
+                  },
+                  "la_rivag": {
+                    "prev_votes": 721,
+                    "num_additional_votes": 141
+                  }
+                }
+              },
+              {
+                "name": "San Luis Obispo",
+                "fips": "06079",
+                "num_additional_votes": 0,
+                "prev_votes": 156562,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 112,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 86829,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 65907,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 2352,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 769,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 437,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 268,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "San Mateo",
+                "fips": "06081",
+                "num_additional_votes": 0,
+                "prev_votes": 370072,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 403,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 288333,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 74756,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 3500,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 1575,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 1124,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 784,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Santa Barbara",
+                "fips": "06083",
+                "num_additional_votes": 0,
+                "prev_votes": 194378,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 226,
+                "prev_eevp": 96,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 126419,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 63583,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 2317,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 889,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 681,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 489,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Santa Clara",
+                "fips": "06085",
+                "num_additional_votes": 0,
+                "prev_votes": 844893,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 596,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 614136,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 212973,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 9041,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 4014,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 2601,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 2128,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 0,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Santa Cruz",
+                "fips": "06087",
+                "num_additional_votes": 0,
+                "prev_votes": 143757,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 168,
+                "prev_eevp": 98,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 113487,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 26688,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 1688,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 1055,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 429,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 410,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Shasta",
+                "fips": "06089",
+                "num_additional_votes": 0,
+                "prev_votes": 90225,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 97,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 29312,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 58886,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 1222,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 360,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 264,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 181,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Sierra",
+                "fips": "06091",
+                "num_additional_votes": 0,
+                "prev_votes": 1930,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 23,
+                "prev_eevp": 93,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 730,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 1142,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 27,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 13,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 12,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 6,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Siskiyou",
+                "fips": "06093",
+                "num_additional_votes": 0,
+                "prev_votes": 23420,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 64,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 9582,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 13272,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 317,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 116,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 79,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 54,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Solano",
+                "fips": "06095",
+                "num_additional_votes": 0,
+                "prev_votes": 205557,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 348,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 131489,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 69218,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 2475,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 957,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 792,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 626,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Sonoma",
+                "fips": "06097",
+                "num_additional_votes": 0,
+                "prev_votes": 263691,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 668,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 197010,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 60355,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 3348,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 1461,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 803,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 714,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Stanislaus",
+                "fips": "06099",
+                "num_additional_votes": 0,
+                "prev_votes": 210013,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 192,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 103459,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 101792,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 2433,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 896,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 729,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 704,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Sutter",
+                "fips": "06101",
+                "num_additional_votes": 0,
+                "prev_votes": 41694,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 45,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 16961,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 23864,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 506,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 131,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 120,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 112,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Tehama",
+                "fips": "06103",
+                "num_additional_votes": 0,
+                "prev_votes": 26826,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 46,
+                "prev_eevp": 98,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 8493,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 17739,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 359,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 97,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 80,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 58,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Trinity",
+                "fips": "06105",
+                "num_additional_votes": 0,
+                "prev_votes": 6252,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 25,
+                "prev_eevp": 96,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 2848,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 3185,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 117,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 50,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 27,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 25,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Tulare",
+                "fips": "06107",
+                "num_additional_votes": 0,
+                "prev_votes": 144448,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 271,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 65056,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 76315,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 1474,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 612,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 527,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 464,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 0,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Tuolumne",
+                "fips": "06109",
+                "num_additional_votes": 0,
+                "prev_votes": 29820,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 73,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 11808,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 17302,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 426,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 139,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 87,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 58,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Ventura",
+                "fips": "06111",
+                "num_additional_votes": 0,
+                "prev_votes": 419577,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 695,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 249742,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 160835,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 5023,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 1750,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 1258,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 969,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Yolo",
+                "fips": "06113",
+                "num_additional_votes": 0,
+                "prev_votes": 75023,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 58,
+                "prev_eevp": 80,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 53621,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 19825,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 790,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 363,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 220,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 204,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Yuba",
+                "fips": "06115",
+                "num_additional_votes": 0,
+                "prev_votes": 27329,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 34,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "bidenj": {
+                    "prev_votes": 10343,
+                    "num_additional_votes": 0
+                  },
+                  "trumpd": {
+                    "prev_votes": 16210,
+                    "num_additional_votes": 0
+                  },
+                  "jorgensenj": {
+                    "prev_votes": 446,
+                    "num_additional_votes": 0
+                  },
+                  "de_la_fuenter": {
+                    "prev_votes": 133,
+                    "num_additional_votes": 0
+                  },
+                  "hawkinsh": {
+                    "prev_votes": 115,
+                    "num_additional_votes": 0
+                  },
+                  "la_rivag": {
+                    "prev_votes": 82,
+                    "num_additional_votes": 0
+                  }
+                }
+              }
+            ],
+            "total_estimated_votes_remaining_for_2016_clinton_counties": -1157066,
+            "total_estimated_votes_remaining_for_2016_trump_counties": -47207,
+            "total_estimated_percentage_reporting_for_2016_clinton_counties": 1.0796273460081551,
+            "total_estimated_percentage_reporting_for_2016_trump_counties": 1.0368136290048382,
+            "estimated_percentage_remaining_clinton_2016_counties": 8,
+            "estimated_percentage_remaining_trump_2016_counties": 92,
+            "counties_flipped_to_biden": [],
+            "counties_just_flipped_to_biden": [],
+            "counties_flipped_to_trump": [],
+            "counties_just_flipped_to_trump": []
+          }
         },
         "winnerCalledTimestamp": 1604462456559,
         "timeseries": [
@@ -4821,6 +7099,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-17T02:35:49Z"
+          },
+          {
+            "vote_shares": {
+              "bidenj": 0.637,
+              "trumpd": 0.341
+            },
+            "votes": 17017610,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-17T05:35:57Z"
           }
         ]
       },
@@ -9990,7 +12278,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 258657,
+        "votes": 285776,
         "absentee_votes": 47591,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -10003,19 +12291,19 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 292,
+        "precincts_reporting": 311,
         "precincts_total": 311,
-        "reporting_display": "94% reporting",
-        "reporting_value": "94%",
-        "eevp": 95,
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
+        "eevp": 99,
         "tot_exp_vote": 272000,
         "eevp_source": "edison",
-        "eevp_value": "95%",
-        "eevp_display": "95% reported",
+        "eevp_value": ">98%",
+        "eevp_display": ">98% reported",
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-16T15:47:58Z",
+        "last_updated": "2020-11-17T05:36:11Z",
         "candidates": [
           {
             "candidate_id": "mcnerney-50403-5-h",
@@ -10028,9 +12316,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 150477,
-            "percent": 58.2,
-            "percent_display": "58.2",
+            "votes": 164992,
+            "percent": 57.7,
+            "percent_display": "57.7",
             "electoral_votes": 0,
             "absentee_votes": 32258,
             "absentee_percent": 67.8,
@@ -10049,9 +12337,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 108180,
-            "percent": 41.8,
-            "percent_display": "41.8",
+            "votes": 120784,
+            "percent": 42.3,
+            "percent_display": "42.3",
             "electoral_votes": 0,
             "absentee_votes": 15333,
             "absentee_percent": 32.2,
@@ -10061,10 +12349,10 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 16.35254,
-        "leader_margin_votes": 42297,
-        "leader_margin_display": "D+16",
-        "leader_margin_name_display": "McNerney +16",
+        "leader_margin_value": 15.46946,
+        "leader_margin_votes": 44208,
+        "leader_margin_display": "D+15",
+        "leader_margin_name_display": "McNerney +15",
         "leader_party_id": "democrat",
         "counties": [
           {
@@ -10136,15 +12424,15 @@
           {
             "fips": "06077",
             "name": "San Joaquin",
-            "votes": 150309,
+            "votes": 177428,
             "absentee_votes": 0,
-            "reporting": 123,
+            "reporting": 142,
             "precincts": 142,
             "absentee_method": "None",
-            "eevp": 86,
+            "eevp": 100,
             "tot_exp_vote": 174211,
-            "eevp_value": "86%",
-            "eevp_display": "86% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "unknown",
@@ -10153,17 +12441,17 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcnerneyj": 87896,
-              "amadort": 62413
+              "mcnerneyj": 102411,
+              "amadort": 75017
             },
             "results_absentee": {
               "mcnerneyj": 0,
               "amadort": 0
             },
-            "last_updated": "2020-11-16T15:48:21Z",
-            "leader_margin_value": 16.95374,
-            "leader_margin_display": "D+17",
-            "leader_margin_name_display": "McNerney +17",
+            "last_updated": "2020-11-17T05:36:07Z",
+            "leader_margin_value": 15.4395,
+            "leader_margin_display": "D+15",
+            "leader_margin_name_display": "McNerney +15",
             "leader_party_id": "democrat"
           }
         ],
@@ -10182,12 +12470,12 @@
             "sentence_type": "race_won"
           },
           "eevp": {
-            "sentence": "95% of the estimated vote total has been reported.",
-            "timestamp": 1605321536235,
-            "is_new": false,
+            "sentence": "Nearly all of the estimated vote total has been reported.",
+            "timestamp": 1605591450652,
+            "is_new": true,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "95% of the estimated vote total has been reported.",
+            "generatedText": "Nearly all of the estimated vote total has been reported.",
             "sentence_type": "has_eevp"
           },
           "eevp_leadin": {
@@ -10210,11 +12498,176 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
-            "additional_precincts_reported": false,
-            "has_eevp": true
+            "additional_votes_reported": true,
+            "additional_precincts_reported": true,
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": true,
+            "precinct_percentage_points_grew_by_more_than_5_percent": true,
+            "eevp_grew_by_more_than_2_percent": true,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": true,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": true,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 4,
+            "prev_eevp": 95,
+            "num_additional_votes": 27119,
+            "prev_votes": 258657,
+            "num_additional_precincts": 19,
+            "prev_precincts": 292,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 6.1,
+            "prev_precinct_percentage_points": 93.9,
+            "lead_margin_change_votes": 1911,
+            "lead_margin_change_percentage_points": -1,
+            "previous_leading_candidate": {
+              "candidate_id": "mcnerney-50403-5-h",
+              "candidate_key": "mcnerneyj",
+              "first_name": "Jerry",
+              "last_name": "McNerney",
+              "order": 1,
+              "name_display": "Jerry McNerney",
+              "party_id": "democrat",
+              "incumbent": true,
+              "runoff": false,
+              "winner": true,
+              "votes": 150477,
+              "percent": 58.2,
+              "percent_display": "58.2",
+              "electoral_votes": 0,
+              "absentee_votes": 32258,
+              "absentee_percent": 67.8,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/mcnerney-50403-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "previous_second_candidate": {
+              "candidate_id": "amador-63605-5-h",
+              "candidate_key": "amadort",
+              "first_name": "Tony",
+              "last_name": "Amador",
+              "order": 2,
+              "name_display": "Tony Amador",
+              "party_id": "republican",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 108180,
+              "percent": 41.8,
+              "percent_display": "41.8",
+              "electoral_votes": 0,
+              "absentee_votes": 15333,
+              "absentee_percent": 32.2,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/amador-63605-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "mcnerney-50403-5-h",
+                "num_additional_votes": 14515,
+                "prev_votes": 150477,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": -0.5,
+                "prev_percent": 58.2
+              },
+              {
+                "candidate_id": "amador-63605-5-h",
+                "num_additional_votes": 12604,
+                "prev_votes": 108180,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0.5,
+                "prev_percent": 41.8
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [
+              "06077"
+            ],
+            "change_by_county": [
+              {
+                "name": "Contra Costa",
+                "fips": "06013",
+                "num_additional_votes": 0,
+                "prev_votes": 96353,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 157,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "mcnerneyj": {
+                    "prev_votes": 57541,
+                    "num_additional_votes": 0
+                  },
+                  "amadort": {
+                    "prev_votes": 38812,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Sacramento",
+                "fips": "06067",
+                "num_additional_votes": 0,
+                "prev_votes": 11995,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 12,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "mcnerneyj": {
+                    "prev_votes": 5040,
+                    "num_additional_votes": 0
+                  },
+                  "amadort": {
+                    "prev_votes": 6955,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "San Joaquin",
+                "fips": "06077",
+                "num_additional_votes": 27119,
+                "prev_votes": 150309,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 14,
+                "prev_precincts": 142,
+                "prev_eevp": 86,
+                "candidate_changes": {
+                  "mcnerneyj": {
+                    "prev_votes": 87896,
+                    "num_additional_votes": 14515
+                  },
+                  "amadort": {
+                    "prev_votes": 62413,
+                    "num_additional_votes": 12604
+                  }
+                }
+              }
+            ]
+          }
         },
         "winnerCalledTimestamp": 1604474643079,
         "timeseries": [
@@ -10577,6 +13030,16 @@
             "eevp": 95,
             "eevp_source": "edison",
             "timestamp": "2020-11-14T02:37:21Z"
+          },
+          {
+            "vote_shares": {
+              "mcnerneyj": 0.577,
+              "amadort": 0.423
+            },
+            "votes": 285776,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-17T05:36:11Z"
           }
         ]
       },
@@ -10610,7 +13073,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 282358,
+        "votes": 293192,
         "absentee_votes": 135504,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -10623,10 +13086,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 254,
+        "precincts_reporting": 257,
         "precincts_total": 257,
-        "reporting_display": "99% reporting",
-        "reporting_value": "99%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": 99,
         "tot_exp_vote": 276000,
         "eevp_source": "edison",
@@ -10635,7 +13098,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-16T15:47:59Z",
+        "last_updated": "2020-11-17T05:36:11Z",
         "candidates": [
           {
             "candidate_id": "harder-19762-5-h",
@@ -10648,9 +13111,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 156365,
-            "percent": 55.4,
-            "percent_display": "55.4",
+            "votes": 161745,
+            "percent": 55.2,
+            "percent_display": "55.2",
             "electoral_votes": 0,
             "absentee_votes": 78717,
             "absentee_percent": 58.1,
@@ -10669,9 +13132,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 125993,
-            "percent": 44.6,
-            "percent_display": "44.6",
+            "votes": 131447,
+            "percent": 44.8,
+            "percent_display": "44.8",
             "electoral_votes": 0,
             "absentee_votes": 56787,
             "absentee_percent": 41.9,
@@ -10681,24 +13144,24 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 10.75656,
-        "leader_margin_votes": 30372,
-        "leader_margin_display": "D+11",
-        "leader_margin_name_display": "Harder +11",
+        "leader_margin_value": 10.33384,
+        "leader_margin_votes": 30298,
+        "leader_margin_display": "D+10",
+        "leader_margin_name_display": "Harder +10",
         "leader_party_id": "democrat",
         "counties": [
           {
             "fips": "06077",
             "name": "San Joaquin",
-            "votes": 75923,
+            "votes": 86757,
             "absentee_votes": 0,
-            "reporting": 62,
+            "reporting": 65,
             "precincts": 65,
             "absentee_method": "None",
-            "eevp": 95,
+            "eevp": 100,
             "tot_exp_vote": 79728,
-            "eevp_value": "95%",
-            "eevp_display": "95% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "unknown",
@@ -10707,17 +13170,17 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "harderj": 43387,
-              "howzet": 32536
+              "harderj": 48767,
+              "howzet": 37990
             },
             "results_absentee": {
               "harderj": 0,
               "howzet": 0
             },
-            "last_updated": "2020-11-16T15:48:21Z",
-            "leader_margin_value": 14.29211,
-            "leader_margin_display": "D+14",
-            "leader_margin_name_display": "Harder +14",
+            "last_updated": "2020-11-17T05:36:07Z",
+            "leader_margin_value": 12.42205,
+            "leader_margin_display": "D+12",
+            "leader_margin_name_display": "Harder +12",
             "leader_party_id": "democrat"
           },
           {
@@ -10797,11 +13260,156 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
-            "additional_precincts_reported": false,
-            "has_eevp": true
+            "additional_votes_reported": true,
+            "additional_precincts_reported": true,
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": true,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": true,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 0,
+            "prev_eevp": 99,
+            "num_additional_votes": 10834,
+            "prev_votes": 282358,
+            "num_additional_precincts": 3,
+            "prev_precincts": 254,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 1.2,
+            "prev_precinct_percentage_points": 98.8,
+            "lead_margin_change_votes": -74,
+            "lead_margin_change_percentage_points": -0.3999999999999915,
+            "previous_leading_candidate": {
+              "candidate_id": "harder-19762-5-h",
+              "candidate_key": "harderj",
+              "first_name": "Josh",
+              "last_name": "Harder",
+              "order": 1,
+              "name_display": "Josh Harder",
+              "party_id": "democrat",
+              "incumbent": true,
+              "runoff": false,
+              "winner": true,
+              "votes": 156365,
+              "percent": 55.4,
+              "percent_display": "55.4",
+              "electoral_votes": 0,
+              "absentee_votes": 78717,
+              "absentee_percent": 58.1,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/harder-19762-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "previous_second_candidate": {
+              "candidate_id": "howze-19766-5-h",
+              "candidate_key": "howzet",
+              "first_name": "Ted",
+              "last_name": "Howze",
+              "order": 2,
+              "name_display": "Ted Howze",
+              "party_id": "republican",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 125993,
+              "percent": 44.6,
+              "percent_display": "44.6",
+              "electoral_votes": 0,
+              "absentee_votes": 56787,
+              "absentee_percent": 41.9,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/howze-19766-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "harder-19762-5-h",
+                "num_additional_votes": 5380,
+                "prev_votes": 156365,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": -0.2,
+                "prev_percent": 55.4
+              },
+              {
+                "candidate_id": "howze-19766-5-h",
+                "num_additional_votes": 5454,
+                "prev_votes": 125993,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0.2,
+                "prev_percent": 44.6
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [
+              "06077"
+            ],
+            "change_by_county": [
+              {
+                "name": "San Joaquin",
+                "fips": "06077",
+                "num_additional_votes": 10834,
+                "prev_votes": 75923,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 5,
+                "prev_precincts": 65,
+                "prev_eevp": 95,
+                "candidate_changes": {
+                  "harderj": {
+                    "prev_votes": 43387,
+                    "num_additional_votes": 5380
+                  },
+                  "howzet": {
+                    "prev_votes": 32536,
+                    "num_additional_votes": 5454
+                  }
+                }
+              },
+              {
+                "name": "Stanislaus",
+                "fips": "06099",
+                "num_additional_votes": 0,
+                "prev_votes": 206435,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 192,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "harderj": {
+                    "prev_votes": 112978,
+                    "num_additional_votes": 0
+                  },
+                  "howzet": {
+                    "prev_votes": 93457,
+                    "num_additional_votes": 0
+                  }
+                }
+              }
+            ]
+          }
         },
         "winnerCalledTimestamp": 1604476957186,
         "timeseries": [
@@ -11064,6 +13672,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-14T02:37:21Z"
+          },
+          {
+            "vote_shares": {
+              "harderj": 0.552,
+              "howzet": 0.448
+            },
+            "votes": 293192,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-17T05:36:11Z"
           }
         ]
       },
@@ -29978,7 +32596,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 337291,
+        "votes": 375176,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -29991,10 +32609,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 276,
+        "precincts_reporting": 301,
         "precincts_total": 301,
-        "reporting_display": "92% reporting",
-        "reporting_value": "92%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -30004,7 +32622,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-15T22:40:41.970Z",
+        "last_updated": "2020-11-17T05:34:29.710Z",
         "candidates": [
           {
             "candidate_id": "eggman-11780",
@@ -30017,9 +32635,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 185798,
-            "percent": 55.1,
-            "percent_display": "55.1",
+            "votes": 205789,
+            "percent": 54.9,
+            "percent_display": "54.9",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -30038,9 +32656,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 151493,
-            "percent": 44.9,
-            "percent_display": "44.9",
+            "votes": 169387,
+            "percent": 45.1,
+            "percent_display": "45.1",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -32713,7 +35331,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 194847,
+        "votes": 198417,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -32739,7 +35357,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-15T22:40:41.970Z",
+        "last_updated": "2020-11-17T05:34:29.710Z",
         "candidates": [
           {
             "candidate_id": "cooper-12362",
@@ -32752,9 +35370,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 129133,
-            "percent": 66.3,
-            "percent_display": "66.3",
+            "votes": 130559,
+            "percent": 65.8,
+            "percent_display": "65.8",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -32773,9 +35391,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 65714,
-            "percent": 33.7,
-            "percent_display": "33.7",
+            "votes": 67858,
+            "percent": 34.2,
+            "percent_display": "34.2",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -33031,7 +35649,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 198727,
+        "votes": 209286,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -33044,10 +35662,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 159,
+        "precincts_reporting": 183,
         "precincts_total": 183,
-        "reporting_display": "87% reporting",
-        "reporting_value": "87%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -33057,7 +35675,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-14T21:21:55.123Z",
+        "last_updated": "2020-11-17T05:34:29.710Z",
         "candidates": [
           {
             "candidate_id": "flora-12744",
@@ -33070,9 +35688,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 120797,
-            "percent": 60.8,
-            "percent_display": "60.8",
+            "votes": 127579,
+            "percent": 61,
+            "percent_display": "61.0",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -33091,9 +35709,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 77930,
-            "percent": 39.2,
-            "percent_display": "39.2",
+            "votes": 81707,
+            "percent": 39,
+            "percent_display": "39.0",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -33137,7 +35755,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 127746,
+        "votes": 149923,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -33150,10 +35768,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 94,
+        "precincts_reporting": 118,
         "precincts_total": 118,
-        "reporting_display": "80% reporting",
-        "reporting_value": "80%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -33163,7 +35781,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-14T21:21:55.123Z",
+        "last_updated": "2020-11-17T05:34:29.710Z",
         "candidates": [
           {
             "candidate_id": "villapudua-12860",
@@ -33176,9 +35794,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 63975,
-            "percent": 50.1,
-            "percent_display": "50.1",
+            "votes": 76814,
+            "percent": 51.2,
+            "percent_display": "51.2",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -33197,9 +35815,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 63771,
-            "percent": 49.9,
-            "percent_display": "49.9",
+            "votes": 73109,
+            "percent": 48.8,
+            "percent_display": "48.8",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -40283,7 +42901,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16395024,
+        "votes": 16432721,
         "absentee_votes": 985738,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -40296,7 +42914,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19609,
+        "precincts_reporting": 19634,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -40308,7 +42926,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T02:35:22.077Z",
+        "last_updated": "2020-11-17T05:34:29.710Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -40320,7 +42938,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9365431,
+            "votes": 9390914,
             "percent": 57.1,
             "percent_display": "57.1",
             "electoral_votes": 0,
@@ -40340,7 +42958,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7029593,
+            "votes": 7041807,
             "percent": 42.9,
             "percent_display": "42.9",
             "electoral_votes": 0,
@@ -41458,9 +44076,9 @@
           {
             "fips": "06077",
             "name": "San Joaquin",
-            "votes": 223804,
+            "votes": 261501,
             "absentee_votes": 0,
-            "reporting": 182,
+            "reporting": 207,
             "precincts": 207,
             "absentee_method": null,
             "eevp": null,
@@ -41475,14 +44093,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 144016,
-              "yes": 79788
+              "no": 169499,
+              "yes": 92002
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-17T05:34:29.710Z"
           },
           {
             "fips": "06079",
@@ -42074,7 +44692,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16570423,
+        "votes": 16608466,
         "absentee_votes": 993320,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -42087,7 +44705,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19609,
+        "precincts_reporting": 19634,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -42099,7 +44717,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T02:35:22.077Z",
+        "last_updated": "2020-11-17T05:34:29.710Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -42111,7 +44729,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9706830,
+            "votes": 9725867,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -42131,7 +44749,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6863593,
+            "votes": 6882599,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -43249,9 +45867,9 @@
           {
             "fips": "06077",
             "name": "San Joaquin",
-            "votes": 225768,
+            "votes": 263811,
             "absentee_votes": 0,
-            "reporting": 182,
+            "reporting": 207,
             "precincts": 207,
             "absentee_method": null,
             "eevp": null,
@@ -43266,14 +45884,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 114687,
-              "no": 111081
+              "yes": 133724,
+              "no": 130087
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-17T05:34:29.710Z"
           },
           {
             "fips": "06079",
@@ -43865,7 +46483,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16126035,
+        "votes": 16163397,
         "absentee_votes": 975963,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -43878,7 +46496,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19609,
+        "precincts_reporting": 19634,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -43890,7 +46508,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T02:35:22.077Z",
+        "last_updated": "2020-11-17T05:34:29.710Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -43902,9 +46520,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9086002,
-            "percent": 56.3,
-            "percent_display": "56.3",
+            "votes": 9109811,
+            "percent": 56.4,
+            "percent_display": "56.4",
             "electoral_votes": 0,
             "absentee_votes": 556269,
             "absentee_percent": 57,
@@ -43922,9 +46540,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7040033,
-            "percent": 43.7,
-            "percent_display": "43.7",
+            "votes": 7053586,
+            "percent": 43.6,
+            "percent_display": "43.6",
             "electoral_votes": 0,
             "absentee_votes": 419694,
             "absentee_percent": 43,
@@ -45040,9 +47658,9 @@
           {
             "fips": "06077",
             "name": "San Joaquin",
-            "votes": 223113,
+            "votes": 260475,
             "absentee_votes": 0,
-            "reporting": 182,
+            "reporting": 207,
             "precincts": 207,
             "absentee_method": null,
             "eevp": null,
@@ -45057,14 +47675,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 136689,
-              "yes": 86424
+              "no": 160498,
+              "yes": 99977
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-17T05:34:29.710Z"
           },
           {
             "fips": "06079",
@@ -45654,7 +48272,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16335595,
+        "votes": 16373041,
         "absentee_votes": 984314,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -45667,7 +48285,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19609,
+        "precincts_reporting": 19634,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -45679,7 +48297,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T02:35:22.077Z",
+        "last_updated": "2020-11-17T05:34:29.710Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -45691,7 +48309,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8337640,
+            "votes": 8355327,
             "percent": 51,
             "percent_display": "51.0",
             "electoral_votes": 0,
@@ -45711,7 +48329,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7997955,
+            "votes": 8017714,
             "percent": 49,
             "percent_display": "49.0",
             "electoral_votes": 0,
@@ -46829,9 +49447,9 @@
           {
             "fips": "06077",
             "name": "San Joaquin",
-            "votes": 222938,
+            "votes": 260384,
             "absentee_votes": 0,
-            "reporting": 182,
+            "reporting": 207,
             "precincts": 207,
             "absentee_method": null,
             "eevp": null,
@@ -46846,14 +49464,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 108454,
-              "no": 114484
+              "yes": 126141,
+              "no": 134243
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.97Z"
+            "last_updated": "2020-11-17T05:34:29.710Z"
           },
           {
             "fips": "06079",
@@ -47443,7 +50061,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16613804,
+        "votes": 16651940,
         "absentee_votes": 998550,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -47456,7 +50074,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19609,
+        "precincts_reporting": 19634,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -47468,7 +50086,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T02:35:22.077Z",
+        "last_updated": "2020-11-17T05:34:29.710Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -47480,7 +50098,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8638033,
+            "votes": 8661241,
             "percent": 52,
             "percent_display": "52.0",
             "electoral_votes": 0,
@@ -47500,7 +50118,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7975771,
+            "votes": 7990699,
             "percent": 48,
             "percent_display": "48.0",
             "electoral_votes": 0,
@@ -48618,9 +51236,9 @@
           {
             "fips": "06077",
             "name": "San Joaquin",
-            "votes": 226612,
+            "votes": 264748,
             "absentee_votes": 0,
-            "reporting": 182,
+            "reporting": 207,
             "precincts": 207,
             "absentee_method": null,
             "eevp": null,
@@ -48635,14 +51253,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 135363,
-              "yes": 91249
+              "no": 158571,
+              "yes": 106177
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-17T05:34:29.710Z"
           },
           {
             "fips": "06079",
@@ -49234,7 +51852,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16606674,
+        "votes": 16644884,
         "absentee_votes": 994775,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -49247,7 +51865,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19609,
+        "precincts_reporting": 19634,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -49259,7 +51877,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T02:35:22.077Z",
+        "last_updated": "2020-11-17T05:34:29.710Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -49271,7 +51889,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9294967,
+            "votes": 9320673,
             "percent": 56,
             "percent_display": "56.0",
             "electoral_votes": 0,
@@ -49291,7 +51909,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7311707,
+            "votes": 7324211,
             "percent": 44,
             "percent_display": "44.0",
             "electoral_votes": 0,
@@ -50409,9 +53027,9 @@
           {
             "fips": "06077",
             "name": "San Joaquin",
-            "votes": 226499,
+            "votes": 264709,
             "absentee_votes": 0,
-            "reporting": 182,
+            "reporting": 207,
             "precincts": 207,
             "absentee_method": null,
             "eevp": null,
@@ -50426,14 +53044,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 146817,
-              "yes": 79682
+              "no": 172523,
+              "yes": 92186
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-17T05:34:29.710Z"
           },
           {
             "fips": "06079",
@@ -51023,7 +53641,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16248702,
+        "votes": 16285994,
         "absentee_votes": 978441,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -51036,7 +53654,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19609,
+        "precincts_reporting": 19634,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -51048,7 +53666,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T02:35:22.077Z",
+        "last_updated": "2020-11-17T05:34:29.710Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -51060,7 +53678,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8296775,
+            "votes": 8315045,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -51080,7 +53698,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7951927,
+            "votes": 7970949,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -52198,9 +54816,9 @@
           {
             "fips": "06077",
             "name": "San Joaquin",
-            "votes": 222557,
+            "votes": 259849,
             "absentee_votes": 0,
-            "reporting": 182,
+            "reporting": 207,
             "precincts": 207,
             "absentee_method": null,
             "eevp": null,
@@ -52215,14 +54833,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 115360,
-              "no": 107197
+              "yes": 133630,
+              "no": 126219
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-17T05:34:29.710Z"
           },
           {
             "fips": "06079",
@@ -52812,7 +55430,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16206534,
+        "votes": 16243991,
         "absentee_votes": 975847,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -52825,7 +55443,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19609,
+        "precincts_reporting": 19634,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -52837,7 +55455,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T02:35:22.077Z",
+        "last_updated": "2020-11-17T05:34:29.710Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -52849,7 +55467,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10015082,
+            "votes": 10037057,
             "percent": 61.8,
             "percent_display": "61.8",
             "electoral_votes": 0,
@@ -52869,7 +55487,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6191452,
+            "votes": 6206934,
             "percent": 38.2,
             "percent_display": "38.2",
             "electoral_votes": 0,
@@ -53987,9 +56605,9 @@
           {
             "fips": "06077",
             "name": "San Joaquin",
-            "votes": 222659,
+            "votes": 260116,
             "absentee_votes": 0,
-            "reporting": 182,
+            "reporting": 207,
             "precincts": 207,
             "absentee_method": null,
             "eevp": null,
@@ -54004,14 +56622,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 133789,
-              "yes": 88870
+              "no": 155764,
+              "yes": 104352
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-17T05:34:29.710Z"
           },
           {
             "fips": "06079",
@@ -54603,7 +57221,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16389003,
+        "votes": 16426702,
         "absentee_votes": 986242,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -54616,7 +57234,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19609,
+        "precincts_reporting": 19634,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -54628,7 +57246,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T02:35:22.077Z",
+        "last_updated": "2020-11-17T05:34:29.710Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -54640,9 +57258,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9807823,
-            "percent": 59.8,
-            "percent_display": "59.8",
+            "votes": 9832720,
+            "percent": 59.9,
+            "percent_display": "59.9",
             "electoral_votes": 0,
             "absentee_votes": 630482,
             "absentee_percent": 63.9,
@@ -54660,9 +57278,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6581180,
-            "percent": 40.2,
-            "percent_display": "40.2",
+            "votes": 6593982,
+            "percent": 40.1,
+            "percent_display": "40.1",
             "electoral_votes": 0,
             "absentee_votes": 355760,
             "absentee_percent": 36.1,
@@ -55778,9 +58396,9 @@
           {
             "fips": "06077",
             "name": "San Joaquin",
-            "votes": 224263,
+            "votes": 261962,
             "absentee_votes": 0,
-            "reporting": 182,
+            "reporting": 207,
             "precincts": 207,
             "absentee_method": null,
             "eevp": null,
@@ -55795,14 +58413,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 146631,
-              "yes": 77632
+              "no": 171528,
+              "yes": 90434
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-17T05:34:29.710Z"
           },
           {
             "fips": "06079",
@@ -56394,7 +59012,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16504026,
+        "votes": 16542082,
         "absentee_votes": 992295,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -56407,7 +59025,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19609,
+        "precincts_reporting": 19634,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -56419,7 +59037,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T02:35:22.077Z",
+        "last_updated": "2020-11-17T05:34:29.710Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -56431,7 +59049,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9674980,
+            "votes": 9699202,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -56451,7 +59069,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6829046,
+            "votes": 6842880,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -57569,9 +60187,9 @@
           {
             "fips": "06077",
             "name": "San Joaquin",
-            "votes": 225893,
+            "votes": 263949,
             "absentee_votes": 0,
-            "reporting": 182,
+            "reporting": 207,
             "precincts": 207,
             "absentee_method": null,
             "eevp": null,
@@ -57586,14 +60204,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 141797,
-              "no": 84096
+              "yes": 166019,
+              "no": 97930
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-17T05:34:29.710Z"
           },
           {
             "fips": "06079",
@@ -58183,7 +60801,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16367509,
+        "votes": 16405454,
         "absentee_votes": 984773,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -58196,7 +60814,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19609,
+        "precincts_reporting": 19634,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -58208,7 +60826,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T02:35:22.077Z",
+        "last_updated": "2020-11-17T05:34:29.710Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -58220,7 +60838,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10405462,
+            "votes": 10430656,
             "percent": 63.6,
             "percent_display": "63.6",
             "electoral_votes": 0,
@@ -58240,7 +60858,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 5962047,
+            "votes": 5974798,
             "percent": 36.4,
             "percent_display": "36.4",
             "electoral_votes": 0,
@@ -59358,9 +61976,9 @@
           {
             "fips": "06077",
             "name": "San Joaquin",
-            "votes": 226612,
+            "votes": 264557,
             "absentee_votes": 0,
-            "reporting": 182,
+            "reporting": 207,
             "precincts": 207,
             "absentee_method": null,
             "eevp": null,
@@ -59375,14 +61993,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 152893,
-              "yes": 73719
+              "no": 178087,
+              "yes": 86470
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-17T05:34:29.710Z"
           },
           {
             "fips": "06079",
@@ -59972,7 +62590,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16220352,
+        "votes": 16257935,
         "absentee_votes": 979988,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -59985,7 +62603,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19609,
+        "precincts_reporting": 19634,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -59997,7 +62615,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T02:35:22.077Z",
+        "last_updated": "2020-11-17T05:34:29.710Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -60009,7 +62627,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9105196,
+            "votes": 9126914,
             "percent": 56.1,
             "percent_display": "56.1",
             "electoral_votes": 0,
@@ -60029,7 +62647,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7115156,
+            "votes": 7131021,
             "percent": 43.9,
             "percent_display": "43.9",
             "electoral_votes": 0,
@@ -61147,9 +63765,9 @@
           {
             "fips": "06077",
             "name": "San Joaquin",
-            "votes": 223945,
+            "votes": 261528,
             "absentee_votes": 0,
-            "reporting": 182,
+            "reporting": 207,
             "precincts": 207,
             "absentee_method": null,
             "eevp": null,
@@ -61164,14 +63782,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 129021,
-              "no": 94924
+              "yes": 150739,
+              "no": 110789
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-14T21:21:55.123Z"
+            "last_updated": "2020-11-17T05:34:29.710Z"
           },
           {
             "fips": "06079",
@@ -61745,7 +64363,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 218,
-            "votes": 74687142,
+            "votes": 74707037,
             "percent": "50.3",
             "change": -7,
             "flip_count": 3,
@@ -61762,7 +64380,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 204,
-            "votes": 71672853,
+            "votes": 71690911,
             "percent": "48.3",
             "change": 8,
             "flip_count": 11,
@@ -61807,7 +64425,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 78856957,
+            "votes": 78876756,
             "percent": "50.9",
             "change": 0,
             "flip_count": 0,
@@ -61824,7 +64442,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73216886,
+            "votes": 73234741,
             "percent": "47.3",
             "change": 0,
             "flip_count": 0,
@@ -61841,7 +64459,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2793985,
+            "votes": 2795037,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -73342,7 +75960,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 10822615,
+          "votes": 10842414,
           "percent": 63.7,
           "percent_display": "63.7",
           "electoral_votes": 55,
@@ -78249,8 +80867,8 @@
     ]
   },
   "meta": {
-    "version": 18496,
+    "version": 18498,
     "track": "2020-11-03",
-    "timestamp": "2020-11-17T05:00:19.135Z"
+    "timestamp": "2020-11-17T05:37:38.495Z"
   }
 }
