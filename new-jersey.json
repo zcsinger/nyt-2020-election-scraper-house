@@ -14617,10 +14617,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 5761,
+        "precincts_reporting": 5738,
         "precincts_total": 6348,
-        "reporting_display": "91% reporting",
-        "reporting_value": "91%",
+        "reporting_display": "90% reporting",
+        "reporting_value": "90%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -14629,7 +14629,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-16T22:55:22.343Z",
+        "last_updated": "2020-11-17T02:54:09.377Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -15056,7 +15056,7 @@
             "name": "Morris",
             "votes": 263994,
             "absentee_votes": 0,
-            "reporting": 395,
+            "reporting": 372,
             "precincts": 396,
             "absentee_method": null,
             "eevp": null,
@@ -15078,7 +15078,7 @@
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-16T21:09:45.127Z"
+            "last_updated": "2020-11-17T02:54:09.377Z"
           },
           {
             "fips": "34029",
@@ -15304,7 +15304,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 218,
-            "votes": 74687318,
+            "votes": 74687142,
             "percent": "50.3",
             "change": -7,
             "flip_count": 3,
@@ -15321,7 +15321,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 204,
-            "votes": 71672951,
+            "votes": 71672853,
             "percent": "48.3",
             "change": 8,
             "flip_count": 11,
@@ -15338,7 +15338,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2074721,
+            "votes": 2074543,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -31808,8 +31808,8 @@
     ]
   },
   "meta": {
-    "version": 18443,
+    "version": 18456,
     "track": "2020-11-03",
-    "timestamp": "2020-11-17T02:54:53.511Z"
+    "timestamp": "2020-11-17T03:08:34.752Z"
   }
 }
