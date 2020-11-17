@@ -13207,7 +13207,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 6019,
+        "precincts_reporting": 6026,
         "precincts_total": 6348,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -13219,7 +13219,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T18:05:05.490Z",
+        "last_updated": "2020-11-17T18:24:09.633Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -13443,7 +13443,7 @@
             "name": "Essex",
             "votes": 286244,
             "absentee_votes": 245251,
-            "reporting": 494,
+            "reporting": 501,
             "precincts": 550,
             "absentee_method": null,
             "eevp": null,
@@ -13465,7 +13465,7 @@
               "yes": 176159,
               "no": 69092
             },
-            "last_updated": "2020-11-11T21:19:57.893Z"
+            "last_updated": "2020-11-17T18:24:09.633Z"
           },
           {
             "fips": "34015",
@@ -13922,7 +13922,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 5983,
+        "precincts_reporting": 5990,
         "precincts_total": 6348,
         "reporting_display": "94% reporting",
         "reporting_value": "94%",
@@ -13934,7 +13934,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T18:05:05.490Z",
+        "last_updated": "2020-11-17T18:24:09.633Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -14158,7 +14158,7 @@
             "name": "Essex",
             "votes": 280072,
             "absentee_votes": 240088,
-            "reporting": 494,
+            "reporting": 501,
             "precincts": 550,
             "absentee_method": null,
             "eevp": null,
@@ -14180,7 +14180,7 @@
               "yes": 195262,
               "no": 44826
             },
-            "last_updated": "2020-11-11T21:19:57.893Z"
+            "last_updated": "2020-11-17T18:24:09.633Z"
           },
           {
             "fips": "34015",
@@ -14637,7 +14637,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 5786,
+        "precincts_reporting": 5793,
         "precincts_total": 6348,
         "reporting_display": "91% reporting",
         "reporting_value": "91%",
@@ -14649,7 +14649,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T18:05:05.490Z",
+        "last_updated": "2020-11-17T18:24:09.633Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -14873,7 +14873,7 @@
             "name": "Essex",
             "votes": 269995,
             "absentee_votes": 231743,
-            "reporting": 494,
+            "reporting": 501,
             "precincts": 550,
             "absentee_method": null,
             "eevp": null,
@@ -14895,7 +14895,7 @@
               "yes": 159315,
               "no": 72428
             },
-            "last_updated": "2020-11-11T21:19:57.893Z"
+            "last_updated": "2020-11-17T18:24:09.633Z"
           },
           {
             "fips": "34015",
@@ -31828,8 +31828,8 @@
     ]
   },
   "meta": {
-    "version": 18749,
+    "version": 18751,
     "track": "2020-11-03",
-    "timestamp": "2020-11-17T18:17:04.334Z"
+    "timestamp": "2020-11-17T18:25:02.359Z"
   }
 }
