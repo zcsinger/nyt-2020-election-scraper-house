@@ -56,7 +56,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T14:48:47Z",
+        "last_updated": "2020-11-18T17:17:16Z",
         "candidates": [
           {
             "candidate_id": "trump-8639",
@@ -7999,7 +7999,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-17T14:48:47Z",
+        "last_updated": "2020-11-18T17:17:16Z",
         "candidates": [
           {
             "candidate_id": "ernst-63566-16-s",
@@ -14154,7 +14154,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-16T22:25:48Z",
+        "last_updated": "2020-11-18T17:18:42Z",
         "candidates": [
           {
             "candidate_id": "hinson-20073165-16-h",
@@ -15586,7 +15586,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-16T15:48:21Z",
+        "last_updated": "2020-11-18T17:18:42Z",
         "candidates": [
           {
             "candidate_id": "miller-meeks-59745-16-h",
@@ -17216,7 +17216,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-16T15:48:21Z",
+        "last_updated": "2020-11-18T17:18:43Z",
         "candidates": [
           {
             "candidate_id": "axne-20583-16-h",
@@ -18487,7 +18487,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-17T14:48:47Z",
+        "last_updated": "2020-11-18T17:18:42Z",
         "candidates": [
           {
             "candidate_id": "feenstra-20073673-16-h",
@@ -37295,7 +37295,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 219,
-            "votes": 75097783,
+            "votes": 75101961,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -37312,7 +37312,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 204,
-            "votes": 71875819,
+            "votes": 71883976,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -37329,7 +37329,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2060512,
+            "votes": 2060467,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -37357,7 +37357,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79230145,
+            "votes": 79230893,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -37374,7 +37374,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73422241,
+            "votes": 73422582,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -37391,7 +37391,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2819178,
+            "votes": 2819198,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -50677,7 +50677,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3908047,
+          "votes": 3908795,
           "percent": 56.4,
           "percent_display": "56.4",
           "electoral_votes": 29,
@@ -53799,8 +53799,8 @@
     ]
   },
   "meta": {
-    "version": 19309,
+    "version": 19316,
     "track": "2020-11-03",
-    "timestamp": "2020-11-18T17:19:14.584Z"
+    "timestamp": "2020-11-18T17:25:33.757Z"
   }
 }
