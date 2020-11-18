@@ -30,10 +30,10 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 6928843,
+        "votes": 6928859,
         "electoral_votes": 29,
-        "absentee_votes": 309205,
-        "absentee_counties": 6,
+        "absentee_votes": 314168,
+        "absentee_counties": 7,
         "absentee_count_progress": "unknown",
         "absentee_outstanding": null,
         "absentee_max_ballots": null,
@@ -44,7 +44,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T02:00:00.000Z",
         "poll_time_short": "9 p.m.",
-        "precincts_reporting": 12326,
+        "precincts_reporting": 12324,
         "precincts_total": 14931,
         "reporting_display": "83% reporting",
         "reporting_value": "83%",
@@ -56,7 +56,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T16:29:58Z",
+        "last_updated": "2020-11-18T17:07:27Z",
         "candidates": [
           {
             "candidate_id": "biden-1036",
@@ -73,7 +73,7 @@
             "percent": 56.4,
             "percent_display": "56.4",
             "electoral_votes": 29,
-            "absentee_votes": 212617,
+            "absentee_votes": 216155,
             "absentee_percent": 68.8,
             "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/bidenj.png",
             "has_image": true,
@@ -95,8 +95,8 @@
             "percent": 42.1,
             "percent_display": "42.1",
             "electoral_votes": 0,
-            "absentee_votes": 91127,
-            "absentee_percent": 29.5,
+            "absentee_votes": 92431,
+            "absentee_percent": 29.4,
             "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
             "has_image": true,
             "link": "https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html",
@@ -117,7 +117,7 @@
             "percent": 0.7,
             "percent_display": "0.7",
             "electoral_votes": 0,
-            "absentee_votes": 2414,
+            "absentee_votes": 2474,
             "absentee_percent": 0.8,
             "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/jorgensenj.png",
             "has_image": false,
@@ -138,7 +138,7 @@
             "percent": 0.4,
             "percent_display": "0.4",
             "electoral_votes": 0,
-            "absentee_votes": 1306,
+            "absentee_votes": 1339,
             "absentee_percent": 0.4,
             "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/hawkinsh.png",
             "has_image": false,
@@ -159,8 +159,8 @@
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
-            "absentee_votes": 1078,
-            "absentee_percent": 0.3,
+            "absentee_votes": 1102,
+            "absentee_percent": 0.4,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -176,11 +176,11 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7668,
+            "votes": 7684,
             "percent": 0.1,
             "percent_display": "0.1",
             "electoral_votes": 0,
-            "absentee_votes": 663,
+            "absentee_votes": 667,
             "absentee_percent": 0.2,
             "img_url": null,
             "has_image": false,
@@ -188,7 +188,7 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 14.27351,
+        "leader_margin_value": 14.27348,
         "leader_margin_votes": 988989,
         "leader_margin_display": "D+14",
         "leader_margin_name_display": "Biden +14",
@@ -737,9 +737,9 @@
           {
             "fips": "36023",
             "name": "Cortland",
-            "votes": 21659,
-            "absentee_votes": 0,
-            "reporting": 51,
+            "votes": 21675,
+            "absentee_votes": 4963,
+            "reporting": 49,
             "precincts": 51,
             "absentee_method": "Merged into voters' home precincts AFTER election night",
             "eevp": 96,
@@ -748,7 +748,7 @@
             "eevp_display": "96% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
-            "absentee_count_progress": "unknown",
+            "absentee_count_progress": "some",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
             "provisional_outstanding": null,
@@ -759,22 +759,22 @@
               "jorgensenj": 295,
               "hawkinsh": 113,
               "pierceb": 96,
-              "write-ins": 0
+              "write-ins": 16
             },
             "results_absentee": {
-              "bidenj": 0,
-              "trumpd": 0,
-              "jorgensenj": 0,
-              "hawkinsh": 0,
-              "pierceb": 0,
-              "write-ins": 0
+              "bidenj": 3538,
+              "trumpd": 1304,
+              "jorgensenj": 60,
+              "hawkinsh": 33,
+              "pierceb": 24,
+              "write-ins": 4
             },
-            "last_updated": "2020-11-16T15:48:03Z",
-            "leader_margin_value": 1.94376,
+            "last_updated": "2020-11-18T17:07:23Z",
+            "leader_margin_value": 1.94233,
             "leader_margin_display": "R+1.9",
             "leader_margin_name_display": "Trump +1.9",
             "leader_party_id": "republican",
-            "margin2020": 1.94376,
+            "margin2020": 1.94233,
             "votes2016": 20244,
             "margin2016": 5.6,
             "votes2012": 19624,
@@ -3015,12 +3015,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Tioga County.",
-            "timestamp": 1605717084963,
+            "sentence": "We just received more votes from Cortland County.",
+            "timestamp": 1605719425788,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Tioga County.",
+            "generatedText": "We just received more votes from Cortland County.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -5499,6 +5499,16 @@
             "eevp": 84,
             "eevp_source": "edison",
             "timestamp": "2020-11-18T16:29:58Z"
+          },
+          {
+            "vote_shares": {
+              "bidenj": 0.564,
+              "trumpd": 0.421
+            },
+            "votes": 6928859,
+            "eevp": 84,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-18T17:07:27Z"
           }
         ]
       },
@@ -20772,7 +20782,7 @@
               "pricek": 134,
               "write-ins": 0
             },
-            "last_updated": "2020-11-18T16:53:32Z",
+            "last_updated": "2020-11-18T17:07:28Z",
             "leader_margin_value": 7.19296,
             "leader_margin_display": "D+7",
             "leader_margin_name_display": "Brindisi +7",
@@ -46457,7 +46467,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 219,
-            "votes": 75096406,
+            "votes": 75097783,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -46491,7 +46501,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2060424,
+            "votes": 2060512,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -46553,7 +46563,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2819162,
+            "votes": 2819178,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -59843,7 +59853,7 @@
           "percent": 56.4,
           "percent_display": "56.4",
           "electoral_votes": 29,
-          "absentee_votes": 212617,
+          "absentee_votes": 216155,
           "absentee_percent": 68.8,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/bidenj.png",
           "has_image": true,
@@ -62961,8 +62971,8 @@
     ]
   },
   "meta": {
-    "version": 19297,
+    "version": 19309,
     "track": "2020-11-03",
-    "timestamp": "2020-11-18T17:05:35.279Z"
+    "timestamp": "2020-11-18T17:19:14.584Z"
   }
 }
