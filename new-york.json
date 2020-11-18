@@ -30220,7 +30220,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 115036,
+        "votes": 118257,
         "absentee_votes": 5870,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -30246,7 +30246,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-18T15:04:05.417Z",
+        "last_updated": "2020-11-18T18:35:17.007Z",
         "candidates": [
           {
             "candidate_id": "borrello-54589",
@@ -30259,9 +30259,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 84067,
-            "percent": 73.1,
-            "percent_display": "73.1",
+            "votes": 85779,
+            "percent": 72.5,
+            "percent_display": "72.5",
             "electoral_votes": 0,
             "absentee_votes": 3199,
             "absentee_percent": 54.5,
@@ -30280,9 +30280,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 30969,
-            "percent": 26.9,
-            "percent_display": "26.9",
+            "votes": 32478,
+            "percent": 27.5,
+            "percent_display": "27.5",
             "electoral_votes": 0,
             "absentee_votes": 2671,
             "absentee_percent": 45.5,
@@ -46033,7 +46033,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 46363,
+        "votes": 49518,
         "absentee_votes": 5864,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -46059,7 +46059,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-18T15:04:05.417Z",
+        "last_updated": "2020-11-18T18:36:18.670Z",
         "candidates": [
           {
             "candidate_id": "giglio-50795",
@@ -46072,9 +46072,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 35914,
-            "percent": 77.5,
-            "percent_display": "77.5",
+            "votes": 37629,
+            "percent": 76,
+            "percent_display": "76.0",
             "electoral_votes": 0,
             "absentee_votes": 3366,
             "absentee_percent": 57.4,
@@ -46093,9 +46093,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 10449,
-            "percent": 22.5,
-            "percent_display": "22.5",
+            "votes": 11889,
+            "percent": 24,
+            "percent_display": "24.0",
             "electoral_votes": 0,
             "absentee_votes": 2498,
             "absentee_percent": 42.6,
@@ -62998,8 +62998,8 @@
     ]
   },
   "meta": {
-    "version": 19385,
+    "version": 19394,
     "track": "2020-11-03",
-    "timestamp": "2020-11-18T18:33:57.482Z"
+    "timestamp": "2020-11-18T18:41:35.001Z"
   }
 }
