@@ -1491,7 +1491,7 @@
               "hawkinsh": 513,
               "write-ins": 526
             },
-            "last_updated": "2020-11-18T13:52:05Z",
+            "last_updated": "2020-11-18T14:21:59Z",
             "leader_margin_value": 20.76402,
             "leader_margin_display": "D+21",
             "leader_margin_name_display": "Biden +21",
@@ -22984,7 +22984,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 251039,
+        "votes": 345999,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": "unknown",
@@ -23001,15 +23001,15 @@
         "precincts_total": 793,
         "reporting_display": "69% reporting",
         "reporting_value": "69%",
-        "eevp": 69,
+        "eevp": 95,
         "tot_exp_vote": 363000,
         "eevp_source": "edison",
-        "eevp_value": "69%",
-        "eevp_display": "69% reported",
+        "eevp_value": "95%",
+        "eevp_display": "95% reported",
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-16T15:47:57Z",
+        "last_updated": "2020-11-18T14:21:59Z",
         "candidates": [
           {
             "candidate_id": "morelle-20353-33-h",
@@ -23022,9 +23022,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 133500,
-            "percent": 53.2,
-            "percent_display": "53.2",
+            "votes": 204759,
+            "percent": 59.2,
+            "percent_display": "59.2",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -23043,9 +23043,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 113557,
-            "percent": 45.2,
-            "percent_display": "45.2",
+            "votes": 135776,
+            "percent": 39.2,
+            "percent_display": "39.2",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -23064,9 +23064,30 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 3982,
-            "percent": 1.6,
-            "percent_display": "1.6",
+            "votes": 5288,
+            "percent": 1.5,
+            "percent_display": "1.5",
+            "electoral_votes": 0,
+            "absentee_votes": 0,
+            "absentee_percent": 0,
+            "img_url": null,
+            "has_image": false,
+            "link": ""
+          },
+          {
+            "candidate_id": "write-ins-21303-33-h",
+            "candidate_key": "write-ins",
+            "first_name": "",
+            "last_name": "Write-ins",
+            "order": 7,
+            "name_display": "Write-ins",
+            "party_id": "write-ins",
+            "incumbent": false,
+            "runoff": false,
+            "winner": false,
+            "votes": 176,
+            "percent": 0.1,
+            "percent_display": "0.1",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -23076,24 +23097,24 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 7.94418,
-        "leader_margin_votes": 19943,
-        "leader_margin_display": "D+8",
-        "leader_margin_name_display": "Morelle +8",
+        "leader_margin_value": 19.93734,
+        "leader_margin_votes": 68983,
+        "leader_margin_display": "D+20",
+        "leader_margin_name_display": "Morelle +20",
         "leader_party_id": "democrat",
         "counties": [
           {
             "fips": "36055",
             "name": "Monroe",
-            "votes": 251039,
+            "votes": 345999,
             "absentee_votes": 0,
             "reporting": 549,
             "precincts": 793,
             "absentee_method": "Merged into voters' home precincts AFTER election night",
-            "eevp": 69,
+            "eevp": 95,
             "tot_exp_vote": 362387,
-            "eevp_value": "69%",
-            "eevp_display": "69% reported",
+            "eevp_value": "95%",
+            "eevp_display": "95% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "unknown",
@@ -23102,19 +23123,21 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "morellej": 133500,
-              "mitrisg": 113557,
-              "wilsonk": 3982
+              "morellej": 204759,
+              "mitrisg": 135776,
+              "wilsonk": 5288,
+              "write-ins": 176
             },
             "results_absentee": {
               "morellej": 0,
               "mitrisg": 0,
-              "wilsonk": 0
+              "wilsonk": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-18T13:52:16Z",
-            "leader_margin_value": 7.94418,
-            "leader_margin_display": "D+8",
-            "leader_margin_name_display": "Morelle +8",
+            "last_updated": "2020-11-18T14:21:54Z",
+            "leader_margin_value": 19.93734,
+            "leader_margin_display": "D+20",
+            "leader_margin_name_display": "Morelle +20",
             "leader_party_id": "democrat"
           }
         ],
@@ -23133,21 +23156,21 @@
             "sentence_type": "race_won"
           },
           "eevp": {
-            "sentence": "69% of the estimated vote total has been reported.",
-            "timestamp": 1604462230847,
+            "sentence": "95% of the estimated vote total has been reported.",
+            "timestamp": 1605709402596,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "69% of the estimated vote total has been reported.",
+            "generatedText": "95% of the estimated vote total has been reported.",
             "sentence_type": "has_eevp"
           },
           "eevp_leadin": {
-            "sentence": "We just received 295 additional votes from New York.",
-            "timestamp": 1604504131012,
+            "sentence": "",
+            "timestamp": 1605709402596,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received 295 additional votes from New York.",
+            "generatedText": "",
             "sentence_type": "additional_votes_reported"
           }
         },
@@ -23227,6 +23250,18 @@
             "eevp": 69,
             "eevp_source": "edison",
             "timestamp": "2020-11-11T03:25:05Z"
+          },
+          {
+            "vote_shares": {
+              "morellej": 0.592,
+              "mitrisg": 0.392,
+              "wilsonk": 0.015,
+              "write-ins": 0.001
+            },
+            "votes": 345999,
+            "eevp": 95,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-18T14:21:59Z"
           }
         ]
       },
@@ -23882,7 +23917,7 @@
               "whitmerd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-18T13:52:18Z",
+            "last_updated": "2020-11-18T14:22:00Z",
             "leader_margin_value": 25.34046,
             "leader_margin_display": "R+25",
             "leader_margin_name_display": "Jacobs +25",
@@ -46359,7 +46394,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 218,
-            "votes": 74988036,
+            "votes": 75059344,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -46376,8 +46411,8 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 204,
-            "votes": 71850935,
-            "percent": "48.3",
+            "votes": 71873233,
+            "percent": "48.2",
             "change": 8,
             "flip_count": 11,
             "leader_count": 8,
@@ -46393,7 +46428,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2053129,
+            "votes": 2054611,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -62863,8 +62898,8 @@
     ]
   },
   "meta": {
-    "version": 19195,
+    "version": 19198,
     "track": "2020-11-03",
-    "timestamp": "2020-11-18T14:16:13.112Z"
+    "timestamp": "2020-11-18T14:23:50.643Z"
   }
 }
