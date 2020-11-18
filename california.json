@@ -1731,7 +1731,7 @@
               "la_rivag": 834,
               "write-ins": 0
             },
-            "last_updated": "2020-11-18T02:41:29Z",
+            "last_updated": "2020-11-18T02:42:54Z",
             "leader_margin_value": 8.15194,
             "leader_margin_display": "D+8",
             "leader_margin_name_display": "Biden +8",
@@ -22516,7 +22516,7 @@
               "ruizr": 88168,
               "cruze": 50131
             },
-            "last_updated": "2020-11-18T02:41:29Z",
+            "last_updated": "2020-11-18T02:42:54Z",
             "leader_margin_value": 20.82671,
             "leader_margin_display": "D+21",
             "leader_margin_name_display": "Ruiz +21",
@@ -24945,7 +24945,7 @@
               "takanom": 62488,
               "smitha": 32972
             },
-            "last_updated": "2020-11-18T02:41:30Z",
+            "last_updated": "2020-11-18T02:42:55Z",
             "leader_margin_value": 28.12944,
             "leader_margin_display": "D+28",
             "leader_margin_name_display": "Takano +28",
@@ -25235,7 +25235,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 342303,
+        "votes": 356840,
         "absentee_votes": 136878,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -25260,7 +25260,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-17T02:36:12Z",
+        "last_updated": "2020-11-18T02:42:54Z",
         "candidates": [
           {
             "candidate_id": "calvert-132-5-h",
@@ -25273,9 +25273,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 195397,
-            "percent": 57.1,
-            "percent_display": "57.1",
+            "votes": 203556,
+            "percent": 57,
+            "percent_display": "57.0",
             "electoral_votes": 0,
             "absentee_votes": 73597,
             "absentee_percent": 53.8,
@@ -25294,9 +25294,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 146906,
-            "percent": 42.9,
-            "percent_display": "42.9",
+            "votes": 153284,
+            "percent": 43,
+            "percent_display": "43.0",
             "electoral_votes": 0,
             "absentee_votes": 63281,
             "absentee_percent": 46.2,
@@ -25306,8 +25306,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 14.1661,
-        "leader_margin_votes": 48491,
+        "leader_margin_value": 14.08811,
+        "leader_margin_votes": 50272,
         "leader_margin_display": "R+14",
         "leader_margin_name_display": "Calvert +14",
         "leader_party_id": "republican",
@@ -25315,7 +25315,7 @@
           {
             "fips": "06065",
             "name": "Riverside",
-            "votes": 342303,
+            "votes": 356840,
             "absentee_votes": 136878,
             "reporting": 311,
             "precincts": 311,
@@ -25332,15 +25332,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "calvertk": 195397,
-              "omaral": 146906
+              "calvertk": 203556,
+              "omaral": 153284
             },
             "results_absentee": {
               "calvertk": 73597,
               "omaral": 63281
             },
-            "last_updated": "2020-11-18T02:41:30Z",
-            "leader_margin_value": 14.1661,
+            "last_updated": "2020-11-18T02:42:53Z",
+            "leader_margin_value": 14.08811,
             "leader_margin_display": "R+14",
             "leader_margin_name_display": "Calvert +14",
             "leader_party_id": "republican"
@@ -25586,6 +25586,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-17T02:36:12Z"
+          },
+          {
+            "vote_shares": {
+              "calvertk": 0.57,
+              "omaral": 0.43
+            },
+            "votes": 356840,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-18T02:42:54Z"
           }
         ]
       },
@@ -28567,7 +28577,7 @@
               "issad": 8312,
               "campa_najjara": 7651
             },
-            "last_updated": "2020-11-18T02:41:30Z",
+            "last_updated": "2020-11-18T02:42:55Z",
             "leader_margin_value": 11.51136,
             "leader_margin_display": "R+12",
             "leader_margin_name_display": "Issa +12",
@@ -62283,7 +62293,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 218,
-            "votes": 74957878,
+            "votes": 74964256,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -62300,7 +62310,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 204,
-            "votes": 71830210,
+            "votes": 71838369,
             "percent": "48.3",
             "change": 8,
             "flip_count": 11,
@@ -78787,8 +78797,8 @@
     ]
   },
   "meta": {
-    "version": 19093,
+    "version": 19095,
     "track": "2020-11-03",
-    "timestamp": "2020-11-18T02:43:23.519Z"
+    "timestamp": "2020-11-18T02:45:25.880Z"
   }
 }
