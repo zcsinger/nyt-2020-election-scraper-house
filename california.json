@@ -31610,7 +31610,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 416311,
+        "votes": 416377,
         "absentee_votes": 202858,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -31636,7 +31636,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-18T00:07:33.323Z",
+        "last_updated": "2020-11-18T01:06:59.850Z",
         "candidates": [
           {
             "candidate_id": "newman-12656",
@@ -31649,7 +31649,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 213481,
+            "votes": 213508,
             "percent": 51.3,
             "percent_display": "51.3",
             "electoral_votes": 0,
@@ -31670,7 +31670,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 202830,
+            "votes": 202869,
             "percent": 48.7,
             "percent_display": "48.7",
             "electoral_votes": 0,
@@ -32034,7 +32034,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 528289,
+        "votes": 528570,
         "absentee_votes": 361066,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -32060,7 +32060,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T01:18:52.377Z",
+        "last_updated": "2020-11-18T01:06:59.850Z",
         "candidates": [
           {
             "candidate_id": "min-66599",
@@ -32073,7 +32073,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 270193,
+            "votes": 270319,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -32094,7 +32094,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 258096,
+            "votes": 258251,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -40643,7 +40643,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16522011,
+        "votes": 16522697,
         "absentee_votes": 985738,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -40656,7 +40656,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19847,
+        "precincts_reporting": 19848,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -40668,7 +40668,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T00:03:29.830Z",
+        "last_updated": "2020-11-18T01:03:57.353Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -40680,7 +40680,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9441434,
+            "votes": 9441875,
             "percent": 57.1,
             "percent_display": "57.1",
             "electoral_votes": 0,
@@ -40700,7 +40700,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7080577,
+            "votes": 7080822,
             "percent": 42.9,
             "percent_display": "42.9",
             "electoral_votes": 0,
@@ -41557,9 +41557,9 @@
           {
             "fips": "06059",
             "name": "Orange",
-            "votes": 1473626,
+            "votes": 1474312,
             "absentee_votes": 985738,
-            "reporting": 1704,
+            "reporting": 1705,
             "precincts": 1795,
             "absentee_method": null,
             "eevp": null,
@@ -41574,14 +41574,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 962976,
-              "yes": 510650
+              "no": 963417,
+              "yes": 510895
             },
             "results_absentee": {
               "no": 608935,
               "yes": 376803
             },
-            "last_updated": "2020-11-17T01:18:52.377Z"
+            "last_updated": "2020-11-18T01:03:57.353Z"
           },
           {
             "fips": "06061",
@@ -42434,7 +42434,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16698898,
+        "votes": 16699593,
         "absentee_votes": 993320,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -42447,7 +42447,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19847,
+        "precincts_reporting": 19848,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -42459,7 +42459,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T00:04:30.720Z",
+        "last_updated": "2020-11-18T01:03:57.353Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -42471,7 +42471,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9781746,
+            "votes": 9782095,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -42491,7 +42491,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6917152,
+            "votes": 6917498,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -43348,9 +43348,9 @@
           {
             "fips": "06059",
             "name": "Orange",
-            "votes": 1484903,
+            "votes": 1485598,
             "absentee_votes": 993320,
-            "reporting": 1704,
+            "reporting": 1705,
             "precincts": 1795,
             "absentee_method": null,
             "eevp": null,
@@ -43365,14 +43365,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 739159,
-              "no": 745744
+              "yes": 739508,
+              "no": 746090
             },
             "results_absentee": {
               "yes": 529953,
               "no": 463367
             },
-            "last_updated": "2020-11-17T01:18:52.377Z"
+            "last_updated": "2020-11-18T01:03:57.353Z"
           },
           {
             "fips": "06061",
@@ -44225,7 +44225,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16249196,
+        "votes": 16249875,
         "absentee_votes": 975963,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -44238,7 +44238,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19847,
+        "precincts_reporting": 19848,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -44250,7 +44250,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T00:06:32.477Z",
+        "last_updated": "2020-11-18T01:06:59.850Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -44262,7 +44262,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9158587,
+            "votes": 9159003,
             "percent": 56.4,
             "percent_display": "56.4",
             "electoral_votes": 0,
@@ -44282,7 +44282,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7090609,
+            "votes": 7090872,
             "percent": 43.6,
             "percent_display": "43.6",
             "electoral_votes": 0,
@@ -45139,9 +45139,9 @@
           {
             "fips": "06059",
             "name": "Orange",
-            "votes": 1456866,
+            "votes": 1457545,
             "absentee_votes": 975963,
-            "reporting": 1704,
+            "reporting": 1705,
             "precincts": 1795,
             "absentee_method": null,
             "eevp": null,
@@ -45156,14 +45156,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 885770,
-              "yes": 571096
+              "no": 886186,
+              "yes": 571359
             },
             "results_absentee": {
               "no": 556269,
               "yes": 419694
             },
-            "last_updated": "2020-11-17T01:18:52.377Z"
+            "last_updated": "2020-11-18T01:06:59.850Z"
           },
           {
             "fips": "06061",
@@ -46014,7 +46014,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16461390,
+        "votes": 16462076,
         "absentee_votes": 984314,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -46027,7 +46027,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19847,
+        "precincts_reporting": 19848,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -46039,7 +46039,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T00:03:29.830Z",
+        "last_updated": "2020-11-18T01:03:57.353Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -46051,7 +46051,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8403954,
+            "votes": 8404299,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -46071,7 +46071,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8057436,
+            "votes": 8057777,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -46928,9 +46928,9 @@
           {
             "fips": "06059",
             "name": "Orange",
-            "votes": 1470716,
+            "votes": 1471402,
             "absentee_votes": 984314,
-            "reporting": 1704,
+            "reporting": 1705,
             "precincts": 1795,
             "absentee_method": null,
             "eevp": null,
@@ -46945,14 +46945,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 676270,
-              "no": 794446
+              "yes": 676615,
+              "no": 794787
             },
             "results_absentee": {
               "yes": 480836,
               "no": 503478
             },
-            "last_updated": "2020-11-17T01:18:52.377Z"
+            "last_updated": "2020-11-18T01:03:57.353Z"
           },
           {
             "fips": "06061",
@@ -47803,7 +47803,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16742143,
+        "votes": 16742837,
         "absentee_votes": 998550,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -47816,7 +47816,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19847,
+        "precincts_reporting": 19848,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -47828,7 +47828,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T00:03:29.830Z",
+        "last_updated": "2020-11-18T01:03:57.353Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -47840,7 +47840,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8705171,
+            "votes": 8705558,
             "percent": 52,
             "percent_display": "52.0",
             "electoral_votes": 0,
@@ -47860,7 +47860,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8036972,
+            "votes": 8037279,
             "percent": 48,
             "percent_display": "48.0",
             "electoral_votes": 0,
@@ -48717,9 +48717,9 @@
           {
             "fips": "06059",
             "name": "Orange",
-            "votes": 1492449,
+            "votes": 1493143,
             "absentee_votes": 998550,
-            "reporting": 1704,
+            "reporting": 1705,
             "precincts": 1795,
             "absentee_method": null,
             "eevp": null,
@@ -48734,14 +48734,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 903186,
-              "yes": 589263
+              "no": 903573,
+              "yes": 589570
             },
             "results_absentee": {
               "no": 573277,
               "yes": 425273
             },
-            "last_updated": "2020-11-17T01:18:52.377Z"
+            "last_updated": "2020-11-18T01:03:57.353Z"
           },
           {
             "fips": "06061",
@@ -49594,7 +49594,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16735604,
+        "votes": 16736301,
         "absentee_votes": 994775,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -49607,7 +49607,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19847,
+        "precincts_reporting": 19848,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -49619,7 +49619,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T00:04:30.720Z",
+        "last_updated": "2020-11-18T01:04:58.147Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -49631,7 +49631,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9369799,
+            "votes": 9370252,
             "percent": 56,
             "percent_display": "56.0",
             "electoral_votes": 0,
@@ -49651,7 +49651,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7365805,
+            "votes": 7366049,
             "percent": 44,
             "percent_display": "44.0",
             "electoral_votes": 0,
@@ -50508,9 +50508,9 @@
           {
             "fips": "06059",
             "name": "Orange",
-            "votes": 1487217,
+            "votes": 1487914,
             "absentee_votes": 994775,
-            "reporting": 1704,
+            "reporting": 1705,
             "precincts": 1795,
             "absentee_method": null,
             "eevp": null,
@@ -50525,14 +50525,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 956031,
-              "yes": 531186
+              "no": 956484,
+              "yes": 531430
             },
             "results_absentee": {
               "no": 607040,
               "yes": 387735
             },
-            "last_updated": "2020-11-17T01:18:52.377Z"
+            "last_updated": "2020-11-18T01:04:58.147Z"
           },
           {
             "fips": "06061",
@@ -51383,7 +51383,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16373780,
+        "votes": 16374456,
         "absentee_votes": 978441,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -51396,7 +51396,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19847,
+        "precincts_reporting": 19848,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -51408,7 +51408,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T00:04:30.720Z",
+        "last_updated": "2020-11-18T01:04:58.147Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -51420,7 +51420,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8361903,
+            "votes": 8362231,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -51440,7 +51440,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8011877,
+            "votes": 8012225,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -52297,9 +52297,9 @@
           {
             "fips": "06059",
             "name": "Orange",
-            "votes": 1459543,
+            "votes": 1460219,
             "absentee_votes": 978441,
-            "reporting": 1704,
+            "reporting": 1705,
             "precincts": 1795,
             "absentee_method": null,
             "eevp": null,
@@ -52314,14 +52314,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 681081,
-              "no": 778462
+              "yes": 681409,
+              "no": 778810
             },
             "results_absentee": {
               "yes": 484597,
               "no": 493844
             },
-            "last_updated": "2020-11-17T01:18:52.377Z"
+            "last_updated": "2020-11-18T01:04:58.147Z"
           },
           {
             "fips": "06061",
@@ -53172,7 +53172,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16331964,
+        "votes": 16332648,
         "absentee_votes": 975847,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -53185,7 +53185,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19847,
+        "precincts_reporting": 19848,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -53197,7 +53197,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T00:21:39.977Z",
+        "last_updated": "2020-11-18T01:04:58.147Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -53209,7 +53209,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10090023,
+            "votes": 10090389,
             "percent": 61.8,
             "percent_display": "61.8",
             "electoral_votes": 0,
@@ -53229,7 +53229,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6241941,
+            "votes": 6242259,
             "percent": 38.2,
             "percent_display": "38.2",
             "electoral_votes": 0,
@@ -54086,9 +54086,9 @@
           {
             "fips": "06059",
             "name": "Orange",
-            "votes": 1458074,
+            "votes": 1458758,
             "absentee_votes": 975847,
-            "reporting": 1704,
+            "reporting": 1705,
             "precincts": 1795,
             "absentee_method": null,
             "eevp": null,
@@ -54103,14 +54103,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 844268,
-              "yes": 613806
+              "no": 844634,
+              "yes": 614124
             },
             "results_absentee": {
               "no": 594960,
               "yes": 380887
             },
-            "last_updated": "2020-11-17T01:18:52.377Z"
+            "last_updated": "2020-11-18T01:04:58.147Z"
           },
           {
             "fips": "06061",
@@ -54963,7 +54963,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16515918,
+        "votes": 16516614,
         "absentee_votes": 986242,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -54976,7 +54976,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19847,
+        "precincts_reporting": 19848,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -54988,7 +54988,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T00:05:31.610Z",
+        "last_updated": "2020-11-18T01:05:58.940Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -55000,7 +55000,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9883168,
+            "votes": 9883584,
             "percent": 59.8,
             "percent_display": "59.8",
             "electoral_votes": 0,
@@ -55020,7 +55020,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6632750,
+            "votes": 6633030,
             "percent": 40.2,
             "percent_display": "40.2",
             "electoral_votes": 0,
@@ -55877,9 +55877,9 @@
           {
             "fips": "06059",
             "name": "Orange",
-            "votes": 1473433,
+            "votes": 1474129,
             "absentee_votes": 986242,
-            "reporting": 1704,
+            "reporting": 1705,
             "precincts": 1795,
             "absentee_method": null,
             "eevp": null,
@@ -55894,14 +55894,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 972692,
-              "yes": 500741
+              "no": 973108,
+              "yes": 501021
             },
             "results_absentee": {
               "no": 630482,
               "yes": 355760
             },
-            "last_updated": "2020-11-17T01:18:52.377Z"
+            "last_updated": "2020-11-18T01:05:58.940Z"
           },
           {
             "fips": "06061",
@@ -56754,7 +56754,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16632489,
+        "votes": 16633182,
         "absentee_votes": 992295,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -56767,7 +56767,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19847,
+        "precincts_reporting": 19848,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -56779,7 +56779,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T00:05:31.610Z",
+        "last_updated": "2020-11-18T01:05:58.940Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -56791,7 +56791,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9753288,
+            "votes": 9753735,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -56811,7 +56811,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6879201,
+            "votes": 6879447,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -57668,9 +57668,9 @@
           {
             "fips": "06059",
             "name": "Orange",
-            "votes": 1484874,
+            "votes": 1485567,
             "absentee_votes": 992295,
-            "reporting": 1704,
+            "reporting": 1705,
             "precincts": 1795,
             "absentee_method": null,
             "eevp": null,
@@ -57685,14 +57685,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 978924,
-              "no": 505950
+              "yes": 979371,
+              "no": 506196
             },
             "results_absentee": {
               "yes": 635244,
               "no": 357051
             },
-            "last_updated": "2020-11-17T01:18:52.377Z"
+            "last_updated": "2020-11-18T01:05:58.940Z"
           },
           {
             "fips": "06061",
@@ -58543,7 +58543,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16493227,
+        "votes": 16493915,
         "absentee_votes": 984773,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -58556,7 +58556,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19847,
+        "precincts_reporting": 19848,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -58568,7 +58568,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T00:05:31.610Z",
+        "last_updated": "2020-11-18T01:05:58.940Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -58580,9 +58580,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10481472,
-            "percent": 63.6,
-            "percent_display": "63.6",
+            "votes": 10481821,
+            "percent": 63.5,
+            "percent_display": "63.5",
             "electoral_votes": 0,
             "absentee_votes": 648469,
             "absentee_percent": 65.8,
@@ -58600,9 +58600,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6011755,
-            "percent": 36.4,
-            "percent_display": "36.4",
+            "votes": 6012094,
+            "percent": 36.5,
+            "percent_display": "36.5",
             "electoral_votes": 0,
             "absentee_votes": 336304,
             "absentee_percent": 34.2,
@@ -59457,9 +59457,9 @@
           {
             "fips": "06059",
             "name": "Orange",
-            "votes": 1469507,
+            "votes": 1470195,
             "absentee_votes": 984773,
-            "reporting": 1704,
+            "reporting": 1705,
             "precincts": 1795,
             "absentee_method": null,
             "eevp": null,
@@ -59474,14 +59474,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 983552,
-              "yes": 485955
+              "no": 983901,
+              "yes": 486294
             },
             "results_absentee": {
               "no": 648469,
               "yes": 336304
             },
-            "last_updated": "2020-11-17T01:18:52.377Z"
+            "last_updated": "2020-11-18T01:05:58.940Z"
           },
           {
             "fips": "06061",
@@ -60332,7 +60332,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16344782,
+        "votes": 16345475,
         "absentee_votes": 979988,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -60345,7 +60345,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19847,
+        "precincts_reporting": 19848,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -60357,7 +60357,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T00:05:31.610Z",
+        "last_updated": "2020-11-18T01:06:59.850Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -60369,7 +60369,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9179482,
+            "votes": 9179910,
             "percent": 56.2,
             "percent_display": "56.2",
             "electoral_votes": 0,
@@ -60389,7 +60389,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7165300,
+            "votes": 7165565,
             "percent": 43.8,
             "percent_display": "43.8",
             "electoral_votes": 0,
@@ -61246,9 +61246,9 @@
           {
             "fips": "06059",
             "name": "Orange",
-            "votes": 1463920,
+            "votes": 1464613,
             "absentee_votes": 979988,
-            "reporting": 1704,
+            "reporting": 1705,
             "precincts": 1795,
             "absentee_method": null,
             "eevp": null,
@@ -61263,14 +61263,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 790608,
-              "no": 673312
+              "yes": 791036,
+              "no": 673577
             },
             "results_absentee": {
               "yes": 554701,
               "no": 425287
             },
-            "last_updated": "2020-11-17T01:18:52.377Z"
+            "last_updated": "2020-11-18T01:06:59.850Z"
           },
           {
             "fips": "06061",
@@ -62105,7 +62105,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 218,
-            "votes": 74916266,
+            "votes": 74925960,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -62122,7 +62122,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 204,
-            "votes": 71811694,
+            "votes": 71814916,
             "percent": "48.3",
             "change": 8,
             "flip_count": 11,
@@ -62139,7 +62139,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2052623,
+            "votes": 2052876,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -62167,7 +62167,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79036561,
+            "votes": 79047005,
             "percent": "50.9",
             "change": 0,
             "flip_count": 0,
@@ -62184,7 +62184,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73343487,
+            "votes": 73347450,
             "percent": "47.3",
             "change": 0,
             "flip_count": 0,
@@ -62201,7 +62201,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2815187,
+            "votes": 2815361,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -62233,7 +62233,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 41725214,
+            "votes": 41735528,
             "percent": "47.2",
             "change": 1,
             "flip_count": 2,
@@ -62250,7 +62250,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 43867058,
+            "votes": 43870004,
             "percent": "49.6",
             "change": -1,
             "flip_count": 1,
@@ -62267,7 +62267,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2888081,
+            "votes": 2888460,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -76637,9 +76637,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2430820,
-          "percent": 57,
-          "percent_display": "57.0",
+          "votes": 2441134,
+          "percent": 57.1,
+          "percent_display": "57.1",
           "electoral_votes": 0,
           "absentee_votes": 868079,
           "absentee_percent": 53.3,
@@ -76897,9 +76897,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2496397,
-          "percent": 57,
-          "percent_display": "57.0",
+          "votes": 2506841,
+          "percent": 57.1,
+          "percent_display": "57.1",
           "electoral_votes": 14,
           "absentee_votes": 891202,
           "absentee_percent": 53.4,
@@ -78609,8 +78609,8 @@
     ]
   },
   "meta": {
-    "version": 19024,
+    "version": 19037,
     "track": "2020-11-03",
-    "timestamp": "2020-11-18T00:32:01.740Z"
+    "timestamp": "2020-11-18T01:07:39.785Z"
   }
 }
