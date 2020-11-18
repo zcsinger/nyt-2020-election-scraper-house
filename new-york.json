@@ -30,10 +30,10 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 6929968,
+        "votes": 6930104,
         "electoral_votes": 29,
-        "absentee_votes": 314168,
-        "absentee_counties": 7,
+        "absentee_votes": 314205,
+        "absentee_counties": 8,
         "absentee_count_progress": "unknown",
         "absentee_outstanding": null,
         "absentee_max_ballots": null,
@@ -56,7 +56,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:17:53Z",
+        "last_updated": "2020-11-18T17:33:42Z",
         "candidates": [
           {
             "candidate_id": "biden-1036",
@@ -69,11 +69,11 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 3908795,
+            "votes": 3908816,
             "percent": 56.4,
             "percent_display": "56.4",
             "electoral_votes": 29,
-            "absentee_votes": 216155,
+            "absentee_votes": 216176,
             "absentee_percent": 68.8,
             "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/bidenj.png",
             "has_image": true,
@@ -91,11 +91,11 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 2919399,
+            "votes": 2919415,
             "percent": 42.1,
             "percent_display": "42.1",
             "electoral_votes": 0,
-            "absentee_votes": 92431,
+            "absentee_votes": 92447,
             "absentee_percent": 29.4,
             "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
             "has_image": true,
@@ -176,7 +176,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7688,
+            "votes": 7787,
             "percent": 0.1,
             "percent_display": "0.1",
             "electoral_votes": 0,
@@ -188,8 +188,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 14.27706,
-        "leader_margin_votes": 989396,
+        "leader_margin_value": 14.27686,
+        "leader_margin_votes": 989401,
         "leader_margin_display": "D+14",
         "leader_margin_name_display": "Biden +14",
         "leader_party_id": "democrat",
@@ -1865,8 +1865,8 @@
           {
             "fips": "36075",
             "name": "Oswego",
-            "votes": 44546,
-            "absentee_votes": 0,
+            "votes": 44682,
+            "absentee_votes": 37,
             "reporting": 91,
             "precincts": 110,
             "absentee_method": "Merged into voters' home precincts AFTER election night",
@@ -1882,25 +1882,27 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 14677,
-              "trumpd": 28914,
+              "bidenj": 14698,
+              "trumpd": 28930,
               "jorgensenj": 585,
               "hawkinsh": 209,
-              "pierceb": 161
+              "pierceb": 161,
+              "write-ins": 99
             },
             "results_absentee": {
-              "bidenj": 0,
-              "trumpd": 0,
+              "bidenj": 21,
+              "trumpd": 16,
               "jorgensenj": 0,
               "hawkinsh": 0,
-              "pierceb": 0
+              "pierceb": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-16T15:48:21Z",
-            "leader_margin_value": 31.96022,
+            "last_updated": "2020-11-18T17:34:41Z",
+            "leader_margin_value": 31.85175,
             "leader_margin_display": "R+32",
             "leader_margin_name_display": "Trump +32",
             "leader_party_id": "republican",
-            "margin2020": 31.96022,
+            "margin2020": 31.85175,
             "votes2016": 48180,
             "margin2016": 22,
             "votes2012": 44591,
@@ -3015,12 +3017,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Madison County.",
-            "timestamp": 1605720005780,
+            "sentence": "We just received more votes from Oswego County.",
+            "timestamp": 1605720945576,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Madison County.",
+            "generatedText": "We just received more votes from Oswego County.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -5519,6 +5521,16 @@
             "eevp": 84,
             "eevp_source": "edison",
             "timestamp": "2020-11-18T17:17:53Z"
+          },
+          {
+            "vote_shares": {
+              "bidenj": 0.564,
+              "trumpd": 0.421
+            },
+            "votes": 6930104,
+            "eevp": 84,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-18T17:33:42Z"
           }
         ]
       },
@@ -20568,7 +20580,7 @@
         "result_source": null,
         "gain": false,
         "lost_seat": "",
-        "votes": 269080,
+        "votes": 269122,
         "absentee_votes": 12080,
         "absentee_counties": 3,
         "absentee_count_progress": "unknown",
@@ -20593,7 +20605,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:19:07Z",
+        "last_updated": "2020-11-18T17:34:41Z",
         "candidates": [
           {
             "candidate_id": "tenney-63809-33-h",
@@ -20606,7 +20618,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 143012,
+            "votes": 143027,
             "percent": 53.1,
             "percent_display": "53.1",
             "electoral_votes": 0,
@@ -20627,7 +20639,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 120229,
+            "votes": 120249,
             "percent": 44.7,
             "percent_display": "44.7",
             "electoral_votes": 0,
@@ -20669,7 +20681,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 70,
+            "votes": 77,
             "percent": 0,
             "percent_display": "<0.1",
             "electoral_votes": 0,
@@ -20681,8 +20693,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 8.467,
-        "leader_margin_votes": 22783,
+        "leader_margin_value": 8.46382,
+        "leader_margin_votes": 22778,
         "leader_margin_display": "R+8",
         "leader_margin_name_display": "Tenney +8",
         "leader_party_id": "republican",
@@ -20910,7 +20922,7 @@
           {
             "fips": "36075",
             "name": "Oswego",
-            "votes": 18002,
+            "votes": 18044,
             "absentee_votes": 0,
             "reporting": 38,
             "precincts": 44,
@@ -20927,17 +20939,19 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "tenneyc": 12348,
-              "brindisia": 5305,
-              "pricek": 349
+              "tenneyc": 12363,
+              "brindisia": 5325,
+              "pricek": 349,
+              "write-ins": 7
             },
             "results_absentee": {
               "tenneyc": 0,
               "brindisia": 0,
-              "pricek": 0
+              "pricek": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-16T15:47:55Z",
-            "leader_margin_value": 39.12343,
+            "last_updated": "2020-11-18T17:34:41Z",
+            "leader_margin_value": 39.00466,
             "leader_margin_display": "R+39",
             "leader_margin_name_display": "Tenney +39",
             "leader_party_id": "republican"
@@ -21001,12 +21015,12 @@
             "sentence_type": "has_eevp"
           },
           "eevp_leadin": {
-            "sentence": "We just received 1,086 additional votes from New York. Tenney is currently up by 22,783 votes.",
-            "timestamp": 1605720125657,
+            "sentence": "Tenney is currently up by 22,778 votes.",
+            "timestamp": 1605721045110,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received 1,086 additional votes from New York. Tenney is currently up by 22,783 votes.",
+            "generatedText": "Tenney is currently up by 22,778 votes.",
             "sentence_type": "additional_votes_reported"
           }
         },
@@ -21435,6 +21449,18 @@
             "eevp": 84,
             "eevp_source": "edison",
             "timestamp": "2020-11-18T17:19:07Z"
+          },
+          {
+            "vote_shares": {
+              "tenneyc": 0.531,
+              "brindisia": 0.447,
+              "pricek": 0.021,
+              "write-ins": 0
+            },
+            "votes": 269122,
+            "eevp": 84,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-18T17:34:41Z"
           }
         ]
       },
@@ -22754,7 +22780,7 @@
               "balterd": 0,
               "williamss": 0
             },
-            "last_updated": "2020-11-16T15:48:03Z",
+            "last_updated": "2020-11-18T17:34:43Z",
             "leader_margin_value": 37.19624,
             "leader_margin_display": "R+37",
             "leader_margin_name_display": "Katko +37",
@@ -46468,7 +46494,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 219,
-            "votes": 75101961,
+            "votes": 75101981,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -46485,7 +46511,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 204,
-            "votes": 71883976,
+            "votes": 71883991,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -46502,7 +46528,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2060467,
+            "votes": 2060474,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -46530,7 +46556,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79230893,
+            "votes": 79231672,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -46547,7 +46573,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73422582,
+            "votes": 73423009,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -46564,7 +46590,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2819198,
+            "votes": 2819322,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -46596,7 +46622,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 41769360,
+            "votes": 41770100,
             "percent": "47.2",
             "change": 1,
             "flip_count": 2,
@@ -46613,7 +46639,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 43881283,
+            "votes": 43881678,
             "percent": "49.6",
             "change": -1,
             "flip_count": 1,
@@ -46630,7 +46656,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2888920,
+            "votes": 2888941,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -59850,11 +59876,11 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3908795,
+          "votes": 3908816,
           "percent": 56.4,
           "percent_display": "56.4",
           "electoral_votes": 29,
-          "absentee_votes": 216155,
+          "absentee_votes": 216176,
           "absentee_percent": 68.8,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/bidenj.png",
           "has_image": true,
@@ -61041,7 +61067,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2246358,
+          "votes": 2247098,
           "percent": 65.9,
           "percent_display": "65.9",
           "electoral_votes": 0,
@@ -61301,7 +61327,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2318356,
+          "votes": 2319114,
           "percent": 65.3,
           "percent_display": "65.3",
           "electoral_votes": 11,
@@ -62972,8 +62998,8 @@
     ]
   },
   "meta": {
-    "version": 19329,
+    "version": 19336,
     "track": "2020-11-03",
-    "timestamp": "2020-11-18T17:35:11.936Z"
+    "timestamp": "2020-11-18T17:39:35.180Z"
   }
 }
