@@ -29,7 +29,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1487535,
+        "votes": 1487640,
         "electoral_votes": 6,
         "absentee_votes": 638509,
         "absentee_counties": 5,
@@ -55,7 +55,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:02:42Z",
+        "last_updated": "2020-11-18T18:50:47Z",
         "candidates": [
           {
             "candidate_id": "trump-8639",
@@ -68,7 +68,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 865038,
+            "votes": 865100,
             "percent": 58.2,
             "percent_display": "58.2",
             "electoral_votes": 6,
@@ -90,7 +90,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 560227,
+            "votes": 560267,
             "percent": 37.7,
             "percent_display": "37.7",
             "electoral_votes": 0,
@@ -154,7 +154,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 5550,
+            "votes": 5551,
             "percent": 0.4,
             "percent_display": "0.4",
             "electoral_votes": 0,
@@ -175,7 +175,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 5052,
+            "votes": 5053,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -217,7 +217,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 2228,
+            "votes": 2229,
             "percent": 0.1,
             "percent_display": "0.1",
             "electoral_votes": 0,
@@ -271,8 +271,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 20.49101,
-        "leader_margin_votes": 304811,
+        "leader_margin_value": 20.49105,
+        "leader_margin_votes": 304833,
         "leader_margin_display": "R+20",
         "leader_margin_name_display": "Trump +20",
         "leader_party_id": "republican",
@@ -540,7 +540,7 @@
           {
             "fips": "49011",
             "name": "Davis",
-            "votes": 169653,
+            "votes": 169758,
             "absentee_votes": 0,
             "reporting": 224,
             "precincts": 224,
@@ -557,14 +557,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "trumpd": 104033,
-              "bidenj": 57356,
+              "trumpd": 104095,
+              "bidenj": 57396,
               "jorgensenj": 5003,
               "westk": 1012,
-              "blankenshipd": 826,
-              "hawkinsh": 596,
+              "blankenshipd": 827,
+              "hawkinsh": 597,
               "pierceb": 380,
-              "mchughj": 329,
+              "mchughj": 330,
               "la_rivag": 118
             },
             "results_absentee": {
@@ -578,12 +578,12 @@
               "mchughj": 0,
               "la_rivag": 0
             },
-            "last_updated": "2020-11-16T22:57:49Z",
-            "leader_margin_value": 27.51322,
+            "last_updated": "2020-11-18T18:50:46Z",
+            "leader_margin_value": 27.50916,
             "leader_margin_display": "R+28",
             "leader_margin_name_display": "Trump +28",
             "leader_party_id": "republican",
-            "margin2020": 27.51322,
+            "margin2020": 27.50916,
             "votes2016": 140288,
             "margin2016": 16,
             "votes2012": 121069,
@@ -1818,12 +1818,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Morgan and Salt Lake Counties.",
-            "timestamp": 1605657771217,
+            "sentence": "We just received more votes from Davis County.",
+            "timestamp": 1605725606814,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Morgan and Salt Lake Counties.",
+            "generatedText": "We just received more votes from Davis County.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -2672,6 +2672,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-18T16:20:53Z"
+          },
+          {
+            "vote_shares": {
+              "trumpd": 0.582,
+              "bidenj": 0.377
+            },
+            "votes": 1487640,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-18T18:50:47Z"
           }
         ]
       },
@@ -2703,7 +2713,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 342159,
+        "votes": 342223,
         "absentee_votes": 81821,
         "absentee_counties": 3,
         "absentee_count_progress": "unknown",
@@ -2728,7 +2738,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:17:35Z",
+        "last_updated": "2020-11-18T18:50:47Z",
         "candidates": [
           {
             "candidate_id": "moore-20073829-45-h",
@@ -2741,7 +2751,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 237945,
+            "votes": 237988,
             "percent": 69.5,
             "percent_display": "69.5",
             "electoral_votes": 0,
@@ -2762,7 +2772,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 104173,
+            "votes": 104194,
             "percent": 30.4,
             "percent_display": "30.4",
             "electoral_votes": 0,
@@ -2795,8 +2805,8 @@
           }
         ],
         "has_incumbent": false,
-        "leader_margin_value": 39.09644,
-        "leader_margin_votes": 133772,
+        "leader_margin_value": 39.09556,
+        "leader_margin_votes": 133794,
         "leader_margin_display": "R+39",
         "leader_margin_name_display": "Moore +39",
         "leader_party_id": "republican",
@@ -2903,7 +2913,7 @@
           {
             "fips": "49011",
             "name": "Davis",
-            "votes": 101227,
+            "votes": 101291,
             "absentee_votes": 0,
             "reporting": 140,
             "precincts": 140,
@@ -2920,15 +2930,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mooreb": 72476,
-              "parryd": 28751
+              "mooreb": 72519,
+              "parryd": 28772
             },
             "results_absentee": {
               "mooreb": 0,
               "parryd": 0
             },
-            "last_updated": "2020-11-16T22:57:48Z",
-            "leader_margin_value": 43.195,
+            "last_updated": "2020-11-18T18:50:45Z",
+            "leader_margin_value": 43.18942,
             "leader_margin_display": "R+43",
             "leader_margin_name_display": "Moore +43",
             "leader_party_id": "republican"
@@ -3644,6 +3654,17 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-18T16:20:53Z"
+          },
+          {
+            "vote_shares": {
+              "mooreb": 0.695,
+              "parryd": 0.304,
+              "write-ins": 0
+            },
+            "votes": 342223,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-18T18:50:47Z"
           }
         ]
       },
@@ -3675,7 +3696,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 354192,
+        "votes": 354224,
         "absentee_votes": 207046,
         "absentee_counties": 3,
         "absentee_count_progress": "unknown",
@@ -3700,7 +3721,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:17:35Z",
+        "last_updated": "2020-11-18T18:50:47Z",
         "candidates": [
           {
             "candidate_id": "stewart-61890-45-h",
@@ -3713,7 +3734,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 208979,
+            "votes": 208997,
             "percent": 59,
             "percent_display": "59.0",
             "electoral_votes": 0,
@@ -3734,7 +3755,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 129749,
+            "votes": 129762,
             "percent": 36.6,
             "percent_display": "36.6",
             "electoral_votes": 0,
@@ -3755,7 +3776,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 15464,
+            "votes": 15465,
             "percent": 4.4,
             "percent_display": "4.4",
             "electoral_votes": 0,
@@ -3767,8 +3788,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 22.36922,
-        "leader_margin_votes": 79230,
+        "leader_margin_value": 22.36861,
+        "leader_margin_votes": 79235,
         "leader_margin_display": "R+22",
         "leader_margin_name_display": "Stewart +22",
         "leader_party_id": "republican",
@@ -3811,7 +3832,7 @@
           {
             "fips": "49011",
             "name": "Davis",
-            "votes": 64611,
+            "votes": 64643,
             "absentee_votes": 0,
             "reporting": 98,
             "precincts": 98,
@@ -3828,17 +3849,17 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "stewartc": 42067,
-              "westonk": 19726,
-              "lathamr": 2818
+              "stewartc": 42085,
+              "westonk": 19739,
+              "lathamr": 2819
             },
             "results_absentee": {
               "stewartc": 0,
               "westonk": 0,
               "lathamr": 0
             },
-            "last_updated": "2020-11-16T22:57:47Z",
-            "leader_margin_value": 34.5777,
+            "last_updated": "2020-11-18T18:50:45Z",
+            "leader_margin_value": 34.56832,
             "leader_margin_display": "R+35",
             "leader_margin_name_display": "Stewart +35",
             "leader_party_id": "republican"
@@ -4897,6 +4918,17 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-18T00:21:04Z"
+          },
+          {
+            "vote_shares": {
+              "stewartc": 0.59,
+              "westonk": 0.366,
+              "lathamj": 0.044
+            },
+            "votes": 354224,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-18T18:50:47Z"
           }
         ]
       },
@@ -6759,7 +6791,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1441391,
+        "votes": 1441485,
         "absentee_votes": 679835,
         "absentee_counties": 6,
         "absentee_count_progress": "unknown",
@@ -6784,7 +6816,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:02:43Z",
+        "last_updated": "2020-11-18T18:50:48Z",
         "candidates": [
           {
             "candidate_id": "cox-20073827-45-g",
@@ -6797,7 +6829,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 917921,
+            "votes": 917984,
             "percent": 63.7,
             "percent_display": "63.7",
             "electoral_votes": 0,
@@ -6818,7 +6850,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 442626,
+            "votes": 442651,
             "percent": 30.7,
             "percent_display": "30.7",
             "electoral_votes": 0,
@@ -6839,7 +6871,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 51346,
+            "votes": 51349,
             "percent": 3.6,
             "percent_display": "3.6",
             "electoral_votes": 0,
@@ -6860,7 +6892,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 25766,
+            "votes": 25769,
             "percent": 1.8,
             "percent_display": "1.8",
             "electoral_votes": 0,
@@ -6893,8 +6925,8 @@
           }
         ],
         "has_incumbent": false,
-        "leader_margin_value": 32.97474,
-        "leader_margin_votes": 475295,
+        "leader_margin_value": 32.97523,
+        "leader_margin_votes": 475333,
         "leader_margin_display": "R+33",
         "leader_margin_name_display": "Cox +33",
         "leader_party_id": "republican",
@@ -7087,7 +7119,7 @@
           {
             "fips": "49011",
             "name": "Davis",
-            "votes": 166900,
+            "votes": 166994,
             "absentee_votes": 0,
             "reporting": 224,
             "precincts": 224,
@@ -7104,10 +7136,10 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "coxs": 115438,
-              "petersonc": 41076,
-              "cottamd": 6015,
-              "duerdeng": 4371
+              "coxs": 115501,
+              "petersonc": 41101,
+              "cottamd": 6018,
+              "duerdeng": 4374
             },
             "results_absentee": {
               "coxs": 0,
@@ -7115,8 +7147,8 @@
               "cottamd": 0,
               "duerdeng": 0
             },
-            "last_updated": "2020-11-16T22:57:46Z",
-            "leader_margin_value": 44.55482,
+            "last_updated": "2020-11-18T18:50:45Z",
+            "leader_margin_value": 44.5525,
             "leader_margin_display": "R+45",
             "leader_margin_name_display": "Cox +45",
             "leader_party_id": "republican"
@@ -8007,12 +8039,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Morgan and Salt Lake Counties.",
-            "timestamp": 1605657771217,
+            "sentence": "We just received more votes from Davis County.",
+            "timestamp": 1605725606814,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Morgan and Salt Lake Counties.",
+            "generatedText": "We just received more votes from Davis County.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -9286,6 +9318,19 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-18T16:20:53Z"
+          },
+          {
+            "vote_shares": {
+              "coxs": 0.637,
+              "petersonc": 0.307,
+              "cottamd": 0.036,
+              "duerdeng": 0.018,
+              "write-ins": 0.003
+            },
+            "votes": 1441485,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-18T18:50:48Z"
           }
         ]
       },
@@ -29451,7 +29496,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 219,
-            "votes": 75103292,
+            "votes": 75130771,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -29468,7 +29513,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 204,
-            "votes": 71884476,
+            "votes": 71899465,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -29485,7 +29530,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2060488,
+            "votes": 2061489,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -29513,7 +29558,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79245757,
+            "votes": 79268777,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -29530,7 +29575,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73430807,
+            "votes": 73444474,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -29547,7 +29592,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2821311,
+            "votes": 2825274,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -29579,7 +29624,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 41770476,
+            "votes": 41770498,
             "percent": "47.2",
             "change": 1,
             "flip_count": 2,
@@ -29596,7 +29641,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 43881986,
+            "votes": 43882025,
             "percent": "49.6",
             "change": -1,
             "flip_count": 1,
@@ -29613,7 +29658,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2888967,
+            "votes": 2888970,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -40193,9 +40238,9 @@
           "runoff": false,
           "winner": true,
           "result_source": "NYT",
-          "votes": 3082010,
-          "percent": 53.2,
-          "percent_display": "53.2",
+          "votes": 3095573,
+          "percent": 53.1,
+          "percent_display": "53.1",
           "electoral_votes": 18,
           "absentee_votes": 801918,
           "absentee_percent": 41.2,
@@ -40679,7 +40724,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 865038,
+          "votes": 865100,
           "percent": 58.2,
           "percent_display": "58.2",
           "electoral_votes": 6,
@@ -41755,7 +41800,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 917921,
+          "votes": 917984,
           "percent": 63.7,
           "percent_display": "63.7",
           "electoral_votes": 0,
@@ -44064,7 +44109,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 3196917,
+          "votes": 3196939,
           "percent": 54.7,
           "percent_display": "54.7",
           "electoral_votes": 0,
@@ -44448,7 +44493,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3405146,
+          "votes": 3405165,
           "percent": 57.3,
           "percent_display": "57.3",
           "electoral_votes": 20,
@@ -45955,8 +46000,8 @@
     ]
   },
   "meta": {
-    "version": 19401,
+    "version": 19409,
     "track": "2020-11-03",
-    "timestamp": "2020-11-18T18:48:54.532Z"
+    "timestamp": "2020-11-18T18:55:37.236Z"
   }
 }
