@@ -32726,7 +32726,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 197237,
+        "votes": 198329,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -32739,10 +32739,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 323,
+        "precincts_reporting": 325,
         "precincts_total": 340,
-        "reporting_display": "95% reporting",
-        "reporting_value": "95%",
+        "reporting_display": "96% reporting",
+        "reporting_value": "96%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -32752,7 +32752,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-18T17:24:18.170Z",
+        "last_updated": "2020-11-18T23:35:37.147Z",
         "candidates": [
           {
             "candidate_id": "gallagher-12213",
@@ -32765,7 +32765,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 125302,
+            "votes": 126019,
             "percent": 63.5,
             "percent_display": "63.5",
             "electoral_votes": 0,
@@ -32786,7 +32786,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 71935,
+            "votes": 72310,
             "percent": 36.5,
             "percent_display": "36.5",
             "electoral_votes": 0,
@@ -35651,7 +35651,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 123035,
+        "votes": 124101,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -35664,10 +35664,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 130,
+        "precincts_reporting": 236,
         "precincts_total": 236,
-        "reporting_display": "55% reporting",
-        "reporting_value": "55%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -35677,7 +35677,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-18T17:24:18.170Z",
+        "last_updated": "2020-11-18T23:35:37.147Z",
         "candidates": [
           {
             "candidate_id": "arambula-12783",
@@ -35690,9 +35690,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 76102,
-            "percent": 61.9,
-            "percent_display": "61.9",
+            "votes": 76756,
+            "percent": 61.8,
+            "percent_display": "61.8",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -35711,9 +35711,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 46933,
-            "percent": 38.1,
-            "percent_display": "38.1",
+            "votes": 47345,
+            "percent": 38.2,
+            "percent_display": "38.2",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -40911,7 +40911,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16577687,
+        "votes": 16581783,
         "absentee_votes": 985738,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -40924,7 +40924,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19880,
+        "precincts_reporting": 19885,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -40936,7 +40936,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T20:36:31.233Z",
+        "last_updated": "2020-11-18T23:35:37.147Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -40948,7 +40948,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9477723,
+            "votes": 9480296,
             "percent": 57.2,
             "percent_display": "57.2",
             "electoral_votes": 0,
@@ -40968,7 +40968,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7099964,
+            "votes": 7101487,
             "percent": 42.8,
             "percent_display": "42.8",
             "electoral_votes": 0,
@@ -41245,9 +41245,9 @@
           {
             "fips": "06019",
             "name": "Fresno",
-            "votes": 349846,
+            "votes": 352866,
             "absentee_votes": 0,
-            "reporting": 381,
+            "reporting": 384,
             "precincts": 384,
             "absentee_method": null,
             "eevp": null,
@@ -41262,21 +41262,21 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 233136,
-              "yes": 116710
+              "no": 234974,
+              "yes": 117892
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06021",
             "name": "Glenn",
-            "votes": 10613,
+            "votes": 10870,
             "absentee_votes": 0,
-            "reporting": 64,
+            "reporting": 66,
             "precincts": 74,
             "absentee_method": null,
             "eevp": null,
@@ -41291,14 +41291,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 8534,
-              "yes": 2079
+              "no": 8720,
+              "yes": 2150
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06023",
@@ -42434,7 +42434,7 @@
           {
             "fips": "06101",
             "name": "Sutter",
-            "votes": 39892,
+            "votes": 40711,
             "absentee_votes": 0,
             "reporting": 45,
             "precincts": 45,
@@ -42451,14 +42451,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 30310,
-              "yes": 9582
+              "no": 30859,
+              "yes": 9852
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06103",
@@ -42702,7 +42702,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16755105,
+        "votes": 16759265,
         "absentee_votes": 993320,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -42715,7 +42715,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19880,
+        "precincts_reporting": 19885,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -42727,7 +42727,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T20:36:31.233Z",
+        "last_updated": "2020-11-18T23:35:37.147Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -42739,7 +42739,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9810884,
+            "votes": 9813152,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -42759,7 +42759,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6944221,
+            "votes": 6946113,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -43036,9 +43036,9 @@
           {
             "fips": "06019",
             "name": "Fresno",
-            "votes": 353976,
+            "votes": 357040,
             "absentee_votes": 0,
-            "reporting": 381,
+            "reporting": 384,
             "precincts": 384,
             "absentee_method": null,
             "eevp": null,
@@ -43053,21 +43053,21 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 165158,
-              "no": 188818
+              "yes": 166845,
+              "no": 190195
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06021",
             "name": "Glenn",
-            "votes": 10699,
+            "votes": 10964,
             "absentee_votes": 0,
-            "reporting": 64,
+            "reporting": 66,
             "precincts": 74,
             "absentee_method": null,
             "eevp": null,
@@ -43082,14 +43082,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 3530,
-              "no": 7169
+              "yes": 3665,
+              "no": 7299
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06023",
@@ -44225,7 +44225,7 @@
           {
             "fips": "06101",
             "name": "Sutter",
-            "votes": 40231,
+            "votes": 41062,
             "absentee_votes": 0,
             "reporting": 45,
             "precincts": 45,
@@ -44242,14 +44242,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 15314,
-              "no": 24917
+              "yes": 15760,
+              "no": 25302
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06103",
@@ -44493,7 +44493,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16302235,
+        "votes": 16306229,
         "absentee_votes": 975963,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -44506,7 +44506,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19880,
+        "precincts_reporting": 19885,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -44518,7 +44518,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T20:36:31.233Z",
+        "last_updated": "2020-11-18T23:35:37.147Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -44530,7 +44530,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9191805,
+            "votes": 9194288,
             "percent": 56.4,
             "percent_display": "56.4",
             "electoral_votes": 0,
@@ -44550,7 +44550,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7110430,
+            "votes": 7111941,
             "percent": 43.6,
             "percent_display": "43.6",
             "electoral_votes": 0,
@@ -44827,9 +44827,9 @@
           {
             "fips": "06019",
             "name": "Fresno",
-            "votes": 346822,
+            "votes": 349752,
             "absentee_votes": 0,
-            "reporting": 381,
+            "reporting": 384,
             "precincts": 384,
             "absentee_method": null,
             "eevp": null,
@@ -44844,21 +44844,21 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 232000,
-              "yes": 114822
+              "no": 233797,
+              "yes": 115955
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06021",
             "name": "Glenn",
-            "votes": 10562,
+            "votes": 10819,
             "absentee_votes": 0,
-            "reporting": 64,
+            "reporting": 66,
             "precincts": 74,
             "absentee_method": null,
             "eevp": null,
@@ -44873,14 +44873,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 8118,
-              "yes": 2444
+              "no": 8299,
+              "yes": 2520
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06023",
@@ -46016,7 +46016,7 @@
           {
             "fips": "06101",
             "name": "Sutter",
-            "votes": 39675,
+            "votes": 40482,
             "absentee_votes": 0,
             "reporting": 45,
             "precincts": 45,
@@ -46033,14 +46033,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 28381,
-              "yes": 11294
+              "no": 28886,
+              "yes": 11596
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06103",
@@ -46282,7 +46282,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16517153,
+        "votes": 16521238,
         "absentee_votes": 984314,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -46295,7 +46295,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19880,
+        "precincts_reporting": 19885,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -46307,7 +46307,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T20:36:31.233Z",
+        "last_updated": "2020-11-18T23:35:37.147Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -46319,7 +46319,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8431583,
+            "votes": 8433796,
             "percent": 51,
             "percent_display": "51.0",
             "electoral_votes": 0,
@@ -46339,7 +46339,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8085570,
+            "votes": 8087442,
             "percent": 49,
             "percent_display": "49.0",
             "electoral_votes": 0,
@@ -46616,9 +46616,9 @@
           {
             "fips": "06019",
             "name": "Fresno",
-            "votes": 350185,
+            "votes": 353200,
             "absentee_votes": 0,
-            "reporting": 381,
+            "reporting": 384,
             "precincts": 384,
             "absentee_method": null,
             "eevp": null,
@@ -46633,21 +46633,21 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 163601,
-              "no": 186584
+              "yes": 165263,
+              "no": 187937
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-18T17:24:19.237Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06021",
             "name": "Glenn",
-            "votes": 10687,
+            "votes": 10948,
             "absentee_votes": 0,
-            "reporting": 64,
+            "reporting": 66,
             "precincts": 74,
             "absentee_method": null,
             "eevp": null,
@@ -46662,14 +46662,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 3466,
-              "no": 7221
+              "yes": 3598,
+              "no": 7350
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-18T17:24:19.237Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06023",
@@ -47805,7 +47805,7 @@
           {
             "fips": "06101",
             "name": "Sutter",
-            "votes": 39869,
+            "votes": 40678,
             "absentee_votes": 0,
             "reporting": 45,
             "precincts": 45,
@@ -47822,14 +47822,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 14966,
-              "no": 24903
+              "yes": 15385,
+              "no": 25293
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-18T17:24:19.237Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06103",
@@ -48071,7 +48071,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16798495,
+        "votes": 16802665,
         "absentee_votes": 998550,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -48084,7 +48084,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19880,
+        "precincts_reporting": 19885,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -48096,7 +48096,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T20:36:31.233Z",
+        "last_updated": "2020-11-18T23:35:37.147Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -48108,7 +48108,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8737287,
+            "votes": 8739358,
             "percent": 52,
             "percent_display": "52.0",
             "electoral_votes": 0,
@@ -48128,7 +48128,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8061208,
+            "votes": 8063307,
             "percent": 48,
             "percent_display": "48.0",
             "electoral_votes": 0,
@@ -48405,9 +48405,9 @@
           {
             "fips": "06019",
             "name": "Fresno",
-            "votes": 354206,
+            "votes": 357282,
             "absentee_votes": 0,
-            "reporting": 381,
+            "reporting": 384,
             "precincts": 384,
             "absentee_method": null,
             "eevp": null,
@@ -48422,21 +48422,21 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 209441,
-              "yes": 144765
+              "no": 210927,
+              "yes": 146355
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06021",
             "name": "Glenn",
-            "votes": 10771,
+            "votes": 11041,
             "absentee_votes": 0,
-            "reporting": 64,
+            "reporting": 66,
             "precincts": 74,
             "absentee_method": null,
             "eevp": null,
@@ -48451,14 +48451,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 8078,
-              "yes": 2693
+              "no": 8231,
+              "yes": 2810
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06023",
@@ -49594,7 +49594,7 @@
           {
             "fips": "06101",
             "name": "Sutter",
-            "votes": 40509,
+            "votes": 41333,
             "absentee_votes": 0,
             "reporting": 45,
             "precincts": 45,
@@ -49611,14 +49611,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 28464,
-              "yes": 12045
+              "no": 28896,
+              "yes": 12437
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06103",
@@ -49862,7 +49862,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16791789,
+        "votes": 16795953,
         "absentee_votes": 994775,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -49875,7 +49875,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19880,
+        "precincts_reporting": 19885,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -49887,7 +49887,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T20:36:31.233Z",
+        "last_updated": "2020-11-18T23:35:37.147Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -49899,7 +49899,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9405000,
+            "votes": 9407539,
             "percent": 56,
             "percent_display": "56.0",
             "electoral_votes": 0,
@@ -49919,7 +49919,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7386789,
+            "votes": 7388414,
             "percent": 44,
             "percent_display": "44.0",
             "electoral_votes": 0,
@@ -50196,9 +50196,9 @@
           {
             "fips": "06019",
             "name": "Fresno",
-            "votes": 354445,
+            "votes": 357515,
             "absentee_votes": 0,
-            "reporting": 381,
+            "reporting": 384,
             "precincts": 384,
             "absentee_method": null,
             "eevp": null,
@@ -50213,21 +50213,21 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 237238,
-              "yes": 117207
+              "no": 239080,
+              "yes": 118435
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06021",
             "name": "Glenn",
-            "votes": 10711,
+            "votes": 10970,
             "absentee_votes": 0,
-            "reporting": 64,
+            "reporting": 66,
             "precincts": 74,
             "absentee_method": null,
             "eevp": null,
@@ -50242,14 +50242,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 8561,
-              "yes": 2150
+              "no": 8730,
+              "yes": 2240
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06023",
@@ -51385,7 +51385,7 @@
           {
             "fips": "06101",
             "name": "Sutter",
-            "votes": 40386,
+            "votes": 41221,
             "absentee_votes": 0,
             "reporting": 45,
             "precincts": 45,
@@ -51402,14 +51402,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 30295,
-              "yes": 10091
+              "no": 30823,
+              "yes": 10398
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06103",
@@ -51651,7 +51651,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16428674,
+        "votes": 16432687,
         "absentee_votes": 978441,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -51664,7 +51664,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19880,
+        "precincts_reporting": 19885,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -51676,7 +51676,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T20:36:31.233Z",
+        "last_updated": "2020-11-18T23:35:37.147Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -51688,7 +51688,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8389013,
+            "votes": 8391242,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -51708,7 +51708,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8039661,
+            "votes": 8041445,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -51985,9 +51985,9 @@
           {
             "fips": "06019",
             "name": "Fresno",
-            "votes": 346529,
+            "votes": 349482,
             "absentee_votes": 0,
-            "reporting": 381,
+            "reporting": 384,
             "precincts": 384,
             "absentee_method": null,
             "eevp": null,
@@ -52002,21 +52002,21 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 170485,
-              "no": 176044
+              "yes": 172148,
+              "no": 177334
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06021",
             "name": "Glenn",
-            "votes": 10531,
+            "votes": 10787,
             "absentee_votes": 0,
-            "reporting": 64,
+            "reporting": 66,
             "precincts": 74,
             "absentee_method": null,
             "eevp": null,
@@ -52031,14 +52031,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 3943,
-              "no": 6588
+              "yes": 4076,
+              "no": 6711
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06023",
@@ -53174,7 +53174,7 @@
           {
             "fips": "06101",
             "name": "Sutter",
-            "votes": 39622,
+            "votes": 40426,
             "absentee_votes": 0,
             "reporting": 45,
             "precincts": 45,
@@ -53191,14 +53191,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 17608,
-              "no": 22014
+              "yes": 18041,
+              "no": 22385
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06103",
@@ -53440,7 +53440,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16386845,
+        "votes": 16390886,
         "absentee_votes": 975847,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -53453,7 +53453,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19880,
+        "precincts_reporting": 19885,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -53465,7 +53465,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T20:36:31.233Z",
+        "last_updated": "2020-11-18T23:35:37.147Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -53477,7 +53477,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10120906,
+            "votes": 10123093,
             "percent": 61.8,
             "percent_display": "61.8",
             "electoral_votes": 0,
@@ -53497,7 +53497,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6265939,
+            "votes": 6267793,
             "percent": 38.2,
             "percent_display": "38.2",
             "electoral_votes": 0,
@@ -53774,9 +53774,9 @@
           {
             "fips": "06019",
             "name": "Fresno",
-            "votes": 346523,
+            "votes": 349497,
             "absentee_votes": 0,
-            "reporting": 381,
+            "reporting": 384,
             "precincts": 384,
             "absentee_method": null,
             "eevp": null,
@@ -53791,21 +53791,21 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 172513,
-              "yes": 174010
+              "no": 174076,
+              "yes": 175421
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06021",
             "name": "Glenn",
-            "votes": 10563,
+            "votes": 10817,
             "absentee_votes": 0,
-            "reporting": 64,
+            "reporting": 66,
             "precincts": 74,
             "absentee_method": null,
             "eevp": null,
@@ -53820,14 +53820,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 5112,
-              "yes": 5451
+              "no": 5270,
+              "yes": 5547
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06023",
@@ -54963,7 +54963,7 @@
           {
             "fips": "06101",
             "name": "Sutter",
-            "votes": 39528,
+            "votes": 40341,
             "absentee_votes": 0,
             "reporting": 45,
             "precincts": 45,
@@ -54980,14 +54980,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 20455,
-              "yes": 19073
+              "no": 20921,
+              "yes": 19420
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06103",
@@ -55231,7 +55231,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16570887,
+        "votes": 16574945,
         "absentee_votes": 986242,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -55244,7 +55244,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19880,
+        "precincts_reporting": 19885,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -55256,7 +55256,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T20:36:31.233Z",
+        "last_updated": "2020-11-18T23:35:37.147Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -55268,7 +55268,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9918843,
+            "votes": 9921524,
             "percent": 59.9,
             "percent_display": "59.9",
             "electoral_votes": 0,
@@ -55288,7 +55288,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6652044,
+            "votes": 6653421,
             "percent": 40.1,
             "percent_display": "40.1",
             "electoral_votes": 0,
@@ -55565,9 +55565,9 @@
           {
             "fips": "06019",
             "name": "Fresno",
-            "votes": 349504,
+            "votes": 352488,
             "absentee_votes": 0,
-            "reporting": 381,
+            "reporting": 384,
             "precincts": 384,
             "absentee_method": null,
             "eevp": null,
@@ -55582,21 +55582,21 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 243483,
-              "yes": 106021
+              "no": 245455,
+              "yes": 107033
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06021",
             "name": "Glenn",
-            "votes": 10686,
+            "votes": 10947,
             "absentee_votes": 0,
-            "reporting": 64,
+            "reporting": 66,
             "precincts": 74,
             "absentee_method": null,
             "eevp": null,
@@ -55611,14 +55611,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 8617,
-              "yes": 2069
+              "no": 8791,
+              "yes": 2156
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06023",
@@ -56754,7 +56754,7 @@
           {
             "fips": "06101",
             "name": "Sutter",
-            "votes": 39905,
+            "votes": 40718,
             "absentee_votes": 0,
             "reporting": 45,
             "precincts": 45,
@@ -56771,14 +56771,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 30627,
-              "yes": 9278
+              "no": 31162,
+              "yes": 9556
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06103",
@@ -57022,7 +57022,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16687587,
+        "votes": 16691714,
         "absentee_votes": 992295,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -57035,7 +57035,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19880,
+        "precincts_reporting": 19885,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -57047,7 +57047,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T20:36:31.233Z",
+        "last_updated": "2020-11-18T23:35:37.147Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -57059,7 +57059,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9787559,
+            "votes": 9790058,
             "percent": 58.7,
             "percent_display": "58.7",
             "electoral_votes": 0,
@@ -57079,7 +57079,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6900028,
+            "votes": 6901656,
             "percent": 41.3,
             "percent_display": "41.3",
             "electoral_votes": 0,
@@ -57356,9 +57356,9 @@
           {
             "fips": "06019",
             "name": "Fresno",
-            "votes": 351944,
+            "votes": 354967,
             "absentee_votes": 0,
-            "reporting": 381,
+            "reporting": 384,
             "precincts": 384,
             "absentee_method": null,
             "eevp": null,
@@ -57373,21 +57373,21 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 230005,
-              "no": 121939
+              "yes": 231819,
+              "no": 123148
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06021",
             "name": "Glenn",
-            "votes": 10688,
+            "votes": 10952,
             "absentee_votes": 0,
-            "reporting": 64,
+            "reporting": 66,
             "precincts": 74,
             "absentee_method": null,
             "eevp": null,
@@ -57402,14 +57402,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 7477,
-              "no": 3211
+              "yes": 7631,
+              "no": 3321
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06023",
@@ -58545,7 +58545,7 @@
           {
             "fips": "06101",
             "name": "Sutter",
-            "votes": 40376,
+            "votes": 41216,
             "absentee_votes": 0,
             "reporting": 45,
             "precincts": 45,
@@ -58562,14 +58562,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 28459,
-              "no": 11917
+              "yes": 28990,
+              "no": 12226
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06103",
@@ -58811,7 +58811,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16547467,
+        "votes": 16551541,
         "absentee_votes": 984773,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -58824,7 +58824,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19880,
+        "precincts_reporting": 19885,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -58836,7 +58836,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T20:36:31.233Z",
+        "last_updated": "2020-11-18T23:35:37.147Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -58848,7 +58848,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10515536,
+            "votes": 10517689,
             "percent": 63.5,
             "percent_display": "63.5",
             "electoral_votes": 0,
@@ -58868,7 +58868,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6031931,
+            "votes": 6033852,
             "percent": 36.5,
             "percent_display": "36.5",
             "electoral_votes": 0,
@@ -59145,9 +59145,9 @@
           {
             "fips": "06019",
             "name": "Fresno",
-            "votes": 351410,
+            "votes": 354400,
             "absentee_votes": 0,
-            "reporting": 381,
+            "reporting": 384,
             "precincts": 384,
             "absentee_method": null,
             "eevp": null,
@@ -59162,21 +59162,21 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 235370,
-              "yes": 116040
+              "no": 236901,
+              "yes": 117499
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06021",
             "name": "Glenn",
-            "votes": 10681,
+            "votes": 10949,
             "absentee_votes": 0,
-            "reporting": 64,
+            "reporting": 66,
             "precincts": 74,
             "absentee_method": null,
             "eevp": null,
@@ -59191,14 +59191,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 8338,
-              "yes": 2343
+              "no": 8493,
+              "yes": 2456
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06023",
@@ -60334,7 +60334,7 @@
           {
             "fips": "06101",
             "name": "Sutter",
-            "votes": 40188,
+            "votes": 41004,
             "absentee_votes": 0,
             "reporting": 45,
             "precincts": 45,
@@ -60351,14 +60351,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 30079,
-              "yes": 10109
+              "no": 30546,
+              "yes": 10458
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06103",
@@ -60600,7 +60600,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16398432,
+        "votes": 16402457,
         "absentee_votes": 979988,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -60613,7 +60613,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19880,
+        "precincts_reporting": 19885,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -60625,7 +60625,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T20:36:31.233Z",
+        "last_updated": "2020-11-18T23:35:37.147Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -60637,7 +60637,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9209956,
+            "votes": 9212412,
             "percent": 56.2,
             "percent_display": "56.2",
             "electoral_votes": 0,
@@ -60657,7 +60657,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7188476,
+            "votes": 7190045,
             "percent": 43.8,
             "percent_display": "43.8",
             "electoral_votes": 0,
@@ -60934,9 +60934,9 @@
           {
             "fips": "06019",
             "name": "Fresno",
-            "votes": 347038,
+            "votes": 349996,
             "absentee_votes": 0,
-            "reporting": 381,
+            "reporting": 384,
             "precincts": 384,
             "absentee_method": null,
             "eevp": null,
@@ -60951,21 +60951,21 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 182950,
-              "no": 164088
+              "yes": 184775,
+              "no": 165221
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06021",
             "name": "Glenn",
-            "votes": 10637,
+            "votes": 10895,
             "absentee_votes": 0,
-            "reporting": 64,
+            "reporting": 66,
             "precincts": 74,
             "absentee_method": null,
             "eevp": null,
@@ -60980,14 +60980,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 4540,
-              "no": 6097
+              "yes": 4689,
+              "no": 6206
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06023",
@@ -62123,7 +62123,7 @@
           {
             "fips": "06101",
             "name": "Sutter",
-            "votes": 39628,
+            "votes": 40437,
             "absentee_votes": 0,
             "reporting": 45,
             "precincts": 45,
@@ -62140,14 +62140,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 17958,
-              "no": 21670
+              "yes": 18440,
+              "no": 21997
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-18T17:24:18.170Z"
+            "last_updated": "2020-11-18T23:35:37.147Z"
           },
           {
             "fips": "06103",
@@ -62373,7 +62373,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 219,
-            "votes": 75192791,
+            "votes": 75192863,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -62390,7 +62390,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 71951818,
+            "votes": 71951935,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -62435,7 +62435,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79334198,
+            "votes": 79334275,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -62452,7 +62452,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73496551,
+            "votes": 73496660,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -62469,7 +62469,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2830557,
+            "votes": 2830566,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -73710,7 +73710,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2286986,
+          "votes": 2287063,
           "percent": 56.8,
           "percent_display": "56.8",
           "electoral_votes": 0,
@@ -73847,7 +73847,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2361652,
+          "votes": 2361729,
           "percent": 58.4,
           "percent_display": "58.4",
           "electoral_votes": 12,
@@ -78877,8 +78877,8 @@
     ]
   },
   "meta": {
-    "version": 19627,
+    "version": 19631,
     "track": "2020-11-03",
-    "timestamp": "2020-11-18T23:25:28.148Z"
+    "timestamp": "2020-11-18T23:36:29.117Z"
   }
 }
