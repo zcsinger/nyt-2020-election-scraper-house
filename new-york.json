@@ -30,7 +30,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 6930104,
+        "votes": 6944228,
         "electoral_votes": 29,
         "absentee_votes": 314205,
         "absentee_counties": 8,
@@ -56,7 +56,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:33:42Z",
+        "last_updated": "2020-11-18T22:58:55Z",
         "candidates": [
           {
             "candidate_id": "biden-1036",
@@ -69,7 +69,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 3908816,
+            "votes": 3919335,
             "percent": 56.4,
             "percent_display": "56.4",
             "electoral_votes": 29,
@@ -91,7 +91,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 2919415,
+            "votes": 2922544,
             "percent": 42.1,
             "percent_display": "42.1",
             "electoral_votes": 0,
@@ -113,7 +113,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 50458,
+            "votes": 50611,
             "percent": 0.7,
             "percent_display": "0.7",
             "electoral_votes": 0,
@@ -134,7 +134,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 24774,
+            "votes": 24859,
             "percent": 0.4,
             "percent_display": "0.4",
             "electoral_votes": 0,
@@ -155,7 +155,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 18854,
+            "votes": 18928,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -176,7 +176,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7787,
+            "votes": 7951,
             "percent": 0.1,
             "percent_display": "0.1",
             "electoral_votes": 0,
@@ -188,8 +188,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 14.27686,
-        "leader_margin_votes": 989401,
+        "leader_margin_value": 14.35424,
+        "leader_margin_votes": 996791,
         "leader_margin_display": "D+14",
         "leader_margin_name_display": "Biden +14",
         "leader_party_id": "democrat",
@@ -2049,15 +2049,15 @@
           {
             "fips": "36083",
             "name": "Rensselaer",
-            "votes": 65285,
+            "votes": 79409,
             "absentee_votes": 0,
             "reporting": 71,
             "precincts": 87,
             "absentee_method": "Merged into voters' home precincts AFTER election night",
-            "eevp": 81,
+            "eevp": 99,
             "tot_exp_vote": 80149,
-            "eevp_value": "81%",
-            "eevp_display": "81% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "unknown",
@@ -2066,25 +2066,27 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 30450,
-              "trumpd": 33371,
-              "jorgensenj": 863,
-              "pierceb": 312,
-              "hawkinsh": 289
+              "bidenj": 40969,
+              "trumpd": 36500,
+              "jorgensenj": 1016,
+              "pierceb": 386,
+              "hawkinsh": 374,
+              "write-ins": 164
             },
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
               "jorgensenj": 0,
               "pierceb": 0,
-              "hawkinsh": 0
+              "hawkinsh": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-16T15:48:23Z",
-            "leader_margin_value": 4.47423,
-            "leader_margin_display": "R+4",
-            "leader_margin_name_display": "Trump +4",
-            "leader_party_id": "republican",
-            "margin2020": 4.47423,
+            "last_updated": "2020-11-18T23:03:09Z",
+            "leader_margin_value": 5.62783,
+            "leader_margin_display": "D+6",
+            "leader_margin_name_display": "Biden +6",
+            "leader_party_id": "democrat",
+            "margin2020": -5.62783,
             "votes2016": 71562,
             "margin2016": 1.4,
             "votes2012": 67990,
@@ -3017,12 +3019,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Oswego County.",
-            "timestamp": 1605720945576,
+            "sentence": "We just received more votes from Rensselaer County.",
+            "timestamp": 1605740501153,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Oswego County.",
+            "generatedText": "We just received more votes from Rensselaer County.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -5531,6 +5533,16 @@
             "eevp": 84,
             "eevp_source": "edison",
             "timestamp": "2020-11-18T17:33:42Z"
+          },
+          {
+            "vote_shares": {
+              "bidenj": 0.564,
+              "trumpd": 0.421
+            },
+            "votes": 6944228,
+            "eevp": 84,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-18T22:58:55Z"
           }
         ]
       },
@@ -17894,7 +17906,7 @@
         "result_source": null,
         "gain": false,
         "lost_seat": "",
-        "votes": 296188,
+        "votes": 301581,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": "unknown",
@@ -17911,15 +17923,15 @@
         "precincts_total": 611,
         "reporting_display": "82% reporting",
         "reporting_value": "82%",
-        "eevp": 83,
+        "eevp": 85,
         "tot_exp_vote": 355000,
         "eevp_source": "edison",
-        "eevp_value": "83%",
-        "eevp_display": "83% reported",
+        "eevp_value": "85%",
+        "eevp_display": "85% reported",
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:17:52Z",
+        "last_updated": "2020-11-18T23:01:40Z",
         "candidates": [
           {
             "candidate_id": "delgado-20346-33-h",
@@ -17932,9 +17944,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 151493,
-            "percent": 51.1,
-            "percent_display": "51.1",
+            "votes": 155398,
+            "percent": 51.5,
+            "percent_display": "51.5",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -17953,9 +17965,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 137229,
-            "percent": 46.3,
-            "percent_display": "46.3",
+            "votes": 138519,
+            "percent": 45.9,
+            "percent_display": "45.9",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -17974,7 +17986,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 3548,
+            "votes": 3630,
             "percent": 1.2,
             "percent_display": "1.2",
             "electoral_votes": 0,
@@ -17995,7 +18007,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 2146,
+            "votes": 2208,
             "percent": 0.7,
             "percent_display": "0.7",
             "electoral_votes": 0,
@@ -18016,7 +18028,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1772,
+            "votes": 1826,
             "percent": 0.6,
             "percent_display": "0.6",
             "electoral_votes": 0,
@@ -18028,10 +18040,10 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 4.81586,
-        "leader_margin_votes": 14264,
-        "leader_margin_display": "D+5",
-        "leader_margin_name_display": "Delgado +5",
+        "leader_margin_value": 5.59684,
+        "leader_margin_votes": 16879,
+        "leader_margin_display": "D+6",
+        "leader_margin_name_display": "Delgado +6",
         "leader_party_id": "democrat",
         "counties": [
           {
@@ -18308,15 +18320,15 @@
           {
             "fips": "36083",
             "name": "Rensselaer",
-            "votes": 30342,
+            "votes": 35735,
             "absentee_votes": 0,
             "reporting": 33,
             "precincts": 40,
             "absentee_method": "Merged into voters' home precincts AFTER election night",
-            "eevp": 83,
+            "eevp": 98,
             "tot_exp_vote": 36412,
-            "eevp_value": "83%",
-            "eevp_display": "83% reported",
+            "eevp_value": "98%",
+            "eevp_display": "98% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "unknown",
@@ -18325,22 +18337,24 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "van_de_waterk": 16060,
-              "delgadoa": 13620,
-              "alexanderv": 444,
-              "greenfields": 218
+              "delgadoa": 17525,
+              "van_de_waterk": 17350,
+              "alexanderv": 526,
+              "greenfields": 280,
+              "write-ins": 54
             },
             "results_absentee": {
-              "van_de_waterk": 0,
               "delgadoa": 0,
+              "van_de_waterk": 0,
               "alexanderv": 0,
-              "greenfields": 0
+              "greenfields": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-16T15:48:22Z",
-            "leader_margin_value": 8.04166,
-            "leader_margin_display": "R+8",
-            "leader_margin_name_display": "Van De Water +8",
-            "leader_party_id": "republican"
+            "last_updated": "2020-11-18T23:03:09Z",
+            "leader_margin_value": 0.48972,
+            "leader_margin_display": "D+0.49",
+            "leader_margin_name_display": "Delgado +0.49",
+            "leader_party_id": "democrat"
           },
           {
             "fips": "36095",
@@ -18466,21 +18480,21 @@
             "overrideText": null
           },
           "eevp": {
-            "sentence": "83% of the estimated vote total has been reported.",
-            "timestamp": 1605303695683,
+            "sentence": "85% of the estimated vote total has been reported.",
+            "timestamp": 1605740620987,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "83% of the estimated vote total has been reported.",
+            "generatedText": "85% of the estimated vote total has been reported.",
             "sentence_type": "has_eevp"
           },
           "eevp_leadin": {
-            "sentence": "We just received 2,896 additional votes from New York. Delgado is currently up by 14,264 votes.",
-            "timestamp": 1605552404654,
+            "sentence": "We just received 5,393 additional votes from New York. Delgado is currently up by 16,879 votes.",
+            "timestamp": 1605740620987,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received 2,896 additional votes from New York. Delgado is currently up by 14,264 votes.",
+            "generatedText": "We just received 5,393 additional votes from New York. Delgado is currently up by 16,879 votes.",
             "sentence_type": "additional_votes_reported"
           }
         },
@@ -18982,6 +18996,19 @@
             "eevp": 83,
             "eevp_source": "edison",
             "timestamp": "2020-11-16T18:45:11Z"
+          },
+          {
+            "vote_shares": {
+              "delgadoa": 0.515,
+              "van_de_waterk": 0.459,
+              "alexanderv": 0.012,
+              "greenfields": 0.007,
+              "write-ins": 0.006
+            },
+            "votes": 301581,
+            "eevp": 85,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-18T23:01:40Z"
           }
         ]
       },
@@ -19014,7 +19041,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 286634,
+        "votes": 295011,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": "unknown",
@@ -19031,15 +19058,15 @@
         "precincts_total": 558,
         "reporting_display": "80% reporting",
         "reporting_value": "80%",
-        "eevp": 80,
+        "eevp": 82,
         "tot_exp_vote": 358000,
         "eevp_source": "edison",
-        "eevp_value": "80%",
-        "eevp_display": "80% reported",
+        "eevp_value": "82%",
+        "eevp_display": "82% reported",
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:17:52Z",
+        "last_updated": "2020-11-18T23:03:09Z",
         "candidates": [
           {
             "candidate_id": "tonko-57037-33-h",
@@ -19052,9 +19079,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 162189,
-            "percent": 56.6,
-            "percent_display": "56.6",
+            "votes": 168909,
+            "percent": 57.3,
+            "percent_display": "57.3",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -19073,9 +19100,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 124349,
-            "percent": 43.4,
-            "percent_display": "43.4",
+            "votes": 125991,
+            "percent": 42.7,
+            "percent_display": "42.7",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -19094,7 +19121,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 96,
+            "votes": 111,
             "percent": 0,
             "percent_display": "<0.1",
             "electoral_votes": 0,
@@ -19106,10 +19133,10 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 13.2015,
-        "leader_margin_votes": 37840,
-        "leader_margin_display": "D+13",
-        "leader_margin_name_display": "Tonko +13",
+        "leader_margin_value": 14.54793,
+        "leader_margin_votes": 42918,
+        "leader_margin_display": "D+15",
+        "leader_margin_name_display": "Tonko +15",
         "leader_party_id": "democrat",
         "counties": [
           {
@@ -19185,15 +19212,15 @@
           {
             "fips": "36083",
             "name": "Rensselaer",
-            "votes": 33076,
+            "votes": 41453,
             "absentee_votes": 0,
             "reporting": 37,
             "precincts": 47,
             "absentee_method": "Merged into voters' home precincts AFTER election night",
-            "eevp": 79,
+            "eevp": 99,
             "tot_exp_vote": 41732,
-            "eevp_value": "79%",
-            "eevp_display": "79% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "unknown",
@@ -19202,17 +19229,19 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "tonkop": 18849,
-              "joye": 14227
+              "tonkop": 25569,
+              "joye": 15869,
+              "write-ins": 15
             },
             "results_absentee": {
               "tonkop": 0,
-              "joye": 0
+              "joye": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-16T15:48:24Z",
-            "leader_margin_value": 13.97388,
-            "leader_margin_display": "D+14",
-            "leader_margin_name_display": "Tonko +14",
+            "last_updated": "2020-11-18T23:03:09Z",
+            "leader_margin_value": 23.4,
+            "leader_margin_display": "D+23",
+            "leader_margin_name_display": "Tonko +23",
             "leader_party_id": "democrat"
           },
           {
@@ -19299,21 +19328,21 @@
             "sentence_type": "race_won"
           },
           "eevp": {
-            "sentence": "80% of the estimated vote total has been reported.",
-            "timestamp": 1604463800116,
+            "sentence": "82% of the estimated vote total has been reported.",
+            "timestamp": 1605740741734,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "80% of the estimated vote total has been reported.",
+            "generatedText": "82% of the estimated vote total has been reported.",
             "sentence_type": "has_eevp"
           },
           "eevp_leadin": {
-            "sentence": "We just received 606 additional votes from New York.",
-            "timestamp": 1604502331269,
+            "sentence": "",
+            "timestamp": 1605740741734,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received 606 additional votes from New York.",
+            "generatedText": "",
             "sentence_type": "additional_votes_reported"
           }
         },
@@ -19565,6 +19594,17 @@
             "eevp": 80,
             "eevp_source": "edison",
             "timestamp": "2020-11-04T15:05:05Z"
+          },
+          {
+            "vote_shares": {
+              "tonkop": 0.573,
+              "joye": 0.427,
+              "write-ins": 0
+            },
+            "votes": 295011,
+            "eevp": 82,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-18T23:03:09Z"
           }
         ]
       },
@@ -46494,7 +46534,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 219,
-            "votes": 75181379,
+            "votes": 75192600,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -46511,7 +46551,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 71946677,
+            "votes": 71950984,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -46528,7 +46568,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2063408,
+            "votes": 2063734,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -46556,7 +46596,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79318845,
+            "votes": 79334013,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -46573,7 +46613,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73490717,
+            "votes": 73495635,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -46590,7 +46630,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2829862,
+            "votes": 2830498,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -59876,7 +59916,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3908816,
+          "votes": 3919335,
           "percent": 56.4,
           "percent_display": "56.4",
           "electoral_votes": 29,
@@ -61491,7 +61531,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3405165,
+          "votes": 3409814,
           "percent": 57.3,
           "percent_display": "57.3",
           "electoral_votes": 20,
@@ -62998,8 +63038,8 @@
     ]
   },
   "meta": {
-    "version": 19608,
+    "version": 19619,
     "track": "2020-11-03",
-    "timestamp": "2020-11-18T22:56:10.986Z"
+    "timestamp": "2020-11-18T23:09:48.639Z"
   }
 }
