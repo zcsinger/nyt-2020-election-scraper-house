@@ -29815,7 +29815,7 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
@@ -29845,7 +29845,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-18T15:04:05.417Z",
+        "last_updated": "2020-11-18T23:23:44.057Z",
         "candidates": [
           {
             "candidate_id": "may-54262",
@@ -29857,7 +29857,7 @@
             "party_id": "democrat",
             "incumbent": true,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 65624,
             "percent": 54.5,
             "percent_display": "54.5",
@@ -63038,8 +63038,8 @@
     ]
   },
   "meta": {
-    "version": 19625,
+    "version": 19627,
     "track": "2020-11-03",
-    "timestamp": "2020-11-18T23:22:49.295Z"
+    "timestamp": "2020-11-18T23:25:28.148Z"
   }
 }
