@@ -50,14 +50,14 @@
         "reporting_display": "99% reporting",
         "reporting_value": "99%",
         "eevp": 99,
-        "tot_exp_vote": 17200000,
+        "tot_exp_vote": 17400000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
         "eevp_display": ">98% reported",
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T23:40:55Z",
+        "last_updated": "2020-11-17T23:59:10Z",
         "candidates": [
           {
             "candidate_id": "biden-1036",
@@ -31186,7 +31186,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 384299,
+        "votes": 385150,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -31199,10 +31199,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 512,
+        "precincts_reporting": 514,
         "precincts_total": 580,
-        "reporting_display": "88% reporting",
-        "reporting_value": "88%",
+        "reporting_display": "89% reporting",
+        "reporting_value": "89%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -31212,7 +31212,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:08:03.723Z",
+        "last_updated": "2020-11-18T00:06:32.477Z",
         "candidates": [
           {
             "candidate_id": "wilk-11985",
@@ -31225,7 +31225,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 195273,
+            "votes": 195670,
             "percent": 50.8,
             "percent_display": "50.8",
             "electoral_votes": 0,
@@ -31246,7 +31246,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 189026,
+            "votes": 189480,
             "percent": 49.2,
             "percent_display": "49.2",
             "electoral_votes": 0,
@@ -31292,7 +31292,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 405723,
+        "votes": 407504,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -31305,10 +31305,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 1004,
+        "precincts_reporting": 1010,
         "precincts_total": 1153,
-        "reporting_display": "87% reporting",
-        "reporting_value": "87%",
+        "reporting_display": "88% reporting",
+        "reporting_value": "88%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -31318,7 +31318,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:09:04.640Z",
+        "last_updated": "2020-11-18T00:06:32.477Z",
         "candidates": [
           {
             "candidate_id": "bogh-13541",
@@ -31331,7 +31331,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 212933,
+            "votes": 213809,
             "percent": 52.5,
             "percent_display": "52.5",
             "electoral_votes": 0,
@@ -31352,7 +31352,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 192790,
+            "votes": 193695,
             "percent": 47.5,
             "percent_display": "47.5",
             "electoral_votes": 0,
@@ -31398,7 +31398,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 457628,
+        "votes": 457948,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -31411,10 +31411,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 376,
+        "precincts_reporting": 377,
         "precincts_total": 425,
-        "reporting_display": "88% reporting",
-        "reporting_value": "88%",
+        "reporting_display": "89% reporting",
+        "reporting_value": "89%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -31424,7 +31424,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:09:04.640Z",
+        "last_updated": "2020-11-18T00:07:33.323Z",
         "candidates": [
           {
             "candidate_id": "portantino-10994",
@@ -31437,7 +31437,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 292962,
+            "votes": 293139,
             "percent": 64,
             "percent_display": "64.0",
             "electoral_votes": 0,
@@ -31458,7 +31458,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 164666,
+            "votes": 164809,
             "percent": 36,
             "percent_display": "36.0",
             "electoral_votes": 0,
@@ -31610,7 +31610,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 416000,
+        "votes": 416311,
         "absentee_votes": 202858,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -31623,7 +31623,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 435,
+        "precincts_reporting": 436,
         "precincts_total": 460,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -31636,7 +31636,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:09:04.640Z",
+        "last_updated": "2020-11-18T00:07:33.323Z",
         "candidates": [
           {
             "candidate_id": "newman-12656",
@@ -31649,7 +31649,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 213346,
+            "votes": 213481,
             "percent": 51.3,
             "percent_display": "51.3",
             "electoral_votes": 0,
@@ -31670,7 +31670,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 202654,
+            "votes": 202830,
             "percent": 48.7,
             "percent_display": "48.7",
             "electoral_votes": 0,
@@ -35595,7 +35595,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 151498,
+        "votes": 152488,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -35608,7 +35608,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 662,
+        "precincts_reporting": 667,
         "precincts_total": 936,
         "reporting_display": "71% reporting",
         "reporting_value": "71%",
@@ -35621,7 +35621,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T00:15:24.940Z",
+        "last_updated": "2020-11-18T00:07:33.323Z",
         "candidates": [
           {
             "candidate_id": "smith-13579",
@@ -35634,7 +35634,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 83584,
+            "votes": 84124,
             "percent": 55.2,
             "percent_display": "55.2",
             "electoral_votes": 0,
@@ -35655,7 +35655,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 67914,
+            "votes": 68364,
             "percent": 44.8,
             "percent_display": "44.8",
             "electoral_votes": 0,
@@ -35913,7 +35913,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 181745,
+        "votes": 181794,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -35939,7 +35939,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:10:05.447Z",
+        "last_updated": "2020-11-18T00:07:33.323Z",
         "candidates": [
           {
             "candidate_id": "lackey-11980",
@@ -35952,7 +35952,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 100167,
+            "votes": 100201,
             "percent": 55.1,
             "percent_display": "55.1",
             "electoral_votes": 0,
@@ -35973,7 +35973,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 81578,
+            "votes": 81593,
             "percent": 44.9,
             "percent_display": "44.9",
             "electoral_votes": 0,
@@ -36337,7 +36337,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 184339,
+        "votes": 185653,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -36350,7 +36350,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 423,
+        "precincts_reporting": 426,
         "precincts_total": 505,
         "reporting_display": "84% reporting",
         "reporting_value": "84%",
@@ -36363,7 +36363,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T00:15:24.940Z",
+        "last_updated": "2020-11-18T00:08:34.323Z",
         "candidates": [
           {
             "candidate_id": "ramos-13210",
@@ -36376,7 +36376,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 107574,
+            "votes": 108354,
             "percent": 58.4,
             "percent_display": "58.4",
             "electoral_votes": 0,
@@ -36397,7 +36397,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 76765,
+            "votes": 77299,
             "percent": 41.6,
             "percent_display": "41.6",
             "electoral_votes": 0,
@@ -36443,7 +36443,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 243520,
+        "votes": 243913,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -36456,7 +36456,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 220,
+        "precincts_reporting": 221,
         "precincts_total": 253,
         "reporting_display": "87% reporting",
         "reporting_value": "87%",
@@ -36469,7 +36469,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:11:06.203Z",
+        "last_updated": "2020-11-18T00:08:34.323Z",
         "candidates": [
           {
             "candidate_id": "holden-11855",
@@ -36482,9 +36482,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 159141,
-            "percent": 65.4,
-            "percent_display": "65.4",
+            "votes": 159349,
+            "percent": 65.3,
+            "percent_display": "65.3",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -36503,9 +36503,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 84379,
-            "percent": 34.6,
-            "percent_display": "34.6",
+            "votes": 84564,
+            "percent": 34.7,
+            "percent_display": "34.7",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -36549,7 +36549,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 203861,
+        "votes": 204139,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -36562,10 +36562,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 352,
+        "precincts_reporting": 353,
         "precincts_total": 444,
-        "reporting_display": "79% reporting",
-        "reporting_value": "79%",
+        "reporting_display": "80% reporting",
+        "reporting_value": "80%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -36575,7 +36575,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T02:11:12.487Z",
+        "last_updated": "2020-11-18T00:08:34.323Z",
         "candidates": [
           {
             "candidate_id": "mayes-12441",
@@ -36588,9 +36588,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 113888,
-            "percent": 55.9,
-            "percent_display": "55.9",
+            "votes": 114010,
+            "percent": 55.8,
+            "percent_display": "55.8",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -36609,9 +36609,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 89973,
-            "percent": 44.1,
-            "percent_display": "44.1",
+            "votes": 90129,
+            "percent": 44.2,
+            "percent_display": "44.2",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -37079,7 +37079,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 152118,
+        "votes": 153249,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -37092,7 +37092,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 293,
+        "precincts_reporting": 295,
         "precincts_total": 338,
         "reporting_display": "87% reporting",
         "reporting_value": "87%",
@@ -37105,7 +37105,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T00:15:24.940Z",
+        "last_updated": "2020-11-18T00:08:34.323Z",
         "candidates": [
           {
             "candidate_id": "reyes-63651",
@@ -37118,7 +37118,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 105096,
+            "votes": 105867,
             "percent": 69.1,
             "percent_display": "69.1",
             "electoral_votes": 0,
@@ -37139,7 +37139,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 47022,
+            "votes": 47382,
             "percent": 30.9,
             "percent_display": "30.9",
             "electoral_votes": 0,
@@ -37567,7 +37567,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 158294,
+        "votes": 159491,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -37580,10 +37580,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 209,
+        "precincts_reporting": 211,
         "precincts_total": 234,
-        "reporting_display": "89% reporting",
-        "reporting_value": "89%",
+        "reporting_display": "90% reporting",
+        "reporting_value": "90%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -37593,7 +37593,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:13:07.800Z",
+        "last_updated": "2020-11-18T00:09:35.100Z",
         "candidates": [
           {
             "candidate_id": "rodriguez-12222",
@@ -37606,7 +37606,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 108169,
+            "votes": 108988,
             "percent": 68.3,
             "percent_display": "68.3",
             "electoral_votes": 0,
@@ -37627,7 +37627,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 50125,
+            "votes": 50503,
             "percent": 31.7,
             "percent_display": "31.7",
             "electoral_votes": 0,
@@ -37885,7 +37885,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 225912,
+        "votes": 226219,
         "absentee_votes": 78904,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -37911,7 +37911,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:13:07.800Z",
+        "last_updated": "2020-11-18T00:09:35.100Z",
         "candidates": [
           {
             "candidate_id": "chen-12231",
@@ -37924,7 +37924,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 124164,
+            "votes": 124340,
             "percent": 55,
             "percent_display": "55.0",
             "electoral_votes": 0,
@@ -37945,7 +37945,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 101748,
+            "votes": 101879,
             "percent": 45,
             "percent_display": "45.0",
             "electoral_votes": 0,
@@ -40643,7 +40643,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16516039,
+        "votes": 16522011,
         "absentee_votes": 985738,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -40668,7 +40668,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T23:37:18.687Z",
+        "last_updated": "2020-11-18T00:03:29.830Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -40680,7 +40680,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9437755,
+            "votes": 9441434,
             "percent": 57.1,
             "percent_display": "57.1",
             "electoral_votes": 0,
@@ -40700,7 +40700,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7078284,
+            "votes": 7080577,
             "percent": 42.9,
             "percent_display": "42.9",
             "electoral_votes": 0,
@@ -41731,7 +41731,7 @@
           {
             "fips": "06071",
             "name": "San Bernardino",
-            "votes": 781192,
+            "votes": 787164,
             "absentee_votes": 0,
             "reporting": 2327,
             "precincts": 2327,
@@ -41748,14 +41748,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 501413,
-              "yes": 279779
+              "no": 505092,
+              "yes": 282072
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-17T00:15:24.940Z"
+            "last_updated": "2020-11-18T00:03:29.830Z"
           },
           {
             "fips": "06073",
@@ -42434,7 +42434,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16692880,
+        "votes": 16698898,
         "absentee_votes": 993320,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -42459,7 +42459,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T23:37:18.687Z",
+        "last_updated": "2020-11-18T00:04:30.720Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -42471,7 +42471,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9778442,
+            "votes": 9781746,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -42491,7 +42491,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6914438,
+            "votes": 6917152,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -43522,7 +43522,7 @@
           {
             "fips": "06071",
             "name": "San Bernardino",
-            "votes": 787286,
+            "votes": 793304,
             "absentee_votes": 0,
             "reporting": 2327,
             "precincts": 2327,
@@ -43539,14 +43539,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 407877,
-              "no": 379409
+              "yes": 411181,
+              "no": 382123
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-17T00:15:24.940Z"
+            "last_updated": "2020-11-18T00:04:30.720Z"
           },
           {
             "fips": "06073",
@@ -44225,7 +44225,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16243377,
+        "votes": 16249196,
         "absentee_votes": 975963,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -44250,7 +44250,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T23:37:18.687Z",
+        "last_updated": "2020-11-18T00:06:32.477Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -44262,7 +44262,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9155082,
+            "votes": 9158587,
             "percent": 56.4,
             "percent_display": "56.4",
             "electoral_votes": 0,
@@ -44282,7 +44282,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7088295,
+            "votes": 7090609,
             "percent": 43.6,
             "percent_display": "43.6",
             "electoral_votes": 0,
@@ -45313,7 +45313,7 @@
           {
             "fips": "06071",
             "name": "San Bernardino",
-            "votes": 766804,
+            "votes": 772623,
             "absentee_votes": 0,
             "reporting": 2327,
             "precincts": 2327,
@@ -45330,14 +45330,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 478148,
-              "yes": 288656
+              "no": 481653,
+              "yes": 290970
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-17T00:15:24.940Z"
+            "last_updated": "2020-11-18T00:06:32.477Z"
           },
           {
             "fips": "06073",
@@ -46014,7 +46014,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16455448,
+        "votes": 16461390,
         "absentee_votes": 984314,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -46039,7 +46039,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T23:37:18.687Z",
+        "last_updated": "2020-11-18T00:03:29.830Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -46051,7 +46051,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8400824,
+            "votes": 8403954,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -46071,7 +46071,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8054624,
+            "votes": 8057436,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -47102,7 +47102,7 @@
           {
             "fips": "06071",
             "name": "San Bernardino",
-            "votes": 777701,
+            "votes": 783643,
             "absentee_votes": 0,
             "reporting": 2327,
             "precincts": 2327,
@@ -47119,14 +47119,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 376638,
-              "no": 401063
+              "yes": 379768,
+              "no": 403875
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-17T00:15:24.940Z"
+            "last_updated": "2020-11-18T00:03:29.830Z"
           },
           {
             "fips": "06073",
@@ -47803,7 +47803,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16736122,
+        "votes": 16742143,
         "absentee_votes": 998550,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -47828,7 +47828,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T23:37:18.687Z",
+        "last_updated": "2020-11-18T00:03:29.830Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -47840,7 +47840,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8701886,
+            "votes": 8705171,
             "percent": 52,
             "percent_display": "52.0",
             "electoral_votes": 0,
@@ -47860,7 +47860,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8034236,
+            "votes": 8036972,
             "percent": 48,
             "percent_display": "48.0",
             "electoral_votes": 0,
@@ -48891,7 +48891,7 @@
           {
             "fips": "06071",
             "name": "San Bernardino",
-            "votes": 788268,
+            "votes": 794289,
             "absentee_votes": 0,
             "reporting": 2327,
             "precincts": 2327,
@@ -48908,14 +48908,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 468373,
-              "yes": 319895
+              "no": 471658,
+              "yes": 322631
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-17T00:15:24.940Z"
+            "last_updated": "2020-11-18T00:03:29.830Z"
           },
           {
             "fips": "06073",
@@ -49594,7 +49594,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16729543,
+        "votes": 16735604,
         "absentee_votes": 994775,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -49619,7 +49619,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T23:37:18.687Z",
+        "last_updated": "2020-11-18T00:04:30.720Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -49631,7 +49631,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9366122,
+            "votes": 9369799,
             "percent": 56,
             "percent_display": "56.0",
             "electoral_votes": 0,
@@ -49651,7 +49651,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7363421,
+            "votes": 7365805,
             "percent": 44,
             "percent_display": "44.0",
             "electoral_votes": 0,
@@ -50682,7 +50682,7 @@
           {
             "fips": "06071",
             "name": "San Bernardino",
-            "votes": 792235,
+            "votes": 798296,
             "absentee_votes": 0,
             "reporting": 2327,
             "precincts": 2327,
@@ -50699,14 +50699,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 501067,
-              "yes": 291168
+              "no": 504744,
+              "yes": 293552
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-17T00:15:24.940Z"
+            "last_updated": "2020-11-18T00:04:30.720Z"
           },
           {
             "fips": "06073",
@@ -51383,7 +51383,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16367877,
+        "votes": 16373780,
         "absentee_votes": 978441,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -51408,7 +51408,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T23:37:18.687Z",
+        "last_updated": "2020-11-18T00:04:30.720Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -51420,7 +51420,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8358862,
+            "votes": 8361903,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -51440,7 +51440,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8009015,
+            "votes": 8011877,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -52471,7 +52471,7 @@
           {
             "fips": "06071",
             "name": "San Bernardino",
-            "votes": 777907,
+            "votes": 783810,
             "absentee_votes": 0,
             "reporting": 2327,
             "precincts": 2327,
@@ -52488,14 +52488,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 390037,
-              "no": 387870
+              "yes": 393078,
+              "no": 390732
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-17T00:15:24.940Z"
+            "last_updated": "2020-11-18T00:04:30.720Z"
           },
           {
             "fips": "06073",
@@ -53172,7 +53172,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16326018,
+        "votes": 16331964,
         "absentee_votes": 975847,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -53197,7 +53197,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T23:37:18.687Z",
+        "last_updated": "2020-11-18T00:21:39.977Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -53209,7 +53209,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10086516,
+            "votes": 10090023,
             "percent": 61.8,
             "percent_display": "61.8",
             "electoral_votes": 0,
@@ -53229,7 +53229,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6239502,
+            "votes": 6241941,
             "percent": 38.2,
             "percent_display": "38.2",
             "electoral_votes": 0,
@@ -54260,7 +54260,7 @@
           {
             "fips": "06071",
             "name": "San Bernardino",
-            "votes": 778664,
+            "votes": 784610,
             "absentee_votes": 0,
             "reporting": 2327,
             "precincts": 2327,
@@ -54277,14 +54277,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 443387,
-              "yes": 335277
+              "no": 446894,
+              "yes": 337716
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-17T00:15:24.940Z"
+            "last_updated": "2020-11-18T00:21:39.977Z"
           },
           {
             "fips": "06073",
@@ -54963,7 +54963,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16509944,
+        "votes": 16515918,
         "absentee_votes": 986242,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -54988,7 +54988,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T23:37:18.687Z",
+        "last_updated": "2020-11-18T00:05:31.610Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -55000,7 +55000,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9879608,
+            "votes": 9883168,
             "percent": 59.8,
             "percent_display": "59.8",
             "electoral_votes": 0,
@@ -55020,7 +55020,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6630336,
+            "votes": 6632750,
             "percent": 40.2,
             "percent_display": "40.2",
             "electoral_votes": 0,
@@ -56051,7 +56051,7 @@
           {
             "fips": "06071",
             "name": "San Bernardino",
-            "votes": 783221,
+            "votes": 789195,
             "absentee_votes": 0,
             "reporting": 2327,
             "precincts": 2327,
@@ -56068,14 +56068,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 510340,
-              "yes": 272881
+              "no": 513900,
+              "yes": 275295
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-17T00:15:24.940Z"
+            "last_updated": "2020-11-18T00:05:31.610Z"
           },
           {
             "fips": "06073",
@@ -56754,7 +56754,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16626483,
+        "votes": 16632489,
         "absentee_votes": 992295,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -56779,7 +56779,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T23:37:18.687Z",
+        "last_updated": "2020-11-18T00:05:31.610Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -56791,7 +56791,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9749588,
+            "votes": 9753288,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -56811,7 +56811,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6876895,
+            "votes": 6879201,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -57842,7 +57842,7 @@
           {
             "fips": "06071",
             "name": "San Bernardino",
-            "votes": 788183,
+            "votes": 794189,
             "absentee_votes": 0,
             "reporting": 2327,
             "precincts": 2327,
@@ -57859,14 +57859,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 503793,
-              "no": 284390
+              "yes": 507493,
+              "no": 286696
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-17T00:15:24.940Z"
+            "last_updated": "2020-11-18T00:05:31.610Z"
           },
           {
             "fips": "06073",
@@ -58543,7 +58543,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16487244,
+        "votes": 16493227,
         "absentee_votes": 984773,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -58568,7 +58568,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T23:37:18.687Z",
+        "last_updated": "2020-11-18T00:05:31.610Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -58580,7 +58580,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10477752,
+            "votes": 10481472,
             "percent": 63.6,
             "percent_display": "63.6",
             "electoral_votes": 0,
@@ -58600,7 +58600,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6009492,
+            "votes": 6011755,
             "percent": 36.4,
             "percent_display": "36.4",
             "electoral_votes": 0,
@@ -59631,7 +59631,7 @@
           {
             "fips": "06071",
             "name": "San Bernardino",
-            "votes": 787014,
+            "votes": 792997,
             "absentee_votes": 0,
             "reporting": 2327,
             "precincts": 2327,
@@ -59648,14 +59648,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 525909,
-              "yes": 261105
+              "no": 529629,
+              "yes": 263368
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-17T00:15:24.940Z"
+            "last_updated": "2020-11-18T00:05:31.610Z"
           },
           {
             "fips": "06073",
@@ -60332,7 +60332,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16338907,
+        "votes": 16344782,
         "absentee_votes": 979988,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -60357,7 +60357,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T23:37:18.687Z",
+        "last_updated": "2020-11-18T00:05:31.610Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -60369,7 +60369,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9175969,
+            "votes": 9179482,
             "percent": 56.2,
             "percent_display": "56.2",
             "electoral_votes": 0,
@@ -60389,7 +60389,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7162938,
+            "votes": 7165300,
             "percent": 43.8,
             "percent_display": "43.8",
             "electoral_votes": 0,
@@ -61420,7 +61420,7 @@
           {
             "fips": "06071",
             "name": "San Bernardino",
-            "votes": 772381,
+            "votes": 778256,
             "absentee_votes": 0,
             "reporting": 2327,
             "precincts": 2327,
@@ -61437,14 +61437,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 445580,
-              "no": 326801
+              "yes": 449093,
+              "no": 329163
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-17T00:15:24.940Z"
+            "last_updated": "2020-11-18T00:05:31.610Z"
           },
           {
             "fips": "06073",
@@ -62105,7 +62105,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 218,
-            "votes": 74916173,
+            "votes": 74916266,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -62122,7 +62122,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 204,
-            "votes": 71811364,
+            "votes": 71811694,
             "percent": "48.3",
             "change": 8,
             "flip_count": 11,
@@ -62139,7 +62139,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2052616,
+            "votes": 2052623,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -62167,7 +62167,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79036386,
+            "votes": 79036561,
             "percent": "50.9",
             "change": 0,
             "flip_count": 0,
@@ -62184,7 +62184,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73343093,
+            "votes": 73343487,
             "percent": "47.3",
             "change": 0,
             "flip_count": 0,
@@ -62201,7 +62201,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2815158,
+            "votes": 2815187,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -62250,7 +62250,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 43867053,
+            "votes": 43867058,
             "percent": "49.6",
             "change": -1,
             "flip_count": 1,
@@ -73333,9 +73333,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 864657,
-          "percent": 58.1,
-          "percent_display": "58.1",
+          "votes": 865015,
+          "percent": 58.2,
+          "percent_display": "58.2",
           "electoral_votes": 6,
           "absentee_votes": 306506,
           "absentee_percent": 48,
@@ -73442,7 +73442,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2286365,
+          "votes": 2286392,
           "percent": 56.8,
           "percent_display": "56.8",
           "electoral_votes": 0,
@@ -73579,7 +73579,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2360914,
+          "votes": 2360939,
           "percent": 58.4,
           "percent_display": "58.4",
           "electoral_votes": 12,
@@ -74409,7 +74409,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 917564,
+          "votes": 917903,
           "percent": 63.7,
           "percent_display": "63.7",
           "electoral_votes": 0,
@@ -76009,7 +76009,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 759542,
+          "votes": 759546,
           "percent": 62.4,
           "percent_display": "62.4",
           "electoral_votes": 6,
@@ -76050,7 +76050,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 792670,
+          "votes": 792675,
           "percent": 66.5,
           "percent_display": "66.5",
           "electoral_votes": 0,
@@ -78609,8 +78609,8 @@
     ]
   },
   "meta": {
-    "version": 18996,
+    "version": 19024,
     "track": "2020-11-03",
-    "timestamp": "2020-11-17T23:54:17.306Z"
+    "timestamp": "2020-11-18T00:32:01.740Z"
   }
 }
