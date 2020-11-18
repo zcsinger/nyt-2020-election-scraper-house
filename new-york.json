@@ -29805,7 +29805,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 116898,
+        "votes": 123986,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -29818,10 +29818,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T02:00:00.000Z",
         "poll_time_short": "9 p.m.",
-        "precincts_reporting": 184,
+        "precincts_reporting": 227,
         "precincts_total": 227,
-        "reporting_display": "81% reporting",
-        "reporting_value": "81%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -29831,7 +29831,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-18T15:04:05.417Z",
+        "last_updated": "2020-11-18T15:38:46.320Z",
         "candidates": [
           {
             "candidate_id": "helming-53780",
@@ -29844,9 +29844,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 79545,
-            "percent": 68,
-            "percent_display": "68.0",
+            "votes": 82654,
+            "percent": 66.7,
+            "percent_display": "66.7",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -29865,9 +29865,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 37353,
-            "percent": 32,
-            "percent_display": "32.0",
+            "votes": 41332,
+            "percent": 33.3,
+            "percent_display": "33.3",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -62898,8 +62898,8 @@
     ]
   },
   "meta": {
-    "version": 19228,
+    "version": 19231,
     "track": "2020-11-03",
-    "timestamp": "2020-11-18T15:29:12.317Z"
+    "timestamp": "2020-11-18T15:39:52.307Z"
   }
 }
