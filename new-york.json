@@ -21063,7 +21063,7 @@
               "pricek": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-18T17:34:41Z",
+            "last_updated": "2020-11-19T14:50:32Z",
             "leader_margin_value": 39.00466,
             "leader_margin_display": "R+39",
             "leader_margin_name_display": "Tenney +39",
@@ -21618,7 +21618,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 272849,
+        "votes": 272851,
         "absentee_votes": 2999,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -21643,7 +21643,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:17:50Z",
+        "last_updated": "2020-11-19T14:57:02Z",
         "candidates": [
           {
             "candidate_id": "reed-20072692-33-h",
@@ -21656,7 +21656,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 167647,
+            "votes": 167648,
             "percent": 61.4,
             "percent_display": "61.4",
             "electoral_votes": 0,
@@ -21677,7 +21677,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 102036,
+            "votes": 102037,
             "percent": 37.4,
             "percent_display": "37.4",
             "electoral_votes": 0,
@@ -21731,7 +21731,7 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 24.04663,
+        "leader_margin_value": 24.04646,
         "leader_margin_votes": 65611,
         "leader_margin_display": "R+24",
         "leader_margin_name_display": "Reed +24",
@@ -22096,7 +22096,7 @@
           {
             "fips": "36123",
             "name": "Yates",
-            "votes": 10432,
+            "votes": 10434,
             "absentee_votes": 0,
             "reporting": 18,
             "precincts": 18,
@@ -22113,8 +22113,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "reedt": 6418,
-              "mitranot": 3942,
+              "reedt": 6419,
+              "mitranot": 3943,
               "kolsteea": 69,
               "write-ins": 3
             },
@@ -22124,8 +22124,8 @@
               "kolsteea": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-16T15:48:02Z",
-            "leader_margin_value": 23.73466,
+            "last_updated": "2020-11-19T14:57:00Z",
+            "leader_margin_value": 23.73011,
             "leader_margin_display": "R+24",
             "leader_margin_name_display": "Reed +24",
             "leader_party_id": "republican"
@@ -22649,6 +22649,18 @@
             "eevp": 85,
             "eevp_source": "edison",
             "timestamp": "2020-11-18T16:33:07Z"
+          },
+          {
+            "vote_shares": {
+              "reedt": 0.614,
+              "mitranot": 0.374,
+              "kolsteea": 0.011,
+              "write-ins": 0
+            },
+            "votes": 272851,
+            "eevp": 85,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-19T14:57:02Z"
           }
         ]
       },
@@ -22905,7 +22917,7 @@
               "balterd": 0,
               "williamss": 0
             },
-            "last_updated": "2020-11-18T17:34:43Z",
+            "last_updated": "2020-11-19T14:50:32Z",
             "leader_margin_value": 37.19624,
             "leader_margin_display": "R+37",
             "leader_margin_name_display": "Katko +37",
@@ -46619,7 +46631,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 221,
-            "votes": 75288237,
+            "votes": 75291689,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -46636,7 +46648,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72000725,
+            "votes": 72003868,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -46653,7 +46665,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2064924,
+            "votes": 2064952,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -46681,7 +46693,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79460752,
+            "votes": 79460356,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -46698,7 +46710,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73555319,
+            "votes": 73555360,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -46715,7 +46727,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2832033,
+            "votes": 2832184,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -58464,7 +58476,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 1713153,
+          "votes": 1713554,
           "percent": 57.2,
           "percent_display": "57.2",
           "electoral_votes": 0,
@@ -62115,7 +62127,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2413973,
+          "votes": 2413577,
           "percent": 54.2,
           "percent_display": "54.2",
           "electoral_votes": 13,
@@ -63163,8 +63175,8 @@
     ]
   },
   "meta": {
-    "version": 19784,
+    "version": 19791,
     "track": "2020-11-03",
-    "timestamp": "2020-11-19T14:51:33.685Z"
+    "timestamp": "2020-11-19T14:59:12.050Z"
   }
 }
