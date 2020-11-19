@@ -21630,7 +21630,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 272851,
+        "votes": 272899,
         "absentee_votes": 2999,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -21655,7 +21655,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-19T14:57:02Z",
+        "last_updated": "2020-11-19T15:28:12Z",
         "candidates": [
           {
             "candidate_id": "reed-20072692-33-h",
@@ -21668,7 +21668,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 167648,
+            "votes": 167653,
             "percent": 61.4,
             "percent_display": "61.4",
             "electoral_votes": 0,
@@ -21689,7 +21689,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 102037,
+            "votes": 102041,
             "percent": 37.4,
             "percent_display": "37.4",
             "electoral_votes": 0,
@@ -21710,7 +21710,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 3126,
+            "votes": 3127,
             "percent": 1.1,
             "percent_display": "1.1",
             "electoral_votes": 0,
@@ -21731,7 +21731,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 40,
+            "votes": 78,
             "percent": 0,
             "percent_display": "<0.1",
             "electoral_votes": 0,
@@ -21743,8 +21743,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 24.04646,
-        "leader_margin_votes": 65611,
+        "leader_margin_value": 24.04259,
+        "leader_margin_votes": 65612,
         "leader_margin_display": "R+24",
         "leader_margin_name_display": "Reed +24",
         "leader_party_id": "republican",
@@ -22073,15 +22073,15 @@
           {
             "fips": "36109",
             "name": "Tompkins",
-            "votes": 32390,
+            "votes": 32438,
             "absentee_votes": 0,
             "reporting": 44,
             "precincts": 63,
             "absentee_method": "Merged into voters' home precincts AFTER election night",
-            "eevp": 69,
+            "eevp": 70,
             "tot_exp_vote": 46658,
-            "eevp_value": "69%",
-            "eevp_display": "69% reported",
+            "eevp_value": "70%",
+            "eevp_display": "70% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "unknown",
@@ -22090,17 +22090,19 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "reedt": 10036,
-              "mitranot": 21964,
-              "kolsteea": 390
+              "reedt": 10041,
+              "mitranot": 21968,
+              "kolsteea": 391,
+              "write-ins": 38
             },
             "results_absentee": {
               "reedt": 0,
               "mitranot": 0,
-              "kolsteea": 0
+              "kolsteea": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-16T15:48:01Z",
-            "leader_margin_value": 36.82618,
+            "last_updated": "2020-11-19T15:28:07Z",
+            "leader_margin_value": 36.7686,
             "leader_margin_display": "D+37",
             "leader_margin_name_display": "Mitrano +37",
             "leader_party_id": "democrat"
@@ -22673,6 +22675,18 @@
             "eevp": 85,
             "eevp_source": "edison",
             "timestamp": "2020-11-19T14:57:02Z"
+          },
+          {
+            "vote_shares": {
+              "reedt": 0.614,
+              "mitranot": 0.374,
+              "kolsteea": 0.011,
+              "write-ins": 0
+            },
+            "votes": 272899,
+            "eevp": 85,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-19T15:28:12Z"
           }
         ]
       },
@@ -23925,7 +23939,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 322021,
+        "votes": 322023,
         "absentee_votes": 67000,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -23950,7 +23964,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:17:53Z",
+        "last_updated": "2020-11-19T15:30:21Z",
         "candidates": [
           {
             "candidate_id": "jacobs-20073527-33-h",
@@ -24026,7 +24040,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7,
+            "votes": 9,
             "percent": 0,
             "percent_display": "<0.1",
             "electoral_votes": 0,
@@ -24038,7 +24052,7 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 29.65552,
+        "leader_margin_value": 29.65534,
         "leader_margin_votes": 95497,
         "leader_margin_display": "R+30",
         "leader_margin_name_display": "Jacobs +30",
@@ -24259,7 +24273,7 @@
           {
             "fips": "36073",
             "name": "Orleans",
-            "votes": 14764,
+            "votes": 14766,
             "absentee_votes": 0,
             "reporting": 33,
             "precincts": 40,
@@ -24270,7 +24284,7 @@
             "eevp_display": "82% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
-            "absentee_count_progress": "unknown",
+            "absentee_count_progress": "some",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
             "provisional_outstanding": null,
@@ -24278,15 +24292,17 @@
             "results": {
               "jacobsc": 10687,
               "mcmurrayn": 3843,
-              "whitmerd": 234
+              "whitmerd": 234,
+              "write-ins": 2
             },
             "results_absentee": {
               "jacobsc": 0,
               "mcmurrayn": 0,
-              "whitmerd": 0
+              "whitmerd": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-16T15:48:13Z",
-            "leader_margin_value": 46.356,
+            "last_updated": "2020-11-19T15:30:19Z",
+            "leader_margin_value": 46.34972,
             "leader_margin_display": "R+46",
             "leader_margin_name_display": "Jacobs +46",
             "leader_party_id": "republican"
@@ -24372,11 +24388,335 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
+            "additional_votes_reported": true,
             "additional_precincts_reported": false,
-            "has_eevp": true
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": false,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 0,
+            "prev_eevp": 84,
+            "num_additional_votes": 2,
+            "prev_votes": 322021,
+            "num_additional_precincts": 0,
+            "prev_precincts": 571,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 0,
+            "prev_precinct_percentage_points": 84,
+            "lead_margin_change_votes": 0,
+            "lead_margin_change_percentage_points": 0,
+            "previous_leading_candidate": {
+              "candidate_id": "jacobs-20073527-33-h",
+              "candidate_key": "jacobsc",
+              "first_name": "Chris",
+              "last_name": "Jacobs",
+              "order": 2,
+              "name_display": "Chris Jacobs",
+              "party_id": "republican",
+              "incumbent": true,
+              "runoff": false,
+              "winner": true,
+              "votes": 206671,
+              "percent": 64.2,
+              "percent_display": "64.2",
+              "electoral_votes": 0,
+              "absentee_votes": 34983,
+              "absentee_percent": 52.2,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/jacobs-20073527-33-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "previous_second_candidate": {
+              "candidate_id": "mcmurray-20356-33-h",
+              "candidate_key": "mcmurrayn",
+              "first_name": "Nate",
+              "last_name": "McMurray",
+              "order": 1,
+              "name_display": "Nate McMurray",
+              "party_id": "democrat",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 111174,
+              "percent": 34.5,
+              "percent_display": "34.5",
+              "electoral_votes": 0,
+              "absentee_votes": 31428,
+              "absentee_percent": 46.9,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/mcmurray-20356-33-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "jacobs-20073527-33-h",
+                "num_additional_votes": 0,
+                "prev_votes": 206671,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 64.2
+              },
+              {
+                "candidate_id": "mcmurray-20356-33-h",
+                "num_additional_votes": 0,
+                "prev_votes": 111174,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 34.5
+              },
+              {
+                "candidate_id": "whitmer-20073672-33-h",
+                "num_additional_votes": 0,
+                "prev_votes": 4169,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 1.3
+              },
+              {
+                "candidate_id": "write-ins-21303-33-h",
+                "num_additional_votes": 2,
+                "prev_votes": 7,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [],
+            "change_by_county": [
+              {
+                "name": "Erie",
+                "fips": "36029",
+                "num_additional_votes": 0,
+                "prev_votes": 140402,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 295,
+                "prev_eevp": 85,
+                "candidate_changes": {
+                  "jacobsc": {
+                    "prev_votes": 87856,
+                    "num_additional_votes": 0
+                  },
+                  "mcmurrayn": {
+                    "prev_votes": 50908,
+                    "num_additional_votes": 0
+                  },
+                  "whitmerd": {
+                    "prev_votes": 1638,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Genesee",
+                "fips": "36037",
+                "num_additional_votes": 0,
+                "prev_votes": 24103,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 52,
+                "prev_eevp": 83,
+                "candidate_changes": {
+                  "jacobsc": {
+                    "prev_votes": 17126,
+                    "num_additional_votes": 0
+                  },
+                  "mcmurrayn": {
+                    "prev_votes": 6497,
+                    "num_additional_votes": 0
+                  },
+                  "whitmerd": {
+                    "prev_votes": 480,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Livingston",
+                "fips": "36051",
+                "num_additional_votes": 0,
+                "prev_votes": 25409,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 40,
+                "prev_eevp": 77,
+                "candidate_changes": {
+                  "jacobsc": {
+                    "prev_votes": 16397,
+                    "num_additional_votes": 0
+                  },
+                  "mcmurrayn": {
+                    "prev_votes": 8668,
+                    "num_additional_votes": 0
+                  },
+                  "whitmerd": {
+                    "prev_votes": 344,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Monroe",
+                "fips": "36055",
+                "num_additional_votes": 0,
+                "prev_votes": 11969,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 34,
+                "prev_eevp": 76,
+                "candidate_changes": {
+                  "jacobsc": {
+                    "prev_votes": 7418,
+                    "num_additional_votes": 0
+                  },
+                  "mcmurrayn": {
+                    "prev_votes": 4385,
+                    "num_additional_votes": 0
+                  },
+                  "whitmerd": {
+                    "prev_votes": 165,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 1,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Niagara",
+                "fips": "36063",
+                "num_additional_votes": 0,
+                "prev_votes": 56951,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 120,
+                "prev_eevp": 84,
+                "candidate_changes": {
+                  "jacobsc": {
+                    "prev_votes": 36473,
+                    "num_additional_votes": 0
+                  },
+                  "mcmurrayn": {
+                    "prev_votes": 19772,
+                    "num_additional_votes": 0
+                  },
+                  "whitmerd": {
+                    "prev_votes": 706,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Ontario",
+                "fips": "36069",
+                "num_additional_votes": 0,
+                "prev_votes": 29381,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 59,
+                "prev_eevp": 80,
+                "candidate_changes": {
+                  "jacobsc": {
+                    "prev_votes": 16836,
+                    "num_additional_votes": 0
+                  },
+                  "mcmurrayn": {
+                    "prev_votes": 12206,
+                    "num_additional_votes": 0
+                  },
+                  "whitmerd": {
+                    "prev_votes": 339,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Orleans",
+                "fips": "36073",
+                "num_additional_votes": 2,
+                "prev_votes": 14764,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 40,
+                "prev_eevp": 82,
+                "candidate_changes": {
+                  "jacobsc": {
+                    "prev_votes": 10687,
+                    "num_additional_votes": 0
+                  },
+                  "mcmurrayn": {
+                    "prev_votes": 3843,
+                    "num_additional_votes": 0
+                  },
+                  "whitmerd": {
+                    "prev_votes": 234,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "num_additional_votes": null
+                  }
+                }
+              },
+              {
+                "name": "Wyoming",
+                "fips": "36121",
+                "num_additional_votes": 0,
+                "prev_votes": 19042,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 40,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "jacobsc": {
+                    "prev_votes": 13878,
+                    "num_additional_votes": 0
+                  },
+                  "mcmurrayn": {
+                    "prev_votes": 4895,
+                    "num_additional_votes": 0
+                  },
+                  "whitmerd": {
+                    "prev_votes": 263,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 6,
+                    "num_additional_votes": 0
+                  }
+                }
+              }
+            ]
+          }
         },
         "winnerCalledTimestamp": 1604479781813,
         "timeseries": [
@@ -24619,6 +24959,18 @@
             "eevp": 84,
             "eevp_source": "edison",
             "timestamp": "2020-11-16T18:54:45Z"
+          },
+          {
+            "vote_shares": {
+              "jacobsc": 0.642,
+              "mcmurrayn": 0.345,
+              "whitmerd": 0.013,
+              "write-ins": 0
+            },
+            "votes": 322023,
+            "eevp": 84,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-19T15:30:21Z"
           }
         ]
       },
@@ -46657,7 +47009,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 221,
-            "votes": 75299319,
+            "votes": 75299905,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -46674,7 +47026,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72007898,
+            "votes": 72008684,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -46691,7 +47043,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2065401,
+            "votes": 2065442,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -46736,7 +47088,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73556277,
+            "votes": 73556279,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -63201,8 +63553,8 @@
     ]
   },
   "meta": {
-    "version": 19802,
+    "version": 19810,
     "track": "2020-11-03",
-    "timestamp": "2020-11-19T15:18:30.938Z"
+    "timestamp": "2020-11-19T15:32:50.680Z"
   }
 }
