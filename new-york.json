@@ -20623,7 +20623,7 @@
         "result_source": null,
         "gain": false,
         "lost_seat": "",
-        "votes": 269122,
+        "votes": 269154,
         "absentee_votes": 12080,
         "absentee_counties": 3,
         "absentee_count_progress": "unknown",
@@ -20648,7 +20648,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:34:41Z",
+        "last_updated": "2020-11-19T02:32:53Z",
         "candidates": [
           {
             "candidate_id": "tenney-63809-33-h",
@@ -20724,7 +20724,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 77,
+            "votes": 109,
             "percent": 0,
             "percent_display": "<0.1",
             "electoral_votes": 0,
@@ -20736,7 +20736,7 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 8.46382,
+        "leader_margin_value": 8.46281,
         "leader_margin_votes": 22778,
         "leader_margin_display": "R+8",
         "leader_margin_name_display": "Tenney +8",
@@ -20930,7 +20930,7 @@
           {
             "fips": "36065",
             "name": "Oneida",
-            "votes": 83380,
+            "votes": 83412,
             "absentee_votes": 0,
             "reporting": 160,
             "precincts": 192,
@@ -20941,7 +20941,7 @@
             "eevp_display": "83% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
-            "absentee_count_progress": "unknown",
+            "absentee_count_progress": "some",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
             "provisional_outstanding": null,
@@ -20949,15 +20949,17 @@
             "results": {
               "tenneyc": 45851,
               "brindisia": 36425,
-              "pricek": 1104
+              "pricek": 1104,
+              "write-ins": 32
             },
             "results_absentee": {
               "tenneyc": 0,
               "brindisia": 0,
-              "pricek": 0
+              "pricek": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-16T15:47:54Z",
-            "leader_margin_value": 11.30487,
+            "last_updated": "2020-11-19T02:32:51Z",
+            "leader_margin_value": 11.30053,
             "leader_margin_display": "R+11",
             "leader_margin_name_display": "Tenney +11",
             "leader_party_id": "republican"
@@ -21504,6 +21506,18 @@
             "eevp": 84,
             "eevp_source": "edison",
             "timestamp": "2020-11-18T17:34:41Z"
+          },
+          {
+            "vote_shares": {
+              "tenneyc": 0.531,
+              "brindisia": 0.447,
+              "pricek": 0.021,
+              "write-ins": 0
+            },
+            "votes": 269154,
+            "eevp": 84,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-19T02:32:53Z"
           }
         ]
       },
@@ -46571,7 +46585,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2064014,
+            "votes": 2064046,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -63081,8 +63095,8 @@
     ]
   },
   "meta": {
-    "version": 19702,
+    "version": 19704,
     "track": "2020-11-03",
-    "timestamp": "2020-11-19T02:22:29.883Z"
+    "timestamp": "2020-11-19T02:34:51.540Z"
   }
 }
