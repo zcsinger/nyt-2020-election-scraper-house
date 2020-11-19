@@ -9486,8 +9486,8 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
-        "result_source": "NYT",
+        "result": "winner",
+        "result_source": "AP",
         "gain": false,
         "lost_seat": "",
         "votes": 422122,
@@ -9527,7 +9527,7 @@
             "party_id": "democrat",
             "incumbent": true,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 213571,
             "percent": 50.6,
             "percent_display": "50.6",
@@ -9620,12 +9620,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "keant": 45457,
-              "malinowskit": 36043
+              "malinowskit": 36043,
+              "keant": 45457
             },
             "results_absentee": {
-              "keant": 38630,
-              "malinowskit": 32918
+              "malinowskit": 32918,
+              "keant": 38630
             },
             "last_updated": "2020-11-16T15:48:10Z",
             "leader_margin_value": null,
@@ -9653,12 +9653,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "keant": 36678,
-              "malinowskit": 32219
+              "malinowskit": 32219,
+              "keant": 36678
             },
             "results_absentee": {
-              "keant": 0,
-              "malinowskit": 0
+              "malinowskit": 0,
+              "keant": 0
             },
             "last_updated": "2020-11-18T21:10:39Z",
             "leader_margin_value": null,
@@ -9752,12 +9752,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "keant": 11033,
-              "malinowskit": 8282
+              "malinowskit": 8282,
+              "keant": 11033
             },
             "results_absentee": {
-              "keant": 10006,
-              "malinowskit": 7727
+              "malinowskit": 7727,
+              "keant": 10006
             },
             "last_updated": "2020-11-16T15:48:13Z",
             "leader_margin_value": null,
@@ -9772,13 +9772,13 @@
         "absentee_postmark_deadline": 0,
         "update_sentences": {
           "top_level": {
-            "sentence": "",
-            "timestamp": 1605212915736,
+            "sentence": "Tom Malinowski, Democrat, wins re-election in New Jersey’s Seventh Congressional District.",
+            "timestamp": 1605752361335,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "",
-            "sentence_type": "race_unwon"
+            "generatedText": "Tom Malinowski, Democrat, wins re-election in New Jersey’s Seventh Congressional District.",
+            "sentence_type": "race_won"
           },
           "eevp": {
             "sentence": "98% of the estimated vote total has been reported.",
@@ -9806,7 +9806,7 @@
             "results_expected_within_hour": true,
             "show_nothing_votes_decreased": false,
             "went_to_runoff": false,
-            "race_won": false,
+            "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
             "additional_votes_reported": false,
@@ -9815,7 +9815,7 @@
           },
           "details_about_changes": {}
         },
-        "winnerCalledTimestamp": null,
+        "winnerCalledTimestamp": 1605752366241,
         "timeseries": [
           {
             "vote_shares": {
@@ -15775,12 +15775,12 @@
             "party_id": "democrat",
             "name_display": "Democrats",
             "name_abbr": "Dem.",
-            "count": 220,
-            "votes": 75218405,
+            "count": 221,
+            "votes": 75220425,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
-            "leader_count": 2,
+            "leader_count": 1,
             "change_full": "Lost 7 seats",
             "change_abbr": "–7",
             "flip_text_full": "Flipped 3 seats",
@@ -15793,7 +15793,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 71965974,
+            "votes": 71967309,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -15810,7 +15810,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2063836,
+            "votes": 2064014,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -15838,7 +15838,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79360908,
+            "votes": 79362296,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -15855,7 +15855,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73510281,
+            "votes": 73511389,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -15872,7 +15872,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2831114,
+            "votes": 2831274,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -15904,7 +15904,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 41809259,
+            "votes": 41811264,
             "percent": "47.2",
             "change": 1,
             "flip_count": 2,
@@ -15921,7 +15921,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 43893723,
+            "votes": 43894885,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -15938,7 +15938,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2889615,
+            "votes": 2889845,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -15955,6 +15955,46 @@
       }
     ],
     "liveUpdates": [
+      {
+        "id": "NJ-G-H-7-2020-11-03-win-democrat",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "NJ-G-H-7-2020-11-03",
+        "datetime": 1605752366241,
+        "is_today": true,
+        "text": "Tom Malinowski, Democrat, wins re-election in New Jersey’s Seventh Congressional District.",
+        "winner": {
+          "candidate_id": "malinowski-20005-31-h",
+          "candidate_key": "malinowskit",
+          "first_name": "Tom",
+          "last_name": "Malinowski",
+          "order": 1,
+          "name_display": "Tom Malinowski",
+          "party_id": "democrat",
+          "incumbent": true,
+          "runoff": false,
+          "winner": true,
+          "votes": 213571,
+          "percent": 50.6,
+          "percent_display": "50.6",
+          "electoral_votes": 0,
+          "absentee_votes": 78561,
+          "absentee_percent": 52.1,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/malinowski-20005-31-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "democrat",
+        "candidate_last_name": "Malinowski",
+        "candidate_name_display": "Tom Malinowski",
+        "candidate_id": "malinowski-20005-31-h",
+        "race_call_party_winner": "democrat",
+        "state_name": "New Jersey",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-new-jersey-house-district-7.html"
+      },
       {
         "id": "UT-G-H-4-2020-11-03-win-republican",
         "include_on_homepage": false,
@@ -26315,7 +26355,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 239899,
+          "votes": 239903,
           "percent": 51.6,
           "percent_display": "51.6",
           "electoral_votes": 0,
@@ -26355,7 +26395,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 474323,
+          "votes": 474333,
           "percent": 51.7,
           "percent_display": "51.7",
           "electoral_votes": 0,
@@ -27113,7 +27153,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2287662,
+          "votes": 2287791,
           "percent": 56.8,
           "percent_display": "56.8",
           "electoral_votes": 0,
@@ -27153,7 +27193,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 1315277,
+          "votes": 1317272,
           "percent": 57,
           "percent_display": "57.0",
           "electoral_votes": 0,
@@ -27250,7 +27290,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2362374,
+          "votes": 2362489,
           "percent": 58.4,
           "percent_display": "58.4",
           "electoral_votes": 12,
@@ -27291,9 +27331,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1333766,
-          "percent": 56.6,
-          "percent_display": "56.6",
+          "votes": 1335028,
+          "percent": 56.5,
+          "percent_display": "56.5",
           "electoral_votes": 7,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -29199,7 +29239,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 501460,
+          "votes": 501471,
           "percent": 54.3,
           "percent_display": "54.3",
           "electoral_votes": 5,
@@ -32280,8 +32320,8 @@
     ]
   },
   "meta": {
-    "version": 19684,
+    "version": 19701,
     "track": "2020-11-03",
-    "timestamp": "2020-11-19T01:54:31.449Z"
+    "timestamp": "2020-11-19T02:22:10.562Z"
   }
 }
