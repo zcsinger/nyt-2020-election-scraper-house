@@ -13950,7 +13950,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 6144,
+        "precincts_reporting": 6147,
         "precincts_total": 6348,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -13962,7 +13962,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-19T18:56:26.920Z",
+        "last_updated": "2020-11-19T19:12:31.703Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -14273,7 +14273,7 @@
             "name": "Hunterdon",
             "votes": 82286,
             "absentee_votes": 0,
-            "reporting": 113,
+            "reporting": 116,
             "precincts": 116,
             "absentee_method": null,
             "eevp": null,
@@ -14295,7 +14295,7 @@
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-19T18:56:26.920Z"
+            "last_updated": "2020-11-19T19:12:31.703Z"
           },
           {
             "fips": "34021",
@@ -14665,7 +14665,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 6146,
+        "precincts_reporting": 6149,
         "precincts_total": 6348,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -14677,7 +14677,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-19T18:56:26.920Z",
+        "last_updated": "2020-11-19T19:12:31.703Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -14988,7 +14988,7 @@
             "name": "Hunterdon",
             "votes": 81271,
             "absentee_votes": 0,
-            "reporting": 113,
+            "reporting": 116,
             "precincts": 116,
             "absentee_method": null,
             "eevp": null,
@@ -15010,7 +15010,7 @@
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-19T18:56:26.920Z"
+            "last_updated": "2020-11-19T19:12:31.703Z"
           },
           {
             "fips": "34021",
@@ -15367,7 +15367,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3753099,
+        "votes": 3754456,
         "absentee_votes": 360060,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -15380,7 +15380,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 6143,
+        "precincts_reporting": 6149,
         "precincts_total": 6348,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -15392,7 +15392,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-19T18:37:21.750Z",
+        "last_updated": "2020-11-19T19:12:31.703Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -15404,7 +15404,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2164988,
+            "votes": 2165625,
             "percent": 57.7,
             "percent_display": "57.7",
             "electoral_votes": 0,
@@ -15424,7 +15424,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1588111,
+            "votes": 1588831,
             "percent": 42.3,
             "percent_display": "42.3",
             "electoral_votes": 0,
@@ -15701,9 +15701,9 @@
           {
             "fips": "34019",
             "name": "Hunterdon",
-            "votes": 77269,
+            "votes": 78626,
             "absentee_votes": 0,
-            "reporting": 110,
+            "reporting": 116,
             "precincts": 116,
             "absentee_method": null,
             "eevp": null,
@@ -15718,14 +15718,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 40067,
-              "no": 37202
+              "yes": 40704,
+              "no": 37922
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-19T15:43:41.407Z"
+            "last_updated": "2020-11-19T19:12:31.703Z"
           },
           {
             "fips": "34021",
@@ -16067,7 +16067,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75415923,
+            "votes": 75415944,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -16084,7 +16084,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72065640,
+            "votes": 72065723,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -16101,7 +16101,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2068485,
+            "votes": 2068487,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -16129,7 +16129,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79554046,
+            "votes": 79554068,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -16146,7 +16146,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73610952,
+            "votes": 73611039,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -16163,7 +16163,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2845178,
+            "votes": 2845183,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -16195,7 +16195,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 41848993,
+            "votes": 41849924,
             "percent": "47.2",
             "change": 1,
             "flip_count": 2,
@@ -16212,7 +16212,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 43921234,
+            "votes": 43922529,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -16229,7 +16229,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2892406,
+            "votes": 2892408,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -25904,7 +25904,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 331963,
+          "votes": 333174,
           "percent": 55,
           "percent_display": "55.0",
           "electoral_votes": 0,
@@ -26153,7 +26153,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 5881994,
+          "votes": 5882081,
           "percent": 52,
           "percent_display": "52.0",
           "electoral_votes": 38,
@@ -28304,7 +28304,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 5949378,
+          "votes": 5949462,
           "percent": 53.5,
           "percent_display": "53.5",
           "electoral_votes": 0,
@@ -32611,8 +32611,8 @@
     ]
   },
   "meta": {
-    "version": 20053,
+    "version": 20070,
     "track": "2020-11-03",
-    "timestamp": "2020-11-19T18:57:42.573Z"
+    "timestamp": "2020-11-19T19:15:41.601Z"
   }
 }
