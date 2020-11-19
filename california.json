@@ -31,7 +31,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 17205179,
+        "votes": 17205181,
         "electoral_votes": 55,
         "absentee_votes": 8420433,
         "absentee_counties": 32,
@@ -57,7 +57,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-19T05:40:53Z",
+        "last_updated": "2020-11-19T20:40:55Z",
         "candidates": [
           {
             "candidate_id": "biden-1036",
@@ -70,7 +70,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10950161,
+            "votes": 10950162,
             "percent": 63.6,
             "percent_display": "63.6",
             "electoral_votes": 55,
@@ -92,7 +92,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 5883885,
+            "votes": 5883886,
             "percent": 34.2,
             "percent_display": "34.2",
             "electoral_votes": 0,
@@ -210,7 +210,7 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 29.44623,
+        "leader_margin_value": 29.44622,
         "leader_margin_votes": 5066276,
         "leader_margin_display": "D+29",
         "leader_margin_name_display": "Biden +29",
@@ -315,7 +315,7 @@
           {
             "fips": "06005",
             "name": "Amador",
-            "votes": 22300,
+            "votes": 22302,
             "absentee_votes": 17773,
             "reporting": 30,
             "precincts": 30,
@@ -332,8 +332,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 8152,
-              "trumpd": 13584,
+              "bidenj": 8153,
+              "trumpd": 13585,
               "jorgensenj": 349,
               "hawkinsh": 110,
               "de_la_fuenter": 64,
@@ -347,12 +347,12 @@
               "de_la_fuenter": 50,
               "la_rivag": 29
             },
-            "last_updated": "2020-11-17T20:40:40Z",
-            "leader_margin_value": 24.35874,
+            "last_updated": "2020-11-19T20:40:47Z",
+            "leader_margin_value": 24.35656,
             "leader_margin_display": "R+24",
             "leader_margin_name_display": "Trump +24",
             "leader_party_id": "republican",
-            "margin2020": 24.35874,
+            "margin2020": 24.35656,
             "votes2016": 17963,
             "margin2016": 24.9,
             "votes2012": 17649,
@@ -2923,12 +2923,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from San Joaquin County.",
-            "timestamp": 1605764481812,
+            "sentence": "We just received more votes from Amador County.",
+            "timestamp": 1605818574528,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from San Joaquin County.",
+            "generatedText": "We just received more votes from Amador County.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -4937,6 +4937,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-19T05:40:53Z"
+          },
+          {
+            "vote_shares": {
+              "bidenj": 0.636,
+              "trumpd": 0.342
+            },
+            "votes": 17205181,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-19T20:40:55Z"
           }
         ]
       },
@@ -62743,7 +62753,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79554460,
+            "votes": 79554461,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -62760,7 +62770,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73611545,
+            "votes": 73611546,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -74318,7 +74328,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 10950161,
+          "votes": 10950162,
           "percent": 63.6,
           "percent_display": "63.6",
           "electoral_votes": 55,
@@ -79225,8 +79235,8 @@
     ]
   },
   "meta": {
-    "version": 20110,
+    "version": 20116,
     "track": "2020-11-03",
-    "timestamp": "2020-11-19T20:39:24.582Z"
+    "timestamp": "2020-11-19T20:47:24.337Z"
   }
 }
