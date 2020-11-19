@@ -18476,7 +18476,7 @@
           "top_level": {
             "sentence": "Antonio Delgado, Democrat, wins re-election in New York’s 19th Congressional District.",
             "timestamp": 1605750742770,
-            "is_new": true,
+            "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
             "generatedText": "Antonio Delgado, Democrat, wins re-election in New York’s 19th Congressional District.",
@@ -18509,7 +18509,7 @@
             "show_nothing_votes_decreased": false,
             "went_to_runoff": false,
             "race_won": true,
-            "race_just_won": true,
+            "race_just_won": false,
             "race_unwon": false,
             "additional_votes_reported": false,
             "additional_precincts_reported": false,
@@ -63041,8 +63041,8 @@
     ]
   },
   "meta": {
-    "version": 19682,
+    "version": 19684,
     "track": "2020-11-03",
-    "timestamp": "2020-11-19T01:52:31.866Z"
+    "timestamp": "2020-11-19T01:54:31.449Z"
   }
 }
