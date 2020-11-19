@@ -1589,7 +1589,7 @@
               "de_la_fuenter": 2904,
               "la_rivag": 2116
             },
-            "last_updated": "2020-11-19T02:40:42Z",
+            "last_updated": "2020-11-19T17:50:51Z",
             "leader_margin_value": 9.03274,
             "leader_margin_display": "D+9",
             "leader_margin_name_display": "Biden +9",
@@ -23625,7 +23625,7 @@
               "sanchezl": 3508,
               "tolarm": 1556
             },
-            "last_updated": "2020-11-18T02:41:10Z",
+            "last_updated": "2020-11-19T17:50:50Z",
             "leader_margin_value": 36.16957,
             "leader_margin_display": "D+36",
             "leader_margin_name_display": "Sanchez +36",
@@ -24075,7 +24075,7 @@
         "result_source": "AP",
         "gain": true,
         "lost_seat": "democrat",
-        "votes": 337063,
+        "votes": 342099,
         "absentee_votes": 230227,
         "absentee_counties": 3,
         "absentee_count_progress": "unknown",
@@ -24100,7 +24100,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-19T02:41:16Z",
+        "last_updated": "2020-11-19T17:50:48Z",
         "candidates": [
           {
             "candidate_id": "kim-19830-5-h",
@@ -24113,7 +24113,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 170623,
+            "votes": 173157,
             "percent": 50.6,
             "percent_display": "50.6",
             "electoral_votes": 0,
@@ -24134,7 +24134,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 166440,
+            "votes": 168942,
             "percent": 49.4,
             "percent_display": "49.4",
             "electoral_votes": 0,
@@ -24146,8 +24146,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 1.24101,
-        "leader_margin_votes": 4183,
+        "leader_margin_value": 1.2321,
+        "leader_margin_votes": 4215,
         "leader_margin_display": "R+1.2",
         "leader_margin_name_display": "Kim +1.2",
         "leader_party_id": "republican",
@@ -24188,7 +24188,7 @@
           {
             "fips": "06059",
             "name": "Orange",
-            "votes": 214972,
+            "votes": 220008,
             "absentee_votes": 155190,
             "reporting": 264,
             "precincts": 264,
@@ -24205,15 +24205,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "kimy": 112433,
-              "cisnerosg": 102539
+              "kimy": 114967,
+              "cisnerosg": 105041
             },
             "results_absentee": {
               "kimy": 74145,
               "cisnerosg": 81045
             },
-            "last_updated": "2020-11-16T15:48:14Z",
-            "leader_margin_value": 4.60246,
+            "last_updated": "2020-11-19T17:50:44Z",
+            "leader_margin_value": 4.51165,
             "leader_margin_display": "R+5",
             "leader_margin_name_display": "Kim +5",
             "leader_party_id": "republican"
@@ -24752,6 +24752,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-19T02:41:16Z"
+          },
+          {
+            "vote_shares": {
+              "kimy": 0.506,
+              "cisnerosg": 0.494
+            },
+            "votes": 342099,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-19T17:50:48Z"
           }
         ]
       },
@@ -26809,7 +26819,7 @@
               "porterk": 181112,
               "rathsg": 124918
             },
-            "last_updated": "2020-11-16T15:48:19Z",
+            "last_updated": "2020-11-19T17:50:49Z",
             "leader_margin_value": 6.96616,
             "leader_margin_display": "D+7",
             "leader_margin_name_display": "Porter +7",
@@ -27133,7 +27143,7 @@
               "correal": 113366,
               "watersj": 43491
             },
-            "last_updated": "2020-11-16T15:48:20Z",
+            "last_updated": "2020-11-19T17:50:49Z",
             "leader_margin_value": 37.57296,
             "leader_margin_display": "D+38",
             "leader_margin_name_display": "Correa +38",
@@ -27500,7 +27510,7 @@
               "lowenthala": 51723,
               "briscoej": 38582
             },
-            "last_updated": "2020-11-16T15:48:20Z",
+            "last_updated": "2020-11-19T17:50:51Z",
             "leader_margin_value": 4.07988,
             "leader_margin_display": "D+4",
             "leader_margin_name_display": "Lowenthal +4",
@@ -27994,7 +28004,7 @@
               "steelm": 129776,
               "roudah": 155692
             },
-            "last_updated": "2020-11-16T15:48:22Z",
+            "last_updated": "2020-11-19T17:50:51Z",
             "leader_margin_value": 1.99552,
             "leader_margin_display": "R+2.0",
             "leader_margin_name_display": "Steel +2.0",
@@ -28338,7 +28348,7 @@
               "levinm": 37317,
               "maryottb": 37601
             },
-            "last_updated": "2020-11-16T15:48:23Z",
+            "last_updated": "2020-11-19T17:50:51Z",
             "leader_margin_value": 11.95699,
             "leader_margin_display": "R+12",
             "leader_margin_name_display": "Maryott +12",
@@ -62671,7 +62681,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75372982,
+            "votes": 75375522,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -62688,7 +62698,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72036841,
+            "votes": 72039551,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -62733,7 +62743,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79512201,
+            "votes": 79512244,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -62750,7 +62760,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73585609,
+            "votes": 73585789,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -62767,7 +62777,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2836802,
+            "votes": 2836808,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -62833,7 +62843,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2891430,
+            "votes": 2891432,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -73453,7 +73463,7 @@
           "runoff": false,
           "winner": true,
           "result_source": "NYT",
-          "votes": 3148379,
+          "votes": 3148559,
           "percent": 53.2,
           "percent_display": "53.2",
           "electoral_votes": 18,
@@ -79215,8 +79225,8 @@
     ]
   },
   "meta": {
-    "version": 19978,
+    "version": 19984,
     "track": "2020-11-03",
-    "timestamp": "2020-11-19T17:49:03.366Z"
+    "timestamp": "2020-11-19T17:55:20.872Z"
   }
 }
