@@ -30,9 +30,9 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 6972064,
+        "votes": 6981320,
         "electoral_votes": 29,
-        "absentee_votes": 314205,
+        "absentee_votes": 323310,
         "absentee_counties": 8,
         "absentee_count_progress": "unknown",
         "absentee_outstanding": null,
@@ -44,7 +44,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T02:00:00.000Z",
         "poll_time_short": "9 p.m.",
-        "precincts_reporting": 12324,
+        "precincts_reporting": 12343,
         "precincts_total": 14931,
         "reporting_display": "83% reporting",
         "reporting_value": "83%",
@@ -56,7 +56,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-19T13:00:32Z",
+        "last_updated": "2020-11-19T15:33:36Z",
         "candidates": [
           {
             "candidate_id": "biden-1036",
@@ -69,11 +69,11 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 3939744,
+            "votes": 3945873,
             "percent": 56.5,
             "percent_display": "56.5",
             "electoral_votes": 29,
-            "absentee_votes": 216176,
+            "absentee_votes": 222302,
             "absentee_percent": 68.8,
             "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/bidenj.png",
             "has_image": true,
@@ -91,11 +91,11 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 2929419,
+            "votes": 2932170,
             "percent": 42,
             "percent_display": "42.0",
             "electoral_votes": 0,
-            "absentee_votes": 92447,
+            "absentee_votes": 95194,
             "absentee_percent": 29.4,
             "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
             "has_image": true,
@@ -113,11 +113,11 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 50721,
+            "votes": 50819,
             "percent": 0.7,
             "percent_display": "0.7",
             "electoral_votes": 0,
-            "absentee_votes": 2474,
+            "absentee_votes": 2571,
             "absentee_percent": 0.8,
             "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/jorgensenj.png",
             "has_image": false,
@@ -134,11 +134,11 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 24955,
+            "votes": 25024,
             "percent": 0.4,
             "percent_display": "0.4",
             "electoral_votes": 0,
-            "absentee_votes": 1339,
+            "absentee_votes": 1408,
             "absentee_percent": 0.4,
             "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/hawkinsh.png",
             "has_image": false,
@@ -155,11 +155,11 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 19004,
+            "votes": 19046,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
-            "absentee_votes": 1102,
+            "absentee_votes": 1144,
             "absentee_percent": 0.4,
             "img_url": null,
             "has_image": false,
@@ -176,11 +176,11 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8221,
+            "votes": 8388,
             "percent": 0.1,
             "percent_display": "0.1",
             "electoral_votes": 0,
-            "absentee_votes": 667,
+            "absentee_votes": 691,
             "absentee_percent": 0.2,
             "img_url": null,
             "has_image": false,
@@ -188,10 +188,10 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 14.49105,
-        "leader_margin_votes": 1010325,
-        "leader_margin_display": "D+14",
-        "leader_margin_name_display": "Biden +14",
+        "leader_margin_value": 14.52022,
+        "leader_margin_votes": 1013703,
+        "leader_margin_display": "D+15",
+        "leader_margin_name_display": "Biden +15",
         "leader_party_id": "democrat",
         "counties": [
           {
@@ -1823,7 +1823,7 @@
           {
             "fips": "36073",
             "name": "Orleans",
-            "votes": 15625,
+            "votes": 15649,
             "absentee_votes": 0,
             "reporting": 34,
             "precincts": 40,
@@ -1844,21 +1844,23 @@
               "trumpd": 11173,
               "jorgensenj": 274,
               "pierceb": 58,
-              "hawkinsh": 38
+              "hawkinsh": 38,
+              "write-ins": 24
             },
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
               "jorgensenj": 0,
               "pierceb": 0,
-              "hawkinsh": 0
+              "hawkinsh": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-16T15:48:21Z",
-            "leader_margin_value": 45.3824,
+            "last_updated": "2020-11-19T15:32:58Z",
+            "leader_margin_value": 45.3128,
             "leader_margin_display": "R+45",
             "leader_margin_name_display": "Trump +45",
             "leader_party_id": "republican",
-            "margin2020": 45.3824,
+            "margin2020": 45.3128,
             "votes2016": 16380,
             "margin2016": 39.5,
             "votes2012": 14706,
@@ -1867,15 +1869,15 @@
           {
             "fips": "36075",
             "name": "Oswego",
-            "votes": 44682,
-            "absentee_votes": 37,
-            "reporting": 91,
+            "votes": 53787,
+            "absentee_votes": 9142,
+            "reporting": 110,
             "precincts": 110,
             "absentee_method": "Merged into voters' home precincts AFTER election night",
-            "eevp": 83,
+            "eevp": 100,
             "tot_exp_vote": 53962,
-            "eevp_value": "83%",
-            "eevp_display": "83% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "unknown",
@@ -1884,27 +1886,27 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 14698,
-              "trumpd": 28930,
-              "jorgensenj": 585,
-              "hawkinsh": 209,
-              "pierceb": 161,
-              "write-ins": 99
+              "bidenj": 20824,
+              "trumpd": 31677,
+              "jorgensenj": 682,
+              "hawkinsh": 278,
+              "pierceb": 203,
+              "write-ins": 123
             },
             "results_absentee": {
-              "bidenj": 21,
-              "trumpd": 16,
-              "jorgensenj": 0,
-              "hawkinsh": 0,
-              "pierceb": 0,
-              "write-ins": 0
+              "bidenj": 6147,
+              "trumpd": 2763,
+              "jorgensenj": 97,
+              "hawkinsh": 69,
+              "pierceb": 42,
+              "write-ins": 24
             },
-            "last_updated": "2020-11-18T17:34:41Z",
-            "leader_margin_value": 31.85175,
-            "leader_margin_display": "R+32",
-            "leader_margin_name_display": "Trump +32",
+            "last_updated": "2020-11-19T15:33:22Z",
+            "leader_margin_value": 20.17774,
+            "leader_margin_display": "R+20",
+            "leader_margin_name_display": "Trump +20",
             "leader_party_id": "republican",
-            "margin2020": 31.85175,
+            "margin2020": 20.17774,
             "votes2016": 48180,
             "margin2016": 22,
             "votes2012": 44591,
@@ -2635,7 +2637,7 @@
           {
             "fips": "36109",
             "name": "Tompkins",
-            "votes": 33015,
+            "votes": 33142,
             "absentee_votes": 0,
             "reporting": 44,
             "precincts": 63,
@@ -2652,10 +2654,11 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 22624,
-              "trumpd": 9640,
-              "jorgensenj": 388,
+              "bidenj": 22627,
+              "trumpd": 9644,
+              "jorgensenj": 389,
               "hawkinsh": 258,
+              "write-ins": 119,
               "pierceb": 105
             },
             "results_absentee": {
@@ -2663,14 +2666,15 @@
               "trumpd": 0,
               "jorgensenj": 0,
               "hawkinsh": 0,
+              "write-ins": 0,
               "pierceb": 0
             },
-            "last_updated": "2020-11-16T15:48:29Z",
-            "leader_margin_value": 39.32758,
+            "last_updated": "2020-11-19T15:33:36Z",
+            "leader_margin_value": 39.17386,
             "leader_margin_display": "D+39",
             "leader_margin_name_display": "Biden +39",
             "leader_party_id": "democrat",
-            "margin2020": -39.32758,
+            "margin2020": -39.17386,
             "votes2016": 42678,
             "margin2016": -43.4,
             "votes2012": 39781,
@@ -3021,12 +3025,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Nassau County.",
-            "timestamp": 1605791023176,
+            "sentence": "We just received more votes from Oswego, Tompkins and Orleans Counties.",
+            "timestamp": 1605800083011,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Nassau County.",
+            "generatedText": "We just received more votes from Oswego, Tompkins and Orleans Counties.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -5565,6 +5569,16 @@
             "eevp": 84,
             "eevp_source": "edison",
             "timestamp": "2020-11-19T13:00:32Z"
+          },
+          {
+            "vote_shares": {
+              "bidenj": 0.565,
+              "trumpd": 0.42
+            },
+            "votes": 6981320,
+            "eevp": 84,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-19T15:33:36Z"
           }
         ]
       },
@@ -21063,7 +21077,7 @@
               "pricek": 54,
               "write-ins": 3
             },
-            "last_updated": "2020-11-19T14:59:31Z",
+            "last_updated": "2020-11-19T15:33:23Z",
             "leader_margin_value": 28.71872,
             "leader_margin_display": "R+29",
             "leader_margin_name_display": "Tenney +29",
@@ -22101,7 +22115,7 @@
               "kolsteea": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-19T15:28:07Z",
+            "last_updated": "2020-11-19T15:33:36Z",
             "leader_margin_value": 36.7686,
             "leader_margin_display": "D+37",
             "leader_margin_name_display": "Mitrano +37",
@@ -22945,7 +22959,7 @@
               "williamss": 346,
               "write-ins": 8
             },
-            "last_updated": "2020-11-19T15:02:06Z",
+            "last_updated": "2020-11-19T15:33:23Z",
             "leader_margin_value": 26.624,
             "leader_margin_display": "R+27",
             "leader_margin_name_display": "Katko +27",
@@ -24301,7 +24315,7 @@
               "whitmerd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-19T15:30:19Z",
+            "last_updated": "2020-11-19T15:32:59Z",
             "leader_margin_value": 46.34972,
             "leader_margin_display": "R+46",
             "leader_margin_name_display": "Jacobs +46",
@@ -24388,335 +24402,11 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": true,
+            "additional_votes_reported": false,
             "additional_precincts_reported": false,
-            "has_eevp": true,
-            "first_precincts_reported": false,
-            "first_votes_reported": false,
-            "candidate_took_the_lead": false,
-            "candidate_took_the_lead_first_alignment": false,
-            "candidate_took_the_lead_final_alignment": false,
-            "candidates_tied": false,
-            "precinct_percentage_points_grew_by_more_than_2_percent": false,
-            "precinct_percentage_points_grew_by_more_than_5_percent": false,
-            "eevp_grew_by_more_than_2_percent": false,
-            "eevp_grew_by_more_than_5_percent": false,
-            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
-            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
-            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
-            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
-            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
-            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
-            "precinct_percentage_reporting_passes_80": false,
-            "precinct_percentage_reporting_passes_90": false,
-            "precinct_percentage_reporting_reaches_100": false,
-            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
-            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
-            "first_votes_for_some_county": false,
-            "candidate_wins_some_county": false,
-            "additional_votes_for_at_least_one_county": true,
-            "first_votes_for_only_one_county": false
+            "has_eevp": true
           },
-          "details_about_changes": {
-            "num_additional_eevp": 0,
-            "prev_eevp": 84,
-            "num_additional_votes": 2,
-            "prev_votes": 322021,
-            "num_additional_precincts": 0,
-            "prev_precincts": 571,
-            "num_additional_delegates_allocated": null,
-            "num_additional_precinct_percentage_points": 0,
-            "prev_precinct_percentage_points": 84,
-            "lead_margin_change_votes": 0,
-            "lead_margin_change_percentage_points": 0,
-            "previous_leading_candidate": {
-              "candidate_id": "jacobs-20073527-33-h",
-              "candidate_key": "jacobsc",
-              "first_name": "Chris",
-              "last_name": "Jacobs",
-              "order": 2,
-              "name_display": "Chris Jacobs",
-              "party_id": "republican",
-              "incumbent": true,
-              "runoff": false,
-              "winner": true,
-              "votes": 206671,
-              "percent": 64.2,
-              "percent_display": "64.2",
-              "electoral_votes": 0,
-              "absentee_votes": 34983,
-              "absentee_percent": 52.2,
-              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/jacobs-20073527-33-h.png",
-              "has_image": false,
-              "link": ""
-            },
-            "previous_second_candidate": {
-              "candidate_id": "mcmurray-20356-33-h",
-              "candidate_key": "mcmurrayn",
-              "first_name": "Nate",
-              "last_name": "McMurray",
-              "order": 1,
-              "name_display": "Nate McMurray",
-              "party_id": "democrat",
-              "incumbent": false,
-              "runoff": false,
-              "winner": false,
-              "votes": 111174,
-              "percent": 34.5,
-              "percent_display": "34.5",
-              "electoral_votes": 0,
-              "absentee_votes": 31428,
-              "absentee_percent": 46.9,
-              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/mcmurray-20356-33-h.png",
-              "has_image": false,
-              "link": ""
-            },
-            "num_additional_votes_and_percentage_points_by_candidate": [
-              {
-                "candidate_id": "jacobs-20073527-33-h",
-                "num_additional_votes": 0,
-                "prev_votes": 206671,
-                "num_additional_delegates": null,
-                "num_additional_final_alignment": null,
-                "num_additional_percentage_points": 0,
-                "prev_percent": 64.2
-              },
-              {
-                "candidate_id": "mcmurray-20356-33-h",
-                "num_additional_votes": 0,
-                "prev_votes": 111174,
-                "num_additional_delegates": null,
-                "num_additional_final_alignment": null,
-                "num_additional_percentage_points": 0,
-                "prev_percent": 34.5
-              },
-              {
-                "candidate_id": "whitmer-20073672-33-h",
-                "num_additional_votes": 0,
-                "prev_votes": 4169,
-                "num_additional_delegates": null,
-                "num_additional_final_alignment": null,
-                "num_additional_percentage_points": 0,
-                "prev_percent": 1.3
-              },
-              {
-                "candidate_id": "write-ins-21303-33-h",
-                "num_additional_votes": 2,
-                "prev_votes": 7,
-                "num_additional_delegates": null,
-                "num_additional_final_alignment": null,
-                "num_additional_percentage_points": 0,
-                "prev_percent": 0
-              }
-            ],
-            "counties_with_first_results_of_night": [],
-            "counties_won_by_candidates": [],
-            "change_by_county": [
-              {
-                "name": "Erie",
-                "fips": "36029",
-                "num_additional_votes": 0,
-                "prev_votes": 140402,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 295,
-                "prev_eevp": 85,
-                "candidate_changes": {
-                  "jacobsc": {
-                    "prev_votes": 87856,
-                    "num_additional_votes": 0
-                  },
-                  "mcmurrayn": {
-                    "prev_votes": 50908,
-                    "num_additional_votes": 0
-                  },
-                  "whitmerd": {
-                    "prev_votes": 1638,
-                    "num_additional_votes": 0
-                  }
-                }
-              },
-              {
-                "name": "Genesee",
-                "fips": "36037",
-                "num_additional_votes": 0,
-                "prev_votes": 24103,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 52,
-                "prev_eevp": 83,
-                "candidate_changes": {
-                  "jacobsc": {
-                    "prev_votes": 17126,
-                    "num_additional_votes": 0
-                  },
-                  "mcmurrayn": {
-                    "prev_votes": 6497,
-                    "num_additional_votes": 0
-                  },
-                  "whitmerd": {
-                    "prev_votes": 480,
-                    "num_additional_votes": 0
-                  }
-                }
-              },
-              {
-                "name": "Livingston",
-                "fips": "36051",
-                "num_additional_votes": 0,
-                "prev_votes": 25409,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 40,
-                "prev_eevp": 77,
-                "candidate_changes": {
-                  "jacobsc": {
-                    "prev_votes": 16397,
-                    "num_additional_votes": 0
-                  },
-                  "mcmurrayn": {
-                    "prev_votes": 8668,
-                    "num_additional_votes": 0
-                  },
-                  "whitmerd": {
-                    "prev_votes": 344,
-                    "num_additional_votes": 0
-                  }
-                }
-              },
-              {
-                "name": "Monroe",
-                "fips": "36055",
-                "num_additional_votes": 0,
-                "prev_votes": 11969,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 34,
-                "prev_eevp": 76,
-                "candidate_changes": {
-                  "jacobsc": {
-                    "prev_votes": 7418,
-                    "num_additional_votes": 0
-                  },
-                  "mcmurrayn": {
-                    "prev_votes": 4385,
-                    "num_additional_votes": 0
-                  },
-                  "whitmerd": {
-                    "prev_votes": 165,
-                    "num_additional_votes": 0
-                  },
-                  "write-ins": {
-                    "prev_votes": 1,
-                    "num_additional_votes": 0
-                  }
-                }
-              },
-              {
-                "name": "Niagara",
-                "fips": "36063",
-                "num_additional_votes": 0,
-                "prev_votes": 56951,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 120,
-                "prev_eevp": 84,
-                "candidate_changes": {
-                  "jacobsc": {
-                    "prev_votes": 36473,
-                    "num_additional_votes": 0
-                  },
-                  "mcmurrayn": {
-                    "prev_votes": 19772,
-                    "num_additional_votes": 0
-                  },
-                  "whitmerd": {
-                    "prev_votes": 706,
-                    "num_additional_votes": 0
-                  }
-                }
-              },
-              {
-                "name": "Ontario",
-                "fips": "36069",
-                "num_additional_votes": 0,
-                "prev_votes": 29381,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 59,
-                "prev_eevp": 80,
-                "candidate_changes": {
-                  "jacobsc": {
-                    "prev_votes": 16836,
-                    "num_additional_votes": 0
-                  },
-                  "mcmurrayn": {
-                    "prev_votes": 12206,
-                    "num_additional_votes": 0
-                  },
-                  "whitmerd": {
-                    "prev_votes": 339,
-                    "num_additional_votes": 0
-                  }
-                }
-              },
-              {
-                "name": "Orleans",
-                "fips": "36073",
-                "num_additional_votes": 2,
-                "prev_votes": 14764,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 40,
-                "prev_eevp": 82,
-                "candidate_changes": {
-                  "jacobsc": {
-                    "prev_votes": 10687,
-                    "num_additional_votes": 0
-                  },
-                  "mcmurrayn": {
-                    "prev_votes": 3843,
-                    "num_additional_votes": 0
-                  },
-                  "whitmerd": {
-                    "prev_votes": 234,
-                    "num_additional_votes": 0
-                  },
-                  "write-ins": {
-                    "num_additional_votes": null
-                  }
-                }
-              },
-              {
-                "name": "Wyoming",
-                "fips": "36121",
-                "num_additional_votes": 0,
-                "prev_votes": 19042,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 40,
-                "prev_eevp": 100,
-                "candidate_changes": {
-                  "jacobsc": {
-                    "prev_votes": 13878,
-                    "num_additional_votes": 0
-                  },
-                  "mcmurrayn": {
-                    "prev_votes": 4895,
-                    "num_additional_votes": 0
-                  },
-                  "whitmerd": {
-                    "prev_votes": 263,
-                    "num_additional_votes": 0
-                  },
-                  "write-ins": {
-                    "prev_votes": 6,
-                    "num_additional_votes": 0
-                  }
-                }
-              }
-            ]
-          }
+          "details_about_changes": {}
         },
         "winnerCalledTimestamp": 1604479781813,
         "timeseries": [
@@ -47009,7 +46699,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 221,
-            "votes": 75299905,
+            "votes": 75299962,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -47026,7 +46716,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72008684,
+            "votes": 72008980,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -47043,7 +46733,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2065442,
+            "votes": 2065461,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -47071,7 +46761,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79463181,
+            "votes": 79471938,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -47088,7 +46778,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73556279,
+            "votes": 73561764,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -47105,7 +46795,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2833334,
+            "votes": 2833772,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -47137,7 +46827,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 41827887,
+            "votes": 41830488,
             "percent": "47.2",
             "change": 1,
             "flip_count": 2,
@@ -47154,7 +46844,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 43906788,
+            "votes": 43908662,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -47171,7 +46861,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2891009,
+            "votes": 2891056,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -57791,7 +57481,7 @@
           "runoff": false,
           "winner": true,
           "result_source": "NYT",
-          "votes": 3136494,
+          "votes": 3137242,
           "percent": 53.1,
           "percent_display": "53.1",
           "electoral_votes": 18,
@@ -58172,9 +57862,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 707233,
-          "percent": 54.2,
-          "percent_display": "54.2",
+          "votes": 709107,
+          "percent": 54.1,
+          "percent_display": "54.1",
           "electoral_votes": 0,
           "absentee_votes": 17004,
           "absentee_percent": 45.8,
@@ -60431,11 +60121,11 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3939744,
+          "votes": 3945873,
           "percent": 56.5,
           "percent_display": "56.5",
           "electoral_votes": 29,
-          "absentee_votes": 216176,
+          "absentee_votes": 222302,
           "absentee_percent": 68.8,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/bidenj.png",
           "has_image": true,
@@ -62005,9 +61695,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 754745,
-          "percent": 57.6,
-          "percent_display": "57.6",
+          "votes": 756731,
+          "percent": 57.5,
+          "percent_display": "57.5",
           "electoral_votes": 6,
           "absentee_votes": 18031,
           "absentee_percent": 51.6,
@@ -63553,8 +63243,8 @@
     ]
   },
   "meta": {
-    "version": 19810,
+    "version": 19824,
     "track": "2020-11-03",
-    "timestamp": "2020-11-19T15:32:50.680Z"
+    "timestamp": "2020-11-19T15:43:12.333Z"
   }
 }
