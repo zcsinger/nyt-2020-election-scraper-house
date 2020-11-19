@@ -17902,8 +17902,8 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
-        "result_source": null,
+        "result": "winner",
+        "result_source": "AP",
         "gain": false,
         "lost_seat": "",
         "votes": 301581,
@@ -17943,7 +17943,7 @@
             "party_id": "democrat",
             "incumbent": true,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 155398,
             "percent": 51.5,
             "percent_display": "51.5",
@@ -18474,10 +18474,13 @@
         "absentee_postmark_deadline": 0,
         "update_sentences": {
           "top_level": {
-            "timestamp": 1603992453872,
-            "is_new": false,
+            "sentence": "Antonio Delgado, Democrat, wins re-election in New York’s 19th Congressional District.",
+            "timestamp": 1605750742770,
+            "is_new": true,
             "hide_timestamp": false,
-            "overrideText": null
+            "overrideText": null,
+            "generatedText": "Antonio Delgado, Democrat, wins re-election in New York’s 19th Congressional District.",
+            "sentence_type": "race_won"
           },
           "eevp": {
             "sentence": "85% of the estimated vote total has been reported.",
@@ -18505,8 +18508,8 @@
             "results_expected_within_hour": true,
             "show_nothing_votes_decreased": false,
             "went_to_runoff": false,
-            "race_won": false,
-            "race_just_won": false,
+            "race_won": true,
+            "race_just_won": true,
             "race_unwon": false,
             "additional_votes_reported": false,
             "additional_precincts_reported": false,
@@ -18514,7 +18517,7 @@
           },
           "details_about_changes": {}
         },
-        "winnerCalledTimestamp": null,
+        "winnerCalledTimestamp": 1605750748162,
         "timeseries": [
           {
             "vote_shares": {
@@ -46533,12 +46536,12 @@
             "party_id": "democrat",
             "name_display": "Democrats",
             "name_abbr": "Dem.",
-            "count": 219,
+            "count": 220,
             "votes": 75218405,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
-            "leader_count": 3,
+            "leader_count": 2,
             "change_full": "Lost 7 seats",
             "change_abbr": "–7",
             "flip_text_full": "Flipped 3 seats",
@@ -63038,8 +63041,8 @@
     ]
   },
   "meta": {
-    "version": 19680,
+    "version": 19682,
     "track": "2020-11-03",
-    "timestamp": "2020-11-19T01:39:11.157Z"
+    "timestamp": "2020-11-19T01:52:31.866Z"
   }
 }
