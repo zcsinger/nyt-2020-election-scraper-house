@@ -29,7 +29,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1487640,
+        "votes": 1487696,
         "electoral_votes": 6,
         "absentee_votes": 638509,
         "absentee_counties": 5,
@@ -55,7 +55,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T18:50:47Z",
+        "last_updated": "2020-11-19T19:50:56Z",
         "candidates": [
           {
             "candidate_id": "trump-8639",
@@ -68,7 +68,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 865100,
+            "votes": 865140,
             "percent": 58.2,
             "percent_display": "58.2",
             "electoral_votes": 6,
@@ -90,7 +90,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 560267,
+            "votes": 560282,
             "percent": 37.7,
             "percent_display": "37.7",
             "electoral_votes": 0,
@@ -112,7 +112,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 38446,
+            "votes": 38447,
             "percent": 2.6,
             "percent_display": "2.6",
             "electoral_votes": 0,
@@ -271,8 +271,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 20.49105,
-        "leader_margin_votes": 304833,
+        "leader_margin_value": 20.49196,
+        "leader_margin_votes": 304858,
         "leader_margin_display": "R+20",
         "leader_margin_name_display": "Trump +20",
         "leader_party_id": "republican",
@@ -540,7 +540,7 @@
           {
             "fips": "49011",
             "name": "Davis",
-            "votes": 169758,
+            "votes": 169814,
             "absentee_votes": 0,
             "reporting": 224,
             "precincts": 224,
@@ -557,9 +557,9 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "trumpd": 104095,
-              "bidenj": 57396,
-              "jorgensenj": 5003,
+              "trumpd": 104135,
+              "bidenj": 57411,
+              "jorgensenj": 5004,
               "westk": 1012,
               "blankenshipd": 827,
               "hawkinsh": 597,
@@ -578,12 +578,12 @@
               "mchughj": 0,
               "la_rivag": 0
             },
-            "last_updated": "2020-11-18T18:50:46Z",
-            "leader_margin_value": 27.50916,
+            "last_updated": "2020-11-19T19:50:50Z",
+            "leader_margin_value": 27.51481,
             "leader_margin_display": "R+28",
             "leader_margin_name_display": "Trump +28",
             "leader_party_id": "republican",
-            "margin2020": 27.50916,
+            "margin2020": 27.51481,
             "votes2016": 140288,
             "margin2016": 16,
             "votes2012": 121069,
@@ -2682,6 +2682,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-18T18:50:47Z"
+          },
+          {
+            "vote_shares": {
+              "trumpd": 0.582,
+              "bidenj": 0.377
+            },
+            "votes": 1487696,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-19T19:50:56Z"
           }
         ]
       },
@@ -29558,7 +29568,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79554207,
+            "votes": 79554222,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -29575,7 +29585,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73611180,
+            "votes": 73611220,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -29592,7 +29602,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2845185,
+            "votes": 2845186,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -40764,7 +40774,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 865100,
+          "votes": 865140,
           "percent": 58.2,
           "percent_display": "58.2",
           "electoral_votes": 6,
@@ -46040,8 +46050,8 @@
     ]
   },
   "meta": {
-    "version": 20084,
+    "version": 20089,
     "track": "2020-11-03",
-    "timestamp": "2020-11-19T19:49:23.230Z"
+    "timestamp": "2020-11-19T19:57:22.620Z"
   }
 }
