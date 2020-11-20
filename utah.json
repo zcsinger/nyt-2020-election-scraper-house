@@ -6060,7 +6060,7 @@
         "precincts_total": 512,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 330000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -6068,7 +6068,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:19:02Z",
+        "last_updated": "2020-11-20T14:24:14Z",
         "candidates": [
           {
             "candidate_id": "owens-20073826-45-h",
@@ -6883,6 +6883,19 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-18T17:19:02Z"
+          },
+          {
+            "vote_shares": {
+              "owensb": 0.474,
+              "mcadamsb": 0.468,
+              "molnarj": 0.034,
+              "broderickj": 0.021,
+              "write-ins": 0.002
+            },
+            "votes": 373634,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:24:14Z"
           }
         ]
       },
@@ -29644,7 +29657,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75498101,
+            "votes": 75499027,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -29661,7 +29674,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72111562,
+            "votes": 72113462,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -29706,7 +29719,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79643415,
+            "votes": 79643570,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -29723,7 +29736,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73663898,
+            "votes": 73664334,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -29740,7 +29753,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2845321,
+            "votes": 2845326,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -29772,7 +29785,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 41904989,
+            "votes": 41906970,
             "percent": "47.2",
             "change": 1,
             "flip_count": 2,
@@ -29789,7 +29802,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 43956755,
+            "votes": 43960793,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -29806,7 +29819,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2894212,
+            "votes": 2894301,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -30050,11 +30063,11 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2475141,
+          "votes": 2475296,
           "percent": 49.5,
           "percent_display": "49.49",
           "electoral_votes": 16,
-          "absentee_votes": 2098998,
+          "absentee_votes": 2100012,
           "absentee_percent": 52.4,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/bidenj.png",
           "has_image": true,
@@ -42617,12 +42630,12 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 227885,
-          "percent": 74.7,
-          "percent_display": "74.7",
+          "votes": 229785,
+          "percent": 74.6,
+          "percent_display": "74.6",
           "electoral_votes": 0,
-          "absentee_votes": 166923,
-          "absentee_percent": 72.6,
+          "absentee_votes": 168882,
+          "absentee_percent": 72.5,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/greene-20073466-11-h.png",
           "has_image": false,
           "link": ""
@@ -46205,8 +46218,8 @@
     ]
   },
   "meta": {
-    "version": 20461,
+    "version": 20465,
     "track": "2020-11-03",
-    "timestamp": "2020-11-20T14:21:01.300Z"
+    "timestamp": "2020-11-20T14:26:40.950Z"
   }
 }

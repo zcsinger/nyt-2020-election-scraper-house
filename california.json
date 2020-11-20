@@ -5045,7 +5045,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-19T23:41:05Z",
+        "last_updated": "2020-11-20T14:24:08Z",
         "candidates": [
           {
             "candidate_id": "lamalfa-52531-5-h",
@@ -6089,7 +6089,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-19T02:41:16Z",
+        "last_updated": "2020-11-20T14:24:09Z",
         "candidates": [
           {
             "candidate_id": "huffman-62063-5-h",
@@ -6728,7 +6728,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-20T02:41:11Z",
+        "last_updated": "2020-11-20T14:24:06Z",
         "candidates": [
           {
             "candidate_id": "garamendi-7136-5-h",
@@ -7615,7 +7615,7 @@
         "precincts_total": 524,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 403000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -7623,7 +7623,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-18T23:41:09Z",
+        "last_updated": "2020-11-20T14:24:09Z",
         "candidates": [
           {
             "candidate_id": "mcclintock-188-5-h",
@@ -8556,6 +8556,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-18T23:41:09Z"
+          },
+          {
+            "vote_shares": {
+              "mcclintockt": 0.558,
+              "kennedyb": 0.442
+            },
+            "votes": 423629,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:24:09Z"
           }
         ]
       },
@@ -8614,7 +8624,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-20T02:41:11Z",
+        "last_updated": "2020-11-20T14:24:08Z",
         "candidates": [
           {
             "candidate_id": "thompson-76-5-h",
@@ -9282,7 +9292,7 @@
         "precincts_total": 290,
         "reporting_display": "99% reporting",
         "reporting_value": "99%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 278000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -9290,7 +9300,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:19:00Z",
+        "last_updated": "2020-11-20T14:24:05Z",
         "candidates": [
           {
             "candidate_id": "matsui-51416-5-h",
@@ -9599,6 +9609,16 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-19T23:33:11.357Z"
+          },
+          {
+            "vote_shares": {
+              "matsuid": 0.737,
+              "bishc": 0.263
+            },
+            "votes": 301894,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:24:05Z"
           }
         ]
       },
@@ -9649,7 +9669,7 @@
         "precincts_total": 373,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 347000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -9657,7 +9677,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:19:04Z",
+        "last_updated": "2020-11-20T14:24:07Z",
         "candidates": [
           {
             "candidate_id": "bera-60686-5-h",
@@ -9893,6 +9913,16 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-19T23:33:11.357Z"
+          },
+          {
+            "vote_shares": {
+              "beraa": 0.567,
+              "pattersonb": 0.433
+            },
+            "votes": 379054,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:24:07Z"
           }
         ]
       },
@@ -9943,7 +9973,7 @@
         "precincts_total": 822,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 266000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -9951,7 +9981,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-20T02:41:11Z",
+        "last_updated": "2020-11-20T14:24:05Z",
         "candidates": [
           {
             "candidate_id": "obernolte-20073428-5-h",
@@ -10433,6 +10463,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-20T02:41:11Z"
+          },
+          {
+            "vote_shares": {
+              "obernoltej": 0.561,
+              "bubserc": 0.439
+            },
+            "votes": 277189,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:24:05Z"
           }
         ]
       },
@@ -10483,7 +10523,7 @@
         "precincts_total": 311,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 272000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -10491,7 +10531,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-20T05:41:07Z",
+        "last_updated": "2020-11-20T14:24:05Z",
         "candidates": [
           {
             "candidate_id": "mcnerney-50403-5-h",
@@ -11113,6 +11153,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-20T05:41:07Z"
+          },
+          {
+            "vote_shares": {
+              "mcnerneyj": 0.578,
+              "amadort": 0.422
+            },
+            "votes": 288904,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:24:05Z"
           }
         ]
       },
@@ -11163,7 +11213,7 @@
         "precincts_total": 257,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 276000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -11171,7 +11221,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-20T05:41:07Z",
+        "last_updated": "2020-11-20T14:24:05Z",
         "candidates": [
           {
             "candidate_id": "harder-19762-5-h",
@@ -11660,6 +11710,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-20T05:41:07Z"
+          },
+          {
+            "vote_shares": {
+              "harderj": 0.552,
+              "howzet": 0.448
+            },
+            "votes": 295415,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:24:05Z"
           }
         ]
       },
@@ -11710,7 +11770,7 @@
         "precincts_total": 648,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 357000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -11718,7 +11778,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:19:04Z",
+        "last_updated": "2020-11-20T14:24:08Z",
         "candidates": [
           {
             "candidate_id": "desaulnier-60108-5-h",
@@ -11944,6 +12004,16 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-19T15:15:04.560Z"
+          },
+          {
+            "vote_shares": {
+              "desaulnierm": 0.731,
+              "sharman": 0.269
+            },
+            "votes": 363987,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:24:08Z"
           }
         ]
       },
@@ -12002,7 +12072,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:19:06Z",
+        "last_updated": "2020-11-20T14:24:08Z",
         "candidates": [
           {
             "candidate_id": "pelosi-24-5-h",
@@ -12316,7 +12386,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:19:06Z",
+        "last_updated": "2020-11-20T14:24:09Z",
         "candidates": [
           {
             "candidate_id": "lee-100-5-h",
@@ -12632,7 +12702,7 @@
         "precincts_total": 395,
         "reporting_display": "99% reporting",
         "reporting_value": "99%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 340000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -12640,7 +12710,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-19T02:41:16Z",
+        "last_updated": "2020-11-20T14:24:07Z",
         "candidates": [
           {
             "candidate_id": "speier-52489-5-h",
@@ -13089,6 +13159,16 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-19T23:33:11.357Z"
+          },
+          {
+            "vote_shares": {
+              "speierj": 0.793,
+              "petelr": 0.207
+            },
+            "votes": 350284,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:24:07Z"
           }
         ]
       },
@@ -13139,7 +13219,7 @@
         "precincts_total": 271,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 325000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -13147,7 +13227,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:19:03Z",
+        "last_updated": "2020-11-20T14:24:07Z",
         "candidates": [
           {
             "candidate_id": "swalwell-62343-5-h",
@@ -13516,6 +13596,16 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-19T23:33:11.357Z"
+          },
+          {
+            "vote_shares": {
+              "swalwelle": 0.709,
+              "haydena": 0.291
+            },
+            "votes": 340875,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:24:07Z"
           }
         ]
       },
@@ -13566,7 +13656,7 @@
         "precincts_total": 414,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 194000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -13574,7 +13664,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T23:41:09Z",
+        "last_updated": "2020-11-20T14:24:04Z",
         "candidates": [
           {
             "candidate_id": "costa-6818-5-h",
@@ -14026,6 +14116,16 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-19T23:55:20.427Z"
+          },
+          {
+            "vote_shares": {
+              "costaj": 0.593,
+              "cookinghamk": 0.407
+            },
+            "votes": 213874,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:24:04Z"
           }
         ]
       },
@@ -14076,7 +14176,7 @@
         "precincts_total": 210,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 284000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -14084,7 +14184,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-19T02:41:16Z",
+        "last_updated": "2020-11-20T14:24:05Z",
         "candidates": [
           {
             "candidate_id": "khanna-7547-5-h",
@@ -14513,6 +14613,16 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-19T15:15:04.560Z"
+          },
+          {
+            "vote_shares": {
+              "khannar": 0.713,
+              "tandonr": 0.287
+            },
+            "votes": 296766,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:24:05Z"
           }
         ]
       },
@@ -14571,7 +14681,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-19T02:41:17Z",
+        "last_updated": "2020-11-20T14:24:09Z",
         "candidates": [
           {
             "candidate_id": "eshoo-43-5-h",
@@ -15213,7 +15323,7 @@
         "precincts_total": 221,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 294000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -15221,7 +15331,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:19:00Z",
+        "last_updated": "2020-11-20T14:24:06Z",
         "candidates": [
           {
             "candidate_id": "lofgren-110-5-h",
@@ -15487,6 +15597,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-18T17:19:00Z"
+          },
+          {
+            "vote_shares": {
+              "lofgrenz": 0.718,
+              "aguileraj": 0.282
+            },
+            "votes": 296694,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:24:06Z"
           }
         ]
       },
@@ -15537,7 +15657,7 @@
         "precincts_total": 376,
         "reporting_display": "99% reporting",
         "reporting_value": "99%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 293000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -15545,7 +15665,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:19:00Z",
+        "last_updated": "2020-11-20T14:24:05Z",
         "candidates": [
           {
             "candidate_id": "panetta-65030-5-h",
@@ -16130,6 +16250,16 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-19T23:33:11.357Z"
+          },
+          {
+            "vote_shares": {
+              "panettaj": 0.768,
+              "gormanj": 0.232
+            },
+            "votes": 306322,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:24:05Z"
           }
         ]
       },
@@ -16182,7 +16312,7 @@
         "precincts_total": 313,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 154000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -16190,7 +16320,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T23:41:09Z",
+        "last_updated": "2020-11-20T14:24:04Z",
         "candidates": [
           {
             "candidate_id": "valadao-62229-5-h",
@@ -16742,6 +16872,16 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-20T00:00:23.230Z"
+          },
+          {
+            "vote_shares": {
+              "valadaod": 0.506,
+              "coxt": 0.494
+            },
+            "votes": 162866,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:24:04Z"
           }
         ]
       },
@@ -16792,7 +16932,7 @@
         "precincts_total": 418,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 274000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -16800,7 +16940,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-18T23:41:09Z",
+        "last_updated": "2020-11-20T14:24:05Z",
         "candidates": [
           {
             "candidate_id": "nunes-67-5-h",
@@ -17189,6 +17329,16 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-19T23:58:22.003Z"
+          },
+          {
+            "vote_shares": {
+              "nunesd": 0.542,
+              "arballop": 0.458
+            },
+            "votes": 313030,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:24:05Z"
           }
         ]
       },
@@ -17239,7 +17389,7 @@
         "precincts_total": 636,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 280000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -17247,7 +17397,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:18:49Z",
+        "last_updated": "2020-11-20T14:23:21Z",
         "candidates": [
           {
             "candidate_id": "mccarthy-52561-5-h",
@@ -17849,6 +17999,16 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-20T00:00:23.230Z"
+          },
+          {
+            "vote_shares": {
+              "mccarthyk": 0.618,
+              "mangonek": 0.382
+            },
+            "votes": 290841,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:23:21Z"
           }
         ]
       },
@@ -17899,7 +18059,7 @@
         "precincts_total": 370,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 356000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -17907,7 +18067,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-20T02:41:20Z",
+        "last_updated": "2020-11-20T14:24:08Z",
         "candidates": [
           {
             "candidate_id": "carbajal-65043-5-h",
@@ -18329,6 +18489,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-20T02:41:20Z"
+          },
+          {
+            "vote_shares": {
+              "carbajals": 0.587,
+              "caldwella": 0.413
+            },
+            "votes": 355165,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:24:08Z"
           }
         ]
       },
@@ -18381,7 +18551,7 @@
         "precincts_total": 277,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 315000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -18389,7 +18559,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-20T02:41:20Z",
+        "last_updated": "2020-11-20T14:24:06Z",
         "candidates": [
           {
             "candidate_id": "garcia-20073116-5-h",
@@ -18845,6 +19015,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-20T02:41:20Z"
+          },
+          {
+            "vote_shares": {
+              "garciam": 0.501,
+              "smithc": 0.499
+            },
+            "votes": 335688,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:24:06Z"
           }
         ]
       },
@@ -18895,7 +19075,7 @@
         "precincts_total": 652,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 334000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -18903,7 +19083,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-20T02:41:20Z",
+        "last_updated": "2020-11-20T14:23:22Z",
         "candidates": [
           {
             "candidate_id": "brownley-62395-5-h",
@@ -19322,6 +19502,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-20T02:41:20Z"
+          },
+          {
+            "vote_shares": {
+              "brownleyj": 0.606,
+              "baldwin_kennedyr": 0.394
+            },
+            "votes": 343864,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:23:22Z"
           }
         ]
       },
@@ -19372,7 +19562,7 @@
         "precincts_total": 309,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 302000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -19380,7 +19570,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-20T02:41:20Z",
+        "last_updated": "2020-11-20T14:23:21Z",
         "candidates": [
           {
             "candidate_id": "chu-52450-5-h",
@@ -19879,6 +20069,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-20T02:41:20Z"
+          },
+          {
+            "vote_shares": {
+              "chuj": 0.698,
+              "nalbandianj": 0.302
+            },
+            "votes": 314994,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:23:21Z"
           }
         ]
       },
@@ -19929,7 +20129,7 @@
         "precincts_total": 286,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 330000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -19937,7 +20137,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:18:50Z",
+        "last_updated": "2020-11-20T14:23:22Z",
         "candidates": [
           {
             "candidate_id": "schiff-1299-5-h",
@@ -20263,6 +20463,16 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-19T15:15:04.560Z"
+          },
+          {
+            "vote_shares": {
+              "schiffa": 0.727,
+              "earlye": 0.273
+            },
+            "votes": 333390,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:23:22Z"
           }
         ]
       },
@@ -20313,7 +20523,7 @@
         "precincts_total": 194,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 208000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -20321,7 +20531,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:18:47Z",
+        "last_updated": "2020-11-20T14:23:20Z",
         "candidates": [
           {
             "candidate_id": "cardenas-6688-5-h",
@@ -20647,6 +20857,16 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-19T23:33:11.357Z"
+          },
+          {
+            "vote_shares": {
+              "cardenast": 0.566,
+              "duenasa": 0.434
+            },
+            "votes": 209090,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:23:20Z"
           }
         ]
       },
@@ -20705,7 +20925,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-20T02:41:20Z",
+        "last_updated": "2020-11-20T14:23:23Z",
         "candidates": [
           {
             "candidate_id": "sherman-145-5-h",
@@ -21194,7 +21414,7 @@
         "precincts_total": 822,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 261000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -21202,7 +21422,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-20T02:41:20Z",
+        "last_updated": "2020-11-20T14:23:21Z",
         "candidates": [
           {
             "candidate_id": "aguilar-62883-5-h",
@@ -21518,6 +21738,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-20T02:41:20Z"
+          },
+          {
+            "vote_shares": {
+              "aguilarp": 0.612,
+              "gibboneya": 0.388
+            },
+            "votes": 279865,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:23:21Z"
           }
         ]
       },
@@ -21568,7 +21798,7 @@
         "precincts_total": 218,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 251000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -21576,7 +21806,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:18:48Z",
+        "last_updated": "2020-11-20T14:23:20Z",
         "candidates": [
           {
             "candidate_id": "napolitano-113-5-h",
@@ -21902,6 +22132,16 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-19T23:33:11.357Z"
+          },
+          {
+            "vote_shares": {
+              "napolitanog": 0.666,
+              "scottj": 0.334
+            },
+            "votes": 257682,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:23:20Z"
           }
         ]
       },
@@ -21960,7 +22200,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:18:52Z",
+        "last_updated": "2020-11-20T14:23:25Z",
         "candidates": [
           {
             "candidate_id": "lieu-63666-5-h",
@@ -22336,7 +22576,7 @@
         "precincts_total": 183,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 196000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -22344,7 +22584,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:18:47Z",
+        "last_updated": "2020-11-20T14:23:20Z",
         "candidates": [
           {
             "candidate_id": "gomez-19814-5-h",
@@ -22670,6 +22910,16 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-19T23:33:11.357Z"
+          },
+          {
+            "vote_shares": {
+              "gomezj": 0.53,
+              "kimd": 0.47
+            },
+            "votes": 203426,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:23:20Z"
           }
         ]
       },
@@ -22720,7 +22970,7 @@
         "precincts_total": 578,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 215000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -22728,7 +22978,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-20T02:41:11Z",
+        "last_updated": "2020-11-20T14:23:20Z",
         "candidates": [
           {
             "candidate_id": "torres-63684-5-h",
@@ -23237,6 +23487,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-20T02:41:11Z"
+          },
+          {
+            "vote_shares": {
+              "torresn": 0.693,
+              "cargilem": 0.307
+            },
+            "votes": 239593,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:23:20Z"
           }
         ]
       },
@@ -23287,7 +23547,7 @@
         "precincts_total": 275,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 271000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -23295,7 +23555,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-20T02:41:11Z",
+        "last_updated": "2020-11-20T14:23:21Z",
         "candidates": [
           {
             "candidate_id": "ruiz-62342-5-h",
@@ -23661,6 +23921,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-20T02:41:11Z"
+          },
+          {
+            "vote_shares": {
+              "ruizr": 0.604,
+              "cruze": 0.396
+            },
+            "votes": 301647,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:23:21Z"
           }
         ]
       },
@@ -23719,7 +23989,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:18:49Z",
+        "last_updated": "2020-11-20T14:23:22Z",
         "candidates": [
           {
             "candidate_id": "bass-50853-5-h",
@@ -24103,7 +24373,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-20T02:41:11Z",
+        "last_updated": "2020-11-20T14:23:21Z",
         "candidates": [
           {
             "candidate_id": "sanchez-116-5-h",
@@ -24702,7 +24972,7 @@
         "precincts_total": 441,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 314000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -24710,7 +24980,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-20T02:41:11Z",
+        "last_updated": "2020-11-20T14:23:22Z",
         "candidates": [
           {
             "candidate_id": "kim-19830-5-h",
@@ -25392,6 +25662,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-20T02:41:11Z"
+          },
+          {
+            "vote_shares": {
+              "kimy": 0.506,
+              "cisnerosg": 0.494
+            },
+            "votes": 342319,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:23:22Z"
           }
         ]
       },
@@ -25450,7 +25730,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:18:47Z",
+        "last_updated": "2020-11-20T14:23:19Z",
         "candidates": [
           {
             "candidate_id": "roybal-allard-102-5-h",
@@ -25826,7 +26106,7 @@
         "precincts_total": 240,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 236000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -25834,7 +26114,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-20T02:41:17Z",
+        "last_updated": "2020-11-20T14:23:20Z",
         "candidates": [
           {
             "candidate_id": "takano-8584-5-h",
@@ -26200,6 +26480,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-20T02:41:17Z"
+          },
+          {
+            "vote_shares": {
+              "takanom": 0.641,
+              "smitha": 0.359
+            },
+            "votes": 257118,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:23:20Z"
           }
         ]
       },
@@ -26250,7 +26540,7 @@
         "precincts_total": 311,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 306000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -26258,7 +26548,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:18:49Z",
+        "last_updated": "2020-11-20T14:23:21Z",
         "candidates": [
           {
             "candidate_id": "calvert-132-5-h",
@@ -26614,6 +26904,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-18T17:18:49Z"
+          },
+          {
+            "vote_shares": {
+              "calvertk": 0.57,
+              "omaral": 0.43
+            },
+            "votes": 356840,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:23:21Z"
           }
         ]
       },
@@ -26664,7 +26964,7 @@
         "precincts_total": 231,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 267000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -26672,7 +26972,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:18:48Z",
+        "last_updated": "2020-11-20T14:23:21Z",
         "candidates": [
           {
             "candidate_id": "waters-104-5-h",
@@ -26998,6 +27298,16 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-19T23:33:11.357Z"
+          },
+          {
+            "vote_shares": {
+              "watersm": 0.717,
+              "collinsj": 0.283
+            },
+            "votes": 275582,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:23:21Z"
           }
         ]
       },
@@ -27056,7 +27366,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:18:47Z",
+        "last_updated": "2020-11-20T14:23:20Z",
         "candidates": [
           {
             "candidate_id": "barragan-65073-5-h",
@@ -27432,7 +27742,7 @@
         "precincts_total": 493,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 372000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -27440,7 +27750,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:18:52Z",
+        "last_updated": "2020-11-20T14:23:24Z",
         "candidates": [
           {
             "candidate_id": "porter-19852-5-h",
@@ -27716,6 +28026,16 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-19T15:15:04.560Z"
+          },
+          {
+            "vote_shares": {
+              "porterk": 0.535,
+              "rathsg": 0.465
+            },
+            "votes": 405977,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:23:24Z"
           }
         ]
       },
@@ -27766,7 +28086,7 @@
         "precincts_total": 274,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 206000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -27774,7 +28094,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:18:47Z",
+        "last_updated": "2020-11-20T14:23:20Z",
         "candidates": [
           {
             "candidate_id": "correa-52470-5-h",
@@ -28060,6 +28380,16 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-19T15:15:04.560Z"
+          },
+          {
+            "vote_shares": {
+              "correal": 0.688,
+              "watersj": 0.312
+            },
+            "votes": 222221,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:23:20Z"
           }
         ]
       },
@@ -28110,7 +28440,7 @@
         "precincts_total": 309,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 295000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -28118,7 +28448,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:18:49Z",
+        "last_updated": "2020-11-20T14:23:21Z",
         "candidates": [
           {
             "candidate_id": "lowenthal-52455-5-h",
@@ -28607,6 +28937,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-18T17:18:49Z"
+          },
+          {
+            "vote_shares": {
+              "lowenthala": 0.635,
+              "briscoej": 0.365
+            },
+            "votes": 306749,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:23:21Z"
           }
         ]
       },
@@ -28657,7 +28997,7 @@
         "precincts_total": 480,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 362000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -28665,7 +29005,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:18:51Z",
+        "last_updated": "2020-11-20T14:23:23Z",
         "candidates": [
           {
             "candidate_id": "steel-20073124-5-h",
@@ -28971,6 +29311,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-18T17:18:51Z"
+          },
+          {
+            "vote_shares": {
+              "steelm": 0.51,
+              "roudah": 0.49
+            },
+            "votes": 390474,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:23:23Z"
           }
         ]
       },
@@ -29021,7 +29371,7 @@
         "precincts_total": 377,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 362000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -29029,7 +29379,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-19T02:41:16Z",
+        "last_updated": "2020-11-20T14:23:23Z",
         "candidates": [
           {
             "candidate_id": "levin-19875-5-h",
@@ -29568,6 +29918,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-19T02:41:16Z"
+          },
+          {
+            "vote_shares": {
+              "levinm": 0.532,
+              "maryottb": 0.468
+            },
+            "votes": 383965,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:23:23Z"
           }
         ]
       },
@@ -29618,7 +29978,7 @@
         "precincts_total": 322,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 334000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -29626,7 +29986,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-20T02:41:11Z",
+        "last_updated": "2020-11-20T14:23:22Z",
         "candidates": [
           {
             "candidate_id": "issa-146-5-h",
@@ -30125,6 +30485,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-20T02:41:11Z"
+          },
+          {
+            "vote_shares": {
+              "issad": 0.539,
+              "campa_najjara": 0.461
+            },
+            "votes": 361202,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:23:22Z"
           }
         ]
       },
@@ -30175,7 +30545,7 @@
         "precincts_total": 391,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 235000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -30183,7 +30553,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-19T02:41:15Z",
+        "last_updated": "2020-11-20T14:23:20Z",
         "candidates": [
           {
             "candidate_id": "vargas-52480-5-h",
@@ -30632,6 +31002,16 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-19T23:33:11.357Z"
+          },
+          {
+            "vote_shares": {
+              "vargasj": 0.686,
+              "hidalgoj": 0.314
+            },
+            "votes": 236728,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:23:20Z"
           }
         ]
       },
@@ -30682,7 +31062,7 @@
         "precincts_total": 361,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 376000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -30690,7 +31070,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-19T02:41:17Z",
+        "last_updated": "2020-11-20T14:23:24Z",
         "candidates": [
           {
             "candidate_id": "peters-19897-5-h",
@@ -31066,6 +31446,16 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-19T23:33:11.357Z"
+          },
+          {
+            "vote_shares": {
+              "peterss": 0.616,
+              "debelloj": 0.384
+            },
+            "votes": 396241,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:23:24Z"
           }
         ]
       },
@@ -31124,7 +31514,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-19T02:41:16Z",
+        "last_updated": "2020-11-20T14:23:23Z",
         "candidates": [
           {
             "candidate_id": "jacobs-19873-5-h",
@@ -63511,7 +63901,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75498101,
+            "votes": 75499027,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -63528,7 +63918,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72111562,
+            "votes": 72113462,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -63573,7 +63963,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79643415,
+            "votes": 79643570,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -63590,7 +63980,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73663898,
+            "votes": 73664334,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -63607,7 +63997,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2845321,
+            "votes": 2845326,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -63639,7 +64029,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 41904989,
+            "votes": 41906970,
             "percent": "47.2",
             "change": 1,
             "flip_count": 2,
@@ -63656,7 +64046,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 43956755,
+            "votes": 43960793,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -63673,7 +64063,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2894212,
+            "votes": 2894301,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -63917,11 +64307,11 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2475141,
+          "votes": 2475296,
           "percent": 49.5,
           "percent_display": "49.49",
           "electoral_votes": 16,
-          "absentee_votes": 2098998,
+          "absentee_votes": 2100012,
           "absentee_percent": 52.4,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/bidenj.png",
           "has_image": true,
@@ -76484,12 +76874,12 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 227885,
-          "percent": 74.7,
-          "percent_display": "74.7",
+          "votes": 229785,
+          "percent": 74.6,
+          "percent_display": "74.6",
           "electoral_votes": 0,
-          "absentee_votes": 166923,
-          "absentee_percent": 72.6,
+          "absentee_votes": 168882,
+          "absentee_percent": 72.5,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/greene-20073466-11-h.png",
           "has_image": false,
           "link": ""
@@ -80072,8 +80462,8 @@
     ]
   },
   "meta": {
-    "version": 20461,
+    "version": 20465,
     "track": "2020-11-03",
-    "timestamp": "2020-11-20T14:21:01.300Z"
+    "timestamp": "2020-11-20T14:26:40.950Z"
   }
 }
