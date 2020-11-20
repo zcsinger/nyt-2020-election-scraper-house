@@ -48,14 +48,14 @@
         "reporting_display": "99% reporting",
         "reporting_value": "99%",
         "eevp": 99,
-        "tot_exp_vote": 1470000,
+        "tot_exp_vote": 1500000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
         "eevp_display": ">98% reported",
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-19T19:50:56Z",
+        "last_updated": "2020-11-20T13:58:29Z",
         "candidates": [
           {
             "candidate_id": "trump-8639",
@@ -6898,14 +6898,14 @@
         "reporting_display": "99% reporting",
         "reporting_value": "99%",
         "eevp": 99,
-        "tot_exp_vote": 1470000,
+        "tot_exp_vote": 1500000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
         "eevp_display": ">98% reported",
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-18T18:50:48Z",
+        "last_updated": "2020-11-20T13:58:29Z",
         "candidates": [
           {
             "candidate_id": "cox-20073827-45-g",
@@ -46171,8 +46171,8 @@
     ]
   },
   "meta": {
-    "version": 20453,
+    "version": 20455,
     "track": "2020-11-03",
-    "timestamp": "2020-11-20T13:47:39.168Z"
+    "timestamp": "2020-11-20T13:59:59.467Z"
   }
 }
