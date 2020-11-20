@@ -15602,7 +15602,7 @@
         "gain": false,
         "lost_seat": "",
         "votes": 393677,
-        "absentee_votes": 248899,
+        "absentee_votes": 248901,
         "absentee_counties": 24,
         "absentee_count_progress": "unknown",
         "absentee_outstanding": null,
@@ -15626,7 +15626,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-20T20:30:41Z",
+        "last_updated": "2020-11-20T20:40:40Z",
         "candidates": [
           {
             "candidate_id": "miller-meeks-59745-16-h",
@@ -15643,7 +15643,7 @@
             "percent": 50,
             "percent_display": "50.01",
             "electoral_votes": 0,
-            "absentee_votes": 98103,
+            "absentee_votes": 98104,
             "absentee_percent": 39.4,
             "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/miller-meeks-59745-16-h.png",
             "has_image": false,
@@ -15664,7 +15664,7 @@
             "percent": 50,
             "percent_display": "49.99",
             "electoral_votes": 0,
-            "absentee_votes": 150796,
+            "absentee_votes": 150797,
             "absentee_percent": 60.6,
             "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/hart-20073166-16-h.png",
             "has_image": false,
@@ -15847,7 +15847,7 @@
             "fips": "19053",
             "name": "Decatur",
             "votes": 3562,
-            "absentee_votes": 1583,
+            "absentee_votes": 1585,
             "reporting": 7,
             "precincts": 7,
             "absentee_method": "None",
@@ -15867,10 +15867,10 @@
               "hartr": 1215
             },
             "results_absentee": {
-              "miller_meeksm": 826,
-              "hartr": 757
+              "miller_meeksm": 827,
+              "hartr": 758
             },
-            "last_updated": "2020-11-20T20:30:39Z",
+            "last_updated": "2020-11-20T20:40:39Z",
             "leader_margin_value": 31.7799,
             "leader_margin_display": "R+32",
             "leader_margin_name_display": "Miller-Meeks +32",
@@ -37386,7 +37386,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75529954,
+            "votes": 75530403,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -37403,7 +37403,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72134455,
+            "votes": 72135524,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -37420,7 +37420,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2071410,
+            "votes": 2071470,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -48760,8 +48760,8 @@
           "percent": 52.8,
           "percent_display": "52.8",
           "electoral_votes": 4,
-          "absentee_votes": 4549,
-          "absentee_percent": 49.6,
+          "absentee_votes": 1927,
+          "absentee_percent": 65.4,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/bidenj.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/joe-biden.html",
@@ -53964,8 +53964,8 @@
     ]
   },
   "meta": {
-    "version": 20777,
+    "version": 20794,
     "track": "2020-11-03",
-    "timestamp": "2020-11-20T20:39:51.641Z"
+    "timestamp": "2020-11-20T20:48:31.310Z"
   }
 }
