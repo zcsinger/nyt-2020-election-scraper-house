@@ -22797,7 +22797,7 @@
           "eevp": {
             "sentence": "87% of the estimated vote total has been reported.",
             "timestamp": 1605909404420,
-            "is_new": true,
+            "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
             "generatedText": "87% of the estimated vote total has been reported.",
@@ -22823,423 +22823,11 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": true,
-            "additional_precincts_reported": true,
-            "has_eevp": true,
-            "first_precincts_reported": false,
-            "first_votes_reported": false,
-            "candidate_took_the_lead": false,
-            "candidate_took_the_lead_first_alignment": false,
-            "candidate_took_the_lead_final_alignment": false,
-            "candidates_tied": false,
-            "precinct_percentage_points_grew_by_more_than_2_percent": false,
-            "precinct_percentage_points_grew_by_more_than_5_percent": false,
-            "eevp_grew_by_more_than_2_percent": false,
-            "eevp_grew_by_more_than_5_percent": false,
-            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
-            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
-            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
-            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
-            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
-            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
-            "precinct_percentage_reporting_passes_80": false,
-            "precinct_percentage_reporting_passes_90": false,
-            "precinct_percentage_reporting_reaches_100": false,
-            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
-            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
-            "first_votes_for_some_county": false,
-            "candidate_wins_some_county": false,
-            "additional_votes_for_at_least_one_county": true,
-            "first_votes_for_only_one_county": false
+            "additional_votes_reported": false,
+            "additional_precincts_reported": false,
+            "has_eevp": true
           },
-          "details_about_changes": {
-            "num_additional_eevp": 1,
-            "prev_eevp": 86,
-            "num_additional_votes": 2504,
-            "prev_votes": 276161,
-            "num_additional_precincts": 4,
-            "prev_precincts": 413,
-            "num_additional_delegates_allocated": null,
-            "num_additional_precinct_percentage_points": 0.8,
-            "prev_precinct_percentage_points": 81.8,
-            "lead_margin_change_votes": -784,
-            "lead_margin_change_percentage_points": -0.5999999999999943,
-            "previous_leading_candidate": {
-              "candidate_id": "reed-20072692-33-h",
-              "candidate_key": "reedt",
-              "first_name": "Tom",
-              "last_name": "Reed",
-              "order": 2,
-              "name_display": "Tom Reed",
-              "party_id": "republican",
-              "incumbent": true,
-              "runoff": false,
-              "winner": true,
-              "votes": 169225,
-              "percent": 61.3,
-              "percent_display": "61.3",
-              "electoral_votes": 0,
-              "absentee_votes": 1122,
-              "absentee_percent": 37.4,
-              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/reed-20072692-33-h.png",
-              "has_image": false,
-              "link": ""
-            },
-            "previous_second_candidate": {
-              "candidate_id": "mitrano-20351-33-h",
-              "candidate_key": "mitranot",
-              "first_name": "Tracy",
-              "last_name": "Mitrano",
-              "order": 1,
-              "name_display": "Tracy Mitrano",
-              "party_id": "democrat",
-              "incumbent": false,
-              "runoff": false,
-              "winner": false,
-              "votes": 103689,
-              "percent": 37.5,
-              "percent_display": "37.5",
-              "electoral_votes": 0,
-              "absentee_votes": 1835,
-              "absentee_percent": 61.2,
-              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/mitrano-20351-33-h.png",
-              "has_image": false,
-              "link": ""
-            },
-            "num_additional_votes_and_percentage_points_by_candidate": [
-              {
-                "candidate_id": "reed-20072692-33-h",
-                "num_additional_votes": 847,
-                "prev_votes": 169225,
-                "num_additional_delegates": null,
-                "num_additional_final_alignment": null,
-                "num_additional_percentage_points": -0.3,
-                "prev_percent": 61.3
-              },
-              {
-                "candidate_id": "mitrano-20351-33-h",
-                "num_additional_votes": 1631,
-                "prev_votes": 103689,
-                "num_additional_delegates": null,
-                "num_additional_final_alignment": null,
-                "num_additional_percentage_points": 0.3,
-                "prev_percent": 37.5
-              },
-              {
-                "candidate_id": "kolstee-20073734-33-h",
-                "num_additional_votes": 23,
-                "prev_votes": 3164,
-                "num_additional_delegates": null,
-                "num_additional_final_alignment": null,
-                "num_additional_percentage_points": 0,
-                "prev_percent": 1.1
-              },
-              {
-                "candidate_id": "write-ins-21303-33-h",
-                "num_additional_votes": 3,
-                "prev_votes": 83,
-                "num_additional_delegates": null,
-                "num_additional_final_alignment": null,
-                "num_additional_percentage_points": 0,
-                "prev_percent": 0
-              }
-            ],
-            "counties_with_first_results_of_night": [],
-            "counties_won_by_candidates": [],
-            "change_by_county": [
-              {
-                "name": "Allegany",
-                "fips": "36003",
-                "num_additional_votes": 0,
-                "prev_votes": 20292,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 34,
-                "prev_eevp": 99,
-                "candidate_changes": {
-                  "reedt": {
-                    "prev_votes": 14434,
-                    "num_additional_votes": 0
-                  },
-                  "mitranot": {
-                    "prev_votes": 5623,
-                    "num_additional_votes": 0
-                  },
-                  "kolsteea": {
-                    "prev_votes": 230,
-                    "num_additional_votes": 0
-                  },
-                  "write-ins": {
-                    "prev_votes": 5,
-                    "num_additional_votes": 0
-                  }
-                }
-              },
-              {
-                "name": "Cattaraugus",
-                "fips": "36009",
-                "num_additional_votes": 0,
-                "prev_votes": 29233,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 51,
-                "prev_eevp": 85,
-                "candidate_changes": {
-                  "reedt": {
-                    "prev_votes": 20239,
-                    "num_additional_votes": 0
-                  },
-                  "mitranot": {
-                    "prev_votes": 8625,
-                    "num_additional_votes": 0
-                  },
-                  "kolsteea": {
-                    "prev_votes": 369,
-                    "num_additional_votes": 0
-                  }
-                }
-              },
-              {
-                "name": "Chautauqua",
-                "fips": "36013",
-                "num_additional_votes": 0,
-                "prev_votes": 57928,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 55,
-                "prev_eevp": 97,
-                "candidate_changes": {
-                  "reedt": {
-                    "prev_votes": 35856,
-                    "num_additional_votes": 0
-                  },
-                  "mitranot": {
-                    "prev_votes": 21324,
-                    "num_additional_votes": 0
-                  },
-                  "kolsteea": {
-                    "prev_votes": 725,
-                    "num_additional_votes": 0
-                  },
-                  "write-ins": {
-                    "prev_votes": 23,
-                    "num_additional_votes": 0
-                  }
-                }
-              },
-              {
-                "name": "Chemung",
-                "fips": "36015",
-                "num_additional_votes": 0,
-                "prev_votes": 31127,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 89,
-                "prev_eevp": 78,
-                "candidate_changes": {
-                  "reedt": {
-                    "prev_votes": 20342,
-                    "num_additional_votes": 0
-                  },
-                  "mitranot": {
-                    "prev_votes": 10380,
-                    "num_additional_votes": 0
-                  },
-                  "kolsteea": {
-                    "prev_votes": 405,
-                    "num_additional_votes": 0
-                  }
-                }
-              },
-              {
-                "name": "Ontario",
-                "fips": "36069",
-                "num_additional_votes": 0,
-                "prev_votes": 16466,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 33,
-                "prev_eevp": 80,
-                "candidate_changes": {
-                  "reedt": {
-                    "prev_votes": 9584,
-                    "num_additional_votes": 0
-                  },
-                  "mitranot": {
-                    "prev_votes": 6719,
-                    "num_additional_votes": 0
-                  },
-                  "kolsteea": {
-                    "prev_votes": 163,
-                    "num_additional_votes": 0
-                  }
-                }
-              },
-              {
-                "name": "Schuyler",
-                "fips": "36097",
-                "num_additional_votes": 0,
-                "prev_votes": 9596,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 19,
-                "prev_eevp": 100,
-                "candidate_changes": {
-                  "reedt": {
-                    "prev_votes": 5868,
-                    "num_additional_votes": 0
-                  },
-                  "mitranot": {
-                    "prev_votes": 3596,
-                    "num_additional_votes": 0
-                  },
-                  "kolsteea": {
-                    "prev_votes": 125,
-                    "num_additional_votes": 0
-                  },
-                  "write-ins": {
-                    "prev_votes": 7,
-                    "num_additional_votes": 0
-                  }
-                }
-              },
-              {
-                "name": "Seneca",
-                "fips": "36099",
-                "num_additional_votes": 2504,
-                "prev_votes": 12444,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 16,
-                "prev_precincts": 27,
-                "prev_eevp": 81,
-                "candidate_changes": {
-                  "reedt": {
-                    "prev_votes": 7648,
-                    "num_additional_votes": 847
-                  },
-                  "mitranot": {
-                    "prev_votes": 4703,
-                    "num_additional_votes": 1631
-                  },
-                  "kolsteea": {
-                    "prev_votes": 93,
-                    "num_additional_votes": 23
-                  },
-                  "write-ins": {
-                    "num_additional_votes": null
-                  }
-                }
-              },
-              {
-                "name": "Steuben",
-                "fips": "36101",
-                "num_additional_votes": 0,
-                "prev_votes": 38120,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 85,
-                "prev_eevp": 83,
-                "candidate_changes": {
-                  "reedt": {
-                    "prev_votes": 27434,
-                    "num_additional_votes": 0
-                  },
-                  "mitranot": {
-                    "prev_votes": 10384,
-                    "num_additional_votes": 0
-                  },
-                  "kolsteea": {
-                    "prev_votes": 302,
-                    "num_additional_votes": 0
-                  }
-                }
-              },
-              {
-                "name": "Tioga",
-                "fips": "36107",
-                "num_additional_votes": 0,
-                "prev_votes": 18083,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 31,
-                "prev_eevp": 98,
-                "candidate_changes": {
-                  "reedt": {
-                    "prev_votes": 11360,
-                    "num_additional_votes": 0
-                  },
-                  "mitranot": {
-                    "prev_votes": 6424,
-                    "num_additional_votes": 0
-                  },
-                  "kolsteea": {
-                    "prev_votes": 292,
-                    "num_additional_votes": 0
-                  },
-                  "write-ins": {
-                    "prev_votes": 7,
-                    "num_additional_votes": 0
-                  }
-                }
-              },
-              {
-                "name": "Tompkins",
-                "fips": "36109",
-                "num_additional_votes": 0,
-                "prev_votes": 32438,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 63,
-                "prev_eevp": 70,
-                "candidate_changes": {
-                  "reedt": {
-                    "prev_votes": 10041,
-                    "num_additional_votes": 0
-                  },
-                  "mitranot": {
-                    "prev_votes": 21968,
-                    "num_additional_votes": 0
-                  },
-                  "kolsteea": {
-                    "prev_votes": 391,
-                    "num_additional_votes": 0
-                  },
-                  "write-ins": {
-                    "prev_votes": 38,
-                    "num_additional_votes": 0
-                  }
-                }
-              },
-              {
-                "name": "Yates",
-                "fips": "36123",
-                "num_additional_votes": 0,
-                "prev_votes": 10434,
-                "num_additional_precincts": 0,
-                "num_additional_eevp": 0,
-                "prev_precincts": 18,
-                "prev_eevp": 94,
-                "candidate_changes": {
-                  "reedt": {
-                    "prev_votes": 6419,
-                    "num_additional_votes": 0
-                  },
-                  "mitranot": {
-                    "prev_votes": 3943,
-                    "num_additional_votes": 0
-                  },
-                  "kolsteea": {
-                    "prev_votes": 69,
-                    "num_additional_votes": 0
-                  },
-                  "write-ins": {
-                    "prev_votes": 3,
-                    "num_additional_votes": 0
-                  }
-                }
-              }
-            ]
-          }
+          "details_about_changes": {}
         },
         "winnerCalledTimestamp": 1604469559147,
         "timeseries": [
@@ -47947,7 +47535,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79673083,
+            "votes": 79672363,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -47964,7 +47552,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73690193,
+            "votes": 73689996,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -47981,7 +47569,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2847152,
+            "votes": 2847115,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -48308,9 +47896,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2475227,
+          "votes": 2474507,
           "percent": 49.5,
-          "percent_display": "49.51",
+          "percent_display": "49.50",
           "electoral_votes": 16,
           "absentee_votes": 2100099,
           "absentee_percent": 52.4,
@@ -64463,8 +64051,8 @@
     ]
   },
   "meta": {
-    "version": 20875,
+    "version": 20888,
     "track": "2020-11-03",
-    "timestamp": "2020-11-20T21:56:51.791Z"
+    "timestamp": "2020-11-20T22:10:12.303Z"
   }
 }
