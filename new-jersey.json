@@ -30,7 +30,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 4518503,
+        "votes": 4521378,
         "electoral_votes": 14,
         "absentee_votes": 1669277,
         "absentee_counties": 12,
@@ -56,7 +56,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T18:14:37Z",
+        "last_updated": "2020-11-20T18:18:21Z",
         "candidates": [
           {
             "candidate_id": "biden-1036",
@@ -69,7 +69,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2584183,
+            "votes": 2585223,
             "percent": 57.2,
             "percent_display": "57.2",
             "electoral_votes": 14,
@@ -91,9 +91,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 1859293,
-            "percent": 41.1,
-            "percent_display": "41.1",
+            "votes": 1861064,
+            "percent": 41.2,
+            "percent_display": "41.2",
             "electoral_votes": 0,
             "absentee_votes": 753404,
             "absentee_percent": 45.1,
@@ -113,7 +113,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 31258,
+            "votes": 31284,
             "percent": 0.7,
             "percent_display": "0.7",
             "electoral_votes": 0,
@@ -134,7 +134,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 18005,
+            "votes": 18018,
             "percent": 0.4,
             "percent_display": "0.4",
             "electoral_votes": 0,
@@ -155,7 +155,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 14017,
+            "votes": 14035,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -176,7 +176,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 3225,
+            "votes": 3227,
             "percent": 0.1,
             "percent_display": "0.1",
             "electoral_votes": 0,
@@ -197,7 +197,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 2929,
+            "votes": 2930,
             "percent": 0.1,
             "percent_display": "0.1",
             "electoral_votes": 0,
@@ -218,7 +218,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 2896,
+            "votes": 2898,
             "percent": 0.1,
             "percent_display": "0.1",
             "electoral_votes": 0,
@@ -239,7 +239,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 2697,
+            "votes": 2699,
             "percent": 0.1,
             "percent_display": "0.1",
             "electoral_votes": 0,
@@ -251,8 +251,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 16.0427,
-        "leader_margin_votes": 724890,
+        "leader_margin_value": 16.01633,
+        "leader_margin_votes": 724159,
         "leader_margin_display": "D+16",
         "leader_margin_name_display": "Biden +16",
         "leader_party_id": "democrat",
@@ -1298,7 +1298,7 @@
           {
             "fips": "34041",
             "name": "Warren",
-            "votes": 58182,
+            "votes": 61057,
             "absentee_votes": 53340,
             "reporting": 22,
             "precincts": 22,
@@ -1315,15 +1315,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 23861,
-              "trumpd": 32998,
-              "jorgensenj": 629,
-              "write-ins": 257,
-              "hawkinsh": 245,
-              "hammonsb": 89,
-              "blankenshipd": 39,
-              "la_rivag": 39,
-              "de_la_fuenter": 25
+              "bidenj": 24901,
+              "trumpd": 34769,
+              "jorgensenj": 655,
+              "write-ins": 270,
+              "hawkinsh": 263,
+              "hammonsb": 91,
+              "la_rivag": 41,
+              "blankenshipd": 40,
+              "de_la_fuenter": 27
             },
             "results_absentee": {
               "bidenj": 22315,
@@ -1332,16 +1332,16 @@
               "write-ins": 227,
               "hawkinsh": 211,
               "hammonsb": 82,
-              "blankenshipd": 36,
               "la_rivag": 34,
+              "blankenshipd": 36,
               "de_la_fuenter": 22
             },
-            "last_updated": "2020-11-16T15:48:25Z",
-            "leader_margin_value": 15.70417,
+            "last_updated": "2020-11-20T18:18:20Z",
+            "leader_margin_value": 16.16195,
             "leader_margin_display": "R+16",
             "leader_margin_name_display": "Trump +16",
             "leader_party_id": "republican",
-            "margin2020": 15.70417,
+            "margin2020": 16.16195,
             "votes2016": 49683,
             "margin2016": 25.3,
             "votes2012": 45415,
@@ -1378,12 +1378,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Burlington County. We’re still waiting for more votes to be counted in 20 counties.",
-            "timestamp": 1605896233207,
+            "sentence": "We just received more votes from Warren County. We’re still waiting for more votes to be counted in 20 counties.",
+            "timestamp": 1605896473008,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Burlington County. We’re still waiting for more votes to be counted in 20 counties.",
+            "generatedText": "We just received more votes from Warren County. We’re still waiting for more votes to be counted in 20 counties.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -3332,6 +3332,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-20T18:14:37Z"
+          },
+          {
+            "vote_shares": {
+              "bidenj": 0.572,
+              "trumpd": 0.412
+            },
+            "votes": 4521378,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T18:18:21Z"
           }
         ]
       },
@@ -3364,7 +3374,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 4396318,
+        "votes": 4399111,
         "absentee_votes": 1627802,
         "absentee_counties": 12,
         "absentee_count_progress": "unknown",
@@ -3389,7 +3399,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-20T18:15:03Z",
+        "last_updated": "2020-11-20T18:18:58Z",
         "candidates": [
           {
             "candidate_id": "booker-63133",
@@ -3402,9 +3412,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 2516968,
-            "percent": 57.3,
-            "percent_display": "57.3",
+            "votes": 2518021,
+            "percent": 57.2,
+            "percent_display": "57.2",
             "electoral_votes": 0,
             "absentee_votes": 868079,
             "absentee_percent": 53.3,
@@ -3424,9 +3434,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1795684,
-            "percent": 40.8,
-            "percent_display": "40.8",
+            "votes": 1797298,
+            "percent": 40.9,
+            "percent_display": "40.9",
             "electoral_votes": 0,
             "absentee_votes": 731288,
             "absentee_percent": 44.9,
@@ -3445,7 +3455,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 37654,
+            "votes": 37730,
             "percent": 0.9,
             "percent_display": "0.9",
             "electoral_votes": 0,
@@ -3466,7 +3476,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 31420,
+            "votes": 31456,
             "percent": 0.7,
             "percent_display": "0.7",
             "electoral_votes": 0,
@@ -3487,7 +3497,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 11399,
+            "votes": 11410,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -3508,7 +3518,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 3193,
+            "votes": 3196,
             "percent": 0.1,
             "percent_display": "0.1",
             "electoral_votes": 0,
@@ -3520,8 +3530,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 16.40655,
-        "leader_margin_votes": 721284,
+        "leader_margin_value": 16.38338,
+        "leader_margin_votes": 720723,
         "leader_margin_display": "D+16",
         "leader_margin_name_display": "Booker +16",
         "leader_party_id": "democrat",
@@ -4347,7 +4357,7 @@
           {
             "fips": "34041",
             "name": "Warren",
-            "votes": 56933,
+            "votes": 59726,
             "absentee_votes": 52262,
             "reporting": 22,
             "precincts": 22,
@@ -4364,12 +4374,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bookerc": 23071,
-              "mehtar": 32279,
-              "hoffmanm": 883,
-              "fernandezv": 442,
-              "burked": 175,
-              "write-ins": 83
+              "bookerc": 24124,
+              "mehtar": 33893,
+              "hoffmanm": 959,
+              "fernandezv": 478,
+              "burked": 186,
+              "write-ins": 86
             },
             "results_absentee": {
               "bookerc": 21563,
@@ -4379,8 +4389,8 @@
               "burked": 155,
               "write-ins": 72
             },
-            "last_updated": "2020-11-16T15:47:48Z",
-            "leader_margin_value": 16.1734,
+            "last_updated": "2020-11-20T18:18:57Z",
+            "leader_margin_value": 16.35636,
             "leader_margin_display": "R+16",
             "leader_margin_name_display": "Mehta +16",
             "leader_party_id": "republican"
@@ -4410,12 +4420,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Burlington County. We’re still waiting for more votes to be counted in 20 counties.",
-            "timestamp": 1605896233207,
+            "sentence": "We just received more votes from Warren County. We’re still waiting for more votes to be counted in 20 counties.",
+            "timestamp": 1605896473008,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Burlington County. We’re still waiting for more votes to be counted in 20 counties.",
+            "generatedText": "We just received more votes from Warren County. We’re still waiting for more votes to be counted in 20 counties.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -6334,6 +6344,16 @@
             "eevp": 98,
             "eevp_source": "edison",
             "timestamp": "2020-11-20T18:15:03Z"
+          },
+          {
+            "vote_shares": {
+              "bookerc": 0.572,
+              "mehtar": 0.409
+            },
+            "votes": 4399111,
+            "eevp": 98,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T18:18:58Z"
           }
         ]
       },
@@ -9074,7 +9094,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 421006,
+        "votes": 422536,
         "absentee_votes": 367591,
         "absentee_counties": 4,
         "absentee_count_progress": "unknown",
@@ -9099,7 +9119,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-20T14:20:51Z",
+        "last_updated": "2020-11-20T18:19:14Z",
         "candidates": [
           {
             "candidate_id": "gottheimer-65116-31-h",
@@ -9112,7 +9132,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 224184,
+            "votes": 224736,
             "percent": 53.2,
             "percent_display": "53.2",
             "electoral_votes": 0,
@@ -9133,7 +9153,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 191769,
+            "votes": 192699,
             "percent": 45.6,
             "percent_display": "45.6",
             "electoral_votes": 0,
@@ -9154,7 +9174,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 5053,
+            "votes": 5101,
             "percent": 1.2,
             "percent_display": "1.2",
             "electoral_votes": 0,
@@ -9166,8 +9186,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 7.69942,
-        "leader_margin_votes": 32415,
+        "leader_margin_value": 7.58208,
+        "leader_margin_votes": 32037,
         "leader_margin_display": "D+8",
         "leader_margin_name_display": "Gottheimer +8",
         "leader_party_id": "democrat",
@@ -9280,7 +9300,7 @@
           {
             "fips": "34041",
             "name": "Warren",
-            "votes": 37376,
+            "votes": 38906,
             "absentee_votes": 34328,
             "reporting": 14,
             "precincts": 14,
@@ -9297,17 +9317,17 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "gottheimerj": 15253,
-              "pallottaf": 21451,
-              "velluccil": 672
+              "gottheimerj": 15805,
+              "pallottaf": 22381,
+              "velluccil": 720
             },
             "results_absentee": {
               "gottheimerj": 14251,
               "pallottaf": 19483,
               "velluccil": 594
             },
-            "last_updated": "2020-11-16T15:48:07Z",
-            "leader_margin_value": 16.58283,
+            "last_updated": "2020-11-20T18:19:13Z",
+            "leader_margin_value": 16.90228,
             "leader_margin_display": "R+17",
             "leader_margin_name_display": "Pallotta +17",
             "leader_party_id": "republican"
@@ -9704,6 +9724,17 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-20T14:20:51Z"
+          },
+          {
+            "vote_shares": {
+              "gottheimerj": 0.532,
+              "pallottaf": 0.456,
+              "velluccil": 0.012
+            },
+            "votes": 422536,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T18:19:14Z"
           }
         ]
       },
@@ -10232,7 +10263,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 429278,
+        "votes": 430543,
         "absentee_votes": 150779,
         "absentee_counties": 3,
         "absentee_count_progress": "unknown",
@@ -10257,7 +10288,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-20T14:20:51Z",
+        "last_updated": "2020-11-20T18:19:25Z",
         "candidates": [
           {
             "candidate_id": "malinowski-20005-31-h",
@@ -10270,7 +10301,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 217146,
+            "votes": 217655,
             "percent": 50.6,
             "percent_display": "50.6",
             "electoral_votes": 0,
@@ -10291,7 +10322,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 212132,
+            "votes": 212888,
             "percent": 49.4,
             "percent_display": "49.4",
             "electoral_votes": 0,
@@ -10303,10 +10334,10 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 1.16801,
-        "leader_margin_votes": 5014,
-        "leader_margin_display": "D+1.2",
-        "leader_margin_name_display": "Malinowski +1.2",
+        "leader_margin_value": 1.10721,
+        "leader_margin_votes": 4767,
+        "leader_margin_display": "D+1.1",
+        "leader_margin_name_display": "Malinowski +1.1",
         "leader_party_id": "democrat",
         "counties": [
           {
@@ -10477,12 +10508,12 @@
           {
             "fips": "34041",
             "name": "Warren",
-            "votes": 19315,
+            "votes": 20580,
             "absentee_votes": 17733,
             "reporting": 8,
             "precincts": 8,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 99,
+            "eevp": 100,
             "tot_exp_vote": 19545,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
@@ -10494,14 +10525,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "malinowskit": 8282,
-              "keant": 11033
+              "malinowskit": 8791,
+              "keant": 11789
             },
             "results_absentee": {
               "malinowskit": 7727,
               "keant": 10006
             },
-            "last_updated": "2020-11-16T15:48:13Z",
+            "last_updated": "2020-11-20T18:19:23Z",
             "leader_margin_value": null,
             "leader_margin_display": "–",
             "leader_margin_name_display": "–",
@@ -11168,6 +11199,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-20T14:20:51Z"
+          },
+          {
+            "vote_shares": {
+              "malinowskit": 0.506,
+              "kean_t": 0.494
+            },
+            "votes": 430543,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T18:19:25Z"
           }
         ]
       },
@@ -16795,7 +16836,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75528280,
+            "votes": 75529341,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -16812,7 +16853,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72131638,
+            "votes": 72133324,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -16829,7 +16870,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2071292,
+            "votes": 2071340,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -16857,7 +16898,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79662748,
+            "votes": 79663809,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -16874,7 +16915,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73679863,
+            "votes": 73682020,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -16891,7 +16932,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2846880,
+            "votes": 2847055,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -16923,7 +16964,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 41933380,
+            "votes": 41934433,
             "percent": "47.2",
             "change": 1,
             "flip_count": 2,
@@ -16940,7 +16981,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 43978753,
+            "votes": 43980367,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -16957,7 +16998,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2895635,
+            "votes": 2895761,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -17030,7 +17071,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 217146,
+          "votes": 217655,
           "percent": 50.6,
           "percent_display": "50.6",
           "electoral_votes": 0,
@@ -31401,9 +31442,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2516968,
-          "percent": 57.3,
-          "percent_display": "57.3",
+          "votes": 2518021,
+          "percent": 57.2,
+          "percent_display": "57.2",
           "electoral_votes": 0,
           "absentee_votes": 868079,
           "absentee_percent": 53.3,
@@ -31661,7 +31702,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2584183,
+          "votes": 2585223,
           "percent": 57.2,
           "percent_display": "57.2",
           "electoral_votes": 14,
@@ -32887,7 +32928,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 1326605,
+          "votes": 1326643,
           "percent": 62.1,
           "percent_display": "62.1",
           "electoral_votes": 8,
@@ -33373,8 +33414,8 @@
     ]
   },
   "meta": {
-    "version": 20658,
+    "version": 20670,
     "track": "2020-11-03",
-    "timestamp": "2020-11-20T18:21:01.569Z"
+    "timestamp": "2020-11-20T18:29:42.630Z"
   }
 }
