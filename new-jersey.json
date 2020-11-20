@@ -14760,7 +14760,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 4052674,
+        "votes": 4053214,
         "absentee_votes": 621060,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -14773,7 +14773,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 6347,
+        "precincts_reporting": 6345,
         "precincts_total": 6348,
         "reporting_display": "99% reporting",
         "reporting_value": "99%",
@@ -14785,7 +14785,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T20:37:14.967Z",
+        "last_updated": "2020-11-20T20:51:19.107Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -14797,7 +14797,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2719376,
+            "votes": 2719816,
             "percent": 67.1,
             "percent_display": "67.1",
             "electoral_votes": 0,
@@ -14817,7 +14817,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1333298,
+            "votes": 1333398,
             "percent": 32.9,
             "percent_display": "32.9",
             "electoral_votes": 0,
@@ -14920,9 +14920,9 @@
           {
             "fips": "34007",
             "name": "Camden",
-            "votes": 228658,
+            "votes": 229198,
             "absentee_votes": 0,
-            "reporting": 345,
+            "reporting": 342,
             "precincts": 345,
             "absentee_method": null,
             "eevp": null,
@@ -14937,14 +14937,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 172091,
-              "no": 56567
+              "yes": 172531,
+              "no": 56667
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T20:37:14.967Z"
+            "last_updated": "2020-11-20T20:49:17.760Z"
           },
           {
             "fips": "34009",
@@ -15038,7 +15038,7 @@
             "name": "Gloucester",
             "votes": 161225,
             "absentee_votes": 0,
-            "reporting": 228,
+            "reporting": 229,
             "precincts": 229,
             "absentee_method": null,
             "eevp": null,
@@ -15060,7 +15060,7 @@
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T17:25:19.073Z"
+            "last_updated": "2020-11-20T20:51:19.107Z"
           },
           {
             "fips": "34017",
@@ -15475,7 +15475,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3979373,
+        "votes": 3979927,
         "absentee_votes": 605634,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -15488,7 +15488,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 6347,
+        "precincts_reporting": 6345,
         "precincts_total": 6348,
         "reporting_display": "99% reporting",
         "reporting_value": "99%",
@@ -15500,7 +15500,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T20:37:14.967Z",
+        "last_updated": "2020-11-20T20:51:19.107Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -15512,7 +15512,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 3042581,
+            "votes": 3043035,
             "percent": 76.5,
             "percent_display": "76.5",
             "electoral_votes": 0,
@@ -15532,7 +15532,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 936792,
+            "votes": 936892,
             "percent": 23.5,
             "percent_display": "23.5",
             "electoral_votes": 0,
@@ -15635,9 +15635,9 @@
           {
             "fips": "34007",
             "name": "Camden",
-            "votes": 225762,
+            "votes": 226316,
             "absentee_votes": 0,
-            "reporting": 345,
+            "reporting": 342,
             "precincts": 345,
             "absentee_method": null,
             "eevp": null,
@@ -15652,14 +15652,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 179490,
-              "no": 46272
+              "yes": 179944,
+              "no": 46372
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T20:37:14.967Z"
+            "last_updated": "2020-11-20T20:51:19.107Z"
           },
           {
             "fips": "34009",
@@ -15753,7 +15753,7 @@
             "name": "Gloucester",
             "votes": 159948,
             "absentee_votes": 0,
-            "reporting": 228,
+            "reporting": 229,
             "precincts": 229,
             "absentee_method": null,
             "eevp": null,
@@ -15775,7 +15775,7 @@
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T17:25:19.073Z"
+            "last_updated": "2020-11-20T20:51:19.107Z"
           },
           {
             "fips": "34017",
@@ -16203,10 +16203,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 6347,
+        "precincts_reporting": 6348,
         "precincts_total": 6348,
-        "reporting_display": "99% reporting",
-        "reporting_value": "99%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -16215,7 +16215,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T20:37:14.967Z",
+        "last_updated": "2020-11-20T20:51:19.107Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -16468,7 +16468,7 @@
             "name": "Gloucester",
             "votes": 154701,
             "absentee_votes": 0,
-            "reporting": 228,
+            "reporting": 229,
             "precincts": 229,
             "absentee_method": null,
             "eevp": null,
@@ -16490,7 +16490,7 @@
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T17:25:19.073Z"
+            "last_updated": "2020-11-20T20:51:19.107Z"
           },
           {
             "fips": "34017",
@@ -33468,8 +33468,8 @@
     ]
   },
   "meta": {
-    "version": 20794,
+    "version": 20806,
     "track": "2020-11-03",
-    "timestamp": "2020-11-20T20:48:31.310Z"
+    "timestamp": "2020-11-20T20:54:52.701Z"
   }
 }
