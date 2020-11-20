@@ -2692,6 +2692,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-19T19:50:56Z"
+          },
+          {
+            "vote_shares": {
+              "trumpd": 0.582,
+              "bidenj": 0.377
+            },
+            "votes": 1487487,
+            "eevp": 99,
+            "eevp_source": "ap",
+            "timestamp": "2020-11-18T01:10:49.247Z"
           }
         ]
       },
@@ -3664,6 +3674,27 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-18T16:20:53Z"
+          },
+          {
+            "vote_shares": {
+              "mooreb": 0.695,
+              "parryd": 0.304,
+              "write-ins": 0
+            },
+            "votes": 342223,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-18T18:50:47Z"
+          },
+          {
+            "vote_shares": {
+              "mooreb": 0.695,
+              "parryd": 0.305
+            },
+            "votes": 342092,
+            "eevp": null,
+            "eevp_source": "ap",
+            "timestamp": "2020-11-18T01:10:49.247Z"
           },
           {
             "vote_shares": {
@@ -4939,6 +4970,17 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-18T18:50:47Z"
+          },
+          {
+            "vote_shares": {
+              "stewartc": 0.59,
+              "westonk": 0.366,
+              "lathamj": 0.044
+            },
+            "votes": 354192,
+            "eevp": null,
+            "eevp_source": "ap",
+            "timestamp": "2020-11-18T01:10:49.247Z"
           }
         ]
       },
@@ -5922,6 +5964,18 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-18T00:01:04Z"
+          },
+          {
+            "vote_shares": {
+              "curtisj": 0.688,
+              "thorped": 0.268,
+              "cummingsd": 0.025,
+              "mcneillt": 0.02
+            },
+            "votes": 358670,
+            "eevp": null,
+            "eevp_source": "ap",
+            "timestamp": "2020-11-18T01:10:49.247Z"
           }
         ]
       },
@@ -6770,6 +6824,31 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-17T14:54:49Z"
+          },
+          {
+            "vote_shares": {
+              "owensb": 0.477,
+              "mcadamsb": 0.467,
+              "molnarj": 0.035,
+              "broderickj": 0.021
+            },
+            "votes": 376701,
+            "eevp": null,
+            "eevp_source": "ap",
+            "timestamp": "2020-11-17T23:53:25.563Z"
+          },
+          {
+            "vote_shares": {
+              "owensb": 0.474,
+              "mcadamsb": 0.468,
+              "molnarj": 0.034,
+              "broderickj": 0.021,
+              "write-ins": 0.002
+            },
+            "votes": 373634,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-18T17:19:02Z"
           }
         ]
       },
@@ -9328,6 +9407,31 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-18T16:20:53Z"
+          },
+          {
+            "vote_shares": {
+              "coxs": 0.637,
+              "petersonc": 0.307,
+              "cottamd": 0.036,
+              "duerdeng": 0.018,
+              "write-ins": 0.003
+            },
+            "votes": 1441485,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-18T18:50:48Z"
+          },
+          {
+            "vote_shares": {
+              "coxs": 0.639,
+              "petersonc": 0.308,
+              "cottamd": 0.036,
+              "duerdeng": 0.018
+            },
+            "votes": 1438589,
+            "eevp": 97,
+            "eevp_source": "ap",
+            "timestamp": "2020-11-18T01:10:49.247Z"
           },
           {
             "vote_shares": {
@@ -46067,8 +46171,8 @@
     ]
   },
   "meta": {
-    "version": 20289,
+    "version": 20294,
     "track": "2020-11-03",
-    "timestamp": "2020-11-20T01:00:41.841Z"
+    "timestamp": "2020-11-20T01:29:06.286Z"
   }
 }

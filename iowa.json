@@ -7941,6 +7941,26 @@
             "eevp": 98,
             "eevp_source": "edison",
             "timestamp": "2020-11-17T14:09:44Z"
+          },
+          {
+            "vote_shares": {
+              "trumpd": 0.532,
+              "bidenj": 0.45
+            },
+            "votes": 1686534,
+            "eevp": 99,
+            "eevp_source": "ap",
+            "timestamp": "2020-11-17T14:49:59.013Z"
+          },
+          {
+            "vote_shares": {
+              "trumpd": 0.532,
+              "bidenj": 0.449
+            },
+            "votes": 1688310,
+            "eevp": 98,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-18T17:17:16Z"
           }
         ]
       },
@@ -14095,6 +14115,16 @@
             "eevp": 97,
             "eevp_source": "edison",
             "timestamp": "2020-11-17T14:09:44Z"
+          },
+          {
+            "vote_shares": {
+              "ernstj": 0.518,
+              "greenfieldt": 0.452
+            },
+            "votes": 1670617,
+            "eevp": 99,
+            "eevp_source": "ap",
+            "timestamp": "2020-11-17T14:49:59.013Z"
           }
         ]
       },
@@ -15527,6 +15557,16 @@
             "eevp": 91,
             "eevp_source": "edison",
             "timestamp": "2020-11-16T15:58:45Z"
+          },
+          {
+            "vote_shares": {
+              "hinsona": 0.513,
+              "finkenauera": 0.487
+            },
+            "votes": 413435,
+            "eevp": null,
+            "eevp_source": "ap",
+            "timestamp": "2020-11-16T22:24:46.447Z"
           }
         ]
       },
@@ -17169,6 +17209,16 @@
             "eevp": 89,
             "eevp_source": "edison",
             "timestamp": "2020-11-19T21:50:41Z"
+          },
+          {
+            "vote_shares": {
+              "miller_meeksm": 0.5,
+              "hartr": 0.5
+            },
+            "votes": 393677,
+            "eevp": null,
+            "eevp_source": "ap",
+            "timestamp": "2020-11-16T16:44:16.680Z"
           }
         ]
       },
@@ -18438,6 +18488,17 @@
             "eevp": 96,
             "eevp_source": "edison",
             "timestamp": "2020-11-12T20:56:47Z"
+          },
+          {
+            "vote_shares": {
+              "axnec": 0.49,
+              "youngd": 0.476,
+              "holderb": 0.034
+            },
+            "votes": 447563,
+            "eevp": null,
+            "eevp_source": "ap",
+            "timestamp": "2020-11-16T16:44:35.02Z"
           }
         ]
       },
@@ -20907,6 +20968,16 @@
             "eevp": 87,
             "eevp_source": "edison",
             "timestamp": "2020-11-17T14:09:44Z"
+          },
+          {
+            "vote_shares": {
+              "feenstrar": 0.621,
+              "scholtenj": 0.379
+            },
+            "votes": 382130,
+            "eevp": null,
+            "eevp_source": "ap",
+            "timestamp": "2020-11-17T14:49:59.013Z"
           }
         ]
       },
@@ -53866,8 +53937,8 @@
     ]
   },
   "meta": {
-    "version": 20289,
+    "version": 20294,
     "track": "2020-11-03",
-    "timestamp": "2020-11-20T01:00:41.841Z"
+    "timestamp": "2020-11-20T01:29:06.286Z"
   }
 }
