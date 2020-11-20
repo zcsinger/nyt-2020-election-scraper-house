@@ -31,7 +31,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 17219241,
+        "votes": 17219254,
         "electoral_votes": 55,
         "absentee_votes": 8420433,
         "absentee_counties": 32,
@@ -57,7 +57,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T14:19:14Z",
+        "last_updated": "2020-11-20T21:30:42Z",
         "candidates": [
           {
             "candidate_id": "biden-1036",
@@ -70,7 +70,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10957378,
+            "votes": 10957381,
             "percent": 63.6,
             "percent_display": "63.6",
             "electoral_votes": 55,
@@ -92,7 +92,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 5890353,
+            "votes": 5890363,
             "percent": 34.2,
             "percent_display": "34.2",
             "electoral_votes": 0,
@@ -210,8 +210,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 29.42653,
-        "leader_margin_votes": 5067025,
+        "leader_margin_value": 29.42647,
+        "leader_margin_votes": 5067018,
         "leader_margin_display": "D+29",
         "leader_margin_name_display": "Biden +29",
         "leader_party_id": "democrat",
@@ -545,7 +545,7 @@
           {
             "fips": "06015",
             "name": "Del Norte",
-            "votes": 11403,
+            "votes": 11416,
             "absentee_votes": 0,
             "reporting": 18,
             "precincts": 18,
@@ -562,8 +562,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 4656,
-              "trumpd": 6434,
+              "bidenj": 4659,
+              "trumpd": 6444,
               "jorgensenj": 149,
               "hawkinsh": 78,
               "de_la_fuenter": 53,
@@ -577,12 +577,12 @@
               "de_la_fuenter": 0,
               "la_rivag": 0
             },
-            "last_updated": "2020-11-16T15:47:42Z",
-            "leader_margin_value": 15.59239,
+            "last_updated": "2020-11-20T21:30:41Z",
+            "leader_margin_value": 15.63595,
             "leader_margin_display": "R+16",
             "leader_margin_name_display": "Trump +16",
             "leader_party_id": "republican",
-            "margin2020": 15.59239,
+            "margin2020": 15.63595,
             "votes2016": 9558,
             "margin2016": 17.3,
             "votes2012": 8770,
@@ -2923,12 +2923,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from San Joaquin County.",
-            "timestamp": 1605850990340,
+            "sentence": "We just received more votes from Del Norte County.",
+            "timestamp": 1605907944346,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from San Joaquin County.",
+            "generatedText": "We just received more votes from Del Norte County.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -4987,6 +4987,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-20T05:40:54Z"
+          },
+          {
+            "vote_shares": {
+              "bidenj": 0.636,
+              "trumpd": 0.342
+            },
+            "votes": 17219254,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T21:30:42Z"
           }
         ]
       },
@@ -6064,7 +6074,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 356831,
+        "votes": 356843,
         "absentee_votes": 41893,
         "absentee_counties": 2,
         "absentee_count_progress": "unknown",
@@ -6089,7 +6099,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-20T14:24:09Z",
+        "last_updated": "2020-11-20T21:31:05Z",
         "candidates": [
           {
             "candidate_id": "huffman-62063-5-h",
@@ -6102,7 +6112,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 273895,
+            "votes": 273899,
             "percent": 76.8,
             "percent_display": "76.8",
             "electoral_votes": 0,
@@ -6123,7 +6133,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 82936,
+            "votes": 82944,
             "percent": 23.2,
             "percent_display": "23.2",
             "electoral_votes": 0,
@@ -6135,8 +6145,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 53.51525,
-        "leader_margin_votes": 190959,
+        "leader_margin_value": 53.51233,
+        "leader_margin_votes": 190955,
         "leader_margin_display": "D+54",
         "leader_margin_name_display": "Huffman +54",
         "leader_party_id": "democrat",
@@ -6144,7 +6154,7 @@
           {
             "fips": "06015",
             "name": "Del Norte",
-            "votes": 11146,
+            "votes": 11158,
             "absentee_votes": 0,
             "reporting": 18,
             "precincts": 18,
@@ -6161,15 +6171,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "huffmanj": 5082,
-              "mensingd": 6064
+              "huffmanj": 5086,
+              "mensingd": 6072
             },
             "results_absentee": {
               "huffmanj": 0,
               "mensingd": 0
             },
-            "last_updated": "2020-11-16T15:47:59Z",
-            "leader_margin_value": 8.81034,
+            "last_updated": "2020-11-20T21:31:04Z",
+            "leader_margin_value": 8.83671,
             "leader_margin_display": "R+9",
             "leader_margin_name_display": "Mensing +9",
             "leader_party_id": "republican"
@@ -6670,6 +6680,16 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-19T23:33:11.357Z"
+          },
+          {
+            "vote_shares": {
+              "huffmanj": 0.768,
+              "mensingd": 0.232
+            },
+            "votes": 356843,
+            "eevp": 91,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T21:31:05Z"
           }
         ]
       },
@@ -63901,7 +63921,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75530663,
+            "votes": 75535480,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -63918,7 +63938,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72136481,
+            "votes": 72139857,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -63935,7 +63955,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2071496,
+            "votes": 2071520,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -63963,7 +63983,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79668664,
+            "votes": 79668652,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -63980,7 +64000,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73688797,
+            "votes": 73688742,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -63997,7 +64017,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2847349,
+            "votes": 2847330,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -64029,7 +64049,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 41936789,
+            "votes": 41936793,
             "percent": "47.2",
             "change": 1,
             "flip_count": 2,
@@ -64046,7 +64066,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 43982528,
+            "votes": 43982530,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -64324,7 +64344,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2476127,
+          "votes": 2476107,
           "percent": 49.5,
           "percent_display": "49.50",
           "electoral_votes": 16,
@@ -74935,9 +74955,9 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 166901,
-          "percent": 64.2,
-          "percent_display": "64.2",
+          "votes": 170267,
+          "percent": 63.5,
+          "percent_display": "63.5",
           "electoral_votes": 0,
           "absentee_votes": 0,
           "absentee_percent": 0,
@@ -75572,7 +75592,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 10957378,
+          "votes": 10957381,
           "percent": 63.6,
           "percent_display": "63.6",
           "electoral_votes": 55,
@@ -79431,7 +79451,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2413577,
+          "votes": 2413582,
           "percent": 54.2,
           "percent_display": "54.2",
           "electoral_votes": 13,
@@ -79913,7 +79933,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2451805,
+          "votes": 2451809,
           "percent": 56,
           "percent_display": "56.0",
           "electoral_votes": 0,
@@ -80479,8 +80499,8 @@
     ]
   },
   "meta": {
-    "version": 20846,
+    "version": 20855,
     "track": "2020-11-03",
-    "timestamp": "2020-11-20T21:26:51.545Z"
+    "timestamp": "2020-11-20T21:35:12.141Z"
   }
 }
