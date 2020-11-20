@@ -37438,7 +37438,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79658967,
+            "votes": 79658992,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -37455,7 +37455,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73675644,
+            "votes": 73675665,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -37472,7 +37472,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2845904,
+            "votes": 2845881,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -37555,6 +37555,23 @@
       }
     ],
     "liveUpdates": [
+      {
+        "id": 546,
+        "author": "Richard Fausset",
+        "author_title_or_location": "in Atlanta",
+        "text": "Georgia’s secretary of state has certified President-elect Joseph R. Biden Jr.’s victory in the state, dealing a blow to President Trump’s bid to overturn the election.",
+        "link_url": "https://www.nytimes.com/live/2020/11/20/us/joe-biden-trump/brad-raffensperger-georgias-top-election-official-certifies-bidens-victory-numbers-dont-lie",
+        "link_text": "",
+        "linked_state_1": "",
+        "linked_state_2": "",
+        "linked_state_3": "",
+        "image_url": "",
+        "image_credit": "",
+        "datetime": 1605893938000,
+        "author_headshot": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "is_today": true,
+        "linked_states": null
+      },
       {
         "id": 545,
         "author": "Richard Fausset",
@@ -53451,7 +53468,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 1326349,
+          "votes": 1326370,
           "percent": 62.1,
           "percent_display": "62.1",
           "electoral_votes": 8,
@@ -53937,8 +53954,8 @@
     ]
   },
   "meta": {
-    "version": 20596,
+    "version": 20605,
     "track": "2020-11-03",
-    "timestamp": "2020-11-20T17:32:38.896Z"
+    "timestamp": "2020-11-20T17:39:59.446Z"
   }
 }
