@@ -16270,7 +16270,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75460354,
+            "votes": 75460501,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -16287,7 +16287,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72094986,
+            "votes": 72095224,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -16332,7 +16332,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79601679,
+            "votes": 79601843,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -16349,7 +16349,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73641712,
+            "votes": 73641912,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -16366,7 +16366,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2843836,
+            "votes": 2843861,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -16449,6 +16449,23 @@
       }
     ],
     "liveUpdates": [
+      {
+        "id": 545,
+        "author": "Richard Fausset",
+        "author_title_or_location": "in Atlanta",
+        "text": "President-elect Joseph R. Biden Jr.’s victory in Georgia was reaffirmed after the state finished its recount of nearly five million ballots with few meaningful vote changes.",
+        "link_url": "https://www.nytimes.com/live/2020/11/19/us/joe-biden-trump-updates/georgia-completes-its-full-recount-reaffirming-bidens-victory",
+        "link_text": "",
+        "linked_state_1": "",
+        "linked_state_2": "",
+        "linked_state_3": "",
+        "image_url": "",
+        "image_credit": "",
+        "datetime": 1605832754000,
+        "author_headshot": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "is_today": true,
+        "linked_states": null
+      },
       {
         "id": "NJ-G-H-7-2020-11-03-win-democrat",
         "include_on_homepage": false,
@@ -27647,7 +27664,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2288753,
+          "votes": 2288902,
           "percent": 56.8,
           "percent_display": "56.8",
           "electoral_votes": 0,
@@ -27784,7 +27801,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2363501,
+          "votes": 2363665,
           "percent": 58.4,
           "percent_display": "58.4",
           "electoral_votes": 12,
@@ -32814,8 +32831,8 @@
     ]
   },
   "meta": {
-    "version": 20259,
+    "version": 20281,
     "track": "2020-11-03",
-    "timestamp": "2020-11-19T23:55:02.407Z"
+    "timestamp": "2020-11-20T00:47:05.258Z"
   }
 }
