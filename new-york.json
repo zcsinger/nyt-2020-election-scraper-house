@@ -30,7 +30,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 7040665,
+        "votes": 7042751,
         "electoral_votes": 29,
         "absentee_votes": 343762,
         "absentee_counties": 9,
@@ -56,7 +56,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T18:24:35Z",
+        "last_updated": "2020-11-20T19:07:48Z",
         "candidates": [
           {
             "candidate_id": "biden-1036",
@@ -69,7 +69,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 3987255,
+            "votes": 3988310,
             "percent": 56.6,
             "percent_display": "56.6",
             "electoral_votes": 29,
@@ -91,7 +91,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 2948919,
+            "votes": 2949878,
             "percent": 41.9,
             "percent_display": "41.9",
             "electoral_votes": 0,
@@ -113,7 +113,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 51310,
+            "votes": 51326,
             "percent": 0.7,
             "percent_display": "0.7",
             "electoral_votes": 0,
@@ -134,7 +134,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 25284,
+            "votes": 25302,
             "percent": 0.4,
             "percent_display": "0.4",
             "electoral_votes": 0,
@@ -155,7 +155,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 19252,
+            "votes": 19258,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -176,7 +176,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8645,
+            "votes": 8677,
             "percent": 0.1,
             "percent_display": "0.1",
             "electoral_votes": 0,
@@ -188,8 +188,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 14.7477,
-        "leader_margin_votes": 1038336,
+        "leader_margin_value": 14.74469,
+        "leader_margin_votes": 1038432,
         "leader_margin_display": "D+15",
         "leader_margin_name_display": "Biden +15",
         "leader_party_id": "democrat",
@@ -1281,15 +1281,15 @@
           {
             "fips": "36049",
             "name": "Lewis",
-            "votes": 10878,
+            "votes": 12964,
             "absentee_votes": 0,
             "reporting": 31,
             "precincts": 36,
             "absentee_method": "Merged into voters' home precincts AFTER election night",
-            "eevp": 86,
+            "eevp": 100,
             "tot_exp_vote": 12684,
-            "eevp_value": "86%",
-            "eevp_display": "86% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "unknown",
@@ -1298,25 +1298,27 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 2768,
-              "trumpd": 7931,
-              "jorgensenj": 110,
-              "pierceb": 41,
-              "hawkinsh": 28
+              "bidenj": 3823,
+              "trumpd": 8890,
+              "jorgensenj": 126,
+              "pierceb": 47,
+              "hawkinsh": 46,
+              "write-ins": 32
             },
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
               "jorgensenj": 0,
               "pierceb": 0,
-              "hawkinsh": 0
+              "hawkinsh": 0,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-16T15:48:13Z",
-            "leader_margin_value": 47.46277,
-            "leader_margin_display": "R+47",
-            "leader_margin_name_display": "Trump +47",
+            "last_updated": "2020-11-20T19:07:41Z",
+            "leader_margin_value": 39.08516,
+            "leader_margin_display": "R+39",
+            "leader_margin_name_display": "Trump +39",
             "leader_party_id": "republican",
-            "margin2020": 47.46277,
+            "margin2020": 39.08516,
             "votes2016": 11325,
             "margin2016": 37.6,
             "votes2012": 10522,
@@ -3027,12 +3029,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Putnam County.",
-            "timestamp": 1605896831519,
+            "sentence": "We just received more votes from Lewis County.",
+            "timestamp": 1605899423736,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Putnam County.",
+            "generatedText": "We just received more votes from Lewis County.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -5681,6 +5683,16 @@
             "eevp": 84,
             "eevp_source": "edison",
             "timestamp": "2020-11-20T18:24:35Z"
+          },
+          {
+            "vote_shares": {
+              "bidenj": 0.566,
+              "trumpd": 0.419
+            },
+            "votes": 7042751,
+            "eevp": 84,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T19:07:48Z"
           }
         ]
       },
@@ -20584,7 +20596,7 @@
               "stefanike": 0,
               "cobbt": 0
             },
-            "last_updated": "2020-11-16T15:47:48Z",
+            "last_updated": "2020-11-20T19:07:46Z",
             "leader_margin_value": 54.27671,
             "leader_margin_display": "R+54",
             "leader_margin_name_display": "Stefanik +54",
@@ -31241,7 +31253,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 104414,
+        "votes": 104416,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -31267,7 +31279,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-19T18:54:41.193Z",
+        "last_updated": "2020-11-20T19:02:19.230Z",
         "candidates": [
           {
             "candidate_id": "omara-50455",
@@ -31280,7 +31292,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 63602,
+            "votes": 63604,
             "percent": 60.9,
             "percent_display": "60.9",
             "electoral_votes": 0,
@@ -47472,7 +47484,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79662486,
+            "votes": 79663541,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -47489,7 +47501,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73682499,
+            "votes": 73683468,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -47506,7 +47518,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2847008,
+            "votes": 2847080,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -47590,18 +47602,18 @@
     ],
     "liveUpdates": [
       {
-        "id": 546,
+        "id": 547,
         "author": "Richard Fausset",
         "author_title_or_location": "in Atlanta",
-        "text": "Georgia’s secretary of state has certified President-elect Joseph R. Biden Jr.’s victory in the state, dealing a blow to President Trump’s bid to overturn the election.",
-        "link_url": "https://www.nytimes.com/live/2020/11/20/us/joe-biden-trump/brad-raffensperger-georgias-top-election-official-certifies-bidens-victory-numbers-dont-lie",
+        "text": "Georgia officials are still on track to certify Biden’s victory in the state after a staffer mistakenly sent out a statement saying the process had been completed.",
+        "link_url": "https://www.nytimes.com/live/2020/11/20/us/joe-biden-trump/georgia-officials-say-certification-will-be-completed-today-after-a-staffer-sent-out-the-wrong-press-release",
         "link_text": "",
         "linked_state_1": "",
         "linked_state_2": "",
         "linked_state_3": "",
         "image_url": "",
         "image_credit": "",
-        "datetime": 1605893938000,
+        "datetime": 1605898498000,
         "author_headshot": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
         "is_today": true,
         "linked_states": null
@@ -60866,7 +60878,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3987255,
+          "votes": 3988310,
           "percent": 56.6,
           "percent_display": "56.6",
           "electoral_votes": 29,
@@ -63988,8 +64000,8 @@
     ]
   },
   "meta": {
-    "version": 20704,
+    "version": 20718,
     "track": "2020-11-03",
-    "timestamp": "2020-11-20T18:53:21.552Z"
+    "timestamp": "2020-11-20T19:16:13.107Z"
   }
 }
