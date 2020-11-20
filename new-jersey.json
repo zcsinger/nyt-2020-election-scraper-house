@@ -14760,7 +14760,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 4068148,
+        "votes": 4068180,
         "absentee_votes": 621060,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -14785,7 +14785,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T23:11:51.737Z",
+        "last_updated": "2020-11-20T23:28:56.443Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -14797,7 +14797,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2729079,
+            "votes": 2729097,
             "percent": 67.1,
             "percent_display": "67.1",
             "electoral_votes": 0,
@@ -14817,7 +14817,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1339069,
+            "votes": 1339083,
             "percent": 32.9,
             "percent_display": "32.9",
             "electoral_votes": 0,
@@ -14891,7 +14891,7 @@
           {
             "fips": "34005",
             "name": "Burlington",
-            "votes": 251551,
+            "votes": 251583,
             "absentee_votes": 0,
             "reporting": 365,
             "precincts": 365,
@@ -14908,14 +14908,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 179372,
-              "no": 72179
+              "yes": 179390,
+              "no": 72193
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T16:00:56.060Z"
+            "last_updated": "2020-11-20T23:28:56.443Z"
           },
           {
             "fips": "34007",
@@ -15475,7 +15475,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3994556,
+        "votes": 3994588,
         "absentee_votes": 605634,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -15500,7 +15500,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T23:11:51.737Z",
+        "last_updated": "2020-11-20T23:28:56.443Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -15512,7 +15512,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 3053922,
+            "votes": 3053945,
             "percent": 76.5,
             "percent_display": "76.5",
             "electoral_votes": 0,
@@ -15532,7 +15532,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 940634,
+            "votes": 940643,
             "percent": 23.5,
             "percent_display": "23.5",
             "electoral_votes": 0,
@@ -15606,7 +15606,7 @@
           {
             "fips": "34005",
             "name": "Burlington",
-            "votes": 249037,
+            "votes": 249069,
             "absentee_votes": 0,
             "reporting": 365,
             "precincts": 365,
@@ -15623,14 +15623,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 192200,
-              "no": 56837
+              "yes": 192223,
+              "no": 56846
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T16:01:56.663Z"
+            "last_updated": "2020-11-20T23:28:56.443Z"
           },
           {
             "fips": "34007",
@@ -16190,7 +16190,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3838436,
+        "votes": 3838467,
         "absentee_votes": 360060,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -16215,7 +16215,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T23:11:51.737Z",
+        "last_updated": "2020-11-20T23:28:56.443Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -16227,7 +16227,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2218013,
+            "votes": 2218030,
             "percent": 57.8,
             "percent_display": "57.8",
             "electoral_votes": 0,
@@ -16247,7 +16247,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1620423,
+            "votes": 1620437,
             "percent": 42.2,
             "percent_display": "42.2",
             "electoral_votes": 0,
@@ -16321,7 +16321,7 @@
           {
             "fips": "34005",
             "name": "Burlington",
-            "votes": 241314,
+            "votes": 241345,
             "absentee_votes": 0,
             "reporting": 365,
             "precincts": 365,
@@ -16338,14 +16338,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 142746,
-              "no": 98568
+              "yes": 142763,
+              "no": 98582
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T16:01:56.663Z"
+            "last_updated": "2020-11-20T23:28:56.443Z"
           },
           {
             "fips": "34007",
@@ -33468,8 +33468,8 @@
     ]
   },
   "meta": {
-    "version": 20924,
+    "version": 20926,
     "track": "2020-11-03",
-    "timestamp": "2020-11-20T23:15:34.205Z"
+    "timestamp": "2020-11-20T23:29:53.753Z"
   }
 }
