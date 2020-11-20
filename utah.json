@@ -9522,7 +9522,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1450677,
+        "votes": 1450797,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -9535,10 +9535,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 2618,
+        "precincts_reporting": 2619,
         "precincts_total": 2619,
-        "reporting_display": "99% reporting",
-        "reporting_value": "99%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -9547,7 +9547,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T01:10:49.247Z",
+        "last_updated": "2020-11-20T17:01:33.53Z",
         "candidates": [
           {
             "candidate_id": "reyes-50534",
@@ -9560,7 +9560,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 878771,
+            "votes": 878853,
             "percent": 60.6,
             "percent_display": "60.6",
             "electoral_votes": 0,
@@ -9581,7 +9581,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 489466,
+            "votes": 489500,
             "percent": 33.7,
             "percent_display": "33.7",
             "electoral_votes": 0,
@@ -9602,7 +9602,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 82440,
+            "votes": 82444,
             "percent": 5.7,
             "percent_display": "5.7",
             "electoral_votes": 0,
@@ -9644,7 +9644,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-17T00:27:40.123Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49003",
@@ -9675,7 +9675,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-17T19:50:12.663Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49005",
@@ -9706,7 +9706,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-17T21:56:51.143Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49007",
@@ -9737,12 +9737,12 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-17T19:21:03.527Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49009",
             "name": "Daggett",
-            "votes": 561,
+            "votes": 588,
             "absentee_votes": 0,
             "reporting": 15,
             "precincts": 15,
@@ -9759,8 +9759,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "reyess": 442,
-              "skordasg": 103,
+              "reyess": 464,
+              "skordasg": 108,
               "bautistar": 16
             },
             "results_absentee": {
@@ -9768,12 +9768,12 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-13T01:58:46.140Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49011",
             "name": "Davis",
-            "votes": 168637,
+            "votes": 168730,
             "absentee_votes": 0,
             "reporting": 262,
             "precincts": 262,
@@ -9790,16 +9790,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "reyess": 108215,
-              "skordasg": 50036,
-              "bautistar": 10386
+              "reyess": 108275,
+              "skordasg": 50065,
+              "bautistar": 10390
             },
             "results_absentee": {
               "reyess": 0,
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-16T22:57:11.400Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49013",
@@ -9830,7 +9830,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49015",
@@ -9861,7 +9861,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-17T00:06:33.230Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49017",
@@ -9892,7 +9892,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49019",
@@ -9923,7 +9923,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49021",
@@ -9954,7 +9954,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-17T21:28:41.960Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49023",
@@ -9985,7 +9985,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-10T00:11:08.950Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49025",
@@ -10016,7 +10016,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-13T22:01:13.640Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49027",
@@ -10047,14 +10047,14 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49029",
             "name": "Morgan",
             "votes": 6471,
             "absentee_votes": 0,
-            "reporting": 15,
+            "reporting": 16,
             "precincts": 16,
             "absentee_method": null,
             "eevp": null,
@@ -10078,7 +10078,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-17T23:53:25.563Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49031",
@@ -10109,7 +10109,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-04T19:45:42.187Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49033",
@@ -10140,7 +10140,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-13T00:00:09.583Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49035",
@@ -10171,7 +10171,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-17T23:53:25.563Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49037",
@@ -10202,7 +10202,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-17T17:24:28.400Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49039",
@@ -10233,7 +10233,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-17T19:43:10.250Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49041",
@@ -10264,7 +10264,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49043",
@@ -10295,7 +10295,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49045",
@@ -10326,7 +10326,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-13T23:01:31.530Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49047",
@@ -10357,7 +10357,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-16T22:57:11.400Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49049",
@@ -10388,7 +10388,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-17T21:28:41.960Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49051",
@@ -10419,7 +10419,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-17T17:50:36.430Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49053",
@@ -10450,7 +10450,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-18T00:13:31.870Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49055",
@@ -10481,7 +10481,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-14T00:18:54.707Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           },
           {
             "fips": "49057",
@@ -10512,7 +10512,7 @@
               "skordasg": 0,
               "bautistar": 0
             },
-            "last_updated": "2020-11-17T17:50:36.430Z"
+            "last_updated": "2020-11-20T17:01:33.53Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -10573,7 +10573,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:37.76Z",
         "candidates": [
           {
             "candidate_id": "escamilla-50851",
@@ -10677,7 +10677,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:41.257Z",
         "candidates": [
           {
             "candidate_id": "harper-58505",
@@ -10781,7 +10781,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T21:28:41.960Z",
+        "last_updated": "2020-11-20T17:01:30.02Z",
         "candidates": [
           {
             "candidate_id": "mckell-50617",
@@ -10885,7 +10885,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:38.64Z",
         "candidates": [
           {
             "candidate_id": "riebe-50929",
@@ -10989,7 +10989,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:32.717Z",
         "candidates": [
           {
             "candidate_id": "fillmore-50119",
@@ -11093,7 +11093,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "anderegg-50555",
@@ -11176,7 +11176,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "hemmert-50856",
@@ -11259,7 +11259,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "bramble-49805",
@@ -11329,10 +11329,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 78,
+        "precincts_reporting": 79,
         "precincts_total": 79,
-        "reporting_display": "99% reporting",
-        "reporting_value": "99%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -11342,7 +11342,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-18T01:10:49.247Z",
+        "last_updated": "2020-11-20T17:01:39.443Z",
         "candidates": [
           {
             "candidate_id": "johnson-51152",
@@ -11446,7 +11446,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "buxton-50859",
@@ -11529,7 +11529,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "weiler-50543",
@@ -11612,7 +11612,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-18T01:10:49.247Z",
+        "last_updated": "2020-11-20T17:01:35.03Z",
         "candidates": [
           {
             "candidate_id": "owens-50904",
@@ -11716,7 +11716,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T21:56:51.143Z",
+        "last_updated": "2020-11-20T17:01:38.12Z",
         "candidates": [
           {
             "candidate_id": "wilson-51154",
@@ -11820,7 +11820,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "hinkins-50000",
@@ -11903,7 +11903,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-18T00:13:31.870Z",
+        "last_updated": "2020-11-20T17:01:29.707Z",
         "candidates": [
           {
             "candidate_id": "ipson-50102",
@@ -12007,7 +12007,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T19:50:12.663Z",
+        "last_updated": "2020-11-20T17:01:37.023Z",
         "candidates": [
           {
             "candidate_id": "ferry-50988",
@@ -12132,7 +12132,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "moss-50653",
@@ -12215,7 +12215,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T21:56:51.143Z",
+        "last_updated": "2020-11-20T17:01:36.59Z",
         "candidates": [
           {
             "candidate_id": "petersen-51157",
@@ -12319,7 +12319,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-16T22:57:11.400Z",
+        "last_updated": "2020-11-20T17:01:38.963Z",
         "candidates": [
           {
             "candidate_id": "johnson-50994",
@@ -12423,7 +12423,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T21:56:51.143Z",
+        "last_updated": "2020-11-20T17:01:28.31Z",
         "candidates": [
           {
             "candidate_id": "snider-50996",
@@ -12527,7 +12527,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T21:28:41.960Z",
+        "last_updated": "2020-11-20T17:01:28.99Z",
         "candidates": [
           {
             "candidate_id": "maloy-50864",
@@ -12631,7 +12631,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T17:50:36.430Z",
+        "last_updated": "2020-11-20T17:01:37.947Z",
         "candidates": [
           {
             "candidate_id": "wilcox-50009",
@@ -12735,7 +12735,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T17:50:36.430Z",
+        "last_updated": "2020-11-20T17:01:40.11Z",
         "candidates": [
           {
             "candidate_id": "waldrip-51000",
@@ -12839,7 +12839,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T17:50:36.430Z",
+        "last_updated": "2020-11-20T17:01:40.44Z",
         "candidates": [
           {
             "candidate_id": "musselman-51002",
@@ -12943,7 +12943,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T17:50:36.430Z",
+        "last_updated": "2020-11-20T17:01:26.660Z",
         "candidates": [
           {
             "candidate_id": "shurtliff-51005",
@@ -13021,7 +13021,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 18230,
+        "votes": 18234,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -13047,7 +13047,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T17:50:36.430Z",
+        "last_updated": "2020-11-20T17:01:39.287Z",
         "candidates": [
           {
             "candidate_id": "miles-50870",
@@ -13060,7 +13060,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 10993,
+            "votes": 10996,
             "percent": 60.3,
             "percent_display": "60.3",
             "electoral_votes": 0,
@@ -13081,7 +13081,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7237,
+            "votes": 7238,
             "percent": 39.7,
             "percent_display": "39.7",
             "electoral_votes": 0,
@@ -13151,7 +13151,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T17:50:36.430Z",
+        "last_updated": "2020-11-20T17:01:38.453Z",
         "candidates": [
           {
             "candidate_id": "schultz-50703",
@@ -13229,7 +13229,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 17092,
+        "votes": 17100,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -13255,7 +13255,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-16T22:57:11.400Z",
+        "last_updated": "2020-11-20T17:01:32.55Z",
         "candidates": [
           {
             "candidate_id": "ray-49675",
@@ -13268,7 +13268,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 10793,
+            "votes": 10798,
             "percent": 63.1,
             "percent_display": "63.1",
             "electoral_votes": 0,
@@ -13289,7 +13289,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6299,
+            "votes": 6302,
             "percent": 36.9,
             "percent_display": "36.9",
             "electoral_votes": 0,
@@ -13333,7 +13333,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 15789,
+        "votes": 15798,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -13359,7 +13359,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-16T22:57:11.400Z",
+        "last_updated": "2020-11-20T17:01:35.197Z",
         "candidates": [
           {
             "candidate_id": "lisonbee-50873",
@@ -13372,7 +13372,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 10332,
+            "votes": 10336,
             "percent": 65.4,
             "percent_display": "65.4",
             "electoral_votes": 0,
@@ -13393,7 +13393,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 5457,
+            "votes": 5462,
             "percent": 34.6,
             "percent_display": "34.6",
             "electoral_votes": 0,
@@ -13437,7 +13437,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 23251,
+        "votes": 23266,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -13463,7 +13463,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-16T22:57:11.400Z",
+        "last_updated": "2020-11-20T17:01:28.643Z",
         "candidates": [
           {
             "candidate_id": "wilson-50240",
@@ -13476,7 +13476,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 17953,
+            "votes": 17965,
             "percent": 77.2,
             "percent_display": "77.2",
             "electoral_votes": 0,
@@ -13497,7 +13497,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 5298,
+            "votes": 5301,
             "percent": 22.8,
             "percent_display": "22.8",
             "electoral_votes": 0,
@@ -13541,7 +13541,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 17512,
+        "votes": 17523,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -13567,7 +13567,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-16T22:57:11.400Z",
+        "last_updated": "2020-11-20T17:01:29.187Z",
         "candidates": [
           {
             "candidate_id": "handy-50241",
@@ -13580,7 +13580,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 10880,
+            "votes": 10890,
             "percent": 62.1,
             "percent_display": "62.1",
             "electoral_votes": 0,
@@ -13601,7 +13601,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 5271,
+            "votes": 5272,
             "percent": 30.1,
             "percent_display": "30.1",
             "electoral_votes": 0,
@@ -13666,7 +13666,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 20159,
+        "votes": 20172,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -13692,7 +13692,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-16T22:57:11.400Z",
+        "last_updated": "2020-11-20T17:01:31.203Z",
         "candidates": [
           {
             "candidate_id": "barlow-50566",
@@ -13705,7 +13705,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 13872,
+            "votes": 13881,
             "percent": 68.8,
             "percent_display": "68.8",
             "electoral_votes": 0,
@@ -13726,7 +13726,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 5210,
+            "votes": 5214,
             "percent": 25.8,
             "percent_display": "25.8",
             "electoral_votes": 0,
@@ -13791,7 +13791,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 23704,
+        "votes": 23712,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -13817,7 +13817,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-16T22:57:11.400Z",
+        "last_updated": "2020-11-20T17:01:36.243Z",
         "candidates": [
           {
             "candidate_id": "hawkes-50710",
@@ -13830,7 +13830,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 17277,
+            "votes": 17281,
             "percent": 72.9,
             "percent_display": "72.9",
             "electoral_votes": 0,
@@ -13851,7 +13851,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6427,
+            "votes": 6431,
             "percent": 27.1,
             "percent_display": "27.1",
             "electoral_votes": 0,
@@ -13895,7 +13895,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 19738,
+        "votes": 19746,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -13921,7 +13921,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-16T22:57:11.400Z",
+        "last_updated": "2020-11-20T17:01:28.807Z",
         "candidates": [
           {
             "candidate_id": "ward-50711",
@@ -13934,7 +13934,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 15864,
+            "votes": 15870,
             "percent": 80.4,
             "percent_display": "80.4",
             "electoral_votes": 0,
@@ -13955,7 +13955,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 3874,
+            "votes": 3876,
             "percent": 19.6,
             "percent_display": "19.6",
             "electoral_votes": 0,
@@ -13999,7 +13999,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 20530,
+        "votes": 20545,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -14025,7 +14025,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-16T22:57:11.400Z",
+        "last_updated": "2020-11-20T17:01:29.357Z",
         "candidates": [
           {
             "candidate_id": "garff-ballard-51016",
@@ -14038,7 +14038,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 13818,
+            "votes": 13828,
             "percent": 67.3,
             "percent_display": "67.3",
             "electoral_votes": 0,
@@ -14059,7 +14059,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6712,
+            "votes": 6717,
             "percent": 32.7,
             "percent_display": "32.7",
             "electoral_votes": 0,
@@ -14129,7 +14129,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-13T23:01:31.530Z",
+        "last_updated": "2020-11-20T17:01:27.52Z",
         "candidates": [
           {
             "candidate_id": "sagers-50248",
@@ -14233,7 +14233,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:26.660Z",
         "candidates": [
           {
             "candidate_id": "collard-50680",
@@ -14337,7 +14337,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:28.147Z",
         "candidates": [
           {
             "candidate_id": "hollins-50717",
@@ -14441,7 +14441,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "dailey-provost-51027",
@@ -14524,7 +14524,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:33.7Z",
         "candidates": [
           {
             "candidate_id": "briscoe-50255",
@@ -14649,7 +14649,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "romero-50574",
@@ -14732,7 +14732,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "brammer-51033",
@@ -14815,7 +14815,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:33.963Z",
         "candidates": [
           {
             "candidate_id": "king-50036",
@@ -14919,7 +14919,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T19:50:12.663Z",
+        "last_updated": "2020-11-20T17:01:28.48Z",
         "candidates": [
           {
             "candidate_id": "gwynn-51180",
@@ -15044,7 +15044,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:40.603Z",
         "candidates": [
           {
             "candidate_id": "winder-50631",
@@ -15148,7 +15148,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:39.61Z",
         "candidates": [
           {
             "candidate_id": "weight-50883",
@@ -15252,7 +15252,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:40.93Z",
         "candidates": [
           {
             "candidate_id": "harrison-50884",
@@ -15356,7 +15356,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:26.660Z",
         "candidates": [
           {
             "candidate_id": "hall-50584",
@@ -15460,7 +15460,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:38.8Z",
         "candidates": [
           {
             "candidate_id": "kwan-50727",
@@ -15564,7 +15564,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:32.183Z",
         "candidates": [
           {
             "candidate_id": "wheatley-49716",
@@ -15689,7 +15689,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:38.287Z",
         "candidates": [
           {
             "candidate_id": "owens-63849",
@@ -15814,7 +15814,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:37.23Z",
         "candidates": [
           {
             "candidate_id": "spackman-moss-48993",
@@ -15918,7 +15918,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:26.660Z",
         "candidates": [
           {
             "candidate_id": "matthews-51191",
@@ -16022,7 +16022,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:26.660Z",
         "candidates": [
           {
             "candidate_id": "dunnigan-49124",
@@ -16126,7 +16126,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:29.523Z",
         "candidates": [
           {
             "candidate_id": "pitcher-51047",
@@ -16230,7 +16230,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:31.76Z",
         "candidates": [
           {
             "candidate_id": "strong-51048",
@@ -16355,7 +16355,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:39.12Z",
         "candidates": [
           {
             "candidate_id": "teuscher-51198",
@@ -16480,7 +16480,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:41.413Z",
         "candidates": [
           {
             "candidate_id": "acton-51053",
@@ -16605,7 +16605,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:39.773Z",
         "candidates": [
           {
             "candidate_id": "stoddard-51054",
@@ -16730,7 +16730,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:26.660Z",
         "candidates": [
           {
             "candidate_id": "eliason-50281",
@@ -16834,7 +16834,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:41.09Z",
         "candidates": [
           {
             "candidate_id": "bennion-51202",
@@ -16959,7 +16959,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:40.767Z",
         "candidates": [
           {
             "candidate_id": "christiansen-51204",
@@ -17063,7 +17063,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T21:28:41.960Z",
+        "last_updated": "2020-11-20T17:01:36.407Z",
         "candidates": [
           {
             "candidate_id": "stratton-50597",
@@ -17188,7 +17188,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:41.74Z",
         "candidates": [
           {
             "candidate_id": "spendlove-50747",
@@ -17292,7 +17292,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:31.38Z",
         "candidates": [
           {
             "candidate_id": "pulsipher-50897",
@@ -17396,7 +17396,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:37.417Z",
         "candidates": [
           {
             "candidate_id": "stenquist-51061",
@@ -17500,7 +17500,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:31.563Z",
         "candidates": [
           {
             "candidate_id": "pierucci-51211",
@@ -17578,7 +17578,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 23775,
+        "votes": 23799,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -17591,10 +17591,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 79,
+        "precincts_reporting": 80,
         "precincts_total": 80,
-        "reporting_display": "99% reporting",
-        "reporting_value": "99%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -17604,7 +17604,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-18T01:10:49.247Z",
+        "last_updated": "2020-11-20T17:01:34.673Z",
         "candidates": [
           {
             "candidate_id": "birkeland-50777",
@@ -17617,7 +17617,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 15121,
+            "votes": 15142,
             "percent": 63.6,
             "percent_display": "63.6",
             "electoral_votes": 0,
@@ -17638,7 +17638,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8654,
+            "votes": 8657,
             "percent": 36.4,
             "percent_display": "36.4",
             "electoral_votes": 0,
@@ -17708,7 +17708,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T18:34:49.633Z",
+        "last_updated": "2020-11-20T17:01:39.933Z",
         "candidates": [
           {
             "candidate_id": "kohler-51214",
@@ -17812,7 +17812,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "chew-50752",
@@ -17895,7 +17895,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T21:28:41.960Z",
+        "last_updated": "2020-11-20T17:01:36.797Z",
         "candidates": [
           {
             "candidate_id": "christofferson-50605",
@@ -17999,7 +17999,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "hawkins-51069",
@@ -18082,7 +18082,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T19:43:10.250Z",
+        "last_updated": "2020-11-20T17:01:35.883Z",
         "candidates": [
           {
             "candidate_id": "lund-51220",
@@ -18207,7 +18207,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T21:28:41.960Z",
+        "last_updated": "2020-11-20T17:01:29.86Z",
         "candidates": [
           {
             "candidate_id": "peterson-50299",
@@ -18311,7 +18311,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T21:28:41.960Z",
+        "last_updated": "2020-11-20T17:01:32.347Z",
         "candidates": [
           {
             "candidate_id": "abbott-51222",
@@ -18436,7 +18436,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T21:28:41.960Z",
+        "last_updated": "2020-11-20T17:01:36.07Z",
         "candidates": [
           {
             "candidate_id": "judkins-51075",
@@ -18540,7 +18540,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "seegmiller-51076",
@@ -18623,7 +18623,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T21:28:41.960Z",
+        "last_updated": "2020-11-20T17:01:37.583Z",
         "candidates": [
           {
             "candidate_id": "robertson-51077",
@@ -18748,7 +18748,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "thurston-50760",
@@ -18831,7 +18831,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "gibson-50088",
@@ -18914,7 +18914,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "burton-51228",
@@ -18997,7 +18997,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "welton-51230",
@@ -19080,7 +19080,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-18T01:10:49.247Z",
+        "last_updated": "2020-11-20T17:01:32.877Z",
         "candidates": [
           {
             "candidate_id": "nelson-50620",
@@ -19205,7 +19205,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "watkins-50094",
@@ -19288,7 +19288,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-18T01:10:49.247Z",
+        "last_updated": "2020-11-20T17:01:33.033Z",
         "candidates": [
           {
             "candidate_id": "albrecht-50911",
@@ -19392,7 +19392,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "last-49144",
@@ -19475,7 +19475,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-17T21:28:41.960Z",
+        "last_updated": "2020-11-20T17:01:34.147Z",
         "candidates": [
           {
             "candidate_id": "shipp-51085",
@@ -19600,7 +19600,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "lyman-51101",
@@ -19683,7 +19683,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-18T00:13:31.870Z",
+        "last_updated": "2020-11-20T17:01:35.717Z",
         "candidates": [
           {
             "candidate_id": "snow-50627",
@@ -19787,7 +19787,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-18T00:13:31.870Z",
+        "last_updated": "2020-11-20T17:01:34.31Z",
         "candidates": [
           {
             "candidate_id": "brooks-50914",
@@ -19867,7 +19867,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1391579,
+        "votes": 1391692,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -19880,10 +19880,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 2618,
+        "precincts_reporting": 2619,
         "precincts_total": 2619,
-        "reporting_display": "99% reporting",
-        "reporting_value": "99%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -19892,7 +19892,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T01:10:49.247Z",
+        "last_updated": "2020-11-20T17:01:30.327Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -19904,7 +19904,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 1114702,
+            "votes": 1114795,
             "percent": 80.1,
             "percent_display": "80.1",
             "electoral_votes": 0,
@@ -19924,7 +19924,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 276877,
+            "votes": 276897,
             "percent": 19.9,
             "percent_display": "19.9",
             "electoral_votes": 0,
@@ -19964,7 +19964,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T00:27:40.123Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49003",
@@ -19993,7 +19993,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T19:50:12.663Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49005",
@@ -20022,7 +20022,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T21:56:51.143Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49007",
@@ -20051,12 +20051,12 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T19:21:03.527Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49009",
             "name": "Daggett",
-            "votes": 525,
+            "votes": 547,
             "absentee_votes": 0,
             "reporting": 15,
             "precincts": 15,
@@ -20073,19 +20073,19 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 416,
-              "against": 109
+              "for": 433,
+              "against": 114
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T01:58:46.140Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49011",
             "name": "Davis",
-            "votes": 161754,
+            "votes": 161845,
             "absentee_votes": 0,
             "reporting": 262,
             "precincts": 262,
@@ -20102,14 +20102,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 132415,
-              "against": 29339
+              "for": 132491,
+              "against": 29354
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-16T22:57:11.400Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49013",
@@ -20138,7 +20138,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49015",
@@ -20167,7 +20167,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T00:06:33.230Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49017",
@@ -20196,7 +20196,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49019",
@@ -20225,7 +20225,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49021",
@@ -20254,7 +20254,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T21:28:41.960Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49023",
@@ -20283,7 +20283,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-10T00:11:08.950Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49025",
@@ -20312,7 +20312,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T22:01:13.640Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49027",
@@ -20341,14 +20341,14 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49029",
             "name": "Morgan",
             "votes": 6243,
             "absentee_votes": 0,
-            "reporting": 15,
+            "reporting": 16,
             "precincts": 16,
             "absentee_method": null,
             "eevp": null,
@@ -20370,7 +20370,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T23:53:25.563Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49031",
@@ -20399,7 +20399,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-04T05:56:00.85Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49033",
@@ -20428,7 +20428,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T00:00:09.583Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49035",
@@ -20457,7 +20457,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T23:53:25.563Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49037",
@@ -20486,7 +20486,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T17:24:28.400Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49039",
@@ -20515,7 +20515,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T19:43:10.250Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49041",
@@ -20544,7 +20544,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49043",
@@ -20573,7 +20573,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49045",
@@ -20602,7 +20602,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T23:01:31.530Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49047",
@@ -20631,7 +20631,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-16T22:57:11.400Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49049",
@@ -20660,7 +20660,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T21:28:41.960Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49051",
@@ -20689,7 +20689,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T17:50:36.430Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49053",
@@ -20718,7 +20718,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T00:13:31.870Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49055",
@@ -20747,7 +20747,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-14T00:18:54.707Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           },
           {
             "fips": "49057",
@@ -20776,7 +20776,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T17:50:36.430Z"
+            "last_updated": "2020-11-20T17:01:30.327Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -20813,7 +20813,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1415032,
+        "votes": 1415145,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -20826,10 +20826,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 2618,
+        "precincts_reporting": 2619,
         "precincts_total": 2619,
-        "reporting_display": "99% reporting",
-        "reporting_value": "99%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -20838,7 +20838,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T01:10:49.247Z",
+        "last_updated": "2020-11-20T17:01:30.483Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -20850,7 +20850,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 1138887,
+            "votes": 1138974,
             "percent": 80.5,
             "percent_display": "80.5",
             "electoral_votes": 0,
@@ -20870,7 +20870,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 276145,
+            "votes": 276171,
             "percent": 19.5,
             "percent_display": "19.5",
             "electoral_votes": 0,
@@ -20910,7 +20910,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T00:27:40.123Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49003",
@@ -20939,7 +20939,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T19:50:12.663Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49005",
@@ -20968,7 +20968,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T21:56:51.143Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49007",
@@ -20997,12 +20997,12 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T19:21:03.527Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49009",
             "name": "Daggett",
-            "votes": 522,
+            "votes": 545,
             "absentee_votes": 0,
             "reporting": 15,
             "precincts": 15,
@@ -21019,19 +21019,19 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 370,
-              "against": 152
+              "for": 387,
+              "against": 158
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T01:58:46.140Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49011",
             "name": "Davis",
-            "votes": 163874,
+            "votes": 163964,
             "absentee_votes": 0,
             "reporting": 262,
             "precincts": 262,
@@ -21048,14 +21048,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 135525,
-              "against": 28349
+              "for": 135595,
+              "against": 28369
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-16T22:57:11.400Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49013",
@@ -21084,7 +21084,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49015",
@@ -21113,7 +21113,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T00:06:33.230Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49017",
@@ -21142,7 +21142,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49019",
@@ -21171,7 +21171,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49021",
@@ -21200,7 +21200,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T21:28:41.960Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49023",
@@ -21229,7 +21229,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-10T00:11:08.950Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49025",
@@ -21258,7 +21258,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T22:01:13.640Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49027",
@@ -21287,14 +21287,14 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49029",
             "name": "Morgan",
             "votes": 6327,
             "absentee_votes": 0,
-            "reporting": 15,
+            "reporting": 16,
             "precincts": 16,
             "absentee_method": null,
             "eevp": null,
@@ -21316,7 +21316,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T23:53:25.563Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49031",
@@ -21345,7 +21345,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-04T05:57:02.717Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49033",
@@ -21374,7 +21374,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T00:00:09.583Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49035",
@@ -21403,7 +21403,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T23:53:25.563Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49037",
@@ -21432,7 +21432,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T17:24:28.400Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49039",
@@ -21461,7 +21461,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T19:43:10.250Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49041",
@@ -21490,7 +21490,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49043",
@@ -21519,7 +21519,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49045",
@@ -21548,7 +21548,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T23:01:31.530Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49047",
@@ -21577,7 +21577,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-16T22:57:11.400Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49049",
@@ -21606,7 +21606,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T21:28:41.960Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49051",
@@ -21635,7 +21635,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T17:50:36.430Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49053",
@@ -21664,7 +21664,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T00:13:31.870Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49055",
@@ -21693,7 +21693,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-14T00:18:54.707Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           },
           {
             "fips": "49057",
@@ -21722,7 +21722,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T17:50:36.430Z"
+            "last_updated": "2020-11-20T17:01:30.483Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -21759,7 +21759,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1353472,
+        "votes": 1353581,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -21772,10 +21772,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 2618,
+        "precincts_reporting": 2619,
         "precincts_total": 2619,
-        "reporting_display": "99% reporting",
-        "reporting_value": "99%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -21784,7 +21784,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T01:10:49.247Z",
+        "last_updated": "2020-11-20T17:01:34.507Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -21796,7 +21796,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 827534,
+            "votes": 827596,
             "percent": 61.1,
             "percent_display": "61.1",
             "electoral_votes": 0,
@@ -21816,7 +21816,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 525938,
+            "votes": 525985,
             "percent": 38.9,
             "percent_display": "38.9",
             "electoral_votes": 0,
@@ -21856,7 +21856,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T00:27:40.123Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49003",
@@ -21885,7 +21885,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T19:50:12.663Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49005",
@@ -21914,7 +21914,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T21:56:51.143Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49007",
@@ -21943,12 +21943,12 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T19:21:03.527Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49009",
             "name": "Daggett",
-            "votes": 518,
+            "votes": 539,
             "absentee_votes": 0,
             "reporting": 15,
             "precincts": 15,
@@ -21965,19 +21965,19 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 291,
-              "against": 227
+              "for": 301,
+              "against": 238
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T01:58:46.140Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49011",
             "name": "Davis",
-            "votes": 157667,
+            "votes": 157755,
             "absentee_votes": 0,
             "reporting": 262,
             "precincts": 262,
@@ -21994,14 +21994,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 98192,
-              "against": 59475
+              "for": 98244,
+              "against": 59511
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-16T22:57:11.400Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49013",
@@ -22030,7 +22030,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49015",
@@ -22059,7 +22059,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T00:06:33.230Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49017",
@@ -22088,7 +22088,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49019",
@@ -22117,7 +22117,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49021",
@@ -22146,7 +22146,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T21:28:41.960Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49023",
@@ -22175,7 +22175,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-10T00:11:08.950Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49025",
@@ -22204,7 +22204,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T22:01:13.640Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49027",
@@ -22233,14 +22233,14 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49029",
             "name": "Morgan",
             "votes": 6133,
             "absentee_votes": 0,
-            "reporting": 15,
+            "reporting": 16,
             "precincts": 16,
             "absentee_method": null,
             "eevp": null,
@@ -22262,7 +22262,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T23:53:25.563Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49031",
@@ -22291,7 +22291,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-04T20:10:57.393Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49033",
@@ -22320,7 +22320,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T00:00:09.583Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49035",
@@ -22349,7 +22349,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T23:53:25.563Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49037",
@@ -22378,7 +22378,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T17:24:28.400Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49039",
@@ -22407,7 +22407,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T19:43:10.250Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49041",
@@ -22436,7 +22436,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49043",
@@ -22465,7 +22465,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49045",
@@ -22494,7 +22494,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T23:01:31.530Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49047",
@@ -22523,7 +22523,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-16T22:57:11.400Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49049",
@@ -22552,7 +22552,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T21:28:41.960Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49051",
@@ -22581,7 +22581,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T17:50:36.430Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49053",
@@ -22610,7 +22610,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T00:13:31.870Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49055",
@@ -22639,7 +22639,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-14T00:18:54.707Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           },
           {
             "fips": "49057",
@@ -22668,7 +22668,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T17:50:36.430Z"
+            "last_updated": "2020-11-20T17:01:34.507Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -22705,7 +22705,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1418946,
+        "votes": 1419060,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -22718,10 +22718,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 2618,
+        "precincts_reporting": 2619,
         "precincts_total": 2619,
-        "reporting_display": "99% reporting",
-        "reporting_value": "99%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -22730,7 +22730,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T01:10:49.247Z",
+        "last_updated": "2020-11-20T17:01:30.65Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -22742,7 +22742,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 1063122,
+            "votes": 1063212,
             "percent": 74.9,
             "percent_display": "74.9",
             "electoral_votes": 0,
@@ -22762,7 +22762,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 355824,
+            "votes": 355848,
             "percent": 25.1,
             "percent_display": "25.1",
             "electoral_votes": 0,
@@ -22802,7 +22802,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T00:27:40.123Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49003",
@@ -22831,7 +22831,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T19:50:12.663Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49005",
@@ -22860,7 +22860,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T21:56:51.143Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49007",
@@ -22889,12 +22889,12 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T19:21:03.527Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49009",
             "name": "Daggett",
-            "votes": 549,
+            "votes": 573,
             "absentee_votes": 0,
             "reporting": 15,
             "precincts": 15,
@@ -22911,19 +22911,19 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 472,
-              "against": 77
+              "for": 493,
+              "against": 80
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T01:58:46.140Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49011",
             "name": "Davis",
-            "votes": 164156,
+            "votes": 164246,
             "absentee_votes": 0,
             "reporting": 262,
             "precincts": 262,
@@ -22940,14 +22940,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 128216,
-              "against": 35940
+              "for": 128285,
+              "against": 35961
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-16T22:57:11.400Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49013",
@@ -22976,7 +22976,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49015",
@@ -23005,7 +23005,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T00:06:33.230Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49017",
@@ -23034,7 +23034,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49019",
@@ -23063,7 +23063,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49021",
@@ -23092,7 +23092,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T21:28:41.960Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49023",
@@ -23121,7 +23121,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-10T00:11:08.950Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49025",
@@ -23150,7 +23150,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T22:01:13.640Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49027",
@@ -23179,14 +23179,14 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49029",
             "name": "Morgan",
             "votes": 6367,
             "absentee_votes": 0,
-            "reporting": 15,
+            "reporting": 16,
             "precincts": 16,
             "absentee_method": null,
             "eevp": null,
@@ -23208,7 +23208,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T23:53:25.563Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49031",
@@ -23237,7 +23237,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-04T05:58:04.640Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49033",
@@ -23266,7 +23266,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T00:00:09.583Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49035",
@@ -23295,7 +23295,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T23:53:25.563Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49037",
@@ -23324,7 +23324,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T17:24:28.400Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49039",
@@ -23353,7 +23353,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T19:43:10.250Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49041",
@@ -23382,7 +23382,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49043",
@@ -23411,7 +23411,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49045",
@@ -23440,7 +23440,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T23:01:31.530Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49047",
@@ -23469,7 +23469,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-16T22:57:11.400Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49049",
@@ -23498,7 +23498,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T21:28:41.960Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49051",
@@ -23527,7 +23527,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T17:50:36.430Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49053",
@@ -23556,7 +23556,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T00:13:31.870Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49055",
@@ -23585,7 +23585,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-14T00:18:54.707Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           },
           {
             "fips": "49057",
@@ -23614,7 +23614,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T17:50:36.430Z"
+            "last_updated": "2020-11-20T17:01:30.65Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -23651,7 +23651,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1346160,
+        "votes": 1346270,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -23664,10 +23664,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 2618,
+        "precincts_reporting": 2619,
         "precincts_total": 2619,
-        "reporting_display": "99% reporting",
-        "reporting_value": "99%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -23676,7 +23676,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T01:10:49.247Z",
+        "last_updated": "2020-11-20T17:01:32.017Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -23688,7 +23688,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 895365,
+            "votes": 895435,
             "percent": 66.5,
             "percent_display": "66.5",
             "electoral_votes": 0,
@@ -23708,7 +23708,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 450795,
+            "votes": 450835,
             "percent": 33.5,
             "percent_display": "33.5",
             "electoral_votes": 0,
@@ -23748,7 +23748,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T00:27:40.123Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49003",
@@ -23777,7 +23777,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T19:50:12.663Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49005",
@@ -23806,7 +23806,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T21:56:51.143Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49007",
@@ -23835,12 +23835,12 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T19:21:03.527Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49009",
             "name": "Daggett",
-            "votes": 506,
+            "votes": 527,
             "absentee_votes": 0,
             "reporting": 15,
             "precincts": 15,
@@ -23857,19 +23857,19 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 323,
-              "against": 183
+              "for": 337,
+              "against": 190
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T01:58:46.140Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49011",
             "name": "Davis",
-            "votes": 157218,
+            "votes": 157307,
             "absentee_votes": 0,
             "reporting": 262,
             "precincts": 262,
@@ -23886,14 +23886,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 107931,
-              "against": 49287
+              "for": 107987,
+              "against": 49320
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-16T22:57:11.400Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49013",
@@ -23922,7 +23922,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49015",
@@ -23951,7 +23951,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T00:06:33.230Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49017",
@@ -23980,7 +23980,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49019",
@@ -24009,7 +24009,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49021",
@@ -24038,7 +24038,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T21:28:41.960Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49023",
@@ -24067,7 +24067,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-10T00:11:08.950Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49025",
@@ -24096,7 +24096,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T22:01:13.640Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49027",
@@ -24125,14 +24125,14 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49029",
             "name": "Morgan",
             "votes": 6122,
             "absentee_votes": 0,
-            "reporting": 15,
+            "reporting": 16,
             "precincts": 16,
             "absentee_method": null,
             "eevp": null,
@@ -24154,7 +24154,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T23:53:25.563Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49031",
@@ -24183,7 +24183,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-04T08:25:16.067Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49033",
@@ -24212,7 +24212,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T00:00:09.583Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49035",
@@ -24241,7 +24241,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T23:53:25.563Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49037",
@@ -24270,7 +24270,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T17:24:28.400Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49039",
@@ -24299,7 +24299,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T19:43:10.250Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49041",
@@ -24328,7 +24328,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49043",
@@ -24357,7 +24357,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49045",
@@ -24386,7 +24386,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T23:01:31.530Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49047",
@@ -24415,7 +24415,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-16T22:57:11.400Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49049",
@@ -24444,7 +24444,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T21:28:41.960Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49051",
@@ -24473,7 +24473,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T17:50:36.430Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49053",
@@ -24502,7 +24502,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T00:13:31.870Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49055",
@@ -24531,7 +24531,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-14T00:19:55.460Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           },
           {
             "fips": "49057",
@@ -24560,7 +24560,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T17:50:36.430Z"
+            "last_updated": "2020-11-20T17:01:32.017Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -24597,7 +24597,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1413139,
+        "votes": 1413260,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -24610,10 +24610,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 2618,
+        "precincts_reporting": 2619,
         "precincts_total": 2619,
-        "reporting_display": "99% reporting",
-        "reporting_value": "99%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -24622,7 +24622,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T01:10:49.247Z",
+        "last_updated": "2020-11-20T17:01:40.28Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -24634,7 +24634,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 764352,
+            "votes": 764420,
             "percent": 54.1,
             "percent_display": "54.1",
             "electoral_votes": 0,
@@ -24654,7 +24654,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 648787,
+            "votes": 648840,
             "percent": 45.9,
             "percent_display": "45.9",
             "electoral_votes": 0,
@@ -24694,7 +24694,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T00:27:40.123Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49003",
@@ -24723,7 +24723,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T19:50:12.663Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49005",
@@ -24752,7 +24752,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T21:56:51.143Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49007",
@@ -24781,12 +24781,12 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T19:21:03.527Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49009",
             "name": "Daggett",
-            "votes": 523,
+            "votes": 549,
             "absentee_votes": 0,
             "reporting": 15,
             "precincts": 15,
@@ -24803,19 +24803,19 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 285,
-              "against": 238
+              "for": 300,
+              "against": 249
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T01:58:46.140Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49011",
             "name": "Davis",
-            "votes": 162654,
+            "votes": 162749,
             "absentee_votes": 0,
             "reporting": 262,
             "precincts": 262,
@@ -24832,14 +24832,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 89765,
-              "against": 72889
+              "for": 89818,
+              "against": 72931
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-16T22:57:11.400Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49013",
@@ -24868,7 +24868,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49015",
@@ -24897,7 +24897,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T00:06:33.230Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49017",
@@ -24926,7 +24926,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49019",
@@ -24955,7 +24955,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49021",
@@ -24984,7 +24984,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T21:28:41.960Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49023",
@@ -25013,7 +25013,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-10T00:11:08.950Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49025",
@@ -25042,7 +25042,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T22:01:13.640Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49027",
@@ -25071,14 +25071,14 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49029",
             "name": "Morgan",
             "votes": 6286,
             "absentee_votes": 0,
-            "reporting": 15,
+            "reporting": 16,
             "precincts": 16,
             "absentee_method": null,
             "eevp": null,
@@ -25100,7 +25100,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T23:53:25.563Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49031",
@@ -25129,7 +25129,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-06T23:05:47.047Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49033",
@@ -25158,7 +25158,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T00:00:09.583Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49035",
@@ -25187,7 +25187,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T23:53:25.563Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49037",
@@ -25216,7 +25216,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T17:24:28.400Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49039",
@@ -25245,7 +25245,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T19:43:10.250Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49041",
@@ -25274,7 +25274,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49043",
@@ -25303,7 +25303,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49045",
@@ -25332,7 +25332,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T23:01:31.530Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49047",
@@ -25361,7 +25361,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-16T22:57:11.400Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49049",
@@ -25390,7 +25390,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T21:28:41.960Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49051",
@@ -25419,7 +25419,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T17:50:36.430Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49053",
@@ -25448,7 +25448,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T00:13:31.870Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49055",
@@ -25477,7 +25477,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-14T00:19:55.460Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           },
           {
             "fips": "49057",
@@ -25506,7 +25506,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T17:50:36.430Z"
+            "last_updated": "2020-11-20T17:01:40.28Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -25543,7 +25543,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1436340,
+        "votes": 1436458,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -25556,10 +25556,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 2618,
+        "precincts_reporting": 2619,
         "precincts_total": 2619,
-        "reporting_display": "99% reporting",
-        "reporting_value": "99%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -25568,7 +25568,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T01:10:49.247Z",
+        "last_updated": "2020-11-20T17:01:35.363Z",
         "candidates": [
           {
             "candidate_id": "for-2",
@@ -25580,7 +25580,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 828577,
+            "votes": 828629,
             "percent": 57.7,
             "percent_display": "57.7",
             "electoral_votes": 0,
@@ -25600,7 +25600,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 607763,
+            "votes": 607829,
             "percent": 42.3,
             "percent_display": "42.3",
             "electoral_votes": 0,
@@ -25640,7 +25640,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T00:27:40.123Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49003",
@@ -25669,7 +25669,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T19:50:12.663Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49005",
@@ -25698,7 +25698,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T21:56:51.143Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49007",
@@ -25727,12 +25727,12 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T19:21:03.527Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49009",
             "name": "Daggett",
-            "votes": 546,
+            "votes": 570,
             "absentee_votes": 0,
             "reporting": 15,
             "precincts": 15,
@@ -25749,19 +25749,19 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 228,
-              "against": 318
+              "for": 236,
+              "against": 334
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T01:58:46.140Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49011",
             "name": "Davis",
-            "votes": 165888,
+            "votes": 165982,
             "absentee_votes": 0,
             "reporting": 262,
             "precincts": 262,
@@ -25778,14 +25778,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "for": 95419,
-              "against": 70469
+              "for": 95463,
+              "against": 70519
             },
             "results_absentee": {
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-16T22:57:11.400Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49013",
@@ -25814,7 +25814,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49015",
@@ -25843,7 +25843,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T00:06:33.230Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49017",
@@ -25872,7 +25872,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49019",
@@ -25901,7 +25901,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49021",
@@ -25930,7 +25930,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T21:28:41.960Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49023",
@@ -25959,7 +25959,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-10T00:11:08.950Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49025",
@@ -25988,7 +25988,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T22:01:13.640Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49027",
@@ -26017,14 +26017,14 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49029",
             "name": "Morgan",
             "votes": 6425,
             "absentee_votes": 0,
-            "reporting": 15,
+            "reporting": 16,
             "precincts": 16,
             "absentee_method": null,
             "eevp": null,
@@ -26046,7 +26046,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T23:53:25.563Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49031",
@@ -26075,7 +26075,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-04T23:33:05.683Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49033",
@@ -26104,7 +26104,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T00:00:09.583Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49035",
@@ -26133,7 +26133,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T23:53:25.563Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49037",
@@ -26162,7 +26162,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T17:24:28.400Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49039",
@@ -26191,7 +26191,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T19:43:10.250Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49041",
@@ -26220,7 +26220,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49043",
@@ -26249,7 +26249,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49045",
@@ -26278,7 +26278,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-13T23:01:31.530Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49047",
@@ -26307,7 +26307,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-16T22:57:11.400Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49049",
@@ -26336,7 +26336,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T21:28:41.960Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49051",
@@ -26365,7 +26365,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T17:50:36.430Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49053",
@@ -26394,7 +26394,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-18T00:13:31.870Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49055",
@@ -26423,7 +26423,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-14T00:18:54.707Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           },
           {
             "fips": "49057",
@@ -26452,7 +26452,7 @@
               "for": 0,
               "against": 0
             },
-            "last_updated": "2020-11-17T17:50:36.430Z"
+            "last_updated": "2020-11-20T17:01:35.363Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -26487,7 +26487,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1338251,
+        "votes": 1338362,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -26500,10 +26500,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 2618,
+        "precincts_reporting": 2619,
         "precincts_total": 2619,
-        "reporting_display": "99% reporting",
-        "reporting_value": "99%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -26512,7 +26512,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T01:10:49.247Z",
+        "last_updated": "2020-11-20T17:01:33.197Z",
         "candidates": [
           {
             "candidate_id": "dougall-58489",
@@ -26525,7 +26525,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 1000763,
+            "votes": 1000846,
             "percent": 74.8,
             "percent_display": "74.8",
             "electoral_votes": 0,
@@ -26546,7 +26546,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 173622,
+            "votes": 173644,
             "percent": 13,
             "percent_display": "13.0",
             "electoral_votes": 0,
@@ -26567,7 +26567,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 163866,
+            "votes": 163872,
             "percent": 12.2,
             "percent_display": "12.2",
             "electoral_votes": 0,
@@ -26609,7 +26609,7 @@
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-17T00:27:40.123Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49003",
@@ -26640,7 +26640,7 @@
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-17T19:50:12.663Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49005",
@@ -26671,7 +26671,7 @@
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-17T21:56:51.143Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49007",
@@ -26702,12 +26702,12 @@
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-17T19:21:03.527Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49009",
             "name": "Daggett",
-            "votes": 527,
+            "votes": 550,
             "absentee_votes": 0,
             "reporting": 15,
             "precincts": 15,
@@ -26724,21 +26724,21 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "dougallj": 456,
-              "ostlerj": 56,
-              "fabbib": 15
+              "dougallj": 475,
+              "ostlerj": 57,
+              "fabbib": 18
             },
             "results_absentee": {
               "dougallj": 0,
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-13T01:58:46.140Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49011",
             "name": "Davis",
-            "votes": 159446,
+            "votes": 159534,
             "absentee_votes": 0,
             "reporting": 262,
             "precincts": 262,
@@ -26755,16 +26755,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "dougallj": 119354,
-              "ostlerj": 20573,
-              "fabbib": 19519
+              "dougallj": 119418,
+              "ostlerj": 20578,
+              "fabbib": 19538
             },
             "results_absentee": {
               "dougallj": 0,
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-16T22:57:11.400Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49013",
@@ -26795,7 +26795,7 @@
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49015",
@@ -26826,7 +26826,7 @@
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-17T00:06:33.230Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49017",
@@ -26857,7 +26857,7 @@
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49019",
@@ -26888,7 +26888,7 @@
               "fabbib": 0,
               "ostlerj": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49021",
@@ -26919,7 +26919,7 @@
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-17T21:28:41.960Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49023",
@@ -26950,7 +26950,7 @@
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-10T00:11:08.950Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49025",
@@ -26981,7 +26981,7 @@
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-13T22:01:13.640Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49027",
@@ -27012,14 +27012,14 @@
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49029",
             "name": "Morgan",
             "votes": 6211,
             "absentee_votes": 0,
-            "reporting": 15,
+            "reporting": 16,
             "precincts": 16,
             "absentee_method": null,
             "eevp": null,
@@ -27043,7 +27043,7 @@
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-17T23:53:25.563Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49031",
@@ -27074,7 +27074,7 @@
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-04T19:44:40.097Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49033",
@@ -27105,7 +27105,7 @@
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-13T00:00:09.583Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49035",
@@ -27136,7 +27136,7 @@
               "fabbib": 0,
               "ostlerj": 0
             },
-            "last_updated": "2020-11-17T23:53:25.563Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49037",
@@ -27167,7 +27167,7 @@
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-17T17:24:28.400Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49039",
@@ -27198,7 +27198,7 @@
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-17T19:43:10.250Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49041",
@@ -27229,7 +27229,7 @@
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49043",
@@ -27260,7 +27260,7 @@
               "fabbib": 0,
               "ostlerj": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49045",
@@ -27291,7 +27291,7 @@
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-13T23:01:31.530Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49047",
@@ -27322,7 +27322,7 @@
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-16T22:57:11.400Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49049",
@@ -27353,7 +27353,7 @@
               "fabbib": 0,
               "ostlerj": 0
             },
-            "last_updated": "2020-11-17T21:28:41.960Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49051",
@@ -27384,7 +27384,7 @@
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-17T17:50:36.430Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49053",
@@ -27415,7 +27415,7 @@
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-18T00:13:31.870Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49055",
@@ -27446,7 +27446,7 @@
               "fabbib": 0,
               "ostlerj": 0
             },
-            "last_updated": "2020-11-14T00:18:54.707Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           },
           {
             "fips": "49057",
@@ -27477,7 +27477,7 @@
               "ostlerj": 0,
               "fabbib": 0
             },
-            "last_updated": "2020-11-17T17:50:36.430Z"
+            "last_updated": "2020-11-20T17:01:33.197Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -27537,7 +27537,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:41.58Z",
         "candidates": [
           {
             "candidate_id": "hymas-51238",
@@ -27611,7 +27611,7 @@
               "hymasm": 0,
               "garnerb": 0
             },
-            "last_updated": "2020-11-12T23:09:54.573Z"
+            "last_updated": "2020-11-20T17:01:41.58Z"
           },
           {
             "fips": "49035",
@@ -27640,7 +27640,7 @@
               "hymasm": 0,
               "garnerb": 0
             },
-            "last_updated": "2020-11-17T23:53:25.563Z"
+            "last_updated": "2020-11-20T17:01:41.58Z"
           },
           {
             "fips": "49045",
@@ -27669,7 +27669,7 @@
               "hymasm": 0,
               "garnerb": 0
             },
-            "last_updated": "2020-11-13T23:01:31.530Z"
+            "last_updated": "2020-11-20T17:01:41.58Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -27730,7 +27730,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "strate-50916",
@@ -27813,7 +27813,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "barlow-lear-50920",
@@ -27896,7 +27896,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "cannon-43953",
@@ -27979,7 +27979,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "hart-51242",
@@ -28061,7 +28061,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-17T23:53:25.563Z",
+        "last_updated": "2020-11-20T17:01:34.837Z",
         "candidates": [
           {
             "candidate_id": "cline-51245",
@@ -28135,7 +28135,7 @@
               "clinen": 0,
               "zanit": 0
             },
-            "last_updated": "2020-11-17T23:53:25.563Z"
+            "last_updated": "2020-11-20T17:01:34.837Z"
           },
           {
             "fips": "49049",
@@ -28164,7 +28164,7 @@
               "clinen": 0,
               "zanit": 0
             },
-            "last_updated": "2020-11-17T21:28:41.960Z"
+            "last_updated": "2020-11-20T17:01:34.837Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -28199,7 +28199,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 91464,
+        "votes": 91489,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -28224,7 +28224,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T01:10:49.247Z",
+        "last_updated": "2020-11-20T17:01:35.53Z",
         "candidates": [
           {
             "candidate_id": "moss-50935",
@@ -28237,7 +28237,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 69843,
+            "votes": 69864,
             "percent": 76.4,
             "percent_display": "76.4",
             "electoral_votes": 0,
@@ -28258,7 +28258,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 21621,
+            "votes": 21625,
             "percent": 23.6,
             "percent_display": "23.6",
             "electoral_votes": 0,
@@ -28274,7 +28274,7 @@
           {
             "fips": "49009",
             "name": "Daggett",
-            "votes": 531,
+            "votes": 556,
             "absentee_votes": 0,
             "reporting": 15,
             "precincts": 15,
@@ -28291,14 +28291,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mossj": 427,
-              "taylorb": 104
+              "mossj": 448,
+              "taylorb": 108
             },
             "results_absentee": {
               "mossj": 0,
               "taylorb": 0
             },
-            "last_updated": "2020-11-13T01:58:46.140Z"
+            "last_updated": "2020-11-20T17:01:35.53Z"
           },
           {
             "fips": "49013",
@@ -28327,7 +28327,7 @@
               "mossj": 0,
               "taylorb": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:35.53Z"
           },
           {
             "fips": "49043",
@@ -28356,7 +28356,7 @@
               "mossj": 0,
               "taylorb": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:35.53Z"
           },
           {
             "fips": "49047",
@@ -28385,7 +28385,7 @@
               "mossj": 0,
               "taylorb": 0
             },
-            "last_updated": "2020-11-16T22:57:11.400Z"
+            "last_updated": "2020-11-20T17:01:35.53Z"
           },
           {
             "fips": "49049",
@@ -28414,7 +28414,7 @@
               "mossj": 0,
               "taylorb": 0
             },
-            "last_updated": "2020-11-17T21:28:41.960Z"
+            "last_updated": "2020-11-20T17:01:35.53Z"
           },
           {
             "fips": "49051",
@@ -28443,7 +28443,7 @@
               "mossj": 0,
               "taylorb": 0
             },
-            "last_updated": "2020-11-17T17:50:36.430Z"
+            "last_updated": "2020-11-20T17:01:35.53Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -28504,7 +28504,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "boothe-51248",
@@ -28587,7 +28587,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-04T03:01:14.603Z",
+        "last_updated": "2020-11-20T17:01:27.353Z",
         "candidates": [
           {
             "candidate_id": "norton-51249",
@@ -28644,7 +28644,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1333016,
+        "votes": 1333130,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -28657,10 +28657,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T03:00:00.000Z",
         "poll_time_short": "10 p.m.",
-        "precincts_reporting": 2618,
+        "precincts_reporting": 2619,
         "precincts_total": 2619,
-        "reporting_display": "99% reporting",
-        "reporting_value": "99%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -28669,7 +28669,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-18T01:10:49.247Z",
+        "last_updated": "2020-11-20T17:01:33.363Z",
         "candidates": [
           {
             "candidate_id": "damschen-50850",
@@ -28682,7 +28682,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 994021,
+            "votes": 994115,
             "percent": 74.6,
             "percent_display": "74.6",
             "electoral_votes": 0,
@@ -28703,7 +28703,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 198537,
+            "votes": 198549,
             "percent": 14.9,
             "percent_display": "14.9",
             "electoral_votes": 0,
@@ -28724,7 +28724,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 140458,
+            "votes": 140466,
             "percent": 10.5,
             "percent_display": "10.5",
             "electoral_votes": 0,
@@ -28766,7 +28766,7 @@
               "proctorr": 0,
               "specialej": 0
             },
-            "last_updated": "2020-11-17T00:27:40.123Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49003",
@@ -28797,7 +28797,7 @@
               "proctorr": 0,
               "specialej": 0
             },
-            "last_updated": "2020-11-17T19:50:12.663Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49005",
@@ -28828,7 +28828,7 @@
               "specialej": 0,
               "proctorr": 0
             },
-            "last_updated": "2020-11-17T21:56:51.143Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49007",
@@ -28859,12 +28859,12 @@
               "specialej": 0,
               "proctorr": 0
             },
-            "last_updated": "2020-11-17T19:21:03.527Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49009",
             "name": "Daggett",
-            "votes": 534,
+            "votes": 557,
             "absentee_votes": 0,
             "reporting": 15,
             "precincts": 15,
@@ -28881,21 +28881,21 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "damschend": 458,
-              "proctorr": 42,
-              "specialej": 34
+              "damschend": 478,
+              "proctorr": 43,
+              "specialej": 36
             },
             "results_absentee": {
               "damschend": 0,
               "proctorr": 0,
               "specialej": 0
             },
-            "last_updated": "2020-11-13T01:58:46.140Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49011",
             "name": "Davis",
-            "votes": 158021,
+            "votes": 158112,
             "absentee_votes": 0,
             "reporting": 262,
             "precincts": 262,
@@ -28912,16 +28912,16 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "damschend": 120806,
-              "specialej": 20206,
-              "proctorr": 17009
+              "damschend": 120880,
+              "specialej": 20216,
+              "proctorr": 17016
             },
             "results_absentee": {
               "damschend": 0,
               "specialej": 0,
               "proctorr": 0
             },
-            "last_updated": "2020-11-16T22:57:11.400Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49013",
@@ -28952,7 +28952,7 @@
               "proctorr": 0,
               "specialej": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49015",
@@ -28983,7 +28983,7 @@
               "proctorr": 0,
               "specialej": 0
             },
-            "last_updated": "2020-11-17T00:06:33.230Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49017",
@@ -29014,7 +29014,7 @@
               "specialej": 0,
               "proctorr": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49019",
@@ -29045,7 +29045,7 @@
               "specialej": 0,
               "proctorr": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49021",
@@ -29076,7 +29076,7 @@
               "specialej": 0,
               "proctorr": 0
             },
-            "last_updated": "2020-11-17T21:28:41.960Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49023",
@@ -29107,7 +29107,7 @@
               "proctorr": 0,
               "specialej": 0
             },
-            "last_updated": "2020-11-10T00:11:08.950Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49025",
@@ -29138,7 +29138,7 @@
               "specialej": 0,
               "proctorr": 0
             },
-            "last_updated": "2020-11-13T22:01:13.640Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49027",
@@ -29169,14 +29169,14 @@
               "proctorr": 0,
               "specialej": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49029",
             "name": "Morgan",
             "votes": 6209,
             "absentee_votes": 0,
-            "reporting": 15,
+            "reporting": 16,
             "precincts": 16,
             "absentee_method": null,
             "eevp": null,
@@ -29200,7 +29200,7 @@
               "proctorr": 0,
               "specialej": 0
             },
-            "last_updated": "2020-11-17T23:53:25.563Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49031",
@@ -29231,7 +29231,7 @@
               "proctorr": 0,
               "specialej": 0
             },
-            "last_updated": "2020-11-04T19:44:40.097Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49033",
@@ -29262,7 +29262,7 @@
               "specialej": 0,
               "proctorr": 0
             },
-            "last_updated": "2020-11-13T00:00:09.583Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49035",
@@ -29293,7 +29293,7 @@
               "specialej": 0,
               "proctorr": 0
             },
-            "last_updated": "2020-11-17T23:53:25.563Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49037",
@@ -29324,7 +29324,7 @@
               "proctorr": 0,
               "specialej": 0
             },
-            "last_updated": "2020-11-17T17:24:28.400Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49039",
@@ -29355,7 +29355,7 @@
               "proctorr": 0,
               "specialej": 0
             },
-            "last_updated": "2020-11-17T19:43:10.250Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49041",
@@ -29386,7 +29386,7 @@
               "proctorr": 0,
               "specialej": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49043",
@@ -29417,7 +29417,7 @@
               "specialej": 0,
               "proctorr": 0
             },
-            "last_updated": "2020-11-18T01:10:49.247Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49045",
@@ -29448,7 +29448,7 @@
               "proctorr": 0,
               "specialej": 0
             },
-            "last_updated": "2020-11-13T23:01:31.530Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49047",
@@ -29479,7 +29479,7 @@
               "proctorr": 0,
               "specialej": 0
             },
-            "last_updated": "2020-11-16T22:57:11.400Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49049",
@@ -29510,7 +29510,7 @@
               "specialej": 0,
               "proctorr": 0
             },
-            "last_updated": "2020-11-17T21:28:41.960Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49051",
@@ -29541,7 +29541,7 @@
               "specialej": 0,
               "proctorr": 0
             },
-            "last_updated": "2020-11-17T17:50:36.430Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49053",
@@ -29572,7 +29572,7 @@
               "specialej": 0,
               "proctorr": 0
             },
-            "last_updated": "2020-11-18T00:13:31.870Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49055",
@@ -29603,7 +29603,7 @@
               "proctorr": 0,
               "specialej": 0
             },
-            "last_updated": "2020-11-14T00:18:54.707Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           },
           {
             "fips": "49057",
@@ -29634,7 +29634,7 @@
               "specialej": 0,
               "proctorr": 0
             },
-            "last_updated": "2020-11-17T17:50:36.430Z"
+            "last_updated": "2020-11-20T17:01:33.363Z"
           }
         ],
         "expectations_text": "Ballots postmarked by the day before the election must arrive by Nov. 10 to Nov. 17, depending on the county.",
@@ -46218,8 +46218,8 @@
     ]
   },
   "meta": {
-    "version": 20570,
+    "version": 20582,
     "track": "2020-11-03",
-    "timestamp": "2020-11-20T16:54:58.929Z"
+    "timestamp": "2020-11-20T17:13:59.223Z"
   }
 }
