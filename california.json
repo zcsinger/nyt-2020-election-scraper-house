@@ -41859,7 +41859,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16605342,
+        "votes": 16605837,
         "absentee_votes": 985738,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -41872,7 +41872,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19775,
+        "precincts_reporting": 19747,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -41884,7 +41884,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T01:36:04.517Z",
+        "last_updated": "2020-11-20T01:44:10.713Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -41896,7 +41896,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9494108,
+            "votes": 9494437,
             "percent": 57.2,
             "percent_display": "57.2",
             "electoral_votes": 0,
@@ -41916,7 +41916,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7111234,
+            "votes": 7111400,
             "percent": 42.8,
             "percent_display": "42.8",
             "electoral_votes": 0,
@@ -43527,9 +43527,9 @@
           {
             "fips": "06111",
             "name": "Ventura",
-            "votes": 410848,
+            "votes": 411343,
             "absentee_votes": 0,
-            "reporting": 695,
+            "reporting": 667,
             "precincts": 695,
             "absentee_method": null,
             "eevp": null,
@@ -43544,14 +43544,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 254583,
-              "yes": 156265
+              "no": 254912,
+              "yes": 156431
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-19T15:15:04.560Z"
+            "last_updated": "2020-11-20T01:44:10.713Z"
           },
           {
             "fips": "06113",
@@ -43650,7 +43650,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16783095,
+        "votes": 16783594,
         "absentee_votes": 993320,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -43663,7 +43663,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19775,
+        "precincts_reporting": 19747,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -43675,7 +43675,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T01:37:05.287Z",
+        "last_updated": "2020-11-20T01:45:11.470Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -43687,7 +43687,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9827153,
+            "votes": 9827430,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -43707,7 +43707,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6955942,
+            "votes": 6956164,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -45318,9 +45318,9 @@
           {
             "fips": "06111",
             "name": "Ventura",
-            "votes": 414160,
+            "votes": 414659,
             "absentee_votes": 0,
-            "reporting": 695,
+            "reporting": 667,
             "precincts": 695,
             "absentee_method": null,
             "eevp": null,
@@ -45335,14 +45335,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 222317,
-              "no": 191843
+              "yes": 222594,
+              "no": 192065
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-19T15:15:04.560Z"
+            "last_updated": "2020-11-20T01:45:11.470Z"
           },
           {
             "fips": "06113",
@@ -47230,7 +47230,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16544674,
+        "votes": 16545163,
         "absentee_votes": 984314,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -47243,7 +47243,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19775,
+        "precincts_reporting": 19747,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -47255,7 +47255,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T01:35:03.693Z",
+        "last_updated": "2020-11-20T01:43:09.707Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -47267,7 +47267,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8446956,
+            "votes": 8447227,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -47287,7 +47287,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8097718,
+            "votes": 8097936,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -48898,9 +48898,9 @@
           {
             "fips": "06111",
             "name": "Ventura",
-            "votes": 408940,
+            "votes": 409429,
             "absentee_votes": 0,
-            "reporting": 695,
+            "reporting": 667,
             "precincts": 695,
             "absentee_method": null,
             "eevp": null,
@@ -48915,14 +48915,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 205857,
-              "no": 203083
+              "yes": 206128,
+              "no": 203301
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-19T15:15:05.773Z"
+            "last_updated": "2020-11-20T01:43:09.707Z"
           },
           {
             "fips": "06113",
@@ -49019,7 +49019,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16826695,
+        "votes": 16827194,
         "absentee_votes": 998550,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -49032,7 +49032,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19775,
+        "precincts_reporting": 19747,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -49044,7 +49044,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T01:36:04.517Z",
+        "last_updated": "2020-11-20T01:44:10.713Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -49056,7 +49056,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8751024,
+            "votes": 8751290,
             "percent": 52,
             "percent_display": "52.0",
             "electoral_votes": 0,
@@ -49076,7 +49076,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8075671,
+            "votes": 8075904,
             "percent": 48,
             "percent_display": "48.0",
             "electoral_votes": 0,
@@ -50687,9 +50687,9 @@
           {
             "fips": "06111",
             "name": "Ventura",
-            "votes": 415255,
+            "votes": 415754,
             "absentee_votes": 0,
-            "reporting": 695,
+            "reporting": 667,
             "precincts": 695,
             "absentee_method": null,
             "eevp": null,
@@ -50704,14 +50704,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 238470,
-              "yes": 176785
+              "no": 238736,
+              "yes": 177018
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-19T15:15:04.560Z"
+            "last_updated": "2020-11-20T01:44:10.713Z"
           },
           {
             "fips": "06113",
@@ -50810,7 +50810,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16819781,
+        "votes": 16820279,
         "absentee_votes": 994775,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -50823,7 +50823,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19775,
+        "precincts_reporting": 19747,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -50835,7 +50835,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T01:37:05.287Z",
+        "last_updated": "2020-11-20T01:45:11.470Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -50847,7 +50847,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9420963,
+            "votes": 9421275,
             "percent": 56,
             "percent_display": "56.0",
             "electoral_votes": 0,
@@ -50867,7 +50867,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7398818,
+            "votes": 7399004,
             "percent": 44,
             "percent_display": "44.0",
             "electoral_votes": 0,
@@ -52478,9 +52478,9 @@
           {
             "fips": "06111",
             "name": "Ventura",
-            "votes": 414880,
+            "votes": 415378,
             "absentee_votes": 0,
-            "reporting": 695,
+            "reporting": 667,
             "precincts": 695,
             "absentee_method": null,
             "eevp": null,
@@ -52495,14 +52495,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 245357,
-              "yes": 169523
+              "no": 245669,
+              "yes": 169709
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-19T15:15:04.560Z"
+            "last_updated": "2020-11-20T01:45:11.470Z"
           },
           {
             "fips": "06113",
@@ -52599,7 +52599,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16455776,
+        "votes": 16456257,
         "absentee_votes": 978441,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -52612,7 +52612,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19775,
+        "precincts_reporting": 19747,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -52624,7 +52624,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T01:37:05.287Z",
+        "last_updated": "2020-11-20T01:46:12.370Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -52636,7 +52636,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8404183,
+            "votes": 8404439,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -52656,7 +52656,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8051593,
+            "votes": 8051818,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -54267,9 +54267,9 @@
           {
             "fips": "06111",
             "name": "Ventura",
-            "votes": 407471,
+            "votes": 407952,
             "absentee_votes": 0,
-            "reporting": 695,
+            "reporting": 667,
             "precincts": 695,
             "absentee_method": null,
             "eevp": null,
@@ -54284,14 +54284,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 204841,
-              "no": 202630
+              "yes": 205097,
+              "no": 202855
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-19T15:15:04.560Z"
+            "last_updated": "2020-11-20T01:46:12.370Z"
           },
           {
             "fips": "06113",
@@ -54388,7 +54388,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16413889,
+        "votes": 16414369,
         "absentee_votes": 975847,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -54401,7 +54401,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19775,
+        "precincts_reporting": 19747,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -54413,7 +54413,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T01:38:06.110Z",
+        "last_updated": "2020-11-20T01:46:12.370Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -54425,7 +54425,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10136450,
+            "votes": 10136711,
             "percent": 61.8,
             "percent_display": "61.8",
             "electoral_votes": 0,
@@ -54445,7 +54445,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6277439,
+            "votes": 6277658,
             "percent": 38.2,
             "percent_display": "38.2",
             "electoral_votes": 0,
@@ -56056,9 +56056,9 @@
           {
             "fips": "06111",
             "name": "Ventura",
-            "votes": 404788,
+            "votes": 405268,
             "absentee_votes": 0,
-            "reporting": 695,
+            "reporting": 667,
             "precincts": 695,
             "absentee_method": null,
             "eevp": null,
@@ -56073,14 +56073,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 242759,
-              "yes": 162029
+              "no": 243020,
+              "yes": 162248
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-19T15:15:04.560Z"
+            "last_updated": "2020-11-20T01:46:12.370Z"
           },
           {
             "fips": "06113",
@@ -56179,7 +56179,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16597937,
+        "votes": 16598421,
         "absentee_votes": 986242,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -56192,7 +56192,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19774,
+        "precincts_reporting": 19746,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -56204,7 +56204,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T01:38:06.110Z",
+        "last_updated": "2020-11-20T01:47:13.133Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -56216,7 +56216,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9935158,
+            "votes": 9935459,
             "percent": 59.9,
             "percent_display": "59.9",
             "electoral_votes": 0,
@@ -56236,7 +56236,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6662779,
+            "votes": 6662962,
             "percent": 40.1,
             "percent_display": "40.1",
             "electoral_votes": 0,
@@ -57847,9 +57847,9 @@
           {
             "fips": "06111",
             "name": "Ventura",
-            "votes": 408449,
+            "votes": 408933,
             "absentee_votes": 0,
-            "reporting": 695,
+            "reporting": 667,
             "precincts": 695,
             "absentee_method": null,
             "eevp": null,
@@ -57864,14 +57864,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 256946,
-              "yes": 151503
+              "no": 257247,
+              "yes": 151686
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-19T15:15:04.560Z"
+            "last_updated": "2020-11-20T01:47:13.133Z"
           },
           {
             "fips": "06113",
@@ -57970,7 +57970,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16715171,
+        "votes": 16715661,
         "absentee_votes": 992295,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -57983,7 +57983,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19775,
+        "precincts_reporting": 19747,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -57995,7 +57995,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T01:39:07.313Z",
+        "last_updated": "2020-11-20T01:47:13.133Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -58007,7 +58007,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9803774,
+            "votes": 9804071,
             "percent": 58.7,
             "percent_display": "58.7",
             "electoral_votes": 0,
@@ -58027,7 +58027,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6911397,
+            "votes": 6911590,
             "percent": 41.3,
             "percent_display": "41.3",
             "electoral_votes": 0,
@@ -59638,9 +59638,9 @@
           {
             "fips": "06111",
             "name": "Ventura",
-            "votes": 411177,
+            "votes": 411667,
             "absentee_votes": 0,
-            "reporting": 695,
+            "reporting": 667,
             "precincts": 695,
             "absentee_method": null,
             "eevp": null,
@@ -59655,14 +59655,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 245965,
-              "no": 165212
+              "yes": 246262,
+              "no": 165405
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-19T15:15:04.560Z"
+            "last_updated": "2020-11-20T01:47:13.133Z"
           },
           {
             "fips": "06113",
@@ -63383,7 +63383,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79604071,
+            "votes": 79604525,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -63400,7 +63400,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73644965,
+            "votes": 73645616,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -63417,7 +63417,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2844159,
+            "votes": 2844322,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -63727,7 +63727,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2474908,
+          "votes": 2475362,
           "percent": 49.5,
           "percent_display": "49.50",
           "electoral_votes": 16,
@@ -74715,7 +74715,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2289193,
+          "votes": 2289416,
           "percent": 56.8,
           "percent_display": "56.8",
           "electoral_votes": 0,
@@ -79882,8 +79882,8 @@
     ]
   },
   "meta": {
-    "version": 20309,
+    "version": 20318,
     "track": "2020-11-03",
-    "timestamp": "2020-11-20T01:41:08.198Z"
+    "timestamp": "2020-11-20T01:48:09.318Z"
   }
 }
