@@ -14760,7 +14760,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 4053214,
+        "votes": 4053216,
         "absentee_votes": 621060,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -14785,7 +14785,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T20:58:21.640Z",
+        "last_updated": "2020-11-20T21:48:32.627Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -14797,7 +14797,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2719816,
+            "votes": 2719818,
             "percent": 67.1,
             "percent_display": "67.1",
             "electoral_votes": 0,
@@ -15297,7 +15297,7 @@
           {
             "fips": "34033",
             "name": "Salem",
-            "votes": 32061,
+            "votes": 32063,
             "absentee_votes": 0,
             "reporting": 45,
             "precincts": 45,
@@ -15314,14 +15314,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 20884,
+              "yes": 20886,
               "no": 11177
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T18:02:29.247Z"
+            "last_updated": "2020-11-20T21:48:32.627Z"
           },
           {
             "fips": "34035",
@@ -15475,7 +15475,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3979927,
+        "votes": 3979930,
         "absentee_votes": 605634,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -15500,7 +15500,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T20:58:21.640Z",
+        "last_updated": "2020-11-20T21:48:32.627Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -15512,7 +15512,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 3043035,
+            "votes": 3043037,
             "percent": 76.5,
             "percent_display": "76.5",
             "electoral_votes": 0,
@@ -15532,7 +15532,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 936892,
+            "votes": 936893,
             "percent": 23.5,
             "percent_display": "23.5",
             "electoral_votes": 0,
@@ -16012,7 +16012,7 @@
           {
             "fips": "34033",
             "name": "Salem",
-            "votes": 31899,
+            "votes": 31902,
             "absentee_votes": 0,
             "reporting": 45,
             "precincts": 45,
@@ -16029,14 +16029,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 24182,
-              "no": 7717
+              "yes": 24184,
+              "no": 7718
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T18:02:29.247Z"
+            "last_updated": "2020-11-20T21:48:32.627Z"
           },
           {
             "fips": "34035",
@@ -16190,7 +16190,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3824348,
+        "votes": 3824350,
         "absentee_votes": 360060,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -16215,7 +16215,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T20:58:21.640Z",
+        "last_updated": "2020-11-20T21:48:32.627Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -16247,7 +16247,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1613224,
+            "votes": 1613226,
             "percent": 42.2,
             "percent_display": "42.2",
             "electoral_votes": 0,
@@ -16727,7 +16727,7 @@
           {
             "fips": "34033",
             "name": "Salem",
-            "votes": 31328,
+            "votes": 31330,
             "absentee_votes": 0,
             "reporting": 45,
             "precincts": 45,
@@ -16745,13 +16745,13 @@
             "provisional_count_progress": null,
             "results": {
               "yes": 14983,
-              "no": 16345
+              "no": 16347
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T18:02:29.247Z"
+            "last_updated": "2020-11-20T21:48:32.627Z"
           },
           {
             "fips": "34035",
@@ -16952,7 +16952,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79668741,
+            "votes": 79667933,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -16969,7 +16969,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73688685,
+            "votes": 73687694,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -16986,7 +16986,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2847278,
+            "votes": 2847172,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -17313,7 +17313,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2476196,
+          "votes": 2475388,
           "percent": 49.5,
           "percent_display": "49.50",
           "electoral_votes": 16,
@@ -33468,8 +33468,8 @@
     ]
   },
   "meta": {
-    "version": 20863,
+    "version": 20870,
     "track": "2020-11-03",
-    "timestamp": "2020-11-20T21:42:52.046Z"
+    "timestamp": "2020-11-20T21:49:32.123Z"
   }
 }
