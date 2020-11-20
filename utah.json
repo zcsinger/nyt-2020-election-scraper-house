@@ -55,7 +55,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T13:58:29Z",
+        "last_updated": "2020-11-20T14:18:11Z",
         "candidates": [
           {
             "candidate_id": "trump-8639",
@@ -2750,7 +2750,7 @@
         "precincts_total": 571,
         "reporting_display": "99% reporting",
         "reporting_value": "99%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 331000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -2758,7 +2758,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-18T18:50:47Z",
+        "last_updated": "2020-11-20T14:19:43Z",
         "candidates": [
           {
             "candidate_id": "moore-20073829-45-h",
@@ -3706,6 +3706,17 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-18T18:50:47Z"
+          },
+          {
+            "vote_shares": {
+              "mooreb": 0.695,
+              "parryd": 0.304,
+              "write-ins": 0
+            },
+            "votes": 342223,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:19:43Z"
           }
         ]
       },
@@ -3754,7 +3765,7 @@
         "precincts_total": 595,
         "reporting_display": "99% reporting",
         "reporting_value": "99%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 335000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -3762,7 +3773,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-18T18:50:47Z",
+        "last_updated": "2020-11-20T14:19:43Z",
         "candidates": [
           {
             "candidate_id": "stewart-61890-45-h",
@@ -4981,6 +4992,17 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-18T01:10:49.247Z"
+          },
+          {
+            "vote_shares": {
+              "stewartc": 0.59,
+              "westonk": 0.366,
+              "lathamj": 0.044
+            },
+            "votes": 354224,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:19:43Z"
           }
         ]
       },
@@ -5029,7 +5051,7 @@
         "precincts_total": 523,
         "reporting_display": "99% reporting",
         "reporting_value": "99%",
-        "eevp": 99,
+        "eevp": 100,
         "tot_exp_vote": 343000,
         "eevp_source": "edison",
         "eevp_value": ">98%",
@@ -5037,7 +5059,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-18T17:17:36Z",
+        "last_updated": "2020-11-20T14:19:44Z",
         "candidates": [
           {
             "candidate_id": "curtis-1479-45-h",
@@ -5976,6 +5998,18 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-18T01:10:49.247Z"
+          },
+          {
+            "vote_shares": {
+              "curtisj": 0.688,
+              "thorped": 0.268,
+              "cummingsd": 0.025,
+              "mcneillt": 0.02
+            },
+            "votes": 358670,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T14:19:44Z"
           }
         ]
       },
@@ -6905,7 +6939,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-20T13:58:29Z",
+        "last_updated": "2020-11-20T14:18:11Z",
         "candidates": [
           {
             "candidate_id": "cox-20073827-45-g",
@@ -29610,7 +29644,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75496058,
+            "votes": 75498101,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -29627,7 +29661,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72109559,
+            "votes": 72111562,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -29672,7 +29706,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79641365,
+            "votes": 79643415,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -29689,7 +29723,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73661779,
+            "votes": 73663898,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -29706,7 +29740,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2845221,
+            "votes": 2845321,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -29738,7 +29772,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 41903075,
+            "votes": 41904989,
             "percent": "47.2",
             "change": 1,
             "flip_count": 2,
@@ -29755,7 +29789,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 43954862,
+            "votes": 43956755,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -29772,7 +29806,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2894118,
+            "votes": 2894212,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -29828,7 +29862,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 216965,
+          "votes": 217146,
           "percent": 50.6,
           "percent_display": "50.6",
           "electoral_votes": 0,
@@ -33504,7 +33538,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3454598,
+          "votes": 3454715,
           "percent": 50,
           "percent_display": "50.0",
           "electoral_votes": 20,
@@ -44199,7 +44233,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2493733,
+          "votes": 2495647,
           "percent": 57.2,
           "percent_display": "57.2",
           "electoral_votes": 0,
@@ -44459,7 +44493,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2568742,
+          "votes": 2570675,
           "percent": 57.2,
           "percent_display": "57.2",
           "electoral_votes": 14,
@@ -46171,8 +46205,8 @@
     ]
   },
   "meta": {
-    "version": 20455,
+    "version": 20461,
     "track": "2020-11-03",
-    "timestamp": "2020-11-20T13:59:59.467Z"
+    "timestamp": "2020-11-20T14:21:01.300Z"
   }
 }
