@@ -14582,7 +14582,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 6317,
+        "precincts_reporting": 6336,
         "precincts_total": 6348,
         "reporting_display": "99% reporting",
         "reporting_value": "99%",
@@ -14594,7 +14594,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T17:51:26.187Z",
+        "last_updated": "2020-11-20T18:02:29.247Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -15079,7 +15079,7 @@
             "name": "Passaic",
             "votes": 196450,
             "absentee_votes": 0,
-            "reporting": 266,
+            "reporting": 284,
             "precincts": 284,
             "absentee_method": null,
             "eevp": null,
@@ -15101,14 +15101,14 @@
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-19T20:44:53.967Z"
+            "last_updated": "2020-11-20T17:58:28.040Z"
           },
           {
             "fips": "34033",
             "name": "Salem",
             "votes": 32061,
             "absentee_votes": 0,
-            "reporting": 44,
+            "reporting": 45,
             "precincts": 45,
             "absentee_method": null,
             "eevp": null,
@@ -15130,7 +15130,7 @@
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-19T21:54:14.020Z"
+            "last_updated": "2020-11-20T18:02:29.247Z"
           },
           {
             "fips": "34035",
@@ -15297,7 +15297,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 6319,
+        "precincts_reporting": 6338,
         "precincts_total": 6348,
         "reporting_display": "99% reporting",
         "reporting_value": "99%",
@@ -15309,7 +15309,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T17:51:26.187Z",
+        "last_updated": "2020-11-20T18:02:29.247Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -15794,7 +15794,7 @@
             "name": "Passaic",
             "votes": 193436,
             "absentee_votes": 0,
-            "reporting": 266,
+            "reporting": 284,
             "precincts": 284,
             "absentee_method": null,
             "eevp": null,
@@ -15816,14 +15816,14 @@
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-19T20:45:54.540Z"
+            "last_updated": "2020-11-20T17:58:28.040Z"
           },
           {
             "fips": "34033",
             "name": "Salem",
             "votes": 31899,
             "absentee_votes": 0,
-            "reporting": 44,
+            "reporting": 45,
             "precincts": 45,
             "absentee_method": null,
             "eevp": null,
@@ -15845,7 +15845,7 @@
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-19T21:55:14.597Z"
+            "last_updated": "2020-11-20T18:02:29.247Z"
           },
           {
             "fips": "34035",
@@ -16012,7 +16012,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 6319,
+        "precincts_reporting": 6338,
         "precincts_total": 6348,
         "reporting_display": "99% reporting",
         "reporting_value": "99%",
@@ -16024,7 +16024,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T17:51:26.187Z",
+        "last_updated": "2020-11-20T18:02:29.247Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -16509,7 +16509,7 @@
             "name": "Passaic",
             "votes": 187829,
             "absentee_votes": 0,
-            "reporting": 266,
+            "reporting": 284,
             "precincts": 284,
             "absentee_method": null,
             "eevp": null,
@@ -16531,14 +16531,14 @@
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-19T20:45:54.540Z"
+            "last_updated": "2020-11-20T17:58:28.040Z"
           },
           {
             "fips": "34033",
             "name": "Salem",
             "votes": 31328,
             "absentee_votes": 0,
-            "reporting": 44,
+            "reporting": 45,
             "precincts": 45,
             "absentee_method": null,
             "eevp": null,
@@ -16560,7 +16560,7 @@
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-19T21:55:14.597Z"
+            "last_updated": "2020-11-20T18:02:29.247Z"
           },
           {
             "fips": "34035",
@@ -16761,7 +16761,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79659037,
+            "votes": 79659153,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -16778,7 +16778,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73675685,
+            "votes": 73675771,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -16795,7 +16795,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2846236,
+            "votes": 2846630,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -32791,7 +32791,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 1326390,
+          "votes": 1326476,
           "percent": 62.1,
           "percent_display": "62.1",
           "electoral_votes": 8,
@@ -33277,8 +33277,8 @@
     ]
   },
   "meta": {
-    "version": 20623,
+    "version": 20637,
     "track": "2020-11-03",
-    "timestamp": "2020-11-20T17:53:41.395Z"
+    "timestamp": "2020-11-20T18:05:20.825Z"
   }
 }
