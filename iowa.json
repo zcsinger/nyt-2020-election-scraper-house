@@ -15601,7 +15601,7 @@
         "result_source": null,
         "gain": false,
         "lost_seat": "",
-        "votes": 393673,
+        "votes": 393677,
         "absentee_votes": 248899,
         "absentee_counties": 24,
         "absentee_count_progress": "unknown",
@@ -15626,7 +15626,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-20T14:22:44Z",
+        "last_updated": "2020-11-20T20:30:41Z",
         "candidates": [
           {
             "candidate_id": "miller-meeks-59745-16-h",
@@ -15639,7 +15639,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 196860,
+            "votes": 196862,
             "percent": 50,
             "percent_display": "50.01",
             "electoral_votes": 0,
@@ -15660,7 +15660,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 196813,
+            "votes": 196815,
             "percent": 50,
             "percent_display": "49.99",
             "electoral_votes": 0,
@@ -15846,7 +15846,7 @@
           {
             "fips": "19053",
             "name": "Decatur",
-            "votes": 3558,
+            "votes": 3562,
             "absentee_votes": 1583,
             "reporting": 7,
             "precincts": 7,
@@ -15863,15 +15863,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "miller_meeksm": 2345,
-              "hartr": 1213
+              "miller_meeksm": 2347,
+              "hartr": 1215
             },
             "results_absentee": {
               "miller_meeksm": 826,
               "hartr": 757
             },
-            "last_updated": "2020-11-16T15:47:59Z",
-            "leader_margin_value": 31.81563,
+            "last_updated": "2020-11-20T20:30:39Z",
+            "leader_margin_value": 31.7799,
             "leader_margin_display": "R+32",
             "leader_margin_name_display": "Miller-Meeks +32",
             "leader_party_id": "republican"
@@ -17219,6 +17219,16 @@
             "eevp": null,
             "eevp_source": "ap",
             "timestamp": "2020-11-16T16:44:16.680Z"
+          },
+          {
+            "vote_shares": {
+              "miller_meeksm": 0.5,
+              "hartr": 0.5
+            },
+            "votes": 393677,
+            "eevp": 89,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-20T20:30:41Z"
           }
         ]
       },
@@ -37376,7 +37386,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75529939,
+            "votes": 75529954,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -37393,7 +37403,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72134438,
+            "votes": 72134455,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -37410,7 +37420,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2071409,
+            "votes": 2071410,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -37438,7 +37448,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79667011,
+            "votes": 79666990,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -37455,7 +37465,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73686425,
+            "votes": 73686352,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -37472,7 +37482,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2847446,
+            "votes": 2847445,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -37504,7 +37514,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 41936781,
+            "votes": 41936789,
             "percent": "47.2",
             "change": 1,
             "flip_count": 2,
@@ -37521,7 +37531,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 43982515,
+            "votes": 43982528,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -48746,7 +48756,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 424937,
+          "votes": 424906,
           "percent": 52.8,
           "percent_display": "52.8",
           "electoral_votes": 4,
@@ -50060,7 +50070,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1730726,
+          "votes": 1730734,
           "percent": 53.5,
           "percent_display": "53.5",
           "electoral_votes": 0,
@@ -50125,7 +50135,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1803925,
+          "votes": 1803935,
           "percent": 55.4,
           "percent_display": "55.4",
           "electoral_votes": 9,
@@ -53428,7 +53438,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 1651525,
+          "votes": 1651531,
           "percent": 54.7,
           "percent_display": "54.7",
           "electoral_votes": 0,
@@ -53954,8 +53964,8 @@
     ]
   },
   "meta": {
-    "version": 20762,
+    "version": 20768,
     "track": "2020-11-03",
-    "timestamp": "2020-11-20T20:24:52.937Z"
+    "timestamp": "2020-11-20T20:33:33.512Z"
   }
 }
