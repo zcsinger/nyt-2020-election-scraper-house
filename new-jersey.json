@@ -14546,7 +14546,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 124173,
+        "votes": 124334,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -14572,7 +14572,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-20T18:10:31.233Z",
+        "last_updated": "2020-11-20T23:00:47.860Z",
         "candidates": [
           {
             "candidate_id": "bucco-35153",
@@ -14585,7 +14585,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 67049,
+            "votes": 67142,
             "percent": 54,
             "percent_display": "54.0",
             "electoral_votes": 0,
@@ -14606,7 +14606,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 57124,
+            "votes": 57192,
             "percent": 46,
             "percent_display": "46.0",
             "electoral_votes": 0,
@@ -14651,7 +14651,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 122758,
+        "votes": 122915,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -14677,7 +14677,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-20T18:10:31.233Z",
+        "last_updated": "2020-11-20T23:00:47.860Z",
         "candidates": [
           {
             "candidate_id": "dunn-35291",
@@ -14690,9 +14690,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 64376,
-            "percent": 52.4,
-            "percent_display": "52.4",
+            "votes": 64469,
+            "percent": 52.5,
+            "percent_display": "52.5",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -14711,9 +14711,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 58382,
-            "percent": 47.6,
-            "percent_display": "47.6",
+            "votes": 58446,
+            "percent": 47.5,
+            "percent_display": "47.5",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -14760,7 +14760,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 4053216,
+        "votes": 4068148,
         "absentee_votes": 621060,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -14785,7 +14785,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T21:48:32.627Z",
+        "last_updated": "2020-11-20T23:11:51.737Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -14797,7 +14797,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2719818,
+            "votes": 2729079,
             "percent": 67.1,
             "percent_display": "67.1",
             "electoral_votes": 0,
@@ -14817,7 +14817,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1333398,
+            "votes": 1339069,
             "percent": 32.9,
             "percent_display": "32.9",
             "electoral_votes": 0,
@@ -15239,7 +15239,7 @@
           {
             "fips": "34029",
             "name": "Ocean",
-            "votes": 305751,
+            "votes": 316673,
             "absentee_votes": 0,
             "reporting": 413,
             "precincts": 413,
@@ -15256,14 +15256,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 183515,
-              "no": 122236
+              "yes": 190204,
+              "no": 126469
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-19T18:37:21.750Z"
+            "last_updated": "2020-11-20T23:11:51.737Z"
           },
           {
             "fips": "34031",
@@ -15326,7 +15326,7 @@
           {
             "fips": "34035",
             "name": "Somerset",
-            "votes": 176489,
+            "votes": 180499,
             "absentee_votes": 0,
             "reporting": 265,
             "precincts": 265,
@@ -15343,14 +15343,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 112332,
-              "no": 64157
+              "yes": 114904,
+              "no": 65595
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T18:10:31.233Z"
+            "last_updated": "2020-11-20T23:00:47.860Z"
           },
           {
             "fips": "34037",
@@ -15475,7 +15475,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3979930,
+        "votes": 3994556,
         "absentee_votes": 605634,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -15500,7 +15500,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T21:48:32.627Z",
+        "last_updated": "2020-11-20T23:11:51.737Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -15512,7 +15512,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 3043037,
+            "votes": 3053922,
             "percent": 76.5,
             "percent_display": "76.5",
             "electoral_votes": 0,
@@ -15532,7 +15532,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 936893,
+            "votes": 940634,
             "percent": 23.5,
             "percent_display": "23.5",
             "electoral_votes": 0,
@@ -15954,7 +15954,7 @@
           {
             "fips": "34029",
             "name": "Ocean",
-            "votes": 300227,
+            "votes": 310888,
             "absentee_votes": 0,
             "reporting": 413,
             "precincts": 413,
@@ -15971,14 +15971,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 222732,
-              "no": 77495
+              "yes": 230628,
+              "no": 80260
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-19T18:37:21.750Z"
+            "last_updated": "2020-11-20T23:11:51.737Z"
           },
           {
             "fips": "34031",
@@ -16041,7 +16041,7 @@
           {
             "fips": "34035",
             "name": "Somerset",
-            "votes": 173990,
+            "votes": 177955,
             "absentee_votes": 0,
             "reporting": 265,
             "precincts": 265,
@@ -16058,14 +16058,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 128716,
-              "no": 45274
+              "yes": 131705,
+              "no": 46250
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-19T16:08:50.950Z"
+            "last_updated": "2020-11-20T23:01:48.497Z"
           },
           {
             "fips": "34037",
@@ -16190,7 +16190,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3824350,
+        "votes": 3838436,
         "absentee_votes": 360060,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -16215,7 +16215,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T21:48:32.627Z",
+        "last_updated": "2020-11-20T23:11:51.737Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -16227,7 +16227,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2211124,
+            "votes": 2218013,
             "percent": 57.8,
             "percent_display": "57.8",
             "electoral_votes": 0,
@@ -16247,7 +16247,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1613226,
+            "votes": 1620423,
             "percent": 42.2,
             "percent_display": "42.2",
             "electoral_votes": 0,
@@ -16669,7 +16669,7 @@
           {
             "fips": "34029",
             "name": "Ocean",
-            "votes": 287686,
+            "votes": 297972,
             "absentee_votes": 0,
             "reporting": 413,
             "precincts": 413,
@@ -16686,14 +16686,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 136300,
-              "no": 151386
+              "yes": 140964,
+              "no": 157008
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-19T18:37:21.750Z"
+            "last_updated": "2020-11-20T23:11:51.737Z"
           },
           {
             "fips": "34031",
@@ -16756,7 +16756,7 @@
           {
             "fips": "34035",
             "name": "Somerset",
-            "votes": 169141,
+            "votes": 172941,
             "absentee_votes": 0,
             "reporting": 265,
             "precincts": 265,
@@ -16773,14 +16773,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 98580,
-              "no": 70561
+              "yes": 100805,
+              "no": 72136
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-19T16:08:50.950Z"
+            "last_updated": "2020-11-20T23:01:48.497Z"
           },
           {
             "fips": "34037",
@@ -17018,7 +17018,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 41936803,
+            "votes": 41936683,
             "percent": "47.2",
             "change": 1,
             "flip_count": 2,
@@ -17035,7 +17035,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 43982530,
+            "votes": 43982484,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -17052,7 +17052,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2895941,
+            "votes": 2895943,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -33468,8 +33468,8 @@
     ]
   },
   "meta": {
-    "version": 20906,
+    "version": 20924,
     "track": "2020-11-03",
-    "timestamp": "2020-11-20T22:56:56.621Z"
+    "timestamp": "2020-11-20T23:15:34.205Z"
   }
 }
