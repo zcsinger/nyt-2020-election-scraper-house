@@ -34148,7 +34148,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 205843,
+        "votes": 205855,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -34174,7 +34174,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-20T16:22:13.050Z",
+        "last_updated": "2020-11-20T21:25:07.130Z",
         "candidates": [
           {
             "candidate_id": "wood-12211",
@@ -34187,7 +34187,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 143434,
+            "votes": 143438,
             "percent": 69.7,
             "percent_display": "69.7",
             "electoral_votes": 0,
@@ -34208,7 +34208,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 62409,
+            "votes": 62417,
             "percent": 30.3,
             "percent_display": "30.3",
             "electoral_votes": 0,
@@ -42439,7 +42439,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16617708,
+        "votes": 16617720,
         "absentee_votes": 985738,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -42464,7 +42464,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T16:22:13.050Z",
+        "last_updated": "2020-11-20T21:25:07.130Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -42476,7 +42476,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9501570,
+            "votes": 9501579,
             "percent": 57.2,
             "percent_display": "57.2",
             "electoral_votes": 0,
@@ -42496,7 +42496,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7116138,
+            "votes": 7116141,
             "percent": 42.8,
             "percent_display": "42.8",
             "electoral_votes": 0,
@@ -42715,7 +42715,7 @@
           {
             "fips": "06015",
             "name": "Del Norte",
-            "votes": 11184,
+            "votes": 11196,
             "absentee_votes": 0,
             "reporting": 17,
             "precincts": 18,
@@ -42732,14 +42732,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 8503,
-              "yes": 2681
+              "no": 8512,
+              "yes": 2684
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-20T16:22:13.050Z"
+            "last_updated": "2020-11-20T21:25:07.130Z"
           },
           {
             "fips": "06017",
@@ -44230,7 +44230,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16795630,
+        "votes": 16795643,
         "absentee_votes": 993320,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -44255,7 +44255,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T16:22:13.050Z",
+        "last_updated": "2020-11-20T21:25:07.130Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -44267,7 +44267,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9834484,
+            "votes": 9834489,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -44287,7 +44287,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6961146,
+            "votes": 6961154,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -44506,7 +44506,7 @@
           {
             "fips": "06015",
             "name": "Del Norte",
-            "votes": 11280,
+            "votes": 11293,
             "absentee_votes": 0,
             "reporting": 17,
             "precincts": 18,
@@ -44523,14 +44523,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 4654,
-              "no": 6626
+              "yes": 4659,
+              "no": 6634
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T16:22:13.050Z"
+            "last_updated": "2020-11-20T21:25:07.130Z"
           },
           {
             "fips": "06017",
@@ -46021,7 +46021,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16340443,
+        "votes": 16340456,
         "absentee_votes": 975963,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -46046,7 +46046,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T16:22:13.050Z",
+        "last_updated": "2020-11-20T21:25:07.130Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -46058,7 +46058,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9213856,
+            "votes": 9213867,
             "percent": 56.4,
             "percent_display": "56.4",
             "electoral_votes": 0,
@@ -46078,7 +46078,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7126587,
+            "votes": 7126589,
             "percent": 43.6,
             "percent_display": "43.6",
             "electoral_votes": 0,
@@ -46297,7 +46297,7 @@
           {
             "fips": "06015",
             "name": "Del Norte",
-            "votes": 10996,
+            "votes": 11009,
             "absentee_votes": 0,
             "reporting": 17,
             "precincts": 18,
@@ -46314,14 +46314,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 7582,
-              "yes": 3414
+              "no": 7593,
+              "yes": 3416
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-20T16:22:13.050Z"
+            "last_updated": "2020-11-20T21:25:07.130Z"
           },
           {
             "fips": "06017",
@@ -47810,7 +47810,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16556940,
+        "votes": 16556953,
         "absentee_votes": 984314,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -47835,7 +47835,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T16:22:13.987Z",
+        "last_updated": "2020-11-20T21:25:07.130Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -47847,7 +47847,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8453782,
+            "votes": 8453785,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -47867,7 +47867,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8103158,
+            "votes": 8103168,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -48086,7 +48086,7 @@
           {
             "fips": "06015",
             "name": "Del Norte",
-            "votes": 11156,
+            "votes": 11169,
             "absentee_votes": 0,
             "reporting": 17,
             "precincts": 18,
@@ -48103,14 +48103,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 4003,
-              "no": 7153
+              "yes": 4006,
+              "no": 7163
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T16:22:13.987Z"
+            "last_updated": "2020-11-20T21:25:07.130Z"
           },
           {
             "fips": "06017",
@@ -49599,7 +49599,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16839222,
+        "votes": 16839235,
         "absentee_votes": 998550,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -49624,7 +49624,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T16:22:13.050Z",
+        "last_updated": "2020-11-20T21:25:07.130Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -49636,7 +49636,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8757111,
+            "votes": 8757120,
             "percent": 52,
             "percent_display": "52.0",
             "electoral_votes": 0,
@@ -49656,7 +49656,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8082111,
+            "votes": 8082115,
             "percent": 48,
             "percent_display": "48.0",
             "electoral_votes": 0,
@@ -49875,7 +49875,7 @@
           {
             "fips": "06015",
             "name": "Del Norte",
-            "votes": 11289,
+            "votes": 11302,
             "absentee_votes": 0,
             "reporting": 17,
             "precincts": 18,
@@ -49892,14 +49892,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 7257,
-              "yes": 4032
+              "no": 7266,
+              "yes": 4036
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-20T16:22:13.050Z"
+            "last_updated": "2020-11-20T21:25:07.130Z"
           },
           {
             "fips": "06017",
@@ -51390,7 +51390,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16832322,
+        "votes": 16832334,
         "absentee_votes": 994775,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -51415,7 +51415,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T16:22:13.050Z",
+        "last_updated": "2020-11-20T21:25:07.130Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -51427,7 +51427,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9428271,
+            "votes": 9428281,
             "percent": 56,
             "percent_display": "56.0",
             "electoral_votes": 0,
@@ -51447,7 +51447,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7404051,
+            "votes": 7404053,
             "percent": 44,
             "percent_display": "44.0",
             "electoral_votes": 0,
@@ -51666,7 +51666,7 @@
           {
             "fips": "06015",
             "name": "Del Norte",
-            "votes": 11320,
+            "votes": 11332,
             "absentee_votes": 0,
             "reporting": 17,
             "precincts": 18,
@@ -51683,14 +51683,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 8212,
-              "yes": 3108
+              "no": 8222,
+              "yes": 3110
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-20T16:22:13.050Z"
+            "last_updated": "2020-11-20T21:25:07.130Z"
           },
           {
             "fips": "06017",
@@ -53179,7 +53179,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16467914,
+        "votes": 16467925,
         "absentee_votes": 978441,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -53204,7 +53204,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T16:22:13.050Z",
+        "last_updated": "2020-11-20T21:25:07.130Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -53216,7 +53216,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8410794,
+            "votes": 8410795,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -53236,7 +53236,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8057120,
+            "votes": 8057130,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -53455,7 +53455,7 @@
           {
             "fips": "06015",
             "name": "Del Norte",
-            "votes": 11052,
+            "votes": 11063,
             "absentee_votes": 0,
             "reporting": 17,
             "precincts": 18,
@@ -53472,14 +53472,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 4458,
-              "no": 6594
+              "yes": 4459,
+              "no": 6604
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T16:22:13.050Z"
+            "last_updated": "2020-11-20T21:25:07.130Z"
           },
           {
             "fips": "06017",
@@ -54968,7 +54968,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16426007,
+        "votes": 16426020,
         "absentee_votes": 975847,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -54993,7 +54993,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T16:22:13.050Z",
+        "last_updated": "2020-11-20T21:25:07.130Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -55005,7 +55005,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10143176,
+            "votes": 10143182,
             "percent": 61.8,
             "percent_display": "61.8",
             "electoral_votes": 0,
@@ -55025,7 +55025,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6282831,
+            "votes": 6282838,
             "percent": 38.2,
             "percent_display": "38.2",
             "electoral_votes": 0,
@@ -55244,7 +55244,7 @@
           {
             "fips": "06015",
             "name": "Del Norte",
-            "votes": 11033,
+            "votes": 11046,
             "absentee_votes": 0,
             "reporting": 17,
             "precincts": 18,
@@ -55261,14 +55261,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 5520,
-              "yes": 5513
+              "no": 5526,
+              "yes": 5520
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-20T16:22:13.050Z"
+            "last_updated": "2020-11-20T21:25:07.130Z"
           },
           {
             "fips": "06017",
@@ -56759,7 +56759,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16610113,
+        "votes": 16610126,
         "absentee_votes": 986242,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -56784,7 +56784,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T16:22:13.050Z",
+        "last_updated": "2020-11-20T21:25:07.130Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -56796,7 +56796,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9942385,
+            "votes": 9942395,
             "percent": 59.9,
             "percent_display": "59.9",
             "electoral_votes": 0,
@@ -56816,7 +56816,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6667728,
+            "votes": 6667731,
             "percent": 40.1,
             "percent_display": "40.1",
             "electoral_votes": 0,
@@ -57035,7 +57035,7 @@
           {
             "fips": "06015",
             "name": "Del Norte",
-            "votes": 11039,
+            "votes": 11052,
             "absentee_votes": 0,
             "reporting": 17,
             "precincts": 18,
@@ -57052,14 +57052,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 8070,
-              "yes": 2969
+              "no": 8080,
+              "yes": 2972
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-20T16:22:13.050Z"
+            "last_updated": "2020-11-20T21:25:07.130Z"
           },
           {
             "fips": "06017",
@@ -58550,7 +58550,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16727480,
+        "votes": 16727492,
         "absentee_votes": 992295,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -58575,7 +58575,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T16:22:13.050Z",
+        "last_updated": "2020-11-20T21:25:07.130Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -58587,7 +58587,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9811078,
+            "votes": 9811084,
             "percent": 58.7,
             "percent_display": "58.7",
             "electoral_votes": 0,
@@ -58607,7 +58607,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6916402,
+            "votes": 6916408,
             "percent": 41.3,
             "percent_display": "41.3",
             "electoral_votes": 0,
@@ -58826,7 +58826,7 @@
           {
             "fips": "06015",
             "name": "Del Norte",
-            "votes": 11063,
+            "votes": 11075,
             "absentee_votes": 0,
             "reporting": 17,
             "precincts": 18,
@@ -58843,14 +58843,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 6417,
-              "no": 4646
+              "yes": 6423,
+              "no": 4652
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T16:22:13.050Z"
+            "last_updated": "2020-11-20T21:25:07.130Z"
           },
           {
             "fips": "06017",
@@ -60339,7 +60339,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16586796,
+        "votes": 16586809,
         "absentee_votes": 984773,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -60364,7 +60364,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T16:22:13.050Z",
+        "last_updated": "2020-11-20T21:25:07.130Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -60376,7 +60376,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10536545,
+            "votes": 10536554,
             "percent": 63.5,
             "percent_display": "63.5",
             "electoral_votes": 0,
@@ -60396,7 +60396,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6050251,
+            "votes": 6050255,
             "percent": 36.5,
             "percent_display": "36.5",
             "electoral_votes": 0,
@@ -60615,7 +60615,7 @@
           {
             "fips": "06015",
             "name": "Del Norte",
-            "votes": 11091,
+            "votes": 11104,
             "absentee_votes": 0,
             "reporting": 17,
             "precincts": 18,
@@ -60632,14 +60632,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 7314,
-              "yes": 3777
+              "no": 7323,
+              "yes": 3781
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-20T16:22:13.050Z"
+            "last_updated": "2020-11-20T21:25:07.130Z"
           },
           {
             "fips": "06017",
@@ -62128,7 +62128,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16437183,
+        "votes": 16437195,
         "absentee_votes": 979988,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -62153,7 +62153,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T16:22:13.050Z",
+        "last_updated": "2020-11-20T21:25:07.130Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -62165,7 +62165,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9233896,
+            "votes": 9233900,
             "percent": 56.2,
             "percent_display": "56.2",
             "electoral_votes": 0,
@@ -62185,7 +62185,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7203287,
+            "votes": 7203295,
             "percent": 43.8,
             "percent_display": "43.8",
             "electoral_votes": 0,
@@ -62404,7 +62404,7 @@
           {
             "fips": "06015",
             "name": "Del Norte",
-            "votes": 11069,
+            "votes": 11081,
             "absentee_votes": 0,
             "reporting": 17,
             "precincts": 18,
@@ -62421,14 +62421,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 5176,
-              "no": 5893
+              "yes": 5180,
+              "no": 5901
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T16:22:13.050Z"
+            "last_updated": "2020-11-20T21:25:07.130Z"
           },
           {
             "fips": "06017",
@@ -63901,7 +63901,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75530662,
+            "votes": 75530663,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -63963,7 +63963,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79667895,
+            "votes": 79668664,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -63980,7 +63980,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73687424,
+            "votes": 73688797,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -63997,7 +63997,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2847377,
+            "votes": 2847349,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -64081,18 +64081,18 @@
     ],
     "liveUpdates": [
       {
-        "id": 547,
+        "id": 546,
         "author": "Richard Fausset",
         "author_title_or_location": "in Atlanta",
-        "text": "Georgia officials are still on track to certify Biden’s victory in the state after a staffer mistakenly sent out a statement saying the process had been completed.",
-        "link_url": "https://www.nytimes.com/live/2020/11/20/us/joe-biden-trump/georgia-officials-say-certification-will-be-completed-today-after-a-staffer-sent-out-the-wrong-press-release",
+        "text": "Georgia’s secretary of state has certified President-elect Joseph R. Biden Jr.’s victory in the state, dealing a blow to President Trump’s bid to overturn the election.",
+        "link_url": "https://www.nytimes.com/live/2020/11/20/us/joe-biden-trump/brad-raffensperger-georgias-top-election-official-certifies-bidens-victory-numbers-dont-lie",
         "link_text": "",
         "linked_state_1": "",
         "linked_state_2": "",
         "linked_state_3": "",
         "image_url": "",
         "image_credit": "",
-        "datetime": 1605898498000,
+        "datetime": 1605907317000,
         "author_headshot": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
         "is_today": true,
         "linked_states": null
@@ -64324,7 +64324,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2476037,
+          "votes": 2476127,
           "percent": 49.5,
           "percent_display": "49.50",
           "electoral_votes": 16,
@@ -67812,7 +67812,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3455130,
+          "votes": 3455131,
           "percent": 50,
           "percent_display": "50.0",
           "electoral_votes": 20,
@@ -74717,7 +74717,7 @@
           "runoff": false,
           "winner": true,
           "result_source": "NYT",
-          "votes": 3149188,
+          "votes": 3150642,
           "percent": 53.2,
           "percent_display": "53.2",
           "electoral_votes": 18,
@@ -80479,8 +80479,8 @@
     ]
   },
   "meta": {
-    "version": 20834,
+    "version": 20846,
     "track": "2020-11-03",
-    "timestamp": "2020-11-20T21:18:51.640Z"
+    "timestamp": "2020-11-20T21:26:51.545Z"
   }
 }
