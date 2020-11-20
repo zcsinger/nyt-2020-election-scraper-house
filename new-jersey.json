@@ -14773,10 +14773,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 6345,
+        "precincts_reporting": 6348,
         "precincts_total": 6348,
-        "reporting_display": "99% reporting",
-        "reporting_value": "99%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -14785,7 +14785,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T20:51:19.107Z",
+        "last_updated": "2020-11-20T20:58:21.640Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -14922,7 +14922,7 @@
             "name": "Camden",
             "votes": 229198,
             "absentee_votes": 0,
-            "reporting": 342,
+            "reporting": 345,
             "precincts": 345,
             "absentee_method": null,
             "eevp": null,
@@ -14944,7 +14944,7 @@
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T20:49:17.760Z"
+            "last_updated": "2020-11-20T20:58:21.640Z"
           },
           {
             "fips": "34009",
@@ -15488,10 +15488,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T01:00:00.000Z",
         "poll_time_short": "8 p.m.",
-        "precincts_reporting": 6345,
+        "precincts_reporting": 6348,
         "precincts_total": 6348,
-        "reporting_display": "99% reporting",
-        "reporting_value": "99%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -15500,7 +15500,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T20:51:19.107Z",
+        "last_updated": "2020-11-20T20:58:21.640Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -15637,7 +15637,7 @@
             "name": "Camden",
             "votes": 226316,
             "absentee_votes": 0,
-            "reporting": 342,
+            "reporting": 345,
             "precincts": 345,
             "absentee_method": null,
             "eevp": null,
@@ -15659,7 +15659,7 @@
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T20:51:19.107Z"
+            "last_updated": "2020-11-20T20:58:21.640Z"
           },
           {
             "fips": "34009",
@@ -16190,7 +16190,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 3823809,
+        "votes": 3824348,
         "absentee_votes": 360060,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -16215,7 +16215,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-20T20:51:19.107Z",
+        "last_updated": "2020-11-20T20:58:21.640Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -16227,7 +16227,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2210734,
+            "votes": 2211124,
             "percent": 57.8,
             "percent_display": "57.8",
             "electoral_votes": 0,
@@ -16247,7 +16247,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1613075,
+            "votes": 1613224,
             "percent": 42.2,
             "percent_display": "42.2",
             "electoral_votes": 0,
@@ -16350,7 +16350,7 @@
           {
             "fips": "34007",
             "name": "Camden",
-            "votes": 218492,
+            "votes": 219031,
             "absentee_votes": 0,
             "reporting": 345,
             "precincts": 345,
@@ -16367,14 +16367,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 139450,
-              "no": 79042
+              "yes": 139840,
+              "no": 79191
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T20:37:14.967Z"
+            "last_updated": "2020-11-20T20:58:21.640Z"
           },
           {
             "fips": "34009",
@@ -16890,7 +16890,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75530403,
+            "votes": 75530559,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -16907,7 +16907,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72135524,
+            "votes": 72136079,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -16952,7 +16952,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79667005,
+            "votes": 79667907,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -16969,7 +16969,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73686431,
+            "votes": 73687451,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -16986,7 +16986,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2847445,
+            "votes": 2847380,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -17313,9 +17313,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2475296,
+          "votes": 2476049,
           "percent": 49.5,
-          "percent_display": "49.49",
+          "percent_display": "49.50",
           "electoral_votes": 16,
           "absentee_votes": 2100099,
           "absentee_percent": 52.4,
@@ -20801,7 +20801,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3455125,
+          "votes": 3455130,
           "percent": 50,
           "percent_display": "50.0",
           "electoral_votes": 20,
@@ -27706,7 +27706,7 @@
           "runoff": false,
           "winner": true,
           "result_source": "NYT",
-          "votes": 3148559,
+          "votes": 3149188,
           "percent": 53.2,
           "percent_display": "53.2",
           "electoral_votes": 18,
@@ -33468,8 +33468,8 @@
     ]
   },
   "meta": {
-    "version": 20806,
+    "version": 20819,
     "track": "2020-11-03",
-    "timestamp": "2020-11-20T20:54:52.701Z"
+    "timestamp": "2020-11-20T21:06:31.639Z"
   }
 }
