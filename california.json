@@ -44500,7 +44500,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16811072,
+        "votes": 16836138,
         "absentee_votes": 993320,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -44513,7 +44513,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19845,
+        "precincts_reporting": 19868,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -44525,7 +44525,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-21T02:12:58.867Z",
+        "last_updated": "2020-11-21T02:24:07.170Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -44537,9 +44537,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9841635,
-            "percent": 58.5,
-            "percent_display": "58.5",
+            "votes": 9858576,
+            "percent": 58.6,
+            "percent_display": "58.6",
             "electoral_votes": 0,
             "absentee_votes": 529953,
             "absentee_percent": 53.4,
@@ -44557,9 +44557,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6969437,
-            "percent": 41.5,
-            "percent_display": "41.5",
+            "votes": 6977562,
+            "percent": 41.4,
+            "percent_display": "41.4",
             "electoral_votes": 0,
             "absentee_votes": 463367,
             "absentee_percent": 46.6,
@@ -45095,9 +45095,9 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 4067862,
+            "votes": 4092928,
             "absentee_votes": 0,
-            "reporting": 3316,
+            "reporting": 3339,
             "precincts": 3383,
             "absentee_method": null,
             "eevp": null,
@@ -45112,14 +45112,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 2666089,
-              "no": 1401773
+              "yes": 2683030,
+              "no": 1409898
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T16:22:13.050Z"
+            "last_updated": "2020-11-21T02:24:07.170Z"
           },
           {
             "fips": "06039",
@@ -51660,7 +51660,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16847803,
+        "votes": 16873001,
         "absentee_votes": 994775,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -51673,7 +51673,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19845,
+        "precincts_reporting": 19868,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -51685,7 +51685,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-21T02:13:59.670Z",
+        "last_updated": "2020-11-21T02:24:07.170Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -51697,7 +51697,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9438848,
+            "votes": 9450626,
             "percent": 56,
             "percent_display": "56.0",
             "electoral_votes": 0,
@@ -51717,7 +51717,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7408955,
+            "votes": 7422375,
             "percent": 44,
             "percent_display": "44.0",
             "electoral_votes": 0,
@@ -52255,9 +52255,9 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 4075396,
+            "votes": 4100594,
             "absentee_votes": 0,
-            "reporting": 3316,
+            "reporting": 3339,
             "precincts": 3383,
             "absentee_method": null,
             "eevp": null,
@@ -52272,14 +52272,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 1965730,
-              "yes": 2109666
+              "no": 1977508,
+              "yes": 2123086
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-20T16:22:13.050Z"
+            "last_updated": "2020-11-21T02:24:07.170Z"
           },
           {
             "fips": "06039",
@@ -53449,7 +53449,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16483019,
+        "votes": 16507279,
         "absentee_votes": 978441,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -53462,10 +53462,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19845,
+        "precincts_reporting": 19676,
         "precincts_total": 20499,
-        "reporting_display": "97% reporting",
-        "reporting_value": "97%",
+        "reporting_display": "96% reporting",
+        "reporting_value": "96%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -53474,7 +53474,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-21T02:13:59.670Z",
+        "last_updated": "2020-11-21T02:28:09.187Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -53486,7 +53486,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8417579,
+            "votes": 8431280,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -53506,7 +53506,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8065440,
+            "votes": 8075999,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -54044,9 +54044,9 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 3982615,
+            "votes": 4006875,
             "absentee_votes": 0,
-            "reporting": 3316,
+            "reporting": 3147,
             "precincts": 3383,
             "absentee_method": null,
             "eevp": null,
@@ -54061,14 +54061,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 1994533,
-              "no": 1988082
+              "yes": 2008234,
+              "no": 1998641
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T16:22:13.050Z"
+            "last_updated": "2020-11-21T02:28:09.187Z"
           },
           {
             "fips": "06039",
@@ -55238,7 +55238,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16441137,
+        "votes": 16465409,
         "absentee_votes": 975847,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -55251,10 +55251,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19845,
+        "precincts_reporting": 19676,
         "precincts_total": 20499,
-        "reporting_display": "97% reporting",
-        "reporting_value": "97%",
+        "reporting_display": "96% reporting",
+        "reporting_value": "96%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -55263,7 +55263,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-21T02:15:00.613Z",
+        "last_updated": "2020-11-21T02:29:09.917Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -55275,7 +55275,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10151159,
+            "votes": 10165864,
             "percent": 61.7,
             "percent_display": "61.7",
             "electoral_votes": 0,
@@ -55295,7 +55295,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6289978,
+            "votes": 6299545,
             "percent": 38.3,
             "percent_display": "38.3",
             "electoral_votes": 0,
@@ -55833,9 +55833,9 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 3975322,
+            "votes": 3999594,
             "absentee_votes": 0,
-            "reporting": 3316,
+            "reporting": 3147,
             "precincts": 3383,
             "absentee_method": null,
             "eevp": null,
@@ -55850,14 +55850,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 2605395,
-              "yes": 1369927
+              "no": 2620100,
+              "yes": 1379494
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-20T16:22:13.050Z"
+            "last_updated": "2020-11-21T02:29:09.917Z"
           },
           {
             "fips": "06039",
@@ -57029,7 +57029,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16625352,
+        "votes": 16650241,
         "absentee_votes": 986242,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -57042,10 +57042,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19844,
+        "precincts_reporting": 19675,
         "precincts_total": 20499,
-        "reporting_display": "97% reporting",
-        "reporting_value": "97%",
+        "reporting_display": "96% reporting",
+        "reporting_value": "96%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -57054,7 +57054,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-21T02:15:00.613Z",
+        "last_updated": "2020-11-21T02:30:10.730Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -57066,7 +57066,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9953135,
+            "votes": 9965197,
             "percent": 59.9,
             "percent_display": "59.9",
             "electoral_votes": 0,
@@ -57086,7 +57086,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6672217,
+            "votes": 6685044,
             "percent": 40.1,
             "percent_display": "40.1",
             "electoral_votes": 0,
@@ -57624,9 +57624,9 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 4035190,
+            "votes": 4060079,
             "absentee_votes": 0,
-            "reporting": 3316,
+            "reporting": 3147,
             "precincts": 3383,
             "absentee_method": null,
             "eevp": null,
@@ -57641,14 +57641,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 2031898,
-              "yes": 2003292
+              "no": 2043960,
+              "yes": 2016119
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-20T16:22:13.050Z"
+            "last_updated": "2020-11-21T02:30:10.730Z"
           },
           {
             "fips": "06039",
@@ -58820,7 +58820,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16742825,
+        "votes": 16768109,
         "absentee_votes": 992295,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -58833,10 +58833,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19845,
+        "precincts_reporting": 19676,
         "precincts_total": 20499,
-        "reporting_display": "97% reporting",
-        "reporting_value": "97%",
+        "reporting_display": "96% reporting",
+        "reporting_value": "96%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -58845,7 +58845,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-21T02:16:01.440Z",
+        "last_updated": "2020-11-21T02:30:10.730Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -58857,7 +58857,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9820651,
+            "votes": 9835088,
             "percent": 58.7,
             "percent_display": "58.7",
             "electoral_votes": 0,
@@ -58877,7 +58877,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6922174,
+            "votes": 6933021,
             "percent": 41.3,
             "percent_display": "41.3",
             "electoral_votes": 0,
@@ -59415,9 +59415,9 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 4063265,
+            "votes": 4088549,
             "absentee_votes": 0,
-            "reporting": 3316,
+            "reporting": 3147,
             "precincts": 3383,
             "absentee_method": null,
             "eevp": null,
@@ -59432,14 +59432,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 2247890,
-              "no": 1815375
+              "yes": 2262327,
+              "no": 1826222
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T16:22:13.050Z"
+            "last_updated": "2020-11-21T02:30:10.730Z"
           },
           {
             "fips": "06039",
@@ -60609,7 +60609,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16602012,
+        "votes": 16626844,
         "absentee_votes": 984773,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -60622,10 +60622,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19845,
+        "precincts_reporting": 19676,
         "precincts_total": 20499,
-        "reporting_display": "97% reporting",
-        "reporting_value": "97%",
+        "reporting_display": "96% reporting",
+        "reporting_value": "96%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -60634,7 +60634,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-21T02:16:01.440Z",
+        "last_updated": "2020-11-21T02:31:11.610Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -60646,7 +60646,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10545815,
+            "votes": 10557931,
             "percent": 63.5,
             "percent_display": "63.5",
             "electoral_votes": 0,
@@ -60666,7 +60666,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6056197,
+            "votes": 6068913,
             "percent": 36.5,
             "percent_display": "36.5",
             "electoral_votes": 0,
@@ -61204,9 +61204,9 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 4022569,
+            "votes": 4047401,
             "absentee_votes": 0,
-            "reporting": 3316,
+            "reporting": 3147,
             "precincts": 3383,
             "absentee_method": null,
             "eevp": null,
@@ -61221,14 +61221,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 2367456,
-              "yes": 1655113
+              "no": 2379572,
+              "yes": 1667829
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-20T16:22:13.050Z"
+            "last_updated": "2020-11-21T02:31:11.610Z"
           },
           {
             "fips": "06039",
@@ -80749,8 +80749,8 @@
     ]
   },
   "meta": {
-    "version": 21012,
+    "version": 21018,
     "track": "2020-11-03",
-    "timestamp": "2020-11-21T02:23:07.059Z"
+    "timestamp": "2020-11-21T02:32:02.078Z"
   }
 }
