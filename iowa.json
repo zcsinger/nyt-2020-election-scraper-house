@@ -15601,7 +15601,7 @@
         "result_source": null,
         "gain": false,
         "lost_seat": "",
-        "votes": 393677,
+        "votes": 393679,
         "absentee_votes": 248901,
         "absentee_counties": 24,
         "absentee_count_progress": "unknown",
@@ -15626,7 +15626,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-20T20:40:40Z",
+        "last_updated": "2020-11-21T17:50:54Z",
         "candidates": [
           {
             "candidate_id": "miller-meeks-59745-16-h",
@@ -15639,7 +15639,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 196862,
+            "votes": 196864,
             "percent": 50,
             "percent_display": "50.01",
             "electoral_votes": 0,
@@ -15672,8 +15672,8 @@
           }
         ],
         "has_incumbent": false,
-        "leader_margin_value": 0.01194,
-        "leader_margin_votes": 47,
+        "leader_margin_value": 0.01245,
+        "leader_margin_votes": 49,
         "leader_margin_display": "R+0.01",
         "leader_margin_name_display": "Miller-Meeks +0.01",
         "leader_party_id": "republican",
@@ -15681,7 +15681,7 @@
           {
             "fips": "19007",
             "name": "Appanoose",
-            "votes": 6028,
+            "votes": 6030,
             "absentee_votes": 2981,
             "reporting": 11,
             "precincts": 13,
@@ -15698,15 +15698,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "miller_meeksm": 4076,
+              "miller_meeksm": 4078,
               "hartr": 1952
             },
             "results_absentee": {
               "miller_meeksm": 1670,
               "hartr": 1311
             },
-            "last_updated": "2020-11-16T15:47:46Z",
-            "leader_margin_value": 35.23557,
+            "last_updated": "2020-11-21T17:50:44Z",
+            "leader_margin_value": 35.25705,
             "leader_margin_display": "R+35",
             "leader_margin_name_display": "Miller-Meeks +35",
             "leader_party_id": "republican"
@@ -17229,6 +17229,16 @@
             "eevp": 89,
             "eevp_source": "edison",
             "timestamp": "2020-11-20T20:30:41Z"
+          },
+          {
+            "vote_shares": {
+              "miller_meeksm": 0.5,
+              "hartr": 0.5
+            },
+            "votes": 393679,
+            "eevp": 89,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-21T17:50:54Z"
           }
         ]
       },
@@ -37403,7 +37413,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72224509,
+            "votes": 72224511,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -53964,8 +53974,8 @@
     ]
   },
   "meta": {
-    "version": 21044,
+    "version": 21047,
     "track": "2020-11-03",
-    "timestamp": "2020-11-21T17:48:10.178Z"
+    "timestamp": "2020-11-21T17:55:05.527Z"
   }
 }
