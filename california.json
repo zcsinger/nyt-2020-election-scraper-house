@@ -48080,7 +48080,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16585243,
+        "votes": 16596044,
         "absentee_votes": 984314,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -48093,7 +48093,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19797,
+        "precincts_reporting": 19807,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -48105,7 +48105,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-21T00:16:11.073Z",
+        "last_updated": "2020-11-21T00:54:26.233Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -48117,7 +48117,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8470534,
+            "votes": 8475096,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -48137,7 +48137,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8114709,
+            "votes": 8120948,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -48559,9 +48559,9 @@
           {
             "fips": "06029",
             "name": "Kern",
-            "votes": 278289,
+            "votes": 289090,
             "absentee_votes": 0,
-            "reporting": 623,
+            "reporting": 633,
             "precincts": 694,
             "absentee_method": null,
             "eevp": null,
@@ -48576,14 +48576,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 116498,
-              "no": 161791
+              "yes": 121060,
+              "no": 168030
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-20T16:22:13.987Z"
+            "last_updated": "2020-11-21T00:54:26.233Z"
           },
           {
             "fips": "06031",
@@ -49869,7 +49869,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16868444,
+        "votes": 16879454,
         "absentee_votes": 998550,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -49882,7 +49882,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19797,
+        "precincts_reporting": 19807,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -49894,7 +49894,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-21T00:16:11.073Z",
+        "last_updated": "2020-11-21T00:54:26.233Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -49906,7 +49906,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8769289,
+            "votes": 8776200,
             "percent": 52,
             "percent_display": "52.0",
             "electoral_votes": 0,
@@ -49926,7 +49926,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8099155,
+            "votes": 8103254,
             "percent": 48,
             "percent_display": "48.0",
             "electoral_votes": 0,
@@ -50348,9 +50348,9 @@
           {
             "fips": "06029",
             "name": "Kern",
-            "votes": 282059,
+            "votes": 293069,
             "absentee_votes": 0,
-            "reporting": 623,
+            "reporting": 633,
             "precincts": 694,
             "absentee_method": null,
             "eevp": null,
@@ -50365,14 +50365,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 184225,
-              "yes": 97834
+              "no": 191136,
+              "yes": 101933
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-20T16:22:13.050Z"
+            "last_updated": "2020-11-21T00:54:26.233Z"
           },
           {
             "fips": "06031",
@@ -64171,7 +64171,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75587101,
+            "votes": 75587166,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -64188,7 +64188,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72191235,
+            "votes": 72191280,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -64233,7 +64233,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79723201,
+            "votes": 79723262,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -64250,7 +64250,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73726409,
+            "votes": 73726452,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -64267,7 +64267,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2849349,
+            "votes": 2849360,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -75582,7 +75582,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2290274,
+          "votes": 2290325,
           "percent": 56.8,
           "percent_display": "56.8",
           "electoral_votes": 0,
@@ -75719,7 +75719,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2365144,
+          "votes": 2365205,
           "percent": 58.4,
           "percent_display": "58.4",
           "electoral_votes": 12,
@@ -80749,8 +80749,8 @@
     ]
   },
   "meta": {
-    "version": 20983,
+    "version": 20989,
     "track": "2020-11-03",
-    "timestamp": "2020-11-21T00:47:35.861Z"
+    "timestamp": "2020-11-21T00:59:16.381Z"
   }
 }
