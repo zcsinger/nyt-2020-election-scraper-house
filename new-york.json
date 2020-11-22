@@ -47715,7 +47715,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 48,
-            "votes": 41968613,
+            "votes": 41968491,
             "percent": "47.2",
             "change": 1,
             "flip_count": 2,
@@ -47732,7 +47732,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 44005418,
+            "votes": 44005309,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -63599,11 +63599,11 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2466600,
+          "votes": 2466478,
           "percent": 56,
           "percent_display": "56.0",
           "electoral_votes": 0,
-          "absentee_votes": 1788377,
+          "absentee_votes": 1788254,
           "absentee_percent": 65.6,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/warner-1782-47-s.png",
           "has_image": false,
@@ -64165,8 +64165,8 @@
     ]
   },
   "meta": {
-    "version": 21219,
+    "version": 21229,
     "track": "2020-11-03",
-    "timestamp": "2020-11-22T16:32:58.938Z"
+    "timestamp": "2020-11-22T16:42:57.876Z"
   }
 }
