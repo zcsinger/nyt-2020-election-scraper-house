@@ -2613,15 +2613,15 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 6252,
+            "votes": 6258,
             "absentee_votes": 5048,
             "reporting": 24,
             "precincts": 25,
             "absentee_method": "None",
-            "eevp": 96,
+            "eevp": 97,
             "tot_exp_vote": 6482,
-            "eevp_value": "96%",
-            "eevp_display": "96% reported",
+            "eevp_value": "97%",
+            "eevp_display": "97% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "unknown",
@@ -2630,8 +2630,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 2848,
-              "trumpd": 3185,
+              "bidenj": 2851,
+              "trumpd": 3188,
               "jorgensenj": 117,
               "hawkinsh": 50,
               "de_la_fuenter": 27,
@@ -2645,12 +2645,12 @@
               "de_la_fuenter": 23,
               "la_rivag": 13
             },
-            "last_updated": "2020-11-16T23:35:43Z",
-            "leader_margin_value": 5.39028,
+            "last_updated": "2020-11-23T23:40:48Z",
+            "leader_margin_value": 5.38511,
             "leader_margin_display": "R+5",
             "leader_margin_name_display": "Trump +5",
             "leader_party_id": "republican",
-            "margin2020": 5.39028,
+            "margin2020": 5.38511,
             "votes2016": 5784,
             "margin2016": 10.3,
             "votes2012": 5674,
@@ -6170,7 +6170,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 369206,
+        "votes": 369211,
         "absentee_votes": 41893,
         "absentee_counties": 2,
         "absentee_count_progress": "unknown",
@@ -6195,7 +6195,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-21T02:41:19Z",
+        "last_updated": "2020-11-23T23:41:07Z",
         "candidates": [
           {
             "candidate_id": "huffman-62063-5-h",
@@ -6208,7 +6208,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 282127,
+            "votes": 282130,
             "percent": 76.4,
             "percent_display": "76.4",
             "electoral_votes": 0,
@@ -6229,7 +6229,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 87079,
+            "votes": 87081,
             "percent": 23.6,
             "percent_display": "23.6",
             "electoral_votes": 0,
@@ -6241,8 +6241,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 52.82904,
-        "leader_margin_votes": 195048,
+        "leader_margin_value": 52.8286,
+        "leader_margin_votes": 195049,
         "leader_margin_display": "D+53",
         "leader_margin_name_display": "Huffman +53",
         "leader_party_id": "democrat",
@@ -6415,7 +6415,7 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 6126,
+            "votes": 6131,
             "absentee_votes": 4976,
             "reporting": 24,
             "precincts": 25,
@@ -6432,15 +6432,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "huffmanj": 3018,
-              "mensingd": 3108
+              "huffmanj": 3021,
+              "mensingd": 3110
             },
             "results_absentee": {
               "huffmanj": 2503,
               "mensingd": 2473
             },
-            "last_updated": "2020-11-16T23:35:12Z",
-            "leader_margin_value": 1.46915,
+            "last_updated": "2020-11-23T23:41:04Z",
+            "leader_margin_value": 1.45164,
             "leader_margin_display": "R+1.5",
             "leader_margin_name_display": "Mensing +1.5",
             "leader_party_id": "republican"
@@ -6489,11 +6489,234 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
+            "additional_votes_reported": true,
             "additional_precincts_reported": false,
-            "has_eevp": true
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": false,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 0,
+            "prev_eevp": 94,
+            "num_additional_votes": 5,
+            "prev_votes": 369206,
+            "num_additional_precincts": 0,
+            "prev_precincts": 648,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 0,
+            "prev_precinct_percentage_points": 85.7,
+            "lead_margin_change_votes": 1,
+            "lead_margin_change_percentage_points": 0,
+            "previous_leading_candidate": {
+              "candidate_id": "huffman-62063-5-h",
+              "candidate_key": "huffmanj",
+              "first_name": "Jared",
+              "last_name": "Huffman",
+              "order": 1,
+              "name_display": "Jared Huffman",
+              "party_id": "democrat",
+              "incumbent": true,
+              "runoff": false,
+              "winner": true,
+              "votes": 282127,
+              "percent": 76.4,
+              "percent_display": "76.4",
+              "electoral_votes": 0,
+              "absentee_votes": 29607,
+              "absentee_percent": 70.7,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/huffman-62063-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "previous_second_candidate": {
+              "candidate_id": "mensing-63594-5-h",
+              "candidate_key": "mensingd",
+              "first_name": "Dale",
+              "last_name": "Mensing",
+              "order": 2,
+              "name_display": "Dale Mensing",
+              "party_id": "republican",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 87079,
+              "percent": 23.6,
+              "percent_display": "23.6",
+              "electoral_votes": 0,
+              "absentee_votes": 12286,
+              "absentee_percent": 29.3,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/mensing-63594-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "huffman-62063-5-h",
+                "num_additional_votes": 3,
+                "prev_votes": 282127,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 76.4
+              },
+              {
+                "candidate_id": "mensing-63594-5-h",
+                "num_additional_votes": 2,
+                "prev_votes": 87079,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 23.6
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [],
+            "change_by_county": [
+              {
+                "name": "Del Norte",
+                "fips": "06015",
+                "num_additional_votes": 0,
+                "prev_votes": 11158,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 18,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "huffmanj": {
+                    "prev_votes": 5086,
+                    "num_additional_votes": 0
+                  },
+                  "mensingd": {
+                    "prev_votes": 6072,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Humboldt",
+                "fips": "06023",
+                "num_additional_votes": 0,
+                "prev_votes": 65016,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 66,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "huffmanj": {
+                    "prev_votes": 44970,
+                    "num_additional_votes": 0
+                  },
+                  "mensingd": {
+                    "prev_votes": 20046,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Marin",
+                "fips": "06041",
+                "num_additional_votes": 0,
+                "prev_votes": 150065,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 112,
+                "prev_eevp": 95,
+                "candidate_changes": {
+                  "huffmanj": {
+                    "prev_votes": 124705,
+                    "num_additional_votes": 0
+                  },
+                  "mensingd": {
+                    "prev_votes": 25360,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Mendocino",
+                "fips": "06045",
+                "num_additional_votes": 0,
+                "prev_votes": 24982,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 250,
+                "prev_eevp": 60,
+                "candidate_changes": {
+                  "huffmanj": {
+                    "prev_votes": 18785,
+                    "num_additional_votes": 0
+                  },
+                  "mensingd": {
+                    "prev_votes": 6197,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Sonoma",
+                "fips": "06097",
+                "num_additional_votes": 0,
+                "prev_votes": 111859,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 285,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "huffmanj": {
+                    "prev_votes": 85563,
+                    "num_additional_votes": 0
+                  },
+                  "mensingd": {
+                    "prev_votes": 26296,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Trinity",
+                "fips": "06105",
+                "num_additional_votes": 5,
+                "prev_votes": 6126,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 25,
+                "prev_eevp": 96,
+                "candidate_changes": {
+                  "huffmanj": {
+                    "prev_votes": 3018,
+                    "num_additional_votes": 3
+                  },
+                  "mensingd": {
+                    "prev_votes": 3108,
+                    "num_additional_votes": 2
+                  }
+                }
+              }
+            ]
+          }
         },
         "winnerCalledTimestamp": 1604465006354,
         "timeseries": [
@@ -6796,6 +7019,16 @@
             "eevp": 94,
             "eevp_source": "edison",
             "timestamp": "2020-11-21T02:41:19Z"
+          },
+          {
+            "vote_shares": {
+              "huffmanj": 0.764,
+              "mensingd": 0.236
+            },
+            "votes": 369211,
+            "eevp": 94,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-23T23:41:07Z"
           }
         ]
       },
@@ -34844,7 +35077,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 217595,
+        "votes": 217600,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -34870,7 +35103,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-23T17:17:58.867Z",
+        "last_updated": "2020-11-23T23:35:20.823Z",
         "candidates": [
           {
             "candidate_id": "wood-12211",
@@ -34883,7 +35116,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 150615,
+            "votes": 150617,
             "percent": 69.2,
             "percent_display": "69.2",
             "electoral_votes": 0,
@@ -34904,7 +35137,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 66980,
+            "votes": 66983,
             "percent": 30.8,
             "percent_display": "30.8",
             "electoral_votes": 0,
@@ -43135,7 +43368,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16718478,
+        "votes": 16718484,
         "absentee_votes": 985738,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -43160,7 +43393,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T20:36:14.663Z",
+        "last_updated": "2020-11-23T23:35:20.823Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -43172,7 +43405,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9560066,
+            "votes": 9560070,
             "percent": 57.2,
             "percent_display": "57.2",
             "electoral_votes": 0,
@@ -43192,7 +43425,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7158412,
+            "votes": 7158414,
             "percent": 42.8,
             "percent_display": "42.8",
             "electoral_votes": 0,
@@ -44716,7 +44949,7 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 6048,
+            "votes": 6054,
             "absentee_votes": 0,
             "reporting": 25,
             "precincts": 25,
@@ -44733,14 +44966,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 4577,
-              "yes": 1471
+              "no": 4581,
+              "yes": 1473
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T23:35:20.823Z"
           },
           {
             "fips": "06107",
@@ -44926,7 +45159,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16898108,
+        "votes": 16898114,
         "absentee_votes": 993320,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -44951,7 +45184,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T20:36:14.663Z",
+        "last_updated": "2020-11-23T23:35:20.823Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -44963,7 +45196,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9896153,
+            "votes": 9896157,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -44983,7 +45216,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7001955,
+            "votes": 7001957,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -46507,7 +46740,7 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 6170,
+            "votes": 6176,
             "absentee_votes": 0,
             "reporting": 25,
             "precincts": 25,
@@ -46524,14 +46757,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 2968,
-              "no": 3202
+              "yes": 2972,
+              "no": 3204
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T23:35:20.823Z"
           },
           {
             "fips": "06107",
@@ -46717,7 +46950,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16439980,
+        "votes": 16439986,
         "absentee_votes": 975963,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -46742,7 +46975,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T20:36:14.663Z",
+        "last_updated": "2020-11-23T23:35:20.823Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -46754,7 +46987,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9270519,
+            "votes": 9270523,
             "percent": 56.4,
             "percent_display": "56.4",
             "electoral_votes": 0,
@@ -46774,7 +47007,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7169461,
+            "votes": 7169463,
             "percent": 43.6,
             "percent_display": "43.6",
             "electoral_votes": 0,
@@ -48298,7 +48531,7 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 5968,
+            "votes": 5974,
             "absentee_votes": 0,
             "reporting": 25,
             "precincts": 25,
@@ -48315,14 +48548,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 3960,
-              "yes": 2008
+              "no": 3964,
+              "yes": 2010
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T23:35:20.823Z"
           },
           {
             "fips": "06107",
@@ -48506,7 +48739,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16657069,
+        "votes": 16657075,
         "absentee_votes": 984314,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -48531,7 +48764,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T20:36:14.663Z",
+        "last_updated": "2020-11-23T23:35:20.823Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -48543,7 +48776,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8508299,
+            "votes": 8508302,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -48563,7 +48796,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8148770,
+            "votes": 8148773,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -50087,7 +50320,7 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 5998,
+            "votes": 6004,
             "absentee_votes": 0,
             "reporting": 25,
             "precincts": 25,
@@ -50104,14 +50337,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 2266,
-              "no": 3732
+              "yes": 2269,
+              "no": 3735
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:59.9Z"
+            "last_updated": "2020-11-23T23:35:20.823Z"
           },
           {
             "fips": "06107",
@@ -50295,7 +50528,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16933801,
+        "votes": 16933807,
         "absentee_votes": 998550,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -50320,7 +50553,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T20:36:14.663Z",
+        "last_updated": "2020-11-23T23:35:20.823Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -50332,7 +50565,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8805531,
+            "votes": 8805535,
             "percent": 52,
             "percent_display": "52.0",
             "electoral_votes": 0,
@@ -50352,7 +50585,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8128270,
+            "votes": 8128272,
             "percent": 48,
             "percent_display": "48.0",
             "electoral_votes": 0,
@@ -51876,7 +52109,7 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 6137,
+            "votes": 6143,
             "absentee_votes": 0,
             "reporting": 25,
             "precincts": 25,
@@ -51893,14 +52126,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 3977,
-              "yes": 2160
+              "no": 3981,
+              "yes": 2162
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T23:35:20.823Z"
           },
           {
             "fips": "06107",
@@ -52086,7 +52319,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16934979,
+        "votes": 16934985,
         "absentee_votes": 994775,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -52111,7 +52344,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T20:36:14.663Z",
+        "last_updated": "2020-11-23T23:35:20.823Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -52123,7 +52356,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9485096,
+            "votes": 9485100,
             "percent": 56,
             "percent_display": "56.0",
             "electoral_votes": 0,
@@ -52143,7 +52376,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7449883,
+            "votes": 7449885,
             "percent": 44,
             "percent_display": "44.0",
             "electoral_votes": 0,
@@ -53667,7 +53900,7 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 6171,
+            "votes": 6177,
             "absentee_votes": 0,
             "reporting": 25,
             "precincts": 25,
@@ -53684,14 +53917,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 4302,
-              "yes": 1869
+              "no": 4306,
+              "yes": 1871
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T23:35:20.823Z"
           },
           {
             "fips": "06107",
@@ -53875,7 +54108,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16569491,
+        "votes": 16569497,
         "absentee_votes": 978441,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -53900,7 +54133,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T20:36:14.663Z",
+        "last_updated": "2020-11-23T23:35:20.823Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -53912,7 +54145,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8464970,
+            "votes": 8464973,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -53932,7 +54165,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8104521,
+            "votes": 8104524,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -55456,7 +55689,7 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 6015,
+            "votes": 6021,
             "absentee_votes": 0,
             "reporting": 25,
             "precincts": 25,
@@ -55473,14 +55706,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 2613,
-              "no": 3402
+              "yes": 2616,
+              "no": 3405
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T23:35:20.823Z"
           },
           {
             "fips": "06107",
@@ -55664,7 +55897,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16527629,
+        "votes": 16527635,
         "absentee_votes": 975847,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -55689,7 +55922,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T20:36:14.663Z",
+        "last_updated": "2020-11-23T23:35:20.823Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -55701,7 +55934,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10203531,
+            "votes": 10203536,
             "percent": 61.7,
             "percent_display": "61.7",
             "electoral_votes": 0,
@@ -55721,7 +55954,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6324098,
+            "votes": 6324099,
             "percent": 38.3,
             "percent_display": "38.3",
             "electoral_votes": 0,
@@ -57245,7 +57478,7 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 5983,
+            "votes": 5989,
             "absentee_votes": 0,
             "reporting": 25,
             "precincts": 25,
@@ -57262,14 +57495,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 3439,
-              "yes": 2544
+              "no": 3444,
+              "yes": 2545
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T23:35:20.823Z"
           },
           {
             "fips": "06107",
@@ -57455,7 +57688,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16712982,
+        "votes": 16712987,
         "absentee_votes": 986242,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -57480,7 +57713,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T20:36:14.663Z",
+        "last_updated": "2020-11-23T23:35:20.823Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -57492,7 +57725,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10001573,
+            "votes": 10001575,
             "percent": 59.8,
             "percent_display": "59.8",
             "electoral_votes": 0,
@@ -57512,7 +57745,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6711409,
+            "votes": 6711412,
             "percent": 40.2,
             "percent_display": "40.2",
             "electoral_votes": 0,
@@ -59036,7 +59269,7 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 6014,
+            "votes": 6019,
             "absentee_votes": 0,
             "reporting": 25,
             "precincts": 25,
@@ -59053,14 +59286,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 4516,
-              "yes": 1498
+              "no": 4518,
+              "yes": 1501
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T23:35:20.823Z"
           },
           {
             "fips": "06107",
@@ -59246,7 +59479,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16831382,
+        "votes": 16831388,
         "absentee_votes": 992295,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -59271,7 +59504,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T20:36:14.663Z",
+        "last_updated": "2020-11-23T23:35:20.823Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -59283,7 +59516,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9869802,
+            "votes": 9869806,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -59303,7 +59536,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6961580,
+            "votes": 6961582,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -60827,7 +61060,7 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 6015,
+            "votes": 6021,
             "absentee_votes": 0,
             "reporting": 25,
             "precincts": 25,
@@ -60844,14 +61077,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 3677,
-              "no": 2338
+              "yes": 3681,
+              "no": 2340
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T23:35:20.823Z"
           },
           {
             "fips": "06107",
@@ -61035,7 +61268,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16689282,
+        "votes": 16689288,
         "absentee_votes": 984773,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -61060,7 +61293,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T20:36:14.663Z",
+        "last_updated": "2020-11-23T23:35:20.823Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -61072,7 +61305,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10592285,
+            "votes": 10592291,
             "percent": 63.5,
             "percent_display": "63.5",
             "electoral_votes": 0,
@@ -62616,7 +62849,7 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 6035,
+            "votes": 6041,
             "absentee_votes": 0,
             "reporting": 25,
             "precincts": 25,
@@ -62633,14 +62866,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 4503,
+              "no": 4509,
               "yes": 1532
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T23:35:20.823Z"
           },
           {
             "fips": "06107",
@@ -62824,7 +63057,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16538189,
+        "votes": 16538195,
         "absentee_votes": 979988,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -62849,7 +63082,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T20:36:14.663Z",
+        "last_updated": "2020-11-23T23:35:20.823Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -62861,7 +63094,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9294713,
+            "votes": 9294714,
             "percent": 56.2,
             "percent_display": "56.2",
             "electoral_votes": 0,
@@ -62881,7 +63114,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7243476,
+            "votes": 7243481,
             "percent": 43.8,
             "percent_display": "43.8",
             "electoral_votes": 0,
@@ -64405,7 +64638,7 @@
           {
             "fips": "06105",
             "name": "Trinity",
-            "votes": 6028,
+            "votes": 6034,
             "absentee_votes": 0,
             "reporting": 25,
             "precincts": 25,
@@ -64422,14 +64655,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 2875,
-              "no": 3153
+              "yes": 2876,
+              "no": 3158
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T23:35:20.823Z"
           },
           {
             "fips": "06107",
@@ -64597,7 +64830,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75695128,
+            "votes": 75695138,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -64614,7 +64847,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72270319,
+            "votes": 72270330,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -64659,7 +64892,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79819607,
+            "votes": 79819614,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -64676,7 +64909,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73789363,
+            "votes": 73789372,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -68525,7 +68758,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3457095,
+          "votes": 3457102,
           "percent": 50,
           "percent_display": "50.0",
           "electoral_votes": 20,
@@ -81192,8 +81425,8 @@
     ]
   },
   "meta": {
-    "version": 21662,
+    "version": 21664,
     "track": "2020-11-03",
-    "timestamp": "2020-11-23T23:34:22.010Z"
+    "timestamp": "2020-11-23T23:42:21.816Z"
   }
 }
