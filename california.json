@@ -40445,7 +40445,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 148040,
+        "votes": 148715,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -40458,10 +40458,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 340,
+        "precincts_reporting": 343,
         "precincts_total": 348,
-        "reporting_display": "98% reporting",
-        "reporting_value": "98%",
+        "reporting_display": "99% reporting",
+        "reporting_value": "99%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -40471,7 +40471,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-23T17:17:58.867Z",
+        "last_updated": "2020-11-23T17:36:08.347Z",
         "candidates": [
           {
             "candidate_id": "garcia-12233",
@@ -40484,9 +40484,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 94584,
-            "percent": 63.9,
-            "percent_display": "63.9",
+            "votes": 94935,
+            "percent": 63.8,
+            "percent_display": "63.8",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -40505,9 +40505,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 53456,
-            "percent": 36.1,
-            "percent_display": "36.1",
+            "votes": 53780,
+            "percent": 36.2,
+            "percent_display": "36.2",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -43097,7 +43097,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16716995,
+        "votes": 16717662,
         "absentee_votes": 985738,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -43110,7 +43110,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19949,
+        "precincts_reporting": 19952,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -43122,7 +43122,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:17:58.867Z",
+        "last_updated": "2020-11-23T17:36:08.347Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -43134,7 +43134,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9559030,
+            "votes": 9559421,
             "percent": 57.2,
             "percent_display": "57.2",
             "electoral_votes": 0,
@@ -43154,7 +43154,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7157965,
+            "votes": 7158241,
             "percent": 42.8,
             "percent_display": "42.8",
             "electoral_votes": 0,
@@ -43518,9 +43518,9 @@
           {
             "fips": "06025",
             "name": "Imperial",
-            "votes": 50626,
+            "votes": 51293,
             "absentee_votes": 0,
-            "reporting": 211,
+            "reporting": 214,
             "precincts": 219,
             "absentee_method": null,
             "eevp": null,
@@ -43535,14 +43535,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 29438,
-              "yes": 21188
+              "no": 29829,
+              "yes": 21464
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T17:36:08.347Z"
           },
           {
             "fips": "06027",
@@ -44888,7 +44888,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16896606,
+        "votes": 16897281,
         "absentee_votes": 993320,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -44901,7 +44901,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19949,
+        "precincts_reporting": 19952,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -44913,7 +44913,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:17:58.867Z",
+        "last_updated": "2020-11-23T17:36:08.347Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -44925,7 +44925,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9895428,
+            "votes": 9895762,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -44945,7 +44945,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7001178,
+            "votes": 7001519,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -45309,9 +45309,9 @@
           {
             "fips": "06025",
             "name": "Imperial",
-            "votes": 50943,
+            "votes": 51618,
             "absentee_votes": 0,
-            "reporting": 211,
+            "reporting": 214,
             "precincts": 219,
             "absentee_method": null,
             "eevp": null,
@@ -45326,14 +45326,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 26790,
-              "no": 24153
+              "yes": 27124,
+              "no": 24494
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T17:36:08.347Z"
           },
           {
             "fips": "06027",
@@ -46679,7 +46679,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16438520,
+        "votes": 16439173,
         "absentee_votes": 975963,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -46692,7 +46692,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19949,
+        "precincts_reporting": 19952,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -46704,7 +46704,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:17:58.867Z",
+        "last_updated": "2020-11-23T17:36:08.347Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -46716,7 +46716,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9269548,
+            "votes": 9269960,
             "percent": 56.4,
             "percent_display": "56.4",
             "electoral_votes": 0,
@@ -46736,7 +46736,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7168972,
+            "votes": 7169213,
             "percent": 43.6,
             "percent_display": "43.6",
             "electoral_votes": 0,
@@ -47100,9 +47100,9 @@
           {
             "fips": "06025",
             "name": "Imperial",
-            "votes": 49999,
+            "votes": 50652,
             "absentee_votes": 0,
-            "reporting": 211,
+            "reporting": 214,
             "precincts": 219,
             "absentee_method": null,
             "eevp": null,
@@ -47117,14 +47117,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 30777,
-              "yes": 19222
+              "no": 31189,
+              "yes": 19463
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T17:36:08.347Z"
           },
           {
             "fips": "06027",
@@ -48468,7 +48468,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16655583,
+        "votes": 16656248,
         "absentee_votes": 984314,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -48481,7 +48481,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19949,
+        "precincts_reporting": 19952,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -48493,7 +48493,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:17:59.9Z",
+        "last_updated": "2020-11-23T17:36:08.347Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -48505,7 +48505,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8507577,
+            "votes": 8507943,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -48525,7 +48525,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8148006,
+            "votes": 8148305,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -48889,9 +48889,9 @@
           {
             "fips": "06025",
             "name": "Imperial",
-            "votes": 50650,
+            "votes": 51315,
             "absentee_votes": 0,
-            "reporting": 211,
+            "reporting": 214,
             "precincts": 219,
             "absentee_method": null,
             "eevp": null,
@@ -48906,14 +48906,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 28253,
-              "no": 22397
+              "yes": 28619,
+              "no": 22696
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:59.9Z"
+            "last_updated": "2020-11-23T17:36:08.347Z"
           },
           {
             "fips": "06027",
@@ -50257,7 +50257,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16940373,
+        "votes": 16941050,
         "absentee_votes": 998550,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -50270,7 +50270,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19949,
+        "precincts_reporting": 19952,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -50282,7 +50282,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:17:58.867Z",
+        "last_updated": "2020-11-23T17:36:08.347Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -50294,7 +50294,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8804688,
+            "votes": 8805017,
             "percent": 52,
             "percent_display": "52.0",
             "electoral_votes": 0,
@@ -50314,7 +50314,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8135685,
+            "votes": 8136033,
             "percent": 48,
             "percent_display": "48.0",
             "electoral_votes": 0,
@@ -50678,9 +50678,9 @@
           {
             "fips": "06025",
             "name": "Imperial",
-            "votes": 51105,
+            "votes": 51782,
             "absentee_votes": 0,
-            "reporting": 211,
+            "reporting": 214,
             "precincts": 219,
             "absentee_method": null,
             "eevp": null,
@@ -50695,14 +50695,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 25131,
-              "yes": 25974
+              "no": 25460,
+              "yes": 26322
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T17:36:08.347Z"
           },
           {
             "fips": "06027",
@@ -52048,7 +52048,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16933463,
+        "votes": 16934138,
         "absentee_votes": 994775,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -52061,7 +52061,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19949,
+        "precincts_reporting": 19952,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -52073,7 +52073,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:17:58.867Z",
+        "last_updated": "2020-11-23T17:36:08.347Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -52085,7 +52085,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9484048,
+            "votes": 9484492,
             "percent": 56,
             "percent_display": "56.0",
             "electoral_votes": 0,
@@ -52105,7 +52105,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7449415,
+            "votes": 7449646,
             "percent": 44,
             "percent_display": "44.0",
             "electoral_votes": 0,
@@ -52469,9 +52469,9 @@
           {
             "fips": "06025",
             "name": "Imperial",
-            "votes": 51002,
+            "votes": 51677,
             "absentee_votes": 0,
-            "reporting": 211,
+            "reporting": 214,
             "precincts": 219,
             "absentee_method": null,
             "eevp": null,
@@ -52486,14 +52486,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 31241,
-              "yes": 19761
+              "no": 31685,
+              "yes": 19992
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T17:36:08.347Z"
           },
           {
             "fips": "06027",
@@ -53837,7 +53837,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16568032,
+        "votes": 16568689,
         "absentee_votes": 978441,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -53850,7 +53850,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19757,
+        "precincts_reporting": 19760,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -53862,7 +53862,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:17:58.867Z",
+        "last_updated": "2020-11-23T17:36:08.347Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -53874,7 +53874,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8464235,
+            "votes": 8464581,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -53894,7 +53894,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8103797,
+            "votes": 8104108,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -54258,9 +54258,9 @@
           {
             "fips": "06025",
             "name": "Imperial",
-            "votes": 50293,
+            "votes": 50950,
             "absentee_votes": 0,
-            "reporting": 211,
+            "reporting": 214,
             "precincts": 219,
             "absentee_method": null,
             "eevp": null,
@@ -54275,14 +54275,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 27194,
-              "no": 23099
+              "yes": 27540,
+              "no": 23410
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T17:36:08.347Z"
           },
           {
             "fips": "06027",
@@ -55626,7 +55626,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16526172,
+        "votes": 16526830,
         "absentee_votes": 975847,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -55639,7 +55639,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19757,
+        "precincts_reporting": 19760,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -55651,7 +55651,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:17:58.867Z",
+        "last_updated": "2020-11-23T17:36:08.347Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -55663,7 +55663,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10202735,
+            "votes": 10203083,
             "percent": 61.7,
             "percent_display": "61.7",
             "electoral_votes": 0,
@@ -55683,7 +55683,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6323437,
+            "votes": 6323747,
             "percent": 38.3,
             "percent_display": "38.3",
             "electoral_votes": 0,
@@ -56047,9 +56047,9 @@
           {
             "fips": "06025",
             "name": "Imperial",
-            "votes": 50436,
+            "votes": 51094,
             "absentee_votes": 0,
-            "reporting": 211,
+            "reporting": 214,
             "precincts": 219,
             "absentee_method": null,
             "eevp": null,
@@ -56064,14 +56064,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 27821,
-              "yes": 22615
+              "no": 28169,
+              "yes": 22925
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T17:36:08.347Z"
           },
           {
             "fips": "06027",
@@ -57417,7 +57417,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16711500,
+        "votes": 16712167,
         "absentee_votes": 986242,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -57430,7 +57430,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19756,
+        "precincts_reporting": 19759,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -57442,7 +57442,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:17:58.867Z",
+        "last_updated": "2020-11-23T17:36:08.347Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -57454,7 +57454,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10000558,
+            "votes": 10001000,
             "percent": 59.8,
             "percent_display": "59.8",
             "electoral_votes": 0,
@@ -57474,7 +57474,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6710942,
+            "votes": 6711167,
             "percent": 40.2,
             "percent_display": "40.2",
             "electoral_votes": 0,
@@ -57838,9 +57838,9 @@
           {
             "fips": "06025",
             "name": "Imperial",
-            "votes": 50508,
+            "votes": 51175,
             "absentee_votes": 0,
-            "reporting": 211,
+            "reporting": 214,
             "precincts": 219,
             "absentee_method": null,
             "eevp": null,
@@ -57855,14 +57855,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 32330,
-              "yes": 18178
+              "no": 32772,
+              "yes": 18403
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T17:36:08.347Z"
           },
           {
             "fips": "06027",
@@ -59208,7 +59208,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16829898,
+        "votes": 16830566,
         "absentee_votes": 992295,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -59221,7 +59221,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19757,
+        "precincts_reporting": 19760,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -59233,7 +59233,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:17:58.867Z",
+        "last_updated": "2020-11-23T17:36:08.347Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -59245,7 +59245,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9868917,
+            "votes": 9869334,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -59265,7 +59265,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6960981,
+            "votes": 6961232,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -59629,9 +59629,9 @@
           {
             "fips": "06025",
             "name": "Imperial",
-            "votes": 50775,
+            "votes": 51443,
             "absentee_votes": 0,
-            "reporting": 211,
+            "reporting": 214,
             "precincts": 219,
             "absentee_method": null,
             "eevp": null,
@@ -59646,14 +59646,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 29450,
-              "no": 21325
+              "yes": 29867,
+              "no": 21576
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T17:36:08.347Z"
           },
           {
             "fips": "06027",
@@ -60997,7 +60997,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16687810,
+        "votes": 16688476,
         "absentee_votes": 984773,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -61010,7 +61010,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19757,
+        "precincts_reporting": 19760,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -61022,7 +61022,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:17:58.867Z",
+        "last_updated": "2020-11-23T17:36:08.347Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -61034,7 +61034,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10591460,
+            "votes": 10591781,
             "percent": 63.5,
             "percent_display": "63.5",
             "electoral_votes": 0,
@@ -61054,7 +61054,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6096350,
+            "votes": 6096695,
             "percent": 36.5,
             "percent_display": "36.5",
             "electoral_votes": 0,
@@ -61418,9 +61418,9 @@
           {
             "fips": "06025",
             "name": "Imperial",
-            "votes": 50715,
+            "votes": 51381,
             "absentee_votes": 0,
-            "reporting": 211,
+            "reporting": 214,
             "precincts": 219,
             "absentee_method": null,
             "eevp": null,
@@ -61435,14 +61435,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 27693,
-              "yes": 23022
+              "no": 28014,
+              "yes": 23367
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T17:36:08.347Z"
           },
           {
             "fips": "06027",
@@ -62786,7 +62786,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16536717,
+        "votes": 16537379,
         "absentee_votes": 979988,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -62799,7 +62799,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19949,
+        "precincts_reporting": 19952,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -62811,7 +62811,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:17:58.867Z",
+        "last_updated": "2020-11-23T17:36:08.347Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -62823,7 +62823,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9293878,
+            "votes": 9294285,
             "percent": 56.2,
             "percent_display": "56.2",
             "electoral_votes": 0,
@@ -62843,7 +62843,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7242839,
+            "votes": 7243094,
             "percent": 43.8,
             "percent_display": "43.8",
             "electoral_votes": 0,
@@ -63207,9 +63207,9 @@
           {
             "fips": "06025",
             "name": "Imperial",
-            "votes": 50427,
+            "votes": 51089,
             "absentee_votes": 0,
-            "reporting": 211,
+            "reporting": 214,
             "precincts": 219,
             "absentee_method": null,
             "eevp": null,
@@ -63224,14 +63224,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 30782,
-              "no": 19645
+              "yes": 31189,
+              "no": 19900
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T17:36:08.347Z"
           },
           {
             "fips": "06027",
@@ -64559,7 +64559,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75654639,
+            "votes": 75654644,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -64576,7 +64576,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72231462,
+            "votes": 72231475,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -81137,8 +81137,8 @@
     ]
   },
   "meta": {
-    "version": 21496,
+    "version": 21499,
     "track": "2020-11-03",
-    "timestamp": "2020-11-23T17:19:19.416Z"
+    "timestamp": "2020-11-23T17:38:15.584Z"
   }
 }
