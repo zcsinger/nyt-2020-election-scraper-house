@@ -21363,7 +21363,7 @@
         "result_source": null,
         "gain": false,
         "lost_seat": "",
-        "votes": 296956,
+        "votes": 296986,
         "absentee_votes": 39804,
         "absentee_counties": 6,
         "absentee_count_progress": "unknown",
@@ -21388,7 +21388,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-20T15:45:40Z",
+        "last_updated": "2020-11-23T17:46:11Z",
         "candidates": [
           {
             "candidate_id": "tenney-63809-33-h",
@@ -21401,7 +21401,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 149769,
+            "votes": 149779,
             "percent": 50.4,
             "percent_display": "50.4",
             "electoral_votes": 0,
@@ -21422,7 +21422,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 140644,
+            "votes": 140656,
             "percent": 47.4,
             "percent_display": "47.4",
             "electoral_votes": 0,
@@ -21443,7 +21443,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6414,
+            "votes": 6420,
             "percent": 2.2,
             "percent_display": "2.2",
             "electoral_votes": 0,
@@ -21464,7 +21464,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 129,
+            "votes": 131,
             "percent": 0,
             "percent_display": "<0.1",
             "electoral_votes": 0,
@@ -21476,8 +21476,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 3.07285,
-        "leader_margin_votes": 9125,
+        "leader_margin_value": 3.07186,
+        "leader_margin_votes": 9123,
         "leader_margin_display": "R+3",
         "leader_margin_name_display": "Tenney +3",
         "leader_party_id": "republican",
@@ -21485,7 +21485,7 @@
           {
             "fips": "36007",
             "name": "Broome",
-            "votes": 89655,
+            "votes": 89685,
             "absentee_votes": 19721,
             "reporting": 134,
             "precincts": 139,
@@ -21502,10 +21502,10 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "brindisia": 50601,
-              "tenneyc": 36539,
-              "pricek": 2457,
-              "write-ins": 58
+              "brindisia": 50613,
+              "tenneyc": 36549,
+              "pricek": 2463,
+              "write-ins": 60
             },
             "results_absentee": {
               "brindisia": 15008,
@@ -21513,8 +21513,8 @@
               "pricek": 459,
               "write-ins": 16
             },
-            "last_updated": "2020-11-19T16:13:56Z",
-            "leader_margin_value": 15.68457,
+            "last_updated": "2020-11-23T17:46:09Z",
+            "leader_margin_value": 15.68155,
             "leader_margin_display": "D+16",
             "leader_margin_name_display": "Brindisi +16",
             "leader_party_id": "democrat"
@@ -21800,12 +21800,12 @@
             "sentence_type": "has_eevp"
           },
           "eevp_leadin": {
-            "sentence": "We just received 4,869 additional votes from New York. Tenney is currently up by 9,125 votes.",
-            "timestamp": 1605887311113,
+            "sentence": "Tenney is currently up by 9,123 votes.",
+            "timestamp": 1606153749620,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received 4,869 additional votes from New York. Tenney is currently up by 9,125 votes.",
+            "generatedText": "Tenney is currently up by 9,123 votes.",
             "sentence_type": "additional_votes_reported"
           }
         },
@@ -22329,6 +22329,18 @@
             "eevp": 92,
             "eevp_source": "edison",
             "timestamp": "2020-11-20T15:45:40Z"
+          },
+          {
+            "vote_shares": {
+              "tenneyc": 0.504,
+              "brindisia": 0.474,
+              "pricek": 0.022,
+              "write-ins": 0
+            },
+            "votes": 296986,
+            "eevp": 92,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-23T17:46:11Z"
           }
         ]
       },
@@ -47587,7 +47599,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75654976,
+            "votes": 75654988,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -47604,7 +47616,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72231798,
+            "votes": 72231808,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -47621,7 +47633,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2074612,
+            "votes": 2074620,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -64165,8 +64177,8 @@
     ]
   },
   "meta": {
-    "version": 21503,
+    "version": 21505,
     "track": "2020-11-03",
-    "timestamp": "2020-11-23T17:44:22.643Z"
+    "timestamp": "2020-11-23T17:50:15.670Z"
   }
 }
