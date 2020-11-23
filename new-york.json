@@ -22373,7 +22373,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 278665,
+        "votes": 278682,
         "absentee_votes": 2999,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -22386,10 +22386,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T02:00:00.000Z",
         "poll_time_short": "9 p.m.",
-        "precincts_reporting": 417,
+        "precincts_reporting": 427,
         "precincts_total": 505,
-        "reporting_display": "83% reporting",
-        "reporting_value": "83%",
+        "reporting_display": "85% reporting",
+        "reporting_value": "85%",
         "eevp": 87,
         "tot_exp_vote": 322000,
         "eevp_source": "edison",
@@ -22398,7 +22398,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-20T21:55:32Z",
+        "last_updated": "2020-11-23T18:12:57Z",
         "candidates": [
           {
             "candidate_id": "reed-20072692-33-h",
@@ -22411,7 +22411,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 170072,
+            "votes": 170078,
             "percent": 61,
             "percent_display": "61.0",
             "electoral_votes": 0,
@@ -22432,7 +22432,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 105320,
+            "votes": 105330,
             "percent": 37.8,
             "percent_display": "37.8",
             "electoral_votes": 0,
@@ -22453,7 +22453,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 3187,
+            "votes": 3188,
             "percent": 1.1,
             "percent_display": "1.1",
             "electoral_votes": 0,
@@ -22486,8 +22486,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 23.2365,
-        "leader_margin_votes": 64752,
+        "leader_margin_value": 23.23365,
+        "leader_margin_votes": 64748,
         "leader_margin_display": "R+23",
         "leader_margin_name_display": "Reed +23",
         "leader_party_id": "republican",
@@ -22567,9 +22567,9 @@
           {
             "fips": "36013",
             "name": "Chautauqua",
-            "votes": 57928,
+            "votes": 57945,
             "absentee_votes": 0,
-            "reporting": 44,
+            "reporting": 54,
             "precincts": 55,
             "absentee_method": "Merged into voters' home precincts AFTER election night",
             "eevp": 97,
@@ -22578,15 +22578,15 @@
             "eevp_display": "97% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
-            "absentee_count_progress": "unknown",
+            "absentee_count_progress": "some",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "reedt": 35856,
-              "mitranot": 21324,
-              "kolsteea": 725,
+              "reedt": 35862,
+              "mitranot": 21334,
+              "kolsteea": 726,
               "write-ins": 23
             },
             "results_absentee": {
@@ -22595,8 +22595,8 @@
               "kolsteea": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-16T15:47:58Z",
-            "leader_margin_value": 25.08631,
+            "last_updated": "2020-11-23T18:12:52Z",
+            "leader_margin_value": 25.07205,
             "leader_margin_display": "R+25",
             "leader_margin_name_display": "Reed +25",
             "leader_party_id": "republican"
@@ -23481,6 +23481,18 @@
             "eevp": 87,
             "eevp_source": "edison",
             "timestamp": "2020-11-20T21:55:32Z"
+          },
+          {
+            "vote_shares": {
+              "reedt": 0.61,
+              "mitranot": 0.378,
+              "kolsteea": 0.011,
+              "write-ins": 0
+            },
+            "votes": 278682,
+            "eevp": 87,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-23T18:12:57Z"
           }
         ]
       },
@@ -47599,7 +47611,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75654988,
+            "votes": 75655179,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -47616,7 +47628,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72231808,
+            "votes": 72231893,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -47633,7 +47645,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2074620,
+            "votes": 2074621,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -47661,7 +47673,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79804358,
+            "votes": 79804534,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -47678,7 +47690,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73777294,
+            "votes": 73777380,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -47695,7 +47707,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2860055,
+            "votes": 2860058,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -51510,7 +51522,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 3456354,
+          "votes": 3456530,
           "percent": 50,
           "percent_display": "50.0",
           "electoral_votes": 20,
@@ -64177,8 +64189,8 @@
     ]
   },
   "meta": {
-    "version": 21505,
+    "version": 21508,
     "track": "2020-11-03",
-    "timestamp": "2020-11-23T17:50:15.670Z"
+    "timestamp": "2020-11-23T18:16:21.069Z"
   }
 }
