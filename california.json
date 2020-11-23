@@ -31,7 +31,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 17329313,
+        "votes": 17330014,
         "electoral_votes": 55,
         "absentee_votes": 8420433,
         "absentee_counties": 32,
@@ -57,7 +57,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T02:40:55Z",
+        "last_updated": "2020-11-23T17:40:48Z",
         "candidates": [
           {
             "candidate_id": "biden-1036",
@@ -70,7 +70,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 11019774,
+            "votes": 11020102,
             "percent": 63.6,
             "percent_display": "63.6",
             "electoral_votes": 55,
@@ -92,7 +92,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 5934573,
+            "votes": 5934931,
             "percent": 34.2,
             "percent_display": "34.2",
             "electoral_votes": 0,
@@ -114,7 +114,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 185470,
+            "votes": 185477,
             "percent": 1.1,
             "percent_display": "1.1",
             "electoral_votes": 0,
@@ -135,7 +135,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 80017,
+            "votes": 80020,
             "percent": 0.5,
             "percent_display": "0.5",
             "electoral_votes": 0,
@@ -156,7 +156,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 59229,
+            "votes": 59233,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -177,7 +177,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 50242,
+            "votes": 50243,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -210,8 +210,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 29.3445,
-        "leader_margin_votes": 5085201,
+        "leader_margin_value": 29.34314,
+        "leader_margin_votes": 5085171,
         "leader_margin_display": "D+29",
         "leader_margin_name_display": "Biden +29",
         "leader_party_id": "democrat",
@@ -773,15 +773,15 @@
           {
             "fips": "06025",
             "name": "Imperial",
-            "votes": 51966,
+            "votes": 52667,
             "absentee_votes": 27661,
             "reporting": 218,
             "precincts": 218,
             "absentee_method": "Released separately AFTER election night",
-            "eevp": 95,
+            "eevp": 96,
             "tot_exp_vote": 54824,
-            "eevp_value": "95%",
-            "eevp_display": "95% reported",
+            "eevp_value": "96%",
+            "eevp_display": "96% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "some",
@@ -790,12 +790,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 32165,
-              "trumpd": 18720,
-              "jorgensenj": 349,
-              "de_la_fuenter": 259,
-              "la_rivag": 251,
-              "hawkinsh": 222
+              "bidenj": 32493,
+              "trumpd": 19078,
+              "jorgensenj": 356,
+              "de_la_fuenter": 263,
+              "la_rivag": 252,
+              "hawkinsh": 225
             },
             "results_absentee": {
               "bidenj": 18837,
@@ -805,12 +805,12 @@
               "la_rivag": 130,
               "hawkinsh": 99
             },
-            "last_updated": "2020-11-21T02:40:51Z",
-            "leader_margin_value": 25.87269,
-            "leader_margin_display": "D+26",
-            "leader_margin_name_display": "Biden +26",
+            "last_updated": "2020-11-23T17:40:40Z",
+            "leader_margin_value": 25.47136,
+            "leader_margin_display": "D+25",
+            "leader_margin_name_display": "Biden +25",
             "leader_party_id": "democrat",
-            "margin2020": -25.87269,
+            "margin2020": -25.47136,
             "votes2016": 48091,
             "margin2016": -41.5,
             "votes2012": 38565,
@@ -2921,12 +2921,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Kings County.",
-            "timestamp": 1606099327388,
+            "sentence": "We just received more votes from Imperial County.",
+            "timestamp": 1606153391910,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Kings County.",
+            "generatedText": "We just received more votes from Imperial County.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -5065,6 +5065,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-23T02:40:55Z"
+          },
+          {
+            "vote_shares": {
+              "bidenj": 0.636,
+              "trumpd": 0.342
+            },
+            "votes": 17330014,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-23T17:40:48Z"
           }
         ]
       },
@@ -31156,7 +31166,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 237796,
+        "votes": 238451,
         "absentee_votes": 187373,
         "absentee_counties": 2,
         "absentee_count_progress": "unknown",
@@ -31169,10 +31179,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 375,
+        "precincts_reporting": 378,
         "precincts_total": 391,
-        "reporting_display": "96% reporting",
-        "reporting_value": "96%",
+        "reporting_display": "97% reporting",
+        "reporting_value": "97%",
         "eevp": 100,
         "tot_exp_vote": 235000,
         "eevp_source": "edison",
@@ -31181,7 +31191,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-21T02:41:18Z",
+        "last_updated": "2020-11-23T17:41:07Z",
         "candidates": [
           {
             "candidate_id": "vargas-52480-5-h",
@@ -31194,7 +31204,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 162960,
+            "votes": 163292,
             "percent": 68.5,
             "percent_display": "68.5",
             "electoral_votes": 0,
@@ -31215,7 +31225,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 74836,
+            "votes": 75159,
             "percent": 31.5,
             "percent_display": "31.5",
             "electoral_votes": 0,
@@ -31227,8 +31237,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 37.05866,
-        "leader_margin_votes": 88124,
+        "leader_margin_value": 36.96063,
+        "leader_margin_votes": 88133,
         "leader_margin_display": "D+37",
         "leader_margin_name_display": "Vargas +37",
         "leader_party_id": "democrat",
@@ -31236,15 +31246,15 @@
           {
             "fips": "06025",
             "name": "Imperial",
-            "votes": 50533,
+            "votes": 51188,
             "absentee_votes": 27029,
-            "reporting": 202,
+            "reporting": 205,
             "precincts": 218,
             "absentee_method": "Released separately AFTER election night",
-            "eevp": 93,
+            "eevp": 94,
             "tot_exp_vote": 54351,
-            "eevp_value": "93%",
-            "eevp_display": "93% reported",
+            "eevp_value": "94%",
+            "eevp_display": "94% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "some",
@@ -31253,15 +31263,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "vargasj": 32382,
-              "hidalgoj": 18151
+              "vargasj": 32714,
+              "hidalgoj": 18474
             },
             "results_absentee": {
               "vargasj": 18887,
               "hidalgoj": 8142
             },
-            "last_updated": "2020-11-21T02:41:13Z",
-            "leader_margin_value": 28.1618,
+            "last_updated": "2020-11-23T17:41:06Z",
+            "leader_margin_value": 27.81902,
             "leader_margin_display": "D+28",
             "leader_margin_name_display": "Vargas +28",
             "leader_party_id": "democrat"
@@ -31650,6 +31660,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-21T02:41:18Z"
+          },
+          {
+            "vote_shares": {
+              "vargasj": 0.685,
+              "hidalgoj": 0.315
+            },
+            "votes": 238451,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-23T17:41:07Z"
           }
         ]
       },
@@ -64559,7 +64579,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75654644,
+            "votes": 75654976,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -64576,7 +64596,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72231475,
+            "votes": 72231798,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -64621,7 +64641,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79804030,
+            "votes": 79804358,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -64638,7 +64658,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73776936,
+            "votes": 73777294,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -64655,7 +64675,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2860040,
+            "votes": 2860055,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -76230,7 +76250,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 11019774,
+          "votes": 11020102,
           "percent": 63.6,
           "percent_display": "63.6",
           "electoral_votes": 55,
@@ -81137,8 +81157,8 @@
     ]
   },
   "meta": {
-    "version": 21499,
+    "version": 21503,
     "track": "2020-11-03",
-    "timestamp": "2020-11-23T17:38:15.584Z"
+    "timestamp": "2020-11-23T17:44:22.643Z"
   }
 }
