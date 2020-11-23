@@ -1647,15 +1647,15 @@
           {
             "fips": "06063",
             "name": "Plumas",
-            "votes": 10950,
+            "votes": 11256,
             "absentee_votes": 0,
             "reporting": 29,
             "precincts": 29,
             "absentee_method": "Other",
-            "eevp": 96,
+            "eevp": 99,
             "tot_exp_vote": 11409,
-            "eevp_value": "96%",
-            "eevp_display": "96% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "unknown",
@@ -1664,13 +1664,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 4465,
-              "trumpd": 6247,
-              "jorgensenj": 142,
-              "hawkinsh": 38,
-              "de_la_fuenter": 30,
-              "la_rivag": 25,
-              "write-ins": 3
+              "bidenj": 4561,
+              "trumpd": 6445,
+              "jorgensenj": 153,
+              "hawkinsh": 39,
+              "de_la_fuenter": 31,
+              "la_rivag": 27
             },
             "results_absentee": {
               "bidenj": 0,
@@ -1678,15 +1677,14 @@
               "jorgensenj": 0,
               "hawkinsh": 0,
               "de_la_fuenter": 0,
-              "la_rivag": 0,
-              "write-ins": 0
+              "la_rivag": 0
             },
-            "last_updated": "2020-11-16T15:48:00Z",
-            "leader_margin_value": 16.27397,
-            "leader_margin_display": "R+16",
-            "leader_margin_name_display": "Trump +16",
+            "last_updated": "2020-11-23T20:40:40Z",
+            "leader_margin_value": 16.73774,
+            "leader_margin_display": "R+17",
+            "leader_margin_name_display": "Trump +17",
             "leader_party_id": "republican",
-            "margin2020": 16.27397,
+            "margin2020": 16.73774,
             "votes2016": 9850,
             "margin2016": 19.9,
             "votes2012": 10047,
@@ -2709,7 +2707,7 @@
           {
             "fips": "06109",
             "name": "Tuolumne",
-            "votes": 29820,
+            "votes": 30401,
             "absentee_votes": 0,
             "reporting": 73,
             "precincts": 73,
@@ -2726,12 +2724,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 11808,
-              "trumpd": 17302,
-              "jorgensenj": 426,
-              "hawkinsh": 139,
-              "de_la_fuenter": 87,
-              "la_rivag": 58
+              "bidenj": 11978,
+              "trumpd": 17689,
+              "jorgensenj": 439,
+              "hawkinsh": 145,
+              "de_la_fuenter": 91,
+              "la_rivag": 59
             },
             "results_absentee": {
               "bidenj": 0,
@@ -2741,12 +2739,12 @@
               "de_la_fuenter": 0,
               "la_rivag": 0
             },
-            "last_updated": "2020-11-16T15:48:16Z",
-            "leader_margin_value": 18.42388,
-            "leader_margin_display": "R+18",
-            "leader_margin_name_display": "Trump +18",
+            "last_updated": "2020-11-23T20:40:41Z",
+            "leader_margin_value": 18.78557,
+            "leader_margin_display": "R+19",
+            "leader_margin_name_display": "Trump +19",
             "leader_party_id": "republican",
-            "margin2020": 18.42388,
+            "margin2020": 18.78557,
             "votes2016": 25893,
             "margin2016": 21,
             "votes2012": 24687,
@@ -5108,7 +5106,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 353928,
+        "votes": 354233,
         "absentee_votes": 22847,
         "absentee_counties": 2,
         "absentee_count_progress": "unknown",
@@ -5133,7 +5131,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-21T02:41:19Z",
+        "last_updated": "2020-11-23T20:41:05Z",
         "candidates": [
           {
             "candidate_id": "lamalfa-52531-5-h",
@@ -5146,7 +5144,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 201270,
+            "votes": 201465,
             "percent": 56.9,
             "percent_display": "56.9",
             "electoral_votes": 0,
@@ -5167,7 +5165,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 152658,
+            "votes": 152768,
             "percent": 43.1,
             "percent_display": "43.1",
             "electoral_votes": 0,
@@ -5179,8 +5177,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 13.735,
-        "leader_margin_votes": 48612,
+        "leader_margin_value": 13.74717,
+        "leader_margin_votes": 48697,
         "leader_margin_display": "R+14",
         "leader_margin_name_display": "LaMalfa +14",
         "leader_party_id": "republican",
@@ -5386,7 +5384,7 @@
           {
             "fips": "06063",
             "name": "Plumas",
-            "votes": 10973,
+            "votes": 11278,
             "absentee_votes": 0,
             "reporting": 29,
             "precincts": 29,
@@ -5397,21 +5395,21 @@
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
-            "absentee_count_progress": "some",
+            "absentee_count_progress": "unknown",
             "absentee_outstanding": null,
             "absentee_max_ballots": 11534,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "lamalfad": 6346,
-              "denneya": 4627
+              "lamalfad": 6541,
+              "denneya": 4737
             },
             "results_absentee": {
               "lamalfad": 0,
               "denneya": 0
             },
-            "last_updated": "2020-11-16T15:47:55Z",
-            "leader_margin_value": 15.66572,
+            "last_updated": "2020-11-23T20:41:03Z",
+            "leader_margin_value": 15.99574,
             "leader_margin_display": "R+16",
             "leader_margin_name_display": "LaMalfa +16",
             "leader_party_id": "republican"
@@ -6129,6 +6127,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-21T02:41:19Z"
+          },
+          {
+            "vote_shares": {
+              "lamalfad": 0.569,
+              "denneya": 0.431
+            },
+            "votes": 354233,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-23T20:41:05Z"
           }
         ]
       },
@@ -7736,7 +7744,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 423739,
+        "votes": 424277,
         "absentee_votes": 148397,
         "absentee_counties": 8,
         "absentee_count_progress": "unknown",
@@ -7761,7 +7769,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-21T02:41:19Z",
+        "last_updated": "2020-11-23T20:41:05Z",
         "candidates": [
           {
             "candidate_id": "mcclintock-188-5-h",
@@ -7774,7 +7782,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 236316,
+            "votes": 236678,
             "percent": 55.8,
             "percent_display": "55.8",
             "electoral_votes": 0,
@@ -7795,7 +7803,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 187423,
+            "votes": 187599,
             "percent": 44.2,
             "percent_display": "44.2",
             "electoral_votes": 0,
@@ -7807,8 +7815,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 11.53847,
-        "leader_margin_votes": 48893,
+        "leader_margin_value": 11.56768,
+        "leader_margin_votes": 49079,
         "leader_margin_display": "R+12",
         "leader_margin_name_display": "McClintock +12",
         "leader_party_id": "republican",
@@ -8113,7 +8121,7 @@
           {
             "fips": "06109",
             "name": "Tuolumne",
-            "votes": 29590,
+            "votes": 30128,
             "absentee_votes": 0,
             "reporting": 73,
             "precincts": 73,
@@ -8130,15 +8138,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcclintockt": 17554,
-              "kennedyb": 12036
+              "mcclintockt": 17916,
+              "kennedyb": 12212
             },
             "results_absentee": {
               "mcclintockt": 0,
               "kennedyb": 0
             },
-            "last_updated": "2020-11-16T15:48:11Z",
-            "leader_margin_value": 18.64819,
+            "last_updated": "2020-11-23T20:41:03Z",
+            "leader_margin_value": 18.93255,
             "leader_margin_display": "R+19",
             "leader_margin_name_display": "McClintock +19",
             "leader_party_id": "republican"
@@ -8714,6 +8722,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-21T02:41:19Z"
+          },
+          {
+            "vote_shares": {
+              "mcclintockt": 0.558,
+              "kennedyb": 0.442
+            },
+            "votes": 424277,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-23T20:41:05Z"
           }
         ]
       },
@@ -32600,7 +32618,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 539567,
+        "votes": 539867,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -32613,7 +32631,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 743,
+        "precincts_reporting": 744,
         "precincts_total": 774,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -32626,7 +32644,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-23T17:17:58.867Z",
+        "last_updated": "2020-11-23T20:36:14.663Z",
         "candidates": [
           {
             "candidate_id": "dahle-11769",
@@ -32639,9 +32657,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 321834,
-            "percent": 59.6,
-            "percent_display": "59.6",
+            "votes": 322036,
+            "percent": 59.7,
+            "percent_display": "59.7",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -32660,9 +32678,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 217733,
-            "percent": 40.4,
-            "percent_display": "40.4",
+            "votes": 217831,
+            "percent": 40.3,
+            "percent_display": "40.3",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -34720,7 +34738,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 245113,
+        "votes": 245413,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -34733,7 +34751,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 439,
+        "precincts_reporting": 440,
         "precincts_total": 463,
         "reporting_display": "95% reporting",
         "reporting_value": "95%",
@@ -34746,7 +34764,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-23T17:17:58.867Z",
+        "last_updated": "2020-11-23T20:36:14.663Z",
         "candidates": [
           {
             "candidate_id": "dahle-13490",
@@ -34759,7 +34777,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 144052,
+            "votes": 144245,
             "percent": 58.8,
             "percent_display": "58.8",
             "electoral_votes": 0,
@@ -34780,7 +34798,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 101061,
+            "votes": 101168,
             "percent": 41.2,
             "percent_display": "41.2",
             "electoral_votes": 0,
@@ -43117,7 +43135,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16717662,
+        "votes": 16718478,
         "absentee_votes": 985738,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -43130,7 +43148,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19952,
+        "precincts_reporting": 19954,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -43142,7 +43160,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:36:08.347Z",
+        "last_updated": "2020-11-23T20:36:14.663Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -43154,7 +43172,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9559421,
+            "votes": 9560066,
             "percent": 57.2,
             "percent_display": "57.2",
             "electoral_votes": 0,
@@ -43174,7 +43192,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7158241,
+            "votes": 7158412,
             "percent": 42.8,
             "percent_display": "42.8",
             "electoral_votes": 0,
@@ -44089,9 +44107,9 @@
           {
             "fips": "06063",
             "name": "Plumas",
-            "votes": 10648,
+            "votes": 10936,
             "absentee_votes": 0,
-            "reporting": 28,
+            "reporting": 29,
             "precincts": 29,
             "absentee_method": null,
             "eevp": null,
@@ -44106,14 +44124,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 8303,
-              "yes": 2345
+              "no": 8542,
+              "yes": 2394
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06065",
@@ -44756,9 +44774,9 @@
           {
             "fips": "06109",
             "name": "Tuolumne",
-            "votes": 29082,
+            "votes": 29610,
             "absentee_votes": 0,
-            "reporting": 71,
+            "reporting": 72,
             "precincts": 73,
             "absentee_method": null,
             "eevp": null,
@@ -44773,14 +44791,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 22958,
-              "yes": 6124
+              "no": 23364,
+              "yes": 6246
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06111",
@@ -44908,7 +44926,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16897281,
+        "votes": 16898108,
         "absentee_votes": 993320,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -44921,7 +44939,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19952,
+        "precincts_reporting": 19954,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -44933,7 +44951,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:36:08.347Z",
+        "last_updated": "2020-11-23T20:36:14.663Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -44945,7 +44963,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9895762,
+            "votes": 9896153,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -44965,7 +44983,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7001519,
+            "votes": 7001955,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -45880,9 +45898,9 @@
           {
             "fips": "06063",
             "name": "Plumas",
-            "votes": 10790,
+            "votes": 11083,
             "absentee_votes": 0,
-            "reporting": 28,
+            "reporting": 29,
             "precincts": 29,
             "absentee_method": null,
             "eevp": null,
@@ -45897,14 +45915,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 4345,
-              "no": 6445
+              "yes": 4485,
+              "no": 6598
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06065",
@@ -46547,9 +46565,9 @@
           {
             "fips": "06109",
             "name": "Tuolumne",
-            "votes": 29442,
+            "votes": 29976,
             "absentee_votes": 0,
-            "reporting": 71,
+            "reporting": 72,
             "precincts": 73,
             "absentee_method": null,
             "eevp": null,
@@ -46564,14 +46582,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 11293,
-              "no": 18149
+              "yes": 11544,
+              "no": 18432
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06111",
@@ -46699,7 +46717,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16439173,
+        "votes": 16439980,
         "absentee_votes": 975963,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -46712,7 +46730,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19952,
+        "precincts_reporting": 19954,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -46724,7 +46742,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:36:08.347Z",
+        "last_updated": "2020-11-23T20:36:14.663Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -46736,7 +46754,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9269960,
+            "votes": 9270519,
             "percent": 56.4,
             "percent_display": "56.4",
             "electoral_votes": 0,
@@ -46756,7 +46774,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7169213,
+            "votes": 7169461,
             "percent": 43.6,
             "percent_display": "43.6",
             "electoral_votes": 0,
@@ -47671,9 +47689,9 @@
           {
             "fips": "06063",
             "name": "Plumas",
-            "votes": 10631,
+            "votes": 10921,
             "absentee_votes": 0,
-            "reporting": 28,
+            "reporting": 29,
             "precincts": 29,
             "absentee_method": null,
             "eevp": null,
@@ -47688,14 +47706,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 7129,
-              "yes": 3502
+              "no": 7334,
+              "yes": 3587
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06065",
@@ -48338,9 +48356,9 @@
           {
             "fips": "06109",
             "name": "Tuolumne",
-            "votes": 28844,
+            "votes": 29361,
             "absentee_votes": 0,
-            "reporting": 71,
+            "reporting": 72,
             "precincts": 73,
             "absentee_method": null,
             "eevp": null,
@@ -48355,14 +48373,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 20334,
-              "yes": 8510
+              "no": 20688,
+              "yes": 8673
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06111",
@@ -48488,7 +48506,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16656248,
+        "votes": 16657069,
         "absentee_votes": 984314,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -48501,7 +48519,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19952,
+        "precincts_reporting": 19954,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -48513,7 +48531,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:36:08.347Z",
+        "last_updated": "2020-11-23T20:36:14.663Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -48525,7 +48543,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8507943,
+            "votes": 8508299,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -48545,7 +48563,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8148305,
+            "votes": 8148770,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -49460,9 +49478,9 @@
           {
             "fips": "06063",
             "name": "Plumas",
-            "votes": 10687,
+            "votes": 10979,
             "absentee_votes": 0,
-            "reporting": 28,
+            "reporting": 29,
             "precincts": 29,
             "absentee_method": null,
             "eevp": null,
@@ -49477,14 +49495,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 3682,
-              "no": 7005
+              "yes": 3798,
+              "no": 7181
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:59.9Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06065",
@@ -50127,9 +50145,9 @@
           {
             "fips": "06109",
             "name": "Tuolumne",
-            "votes": 29167,
+            "votes": 29696,
             "absentee_votes": 0,
-            "reporting": 71,
+            "reporting": 72,
             "precincts": 73,
             "absentee_method": null,
             "eevp": null,
@@ -50144,14 +50162,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 10537,
-              "no": 18630
+              "yes": 10777,
+              "no": 18919
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:59.9Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06111",
@@ -50277,7 +50295,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16941050,
+        "votes": 16933801,
         "absentee_votes": 998550,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -50290,7 +50308,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19952,
+        "precincts_reporting": 19954,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -50302,7 +50320,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:36:08.347Z",
+        "last_updated": "2020-11-23T20:36:14.663Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -50314,7 +50332,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8805017,
+            "votes": 8805531,
             "percent": 52,
             "percent_display": "52.0",
             "electoral_votes": 0,
@@ -50334,7 +50352,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8136033,
+            "votes": 8128270,
             "percent": 48,
             "percent_display": "48.0",
             "electoral_votes": 0,
@@ -51249,9 +51267,9 @@
           {
             "fips": "06063",
             "name": "Plumas",
-            "votes": 10812,
+            "votes": 11108,
             "absentee_votes": 0,
-            "reporting": 28,
+            "reporting": 29,
             "precincts": 29,
             "absentee_method": null,
             "eevp": null,
@@ -51266,14 +51284,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 7420,
-              "yes": 3392
+              "no": 7597,
+              "yes": 3511
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06065",
@@ -51916,9 +51934,9 @@
           {
             "fips": "06109",
             "name": "Tuolumne",
-            "votes": 29518,
+            "votes": 21973,
             "absentee_votes": 0,
-            "reporting": 71,
+            "reporting": 72,
             "precincts": 73,
             "absentee_method": null,
             "eevp": null,
@@ -51933,14 +51951,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 20738,
-              "yes": 8780
+              "no": 21075,
+              "yes": 898
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06111",
@@ -52068,7 +52086,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16934138,
+        "votes": 16934979,
         "absentee_votes": 994775,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -52081,7 +52099,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19952,
+        "precincts_reporting": 19954,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -52093,7 +52111,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:36:08.347Z",
+        "last_updated": "2020-11-23T20:36:14.663Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -52105,7 +52123,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9484492,
+            "votes": 9485096,
             "percent": 56,
             "percent_display": "56.0",
             "electoral_votes": 0,
@@ -52125,7 +52143,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7449646,
+            "votes": 7449883,
             "percent": 44,
             "percent_display": "44.0",
             "electoral_votes": 0,
@@ -53040,9 +53058,9 @@
           {
             "fips": "06063",
             "name": "Plumas",
-            "votes": 10835,
+            "votes": 11131,
             "absentee_votes": 0,
-            "reporting": 28,
+            "reporting": 29,
             "precincts": 29,
             "absentee_method": null,
             "eevp": null,
@@ -53057,14 +53075,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 8117,
-              "yes": 2718
+              "no": 8343,
+              "yes": 2788
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06065",
@@ -53707,9 +53725,9 @@
           {
             "fips": "06109",
             "name": "Tuolumne",
-            "votes": 29514,
+            "votes": 30059,
             "absentee_votes": 0,
-            "reporting": 71,
+            "reporting": 72,
             "precincts": 73,
             "absentee_method": null,
             "eevp": null,
@@ -53724,14 +53742,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 22549,
-              "yes": 6965
+              "no": 22927,
+              "yes": 7132
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06111",
@@ -53857,7 +53875,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16568689,
+        "votes": 16569491,
         "absentee_votes": 978441,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -53870,7 +53888,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19760,
+        "precincts_reporting": 19762,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -53882,7 +53900,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:36:08.347Z",
+        "last_updated": "2020-11-23T20:36:14.663Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -53894,7 +53912,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8464581,
+            "votes": 8464970,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -53914,7 +53932,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8104108,
+            "votes": 8104521,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -54829,9 +54847,9 @@
           {
             "fips": "06063",
             "name": "Plumas",
-            "votes": 10618,
+            "votes": 10904,
             "absentee_votes": 0,
-            "reporting": 28,
+            "reporting": 29,
             "precincts": 29,
             "absentee_method": null,
             "eevp": null,
@@ -54846,14 +54864,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 4550,
-              "no": 6068
+              "yes": 4687,
+              "no": 6217
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06065",
@@ -55496,9 +55514,9 @@
           {
             "fips": "06109",
             "name": "Tuolumne",
-            "votes": 28841,
+            "votes": 29357,
             "absentee_votes": 0,
-            "reporting": 71,
+            "reporting": 72,
             "precincts": 73,
             "absentee_method": null,
             "eevp": null,
@@ -55513,14 +55531,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 11836,
-              "no": 17005
+              "yes": 12088,
+              "no": 17269
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06111",
@@ -55646,7 +55664,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16526830,
+        "votes": 16527629,
         "absentee_votes": 975847,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -55659,7 +55677,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19760,
+        "precincts_reporting": 19762,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -55671,7 +55689,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:36:08.347Z",
+        "last_updated": "2020-11-23T20:36:14.663Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -55683,7 +55701,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10203083,
+            "votes": 10203531,
             "percent": 61.7,
             "percent_display": "61.7",
             "electoral_votes": 0,
@@ -55703,7 +55721,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6323747,
+            "votes": 6324098,
             "percent": 38.3,
             "percent_display": "38.3",
             "electoral_votes": 0,
@@ -56618,9 +56636,9 @@
           {
             "fips": "06063",
             "name": "Plumas",
-            "votes": 10564,
+            "votes": 10852,
             "absentee_votes": 0,
-            "reporting": 28,
+            "reporting": 29,
             "precincts": 29,
             "absentee_method": null,
             "eevp": null,
@@ -56635,14 +56653,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 6014,
-              "yes": 4550
+              "no": 6183,
+              "yes": 4669
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06065",
@@ -57285,9 +57303,9 @@
           {
             "fips": "06109",
             "name": "Tuolumne",
-            "votes": 28749,
+            "votes": 29260,
             "absentee_votes": 0,
-            "reporting": 71,
+            "reporting": 72,
             "precincts": 73,
             "absentee_method": null,
             "eevp": null,
@@ -57302,14 +57320,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 15428,
-              "yes": 13321
+              "no": 15707,
+              "yes": 13553
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06111",
@@ -57437,7 +57455,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16712167,
+        "votes": 16712982,
         "absentee_votes": 986242,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -57450,7 +57468,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19759,
+        "precincts_reporting": 19761,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -57462,7 +57480,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:36:08.347Z",
+        "last_updated": "2020-11-23T20:36:14.663Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -57474,7 +57492,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10001000,
+            "votes": 10001573,
             "percent": 59.8,
             "percent_display": "59.8",
             "electoral_votes": 0,
@@ -57494,7 +57512,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6711167,
+            "votes": 6711409,
             "percent": 40.2,
             "percent_display": "40.2",
             "electoral_votes": 0,
@@ -58409,9 +58427,9 @@
           {
             "fips": "06063",
             "name": "Plumas",
-            "votes": 10670,
+            "votes": 10962,
             "absentee_votes": 0,
-            "reporting": 28,
+            "reporting": 29,
             "precincts": 29,
             "absentee_method": null,
             "eevp": null,
@@ -58426,14 +58444,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 8140,
-              "yes": 2530
+              "no": 8357,
+              "yes": 2605
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06065",
@@ -59076,9 +59094,9 @@
           {
             "fips": "06109",
             "name": "Tuolumne",
-            "votes": 28993,
+            "votes": 29516,
             "absentee_votes": 0,
-            "reporting": 71,
+            "reporting": 72,
             "precincts": 73,
             "absentee_method": null,
             "eevp": null,
@@ -59093,14 +59111,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 22389,
-              "yes": 6604
+              "no": 22745,
+              "yes": 6771
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06111",
@@ -59228,7 +59246,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16830566,
+        "votes": 16831382,
         "absentee_votes": 992295,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -59241,7 +59259,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19760,
+        "precincts_reporting": 19762,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -59253,7 +59271,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:36:08.347Z",
+        "last_updated": "2020-11-23T20:36:14.663Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -59265,7 +59283,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9869334,
+            "votes": 9869802,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -59285,7 +59303,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6961232,
+            "votes": 6961580,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -60200,9 +60218,9 @@
           {
             "fips": "06063",
             "name": "Plumas",
-            "votes": 10648,
+            "votes": 10937,
             "absentee_votes": 0,
-            "reporting": 28,
+            "reporting": 29,
             "precincts": 29,
             "absentee_method": null,
             "eevp": null,
@@ -60217,14 +60235,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 6775,
-              "no": 3873
+              "yes": 6938,
+              "no": 3999
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06065",
@@ -60867,9 +60885,9 @@
           {
             "fips": "06109",
             "name": "Tuolumne",
-            "votes": 29069,
+            "votes": 29596,
             "absentee_votes": 0,
-            "reporting": 71,
+            "reporting": 72,
             "precincts": 73,
             "absentee_method": null,
             "eevp": null,
@@ -60884,14 +60902,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 19236,
-              "no": 9833
+              "yes": 19541,
+              "no": 10055
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06111",
@@ -61017,7 +61035,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16688476,
+        "votes": 16689282,
         "absentee_votes": 984773,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -61030,7 +61048,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19760,
+        "precincts_reporting": 19762,
         "precincts_total": 20499,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -61042,7 +61060,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:36:08.347Z",
+        "last_updated": "2020-11-23T20:36:14.663Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -61054,7 +61072,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10591781,
+            "votes": 10592285,
             "percent": 63.5,
             "percent_display": "63.5",
             "electoral_votes": 0,
@@ -61074,7 +61092,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6096695,
+            "votes": 6096997,
             "percent": 36.5,
             "percent_display": "36.5",
             "electoral_votes": 0,
@@ -61989,9 +62007,9 @@
           {
             "fips": "06063",
             "name": "Plumas",
-            "votes": 10680,
+            "votes": 10970,
             "absentee_votes": 0,
-            "reporting": 28,
+            "reporting": 29,
             "precincts": 29,
             "absentee_method": null,
             "eevp": null,
@@ -62006,14 +62024,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 8062,
-              "yes": 2618
+              "no": 8255,
+              "yes": 2715
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06065",
@@ -62656,9 +62674,9 @@
           {
             "fips": "06109",
             "name": "Tuolumne",
-            "votes": 29128,
+            "votes": 29644,
             "absentee_votes": 0,
-            "reporting": 71,
+            "reporting": 72,
             "precincts": 73,
             "absentee_method": null,
             "eevp": null,
@@ -62673,14 +62691,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 22792,
-              "yes": 6336
+              "no": 23103,
+              "yes": 6541
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06111",
@@ -62806,7 +62824,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16537379,
+        "votes": 16538189,
         "absentee_votes": 979988,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -62819,7 +62837,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19952,
+        "precincts_reporting": 19954,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -62831,7 +62849,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-23T17:36:08.347Z",
+        "last_updated": "2020-11-23T20:36:14.663Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -62843,7 +62861,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9294285,
+            "votes": 9294713,
             "percent": 56.2,
             "percent_display": "56.2",
             "electoral_votes": 0,
@@ -62863,7 +62881,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7243094,
+            "votes": 7243476,
             "percent": 43.8,
             "percent_display": "43.8",
             "electoral_votes": 0,
@@ -63778,9 +63796,9 @@
           {
             "fips": "06063",
             "name": "Plumas",
-            "votes": 10610,
+            "votes": 10902,
             "absentee_votes": 0,
-            "reporting": 28,
+            "reporting": 29,
             "precincts": 29,
             "absentee_method": null,
             "eevp": null,
@@ -63795,14 +63813,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 4604,
-              "no": 6006
+              "yes": 4755,
+              "no": 6147
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06065",
@@ -64445,9 +64463,9 @@
           {
             "fips": "06109",
             "name": "Tuolumne",
-            "votes": 28817,
+            "votes": 29335,
             "absentee_votes": 0,
-            "reporting": 71,
+            "reporting": 72,
             "precincts": 73,
             "absentee_method": null,
             "eevp": null,
@@ -64462,14 +64480,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 11667,
-              "no": 17150
+              "yes": 11944,
+              "no": 17391
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-23T20:36:14.663Z"
           },
           {
             "fips": "06111",
@@ -64579,7 +64597,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75664938,
+            "votes": 75665451,
             "percent": "50.4",
             "change": -7,
             "flip_count": 3,
@@ -64596,7 +64614,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72241085,
+            "votes": 72241996,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -81157,8 +81175,8 @@
     ]
   },
   "meta": {
-    "version": 21589,
+    "version": 21596,
     "track": "2020-11-03",
-    "timestamp": "2020-11-23T20:36:16.919Z"
+    "timestamp": "2020-11-23T20:43:15.161Z"
   }
 }
