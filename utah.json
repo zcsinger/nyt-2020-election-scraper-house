@@ -318,7 +318,7 @@
               "mchughj": 0,
               "pierceb": 0
             },
-            "last_updated": "2020-11-24T21:40:08Z",
+            "last_updated": "2020-11-24T21:57:00Z",
             "leader_margin_value": 75.41935,
             "leader_margin_display": "R+75",
             "leader_margin_name_display": "Trump +75",
@@ -586,7 +586,7 @@
               "la_rivag": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T21:41:22Z",
+            "last_updated": "2020-11-24T21:57:58Z",
             "leader_margin_value": 27.50169,
             "leader_margin_display": "R+28",
             "leader_margin_name_display": "Trump +28",
@@ -1222,7 +1222,7 @@
               "la_rivag": 521,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T21:44:15Z",
+            "last_updated": "2020-11-24T21:59:24Z",
             "leader_margin_value": 11.03746,
             "leader_margin_display": "D+11",
             "leader_margin_name_display": "Biden +11",
@@ -1760,7 +1760,7 @@
               "pierceb": 0,
               "mchughj": 0
             },
-            "last_updated": "2020-11-24T13:22:34Z",
+            "last_updated": "2020-11-24T22:00:45Z",
             "leader_margin_value": 53.30043,
             "leader_margin_display": "R+53",
             "leader_margin_name_display": "Trump +53",
@@ -3081,7 +3081,7 @@
               "parryd": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T21:41:22Z",
+            "last_updated": "2020-11-24T21:57:58Z",
             "leader_margin_value": 43.16088,
             "leader_margin_display": "R+43",
             "leader_margin_name_display": "Moore +43",
@@ -4031,7 +4031,7 @@
               "westonk": 0,
               "lathamr": 0
             },
-            "last_updated": "2020-11-24T21:40:10Z",
+            "last_updated": "2020-11-24T21:57:01Z",
             "leader_margin_value": 73.98661,
             "leader_margin_display": "R+74",
             "leader_margin_name_display": "Stewart +74",
@@ -4066,7 +4066,7 @@
               "westonk": 0,
               "lathamr": 0
             },
-            "last_updated": "2020-11-24T21:41:23Z",
+            "last_updated": "2020-11-24T21:57:59Z",
             "leader_margin_value": 34.56832,
             "leader_margin_display": "R+35",
             "leader_margin_name_display": "Stewart +35",
@@ -4311,7 +4311,7 @@
               "westonk": 72801,
               "lathamr": 4026
             },
-            "last_updated": "2020-11-24T21:44:16Z",
+            "last_updated": "2020-11-24T21:59:24Z",
             "leader_margin_value": 34.41614,
             "leader_margin_display": "D+34",
             "leader_margin_name_display": "Weston +34",
@@ -4486,7 +4486,7 @@
               "westonk": 0,
               "lathamr": 0
             },
-            "last_updated": "2020-11-24T13:25:41Z",
+            "last_updated": "2020-11-24T22:00:45Z",
             "leader_margin_value": 53.48387,
             "leader_margin_display": "R+53",
             "leader_margin_name_display": "Stewart +53",
@@ -5474,7 +5474,7 @@
               "mcneillt": 1234,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T21:44:16Z",
+            "last_updated": "2020-11-24T21:59:24Z",
             "leader_margin_value": 12.56385,
             "leader_margin_display": "R+13",
             "leader_margin_name_display": "Curtis +13",
@@ -6464,7 +6464,7 @@
               "broderickj": 5946,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T21:44:16Z",
+            "last_updated": "2020-11-24T21:59:24Z",
             "leader_margin_value": 9.0131,
             "leader_margin_display": "D+9",
             "leader_margin_name_display": "McAdams +9",
@@ -7175,7 +7175,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1458931,
+        "votes": 1458878,
         "absentee_votes": 676162,
         "absentee_counties": 6,
         "absentee_count_progress": "unknown",
@@ -7200,7 +7200,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-24T21:49:16Z",
+        "last_updated": "2020-11-24T22:00:45Z",
         "candidates": [
           {
             "candidate_id": "cox-20073827-45-g",
@@ -7297,7 +7297,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 20220,
+            "votes": 20167,
             "percent": 1.4,
             "percent_display": "1.4",
             "electoral_votes": 0,
@@ -7309,7 +7309,7 @@
           }
         ],
         "has_incumbent": false,
-        "leader_margin_value": 32.62663,
+        "leader_margin_value": 32.62781,
         "leader_margin_votes": 476000,
         "leader_margin_display": "R+33",
         "leader_margin_name_display": "Cox +33",
@@ -7318,15 +7318,15 @@
           {
             "fips": "49001",
             "name": "Beaver",
-            "votes": 3066,
+            "votes": 2964,
             "absentee_votes": 0,
             "reporting": 9,
             "precincts": 9,
             "absentee_method": "As a subtotal in the FIRST cumulative report, along with regular precincts",
-            "eevp": 99,
+            "eevp": 96,
             "tot_exp_vote": 3100,
-            "eevp_value": ">98%",
-            "eevp_display": ">98% reported",
+            "eevp_value": "96%",
+            "eevp_display": "96% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
             "absentee_count_progress": "unknown",
@@ -7337,21 +7337,21 @@
             "results": {
               "coxs": 2468,
               "petersonc": 291,
-              "write-ins": 157,
               "cottamd": 102,
+              "write-ins": 55,
               "duerdeng": 48
             },
             "results_absentee": {
               "coxs": 0,
               "petersonc": 0,
-              "write-ins": 0,
               "cottamd": 0,
+              "write-ins": 0,
               "duerdeng": 0
             },
-            "last_updated": "2020-11-24T21:40:03Z",
-            "leader_margin_value": 71.00457,
-            "leader_margin_display": "R+71",
-            "leader_margin_name_display": "Cox +71",
+            "last_updated": "2020-11-24T21:56:55Z",
+            "leader_margin_value": 73.44804,
+            "leader_margin_display": "R+73",
+            "leader_margin_name_display": "Cox +73",
             "leader_party_id": "republican"
           },
           {
@@ -7513,7 +7513,7 @@
           {
             "fips": "49011",
             "name": "Davis",
-            "votes": 168351,
+            "votes": 168353,
             "absentee_votes": 0,
             "reporting": 224,
             "precincts": 224,
@@ -7534,7 +7534,7 @@
               "petersonc": 41101,
               "cottamd": 6018,
               "duerdeng": 4374,
-              "write-ins": 1357
+              "write-ins": 1359
             },
             "results_absentee": {
               "coxs": 0,
@@ -7543,8 +7543,8 @@
               "duerdeng": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T21:41:22Z",
-            "leader_margin_value": 44.19338,
+            "last_updated": "2020-11-24T21:57:58Z",
+            "leader_margin_value": 44.19286,
             "leader_margin_display": "R+44",
             "leader_margin_name_display": "Cox +44",
             "leader_party_id": "republican"
@@ -7979,7 +7979,7 @@
           {
             "fips": "49035",
             "name": "Salt Lake",
-            "votes": 528963,
+            "votes": 528966,
             "absentee_votes": 495753,
             "reporting": 788,
             "precincts": 788,
@@ -8000,7 +8000,7 @@
               "petersonc": 238249,
               "cottamd": 16001,
               "duerdeng": 6137,
-              "write-ins": 2399
+              "write-ins": 2402
             },
             "results_absentee": {
               "coxs": 248010,
@@ -8009,8 +8009,8 @@
               "duerdeng": 5396,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T21:44:15Z",
-            "leader_margin_value": 5.27976,
+            "last_updated": "2020-11-24T21:59:23Z",
+            "leader_margin_value": 5.27973,
             "leader_margin_display": "R+5",
             "leader_margin_name_display": "Cox +5",
             "leader_party_id": "republican"
@@ -8369,15 +8369,15 @@
           {
             "fips": "49055",
             "name": "Wayne",
-            "votes": 1537,
+            "votes": 1581,
             "absentee_votes": 0,
             "reporting": 7,
             "precincts": 7,
             "absentee_method": "Merged into voters' home precincts and released with cumulative results",
-            "eevp": 95,
+            "eevp": 98,
             "tot_exp_vote": 1621,
-            "eevp_value": "95%",
-            "eevp_display": "95% reported",
+            "eevp_value": "98%",
+            "eevp_display": "98% reported",
             "eevp_source": "edison",
             "turnout_stage": 10,
             "absentee_count_progress": "unknown",
@@ -8390,7 +8390,7 @@
               "petersonc": 321,
               "cottamd": 55,
               "duerdeng": 46,
-              "write-ins": 0
+              "write-ins": 44
             },
             "results_absentee": {
               "coxs": 0,
@@ -8399,10 +8399,10 @@
               "duerdeng": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:25:14Z",
-            "leader_margin_value": 51.65908,
-            "leader_margin_display": "R+52",
-            "leader_margin_name_display": "Cox +52",
+            "last_updated": "2020-11-24T22:00:44Z",
+            "leader_margin_value": 50.22138,
+            "leader_margin_display": "R+50",
+            "leader_margin_name_display": "Cox +50",
             "leader_party_id": "republican"
           },
           {
@@ -9903,6 +9903,32 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-24T21:49:16Z"
+          },
+          {
+            "vote_shares": {
+              "coxs": 0.63,
+              "petersonc": 0.303,
+              "cottamd": 0.035,
+              "duerdeng": 0.018,
+              "write-ins": 0.014
+            },
+            "votes": 1458831,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-24T21:58:02Z"
+          },
+          {
+            "vote_shares": {
+              "coxs": 0.63,
+              "petersonc": 0.303,
+              "cottamd": 0.035,
+              "duerdeng": 0.018,
+              "write-ins": 0.014
+            },
+            "votes": 1458878,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-24T22:00:45Z"
           }
         ]
       },
@@ -30164,7 +30190,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2867093,
+            "votes": 2867094,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -46680,8 +46706,8 @@
     ]
   },
   "meta": {
-    "version": 22193,
+    "version": 22200,
     "track": "2020-11-03",
-    "timestamp": "2020-11-24T21:54:24.861Z"
+    "timestamp": "2020-11-24T22:04:24.110Z"
   }
 }
