@@ -1267,7 +1267,7 @@
               "de_la_fuenter": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T20:06:10Z",
+            "last_updated": "2020-11-24T20:07:26Z",
             "leader_margin_value": 39.32047,
             "leader_margin_display": "D+39",
             "leader_margin_name_display": "Biden +39",
@@ -6202,7 +6202,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 369216,
+        "votes": 379782,
         "absentee_votes": 41893,
         "absentee_counties": 2,
         "absentee_count_progress": "unknown",
@@ -6219,15 +6219,15 @@
         "precincts_total": 756,
         "reporting_display": "86% reporting",
         "reporting_value": "86%",
-        "eevp": 94,
+        "eevp": 96,
         "tot_exp_vote": 394000,
         "eevp_source": "edison",
-        "eevp_value": "94%",
-        "eevp_display": "94% reported",
+        "eevp_value": "96%",
+        "eevp_display": "96% reported",
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-24T13:23:34Z",
+        "last_updated": "2020-11-24T20:06:50Z",
         "candidates": [
           {
             "candidate_id": "huffman-62063-5-h",
@@ -6240,9 +6240,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 282135,
-            "percent": 76.4,
-            "percent_display": "76.4",
+            "votes": 288786,
+            "percent": 76,
+            "percent_display": "76.0",
             "electoral_votes": 0,
             "absentee_votes": 29607,
             "absentee_percent": 70.7,
@@ -6261,9 +6261,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 87081,
-            "percent": 23.6,
-            "percent_display": "23.6",
+            "votes": 90996,
+            "percent": 24,
+            "percent_display": "24.0",
             "electoral_votes": 0,
             "absentee_votes": 12286,
             "absentee_percent": 29.3,
@@ -6273,10 +6273,10 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 52.82924,
-        "leader_margin_votes": 195054,
-        "leader_margin_display": "D+53",
-        "leader_margin_name_display": "Huffman +53",
+        "leader_margin_value": 52.07988,
+        "leader_margin_votes": 197790,
+        "leader_margin_display": "D+52",
+        "leader_margin_name_display": "Huffman +52",
         "leader_party_id": "democrat",
         "counties": [
           {
@@ -6381,15 +6381,15 @@
           {
             "fips": "06045",
             "name": "Mendocino",
-            "votes": 24982,
+            "votes": 35548,
             "absentee_votes": 0,
             "reporting": 150,
             "precincts": 250,
             "absentee_method": "Released as a separate subtotal as first report of the night",
-            "eevp": 60,
+            "eevp": 85,
             "tot_exp_vote": 41675,
-            "eevp_value": "60%",
-            "eevp_display": "60% reported",
+            "eevp_value": "85%",
+            "eevp_display": "85% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
             "absentee_count_progress": "unknown",
@@ -6398,17 +6398,17 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "huffmanj": 18785,
-              "mensingd": 6197
+              "huffmanj": 25436,
+              "mensingd": 10112
             },
             "results_absentee": {
               "huffmanj": 0,
               "mensingd": 0
             },
-            "last_updated": "2020-11-24T20:06:17Z",
-            "leader_margin_value": 50.38828,
-            "leader_margin_display": "D+50",
-            "leader_margin_name_display": "Huffman +50",
+            "last_updated": "2020-11-24T20:07:26Z",
+            "leader_margin_value": 43.10791,
+            "leader_margin_display": "D+43",
+            "leader_margin_name_display": "Huffman +43",
             "leader_party_id": "democrat"
           },
           {
@@ -6493,12 +6493,12 @@
             "sentence_type": "race_won"
           },
           "eevp": {
-            "sentence": "94% of the estimated vote total has been reported.",
-            "timestamp": 1605926531351,
+            "sentence": "96% of the estimated vote total has been reported.",
+            "timestamp": 1606248548859,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "94% of the estimated vote total has been reported.",
+            "generatedText": "96% of the estimated vote total has been reported.",
             "sentence_type": "has_eevp"
           },
           "eevp_leadin": {
@@ -6848,6 +6848,16 @@
             "eevp": 94,
             "eevp_source": "edison",
             "timestamp": "2020-11-24T02:41:16Z"
+          },
+          {
+            "vote_shares": {
+              "huffmanj": 0.76,
+              "mensingd": 0.24
+            },
+            "votes": 379782,
+            "eevp": 96,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-24T20:06:50Z"
           }
         ]
       },
@@ -64829,7 +64839,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75794071,
+            "votes": 75800849,
             "percent": "50.5",
             "change": -7,
             "flip_count": 3,
@@ -64846,7 +64856,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72309113,
+            "votes": 72313372,
             "percent": "48.1",
             "change": 8,
             "flip_count": 11,
@@ -64863,7 +64873,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2077569,
+            "votes": 2077586,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -64891,7 +64901,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79991074,
+            "votes": 79995546,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -64908,7 +64918,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73864748,
+            "votes": 73867843,
             "percent": "47.1",
             "change": 0,
             "flip_count": 0,
@@ -64925,7 +64935,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2865961,
+            "votes": 2866084,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -75679,7 +75689,7 @@
           "runoff": false,
           "winner": true,
           "result_source": "NYT",
-          "votes": 3152775,
+          "votes": 3153122,
           "percent": 53.2,
           "percent_display": "53.2",
           "electoral_votes": 18,
@@ -76274,7 +76284,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2292481,
+          "votes": 2292531,
           "percent": 56.7,
           "percent_display": "56.7",
           "electoral_votes": 0,
@@ -76411,7 +76421,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2367496,
+          "votes": 2367555,
           "percent": 58.4,
           "percent_display": "58.4",
           "electoral_votes": 12,
@@ -78319,7 +78329,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 4068527,
+          "votes": 4071264,
           "percent": 56.8,
           "percent_display": "56.8",
           "electoral_votes": 29,
@@ -79770,7 +79780,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2377488,
+          "votes": 2379096,
           "percent": 65.6,
           "percent_display": "65.6",
           "electoral_votes": 11,
@@ -81441,8 +81451,8 @@
     ]
   },
   "meta": {
-    "version": 22117,
+    "version": 22128,
     "track": "2020-11-03",
-    "timestamp": "2020-11-24T20:08:29.558Z"
+    "timestamp": "2020-11-24T20:22:17.056Z"
   }
 }
