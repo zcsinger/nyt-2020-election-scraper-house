@@ -47,15 +47,15 @@
         "precincts_total": 2187,
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
-        "eevp": 99,
-        "tot_exp_vote": 1500000,
+        "eevp": 100,
+        "tot_exp_vote": 1487677,
         "eevp_source": "edison",
         "eevp_value": ">98%",
         "eevp_display": ">98% reported",
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-24T12:45:48Z",
+        "last_updated": "2020-11-24T13:00:31Z",
         "candidates": [
           {
             "candidate_id": "trump-8639",
@@ -2724,6 +2724,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-24T12:38:09Z"
+          },
+          {
+            "vote_shares": {
+              "trumpd": 0.582,
+              "bidenj": 0.377
+            },
+            "votes": 1487677,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-24T13:00:31Z"
           }
         ]
       },
@@ -2773,14 +2783,14 @@
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
         "eevp": 100,
-        "tot_exp_vote": 331000,
+        "tot_exp_vote": 342223,
         "eevp_source": "edison",
         "eevp_value": ">98%",
         "eevp_display": ">98% reported",
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-24T12:44:47Z",
+        "last_updated": "2020-11-24T13:02:41Z",
         "candidates": [
           {
             "candidate_id": "moore-20073829-45-h",
@@ -3788,14 +3798,14 @@
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
         "eevp": 100,
-        "tot_exp_vote": 335000,
+        "tot_exp_vote": 354224,
         "eevp_source": "edison",
         "eevp_value": ">98%",
         "eevp_display": ">98% reported",
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-24T12:45:48Z",
+        "last_updated": "2020-11-24T13:03:24Z",
         "candidates": [
           {
             "candidate_id": "stewart-61890-45-h",
@@ -5074,14 +5084,14 @@
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
         "eevp": 100,
-        "tot_exp_vote": 343000,
+        "tot_exp_vote": 358670,
         "eevp_source": "edison",
         "eevp_value": ">98%",
         "eevp_display": ">98% reported",
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-24T12:38:09Z",
+        "last_updated": "2020-11-24T13:02:56Z",
         "candidates": [
           {
             "candidate_id": "curtis-1479-45-h",
@@ -5163,27 +5173,6 @@
             "electoral_votes": 0,
             "absentee_votes": 1234,
             "absentee_percent": 1.2,
-            "img_url": null,
-            "has_image": false,
-            "link": ""
-          },
-          {
-            "candidate_id": "write-ins-21303-45-h",
-            "candidate_key": "write-ins",
-            "first_name": "",
-            "last_name": "Write-ins",
-            "order": 7,
-            "name_display": "Write-ins",
-            "party_id": "write-ins",
-            "incumbent": false,
-            "runoff": false,
-            "winner": false,
-            "votes": 0,
-            "percent": 0,
-            "percent_display": "0.0",
-            "electoral_votes": 0,
-            "absentee_votes": 0,
-            "absentee_percent": 0,
             "img_url": null,
             "has_image": false,
             "link": ""
@@ -6117,14 +6106,14 @@
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
         "eevp": 100,
-        "tot_exp_vote": 330000,
+        "tot_exp_vote": 377351,
         "eevp_source": "edison",
         "eevp_value": ">98%",
         "eevp_display": ">98% reported",
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-24T12:51:36Z",
+        "last_updated": "2020-11-24T13:03:10Z",
         "candidates": [
           {
             "candidate_id": "owens-20073826-45-h",
@@ -7014,14 +7003,14 @@
         "reporting_display": "100% reporting",
         "reporting_value": "100%",
         "eevp": 99,
-        "tot_exp_vote": 1500000,
+        "tot_exp_vote": 1487677,
         "eevp_source": "edison",
         "eevp_value": ">98%",
         "eevp_display": ">98% reported",
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-24T12:45:48Z",
+        "last_updated": "2020-11-24T13:00:31Z",
         "candidates": [
           {
             "candidate_id": "cox-20073827-45-g",
@@ -29835,7 +29824,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79823247,
+            "votes": 79835510,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -29852,7 +29841,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73792412,
+            "votes": 73804775,
             "percent": "47.2",
             "change": 0,
             "flip_count": 0,
@@ -29869,7 +29858,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2860874,
+            "votes": 2861559,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -41478,7 +41467,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 11020102,
+          "votes": 11032365,
           "percent": 63.6,
           "percent_display": "63.6",
           "electoral_votes": 55,
@@ -46385,8 +46374,8 @@
     ]
   },
   "meta": {
-    "version": 21805,
+    "version": 21812,
     "track": "2020-11-03",
-    "timestamp": "2020-11-24T12:54:24.992Z"
+    "timestamp": "2020-11-24T13:08:21.866Z"
   }
 }
