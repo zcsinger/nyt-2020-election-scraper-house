@@ -50537,7 +50537,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16956460,
+        "votes": 16964545,
         "absentee_votes": 998550,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -50562,7 +50562,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-24T19:37:27.130Z",
+        "last_updated": "2020-11-24T20:35:51.227Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -50594,7 +50594,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8139461,
+            "votes": 8147546,
             "percent": 48,
             "percent_display": "48.0",
             "electoral_votes": 0,
@@ -52176,7 +52176,7 @@
           {
             "fips": "06109",
             "name": "Tuolumne",
-            "votes": 21973,
+            "votes": 30058,
             "absentee_votes": 0,
             "reporting": 72,
             "precincts": 73,
@@ -52194,13 +52194,13 @@
             "provisional_count_progress": null,
             "results": {
               "no": 21075,
-              "yes": 898
+              "yes": 8983
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-24T19:37:27.130Z"
+            "last_updated": "2020-11-24T20:35:51.227Z"
           },
           {
             "fips": "06111",
@@ -64839,7 +64839,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75800889,
+            "votes": 75801204,
             "percent": "50.5",
             "change": -7,
             "flip_count": 3,
@@ -64856,7 +64856,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72313586,
+            "votes": 72314464,
             "percent": "48.1",
             "change": 8,
             "flip_count": 11,
@@ -64873,7 +64873,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2077586,
+            "votes": 2077626,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -64901,7 +64901,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79997898,
+            "votes": 79998918,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -64918,7 +64918,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73869214,
+            "votes": 73870435,
             "percent": "47.1",
             "change": 0,
             "flip_count": 0,
@@ -64935,7 +64935,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2866154,
+            "votes": 2866252,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -64984,7 +64984,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 50,
-            "votes": 44028253,
+            "votes": 44029198,
             "percent": "49.5",
             "change": -1,
             "flip_count": 1,
@@ -65001,7 +65001,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2903761,
+            "votes": 2904052,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -74381,7 +74381,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 429329,
+          "votes": 430055,
           "percent": 53,
           "percent_display": "53.0",
           "electoral_votes": 3,
@@ -78851,7 +78851,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 759755,
+          "votes": 760613,
           "percent": 62.4,
           "percent_display": "62.4",
           "electoral_votes": 6,
@@ -78892,7 +78892,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 792902,
+          "votes": 793847,
           "percent": 66.5,
           "percent_display": "66.5",
           "electoral_votes": 0,
@@ -79780,7 +79780,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2381405,
+          "votes": 2381398,
           "percent": 65.6,
           "percent_display": "65.6",
           "electoral_votes": 11,
@@ -81451,8 +81451,8 @@
     ]
   },
   "meta": {
-    "version": 22134,
+    "version": 22141,
     "track": "2020-11-03",
-    "timestamp": "2020-11-24T20:29:16.684Z"
+    "timestamp": "2020-11-24T20:37:29.148Z"
   }
 }
