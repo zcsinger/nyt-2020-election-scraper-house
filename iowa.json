@@ -15601,7 +15601,7 @@
         "result_source": null,
         "gain": false,
         "lost_seat": "",
-        "votes": 393706,
+        "votes": 393711,
         "absentee_votes": 248916,
         "absentee_counties": 24,
         "absentee_count_progress": "unknown",
@@ -15626,7 +15626,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-24T17:10:44Z",
+        "last_updated": "2020-11-24T19:10:41Z",
         "candidates": [
           {
             "candidate_id": "miller-meeks-59745-16-h",
@@ -15639,9 +15639,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 196872,
+            "votes": 196877,
             "percent": 50,
-            "percent_display": "50.00",
+            "percent_display": "50.01",
             "electoral_votes": 0,
             "absentee_votes": 98106,
             "absentee_percent": 39.4,
@@ -15662,7 +15662,7 @@
             "winner": false,
             "votes": 196834,
             "percent": 50,
-            "percent_display": "50.00",
+            "percent_display": "49.99",
             "electoral_votes": 0,
             "absentee_votes": 150810,
             "absentee_percent": 60.6,
@@ -15672,10 +15672,10 @@
           }
         ],
         "has_incumbent": false,
-        "leader_margin_value": 0.00965,
-        "leader_margin_votes": 38,
-        "leader_margin_display": "R <0.01",
-        "leader_margin_name_display": "Miller-Meeks <0.01",
+        "leader_margin_value": 0.01092,
+        "leader_margin_votes": 43,
+        "leader_margin_display": "R+0.01",
+        "leader_margin_name_display": "Miller-Meeks +0.01",
         "leader_party_id": "republican",
         "counties": [
           {
@@ -15912,7 +15912,7 @@
           {
             "fips": "19087",
             "name": "Henry",
-            "votes": 9459,
+            "votes": 9464,
             "absentee_votes": 6059,
             "reporting": 9,
             "precincts": 10,
@@ -15929,15 +15929,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "miller_meeksm": 5852,
+              "miller_meeksm": 5857,
               "hartr": 3607
             },
             "results_absentee": {
               "miller_meeksm": 3379,
               "hartr": 2680
             },
-            "last_updated": "2020-11-24T13:23:34Z",
-            "leader_margin_value": 23.73401,
+            "last_updated": "2020-11-24T19:10:39Z",
+            "leader_margin_value": 23.7743,
             "leader_margin_display": "R+24",
             "leader_margin_name_display": "Miller-Meeks +24",
             "leader_party_id": "republican"
@@ -17299,6 +17299,16 @@
             "eevp": 89,
             "eevp_source": "edison",
             "timestamp": "2020-11-24T17:10:44Z"
+          },
+          {
+            "vote_shares": {
+              "miller_meeksm": 0.5,
+              "hartr": 0.5
+            },
+            "votes": 393711,
+            "eevp": 89,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-24T19:10:41Z"
           }
         ]
       },
@@ -37456,7 +37466,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75775125,
+            "votes": 75775127,
             "percent": "50.5",
             "change": -7,
             "flip_count": 3,
@@ -37473,7 +37483,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72301687,
+            "votes": 72301709,
             "percent": "48.2",
             "change": 8,
             "flip_count": 11,
@@ -37518,7 +37528,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79942930,
+            "votes": 79950633,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -37535,7 +37545,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73846448,
+            "votes": 73847715,
             "percent": "47.1",
             "change": 0,
             "flip_count": 0,
@@ -37552,7 +37562,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2864917,
+            "votes": 2864467,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -48901,7 +48911,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 2292397,
+          "votes": 2292399,
           "percent": 56.7,
           "percent_display": "56.7",
           "electoral_votes": 0,
@@ -49038,7 +49048,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2367409,
+          "votes": 2367411,
           "percent": 58.4,
           "percent_display": "58.4",
           "electoral_votes": 12,
@@ -52397,9 +52407,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2362483,
-          "percent": 65.5,
-          "percent_display": "65.5",
+          "votes": 2370184,
+          "percent": 65.6,
+          "percent_display": "65.6",
           "electoral_votes": 11,
           "absentee_votes": 86761,
           "absentee_percent": 67.9,
@@ -54068,8 +54078,8 @@
     ]
   },
   "meta": {
-    "version": 22065,
+    "version": 22074,
     "track": "2020-11-03",
-    "timestamp": "2020-11-24T19:02:17.669Z"
+    "timestamp": "2020-11-24T19:18:17.792Z"
   }
 }
