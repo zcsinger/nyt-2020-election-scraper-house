@@ -30064,7 +30064,7 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
@@ -30094,7 +30094,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-24T18:45:57.090Z",
+        "last_updated": "2020-11-24T22:54:45.937Z",
         "candidates": [
           {
             "candidate_id": "jordan-54443",
@@ -30106,7 +30106,7 @@
             "party_id": "republican",
             "incumbent": true,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 86132,
             "percent": 52.7,
             "percent_display": "52.7",
@@ -47875,7 +47875,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 80002937,
+            "votes": 80002947,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -57355,7 +57355,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 431195,
+          "votes": 431205,
           "percent": 53,
           "percent_display": "53.0",
           "electoral_votes": 3,
@@ -64425,8 +64425,8 @@
     ]
   },
   "meta": {
-    "version": 22212,
+    "version": 22217,
     "track": "2020-11-03",
-    "timestamp": "2020-11-24T22:53:12.618Z"
+    "timestamp": "2020-11-24T23:00:12.440Z"
   }
 }
