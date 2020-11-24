@@ -37991,7 +37991,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 101851,
+        "votes": 102252,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -38004,7 +38004,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 223,
+        "precincts_reporting": 224,
         "precincts_total": 320,
         "reporting_display": "70% reporting",
         "reporting_value": "70%",
@@ -38017,7 +38017,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-23T17:17:59.53Z",
+        "last_updated": "2020-11-24T02:26:31.153Z",
         "candidates": [
           {
             "candidate_id": "salas-11893",
@@ -38030,7 +38030,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 60881,
+            "votes": 61104,
             "percent": 59.8,
             "percent_display": "59.8",
             "electoral_votes": 0,
@@ -38051,7 +38051,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 40970,
+            "votes": 41148,
             "percent": 40.2,
             "percent_display": "40.2",
             "electoral_votes": 0,
@@ -43145,7 +43145,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16731870,
+        "votes": 16732263,
         "absentee_votes": 985738,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -43158,7 +43158,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19982,
+        "precincts_reporting": 19983,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -43170,7 +43170,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-24T02:11:24.970Z",
+        "last_updated": "2020-11-24T02:26:31.153Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -43182,7 +43182,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9567938,
+            "votes": 9568200,
             "percent": 57.2,
             "percent_display": "57.2",
             "electoral_votes": 0,
@@ -43202,7 +43202,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7163932,
+            "votes": 7164063,
             "percent": 42.8,
             "percent_display": "42.8",
             "electoral_votes": 0,
@@ -43653,9 +43653,9 @@
           {
             "fips": "06031",
             "name": "Kings",
-            "votes": 41584,
+            "votes": 41977,
             "absentee_votes": 0,
-            "reporting": 92,
+            "reporting": 93,
             "precincts": 96,
             "absentee_method": null,
             "eevp": null,
@@ -43670,14 +43670,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 30838,
-              "yes": 10746
+              "no": 31100,
+              "yes": 10877
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-24T02:26:31.153Z"
           },
           {
             "fips": "06033",
@@ -44936,7 +44936,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16911663,
+        "votes": 16912061,
         "absentee_votes": 993320,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -44949,7 +44949,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19982,
+        "precincts_reporting": 19983,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -44961,7 +44961,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-24T02:11:24.970Z",
+        "last_updated": "2020-11-24T02:26:31.153Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -44973,7 +44973,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9904089,
+            "votes": 9904293,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -44993,7 +44993,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7007574,
+            "votes": 7007768,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -45444,9 +45444,9 @@
           {
             "fips": "06031",
             "name": "Kings",
-            "votes": 41837,
+            "votes": 42235,
             "absentee_votes": 0,
-            "reporting": 92,
+            "reporting": 93,
             "precincts": 96,
             "absentee_method": null,
             "eevp": null,
@@ -45461,14 +45461,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 15831,
-              "no": 26006
+              "yes": 16035,
+              "no": 26200
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-24T02:26:31.153Z"
           },
           {
             "fips": "06033",
@@ -46727,7 +46727,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16452945,
+        "votes": 16453328,
         "absentee_votes": 975963,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -46740,7 +46740,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19982,
+        "precincts_reporting": 19983,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -46752,7 +46752,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-24T02:11:24.970Z",
+        "last_updated": "2020-11-24T02:26:31.153Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -46764,7 +46764,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9278133,
+            "votes": 9278373,
             "percent": 56.4,
             "percent_display": "56.4",
             "electoral_votes": 0,
@@ -46784,7 +46784,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7174812,
+            "votes": 7174955,
             "percent": 43.6,
             "percent_display": "43.6",
             "electoral_votes": 0,
@@ -47235,9 +47235,9 @@
           {
             "fips": "06031",
             "name": "Kings",
-            "votes": 40667,
+            "votes": 41050,
             "absentee_votes": 0,
-            "reporting": 92,
+            "reporting": 93,
             "precincts": 96,
             "absentee_method": null,
             "eevp": null,
@@ -47252,14 +47252,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 29641,
-              "yes": 11026
+              "no": 29881,
+              "yes": 11169
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-24T02:26:31.153Z"
           },
           {
             "fips": "06033",
@@ -48516,7 +48516,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16670399,
+        "votes": 16670794,
         "absentee_votes": 984314,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -48529,7 +48529,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19982,
+        "precincts_reporting": 19983,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -48541,7 +48541,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-24T02:11:24.970Z",
+        "last_updated": "2020-11-24T02:26:31.153Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -48553,7 +48553,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8515814,
+            "votes": 8516021,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -48573,7 +48573,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8154585,
+            "votes": 8154773,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -49024,9 +49024,9 @@
           {
             "fips": "06031",
             "name": "Kings",
-            "votes": 41632,
+            "votes": 42027,
             "absentee_votes": 0,
-            "reporting": 92,
+            "reporting": 93,
             "precincts": 96,
             "absentee_method": null,
             "eevp": null,
@@ -49041,14 +49041,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 16234,
-              "no": 25398
+              "yes": 16441,
+              "no": 25586
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:59.9Z"
+            "last_updated": "2020-11-24T02:26:31.153Z"
           },
           {
             "fips": "06033",
@@ -50305,7 +50305,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16947387,
+        "votes": 16947782,
         "absentee_votes": 998550,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -50318,7 +50318,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19982,
+        "precincts_reporting": 19983,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -50330,7 +50330,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-24T02:11:24.970Z",
+        "last_updated": "2020-11-24T02:26:31.153Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -50342,7 +50342,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8812172,
+            "votes": 8812369,
             "percent": 52,
             "percent_display": "52.0",
             "electoral_votes": 0,
@@ -50362,7 +50362,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8135215,
+            "votes": 8135413,
             "percent": 48,
             "percent_display": "48.0",
             "electoral_votes": 0,
@@ -50813,9 +50813,9 @@
           {
             "fips": "06031",
             "name": "Kings",
-            "votes": 41845,
+            "votes": 42240,
             "absentee_votes": 0,
-            "reporting": 92,
+            "reporting": 93,
             "precincts": 96,
             "absentee_method": null,
             "eevp": null,
@@ -50830,14 +50830,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 27692,
-              "yes": 14153
+              "no": 27889,
+              "yes": 14351
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-24T02:26:31.153Z"
           },
           {
             "fips": "06033",
@@ -52096,7 +52096,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16948615,
+        "votes": 16949015,
         "absentee_votes": 994775,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -52109,7 +52109,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19982,
+        "precincts_reporting": 19983,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -52121,7 +52121,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-24T02:11:24.970Z",
+        "last_updated": "2020-11-24T02:26:31.153Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -52133,7 +52133,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9492863,
+            "votes": 9493113,
             "percent": 56,
             "percent_display": "56.0",
             "electoral_votes": 0,
@@ -52153,7 +52153,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7455752,
+            "votes": 7455902,
             "percent": 44,
             "percent_display": "44.0",
             "electoral_votes": 0,
@@ -52604,9 +52604,9 @@
           {
             "fips": "06031",
             "name": "Kings",
-            "votes": 41902,
+            "votes": 42302,
             "absentee_votes": 0,
-            "reporting": 92,
+            "reporting": 93,
             "precincts": 96,
             "absentee_method": null,
             "eevp": null,
@@ -52621,14 +52621,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 31024,
-              "yes": 10878
+              "no": 31274,
+              "yes": 11028
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-24T02:26:31.153Z"
           },
           {
             "fips": "06033",
@@ -53885,7 +53885,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16582729,
+        "votes": 16583123,
         "absentee_votes": 978441,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -53898,7 +53898,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19790,
+        "precincts_reporting": 19791,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -53910,7 +53910,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-24T02:11:24.970Z",
+        "last_updated": "2020-11-24T02:26:31.153Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -53922,7 +53922,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8472433,
+            "votes": 8472649,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -53942,7 +53942,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8110296,
+            "votes": 8110474,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -54393,9 +54393,9 @@
           {
             "fips": "06031",
             "name": "Kings",
-            "votes": 41307,
+            "votes": 41701,
             "absentee_votes": 0,
-            "reporting": 92,
+            "reporting": 93,
             "precincts": 96,
             "absentee_method": null,
             "eevp": null,
@@ -54410,14 +54410,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 17791,
-              "no": 23516
+              "yes": 18007,
+              "no": 23694
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-24T02:26:31.153Z"
           },
           {
             "fips": "06033",
@@ -55674,7 +55674,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16540852,
+        "votes": 16541251,
         "absentee_votes": 975847,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -55687,7 +55687,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19790,
+        "precincts_reporting": 19791,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -55699,7 +55699,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-24T02:11:24.970Z",
+        "last_updated": "2020-11-24T02:26:31.153Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -55711,7 +55711,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10210917,
+            "votes": 10211143,
             "percent": 61.7,
             "percent_display": "61.7",
             "electoral_votes": 0,
@@ -55731,7 +55731,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6329935,
+            "votes": 6330108,
             "percent": 38.3,
             "percent_display": "38.3",
             "electoral_votes": 0,
@@ -56182,9 +56182,9 @@
           {
             "fips": "06031",
             "name": "Kings",
-            "votes": 41650,
+            "votes": 42049,
             "absentee_votes": 0,
-            "reporting": 92,
+            "reporting": 93,
             "precincts": 96,
             "absentee_method": null,
             "eevp": null,
@@ -56199,14 +56199,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 18290,
-              "yes": 23360
+              "no": 18516,
+              "yes": 23533
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-24T02:26:31.153Z"
           },
           {
             "fips": "06033",
@@ -57465,7 +57465,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16726289,
+        "votes": 16726683,
         "absentee_votes": 986242,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -57478,7 +57478,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19789,
+        "precincts_reporting": 19790,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -57490,7 +57490,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-24T02:11:24.970Z",
+        "last_updated": "2020-11-24T02:26:31.153Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -57502,7 +57502,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10009522,
+            "votes": 10009786,
             "percent": 59.8,
             "percent_display": "59.8",
             "electoral_votes": 0,
@@ -57522,7 +57522,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6716767,
+            "votes": 6716897,
             "percent": 40.2,
             "percent_display": "40.2",
             "electoral_votes": 0,
@@ -57973,9 +57973,9 @@
           {
             "fips": "06031",
             "name": "Kings",
-            "votes": 41709,
+            "votes": 42103,
             "absentee_votes": 0,
-            "reporting": 92,
+            "reporting": 93,
             "precincts": 96,
             "absentee_method": null,
             "eevp": null,
@@ -57990,14 +57990,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 31506,
-              "yes": 10203
+              "no": 31770,
+              "yes": 10333
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-24T02:26:31.153Z"
           },
           {
             "fips": "06033",
@@ -59256,7 +59256,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16844774,
+        "votes": 16845173,
         "absentee_votes": 992295,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -59269,7 +59269,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19790,
+        "precincts_reporting": 19791,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -59281,7 +59281,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-24T02:11:24.970Z",
+        "last_updated": "2020-11-24T02:26:31.153Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -59293,7 +59293,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9877746,
+            "votes": 9877970,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -59313,7 +59313,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6967028,
+            "votes": 6967203,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -59764,9 +59764,9 @@
           {
             "fips": "06031",
             "name": "Kings",
-            "votes": 41708,
+            "votes": 42107,
             "absentee_votes": 0,
-            "reporting": 92,
+            "reporting": 93,
             "precincts": 96,
             "absentee_method": null,
             "eevp": null,
@@ -59781,14 +59781,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 28242,
-              "no": 13466
+              "yes": 28466,
+              "no": 13641
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-24T02:26:31.153Z"
           },
           {
             "fips": "06033",
@@ -61045,7 +61045,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16702616,
+        "votes": 16703013,
         "absentee_votes": 984773,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -61058,7 +61058,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19790,
+        "precincts_reporting": 19791,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -61070,7 +61070,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-24T02:11:24.970Z",
+        "last_updated": "2020-11-24T02:26:31.153Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -61082,7 +61082,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10599386,
+            "votes": 10599587,
             "percent": 63.5,
             "percent_display": "63.5",
             "electoral_votes": 0,
@@ -61102,7 +61102,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6103230,
+            "votes": 6103426,
             "percent": 36.5,
             "percent_display": "36.5",
             "electoral_votes": 0,
@@ -61553,9 +61553,9 @@
           {
             "fips": "06031",
             "name": "Kings",
-            "votes": 41876,
+            "votes": 42273,
             "absentee_votes": 0,
-            "reporting": 92,
+            "reporting": 93,
             "precincts": 96,
             "absentee_method": null,
             "eevp": null,
@@ -61570,14 +61570,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 29599,
-              "yes": 12277
+              "no": 29800,
+              "yes": 12473
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-24T02:26:31.153Z"
           },
           {
             "fips": "06033",
@@ -62834,7 +62834,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16551287,
+        "votes": 16551667,
         "absentee_votes": 979988,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -62847,7 +62847,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 19982,
+        "precincts_reporting": 19983,
         "precincts_total": 20499,
         "reporting_display": "97% reporting",
         "reporting_value": "97%",
@@ -62859,7 +62859,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-24T02:11:24.970Z",
+        "last_updated": "2020-11-24T02:26:31.153Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -62871,7 +62871,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9303003,
+            "votes": 9303224,
             "percent": 56.2,
             "percent_display": "56.2",
             "electoral_votes": 0,
@@ -62891,7 +62891,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7248284,
+            "votes": 7248443,
             "percent": 43.8,
             "percent_display": "43.8",
             "electoral_votes": 0,
@@ -63342,9 +63342,9 @@
           {
             "fips": "06031",
             "name": "Kings",
-            "votes": 40775,
+            "votes": 41155,
             "absentee_votes": 0,
-            "reporting": 92,
+            "reporting": 93,
             "precincts": 96,
             "absentee_method": null,
             "eevp": null,
@@ -63359,14 +63359,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 18762,
-              "no": 22013
+              "yes": 18983,
+              "no": 22172
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-23T17:17:58.867Z"
+            "last_updated": "2020-11-24T02:26:31.153Z"
           },
           {
             "fips": "06033",
@@ -64669,7 +64669,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79823118,
+            "votes": 79823119,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -72653,7 +72653,7 @@
           "runoff": false,
           "winner": true,
           "result_source": "NYT",
-          "votes": 2804039,
+          "votes": 2804040,
           "percent": 50.6,
           "percent_display": "50.6",
           "electoral_votes": 16,
@@ -81219,8 +81219,8 @@
     ]
   },
   "meta": {
-    "version": 21717,
+    "version": 21719,
     "track": "2020-11-03",
-    "timestamp": "2020-11-24T02:13:16.288Z"
+    "timestamp": "2020-11-24T02:30:15.685Z"
   }
 }
