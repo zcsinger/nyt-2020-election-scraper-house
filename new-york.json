@@ -33720,7 +33720,7 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
@@ -33750,7 +33750,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-24T15:32:06.043Z",
+        "last_updated": "2020-11-24T17:40:34.907Z",
         "candidates": [
           {
             "candidate_id": "montesano-52146",
@@ -33762,7 +33762,7 @@
             "party_id": "republican",
             "incumbent": true,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 36782,
             "percent": 55.7,
             "percent_display": "55.7",
@@ -33825,7 +33825,7 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
@@ -33855,7 +33855,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-24T15:32:06.043Z",
+        "last_updated": "2020-11-24T17:39:32.890Z",
         "candidates": [
           {
             "candidate_id": "sillitti-54930",
@@ -33867,7 +33867,7 @@
             "party_id": "democrat",
             "incumbent": false,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 35414,
             "percent": 53.7,
             "percent_display": "53.7",
@@ -34161,7 +34161,7 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
@@ -34191,7 +34191,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-24T15:32:06.043Z",
+        "last_updated": "2020-11-24T17:42:38.767Z",
         "candidates": [
           {
             "candidate_id": "ra-52156",
@@ -34203,7 +34203,7 @@
             "party_id": "republican",
             "incumbent": true,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 38464,
             "percent": 59,
             "percent_display": "59.0",
@@ -34266,7 +34266,7 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
@@ -34296,7 +34296,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-24T15:32:06.043Z",
+        "last_updated": "2020-11-24T17:41:36.817Z",
         "candidates": [
           {
             "candidate_id": "miller-53858",
@@ -34308,7 +34308,7 @@
             "party_id": "republican",
             "incumbent": true,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 38177,
             "percent": 59,
             "percent_display": "59.0",
@@ -41919,7 +41919,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-24T17:35:05.95Z",
+        "last_updated": "2020-11-24T17:35:27.493Z",
         "candidates": [
           {
             "candidate_id": "lawler-54941",
@@ -47813,7 +47813,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 79923769,
+            "votes": 79924403,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -47830,7 +47830,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73838562,
+            "votes": 73839036,
             "percent": "47.1",
             "change": 0,
             "flip_count": 0,
@@ -47847,7 +47847,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2864222,
+            "votes": 2864250,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -57293,7 +57293,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 428174,
+          "votes": 428242,
           "percent": 53.1,
           "percent_display": "53.1",
           "electoral_votes": 3,
@@ -62692,7 +62692,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 2344565,
+          "votes": 2345131,
           "percent": 65.5,
           "percent_display": "65.5",
           "electoral_votes": 11,
@@ -64363,8 +64363,8 @@
     ]
   },
   "meta": {
-    "version": 21988,
+    "version": 21996,
     "track": "2020-11-03",
-    "timestamp": "2020-11-24T17:36:21.929Z"
+    "timestamp": "2020-11-24T17:44:16.637Z"
   }
 }
