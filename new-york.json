@@ -25918,7 +25918,7 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
@@ -25948,7 +25948,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-25T14:49:48.177Z",
+        "last_updated": "2020-11-25T22:21:37.263Z",
         "candidates": [
           {
             "candidate_id": "mattera-54899",
@@ -25960,7 +25960,7 @@
             "party_id": "republican",
             "incumbent": false,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 79762,
             "percent": 64.1,
             "percent_display": "64.1",
@@ -31861,7 +31861,7 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
@@ -31891,7 +31891,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-25T14:49:48.177Z",
+        "last_updated": "2020-11-25T22:17:30.930Z",
         "candidates": [
           {
             "candidate_id": "ryan-52408",
@@ -31903,7 +31903,7 @@
             "party_id": "democrat",
             "incumbent": false,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 69287,
             "percent": 56.8,
             "percent_display": "56.8",
@@ -43348,7 +43348,7 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
@@ -43378,7 +43378,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-25T14:49:48.177Z",
+        "last_updated": "2020-11-25T22:19:34.137Z",
         "candidates": [
           {
             "candidate_id": "steck-59692",
@@ -43390,7 +43390,7 @@
             "party_id": "democrat",
             "incumbent": true,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 31493,
             "percent": 58.4,
             "percent_display": "58.4",
@@ -64437,8 +64437,8 @@
     ]
   },
   "meta": {
-    "version": 22534,
+    "version": 22540,
     "track": "2020-11-03",
-    "timestamp": "2020-11-25T22:01:13.647Z"
+    "timestamp": "2020-11-25T22:23:19.953Z"
   }
 }
