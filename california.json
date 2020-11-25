@@ -34220,7 +34220,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 492766,
+        "votes": 494202,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -34233,7 +34233,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 454,
+        "precincts_reporting": 456,
         "precincts_total": 475,
         "reporting_display": "96% reporting",
         "reporting_value": "96%",
@@ -34246,7 +34246,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-25T17:11:23.277Z",
+        "last_updated": "2020-11-25T20:36:42.517Z",
         "candidates": [
           {
             "candidate_id": "laird-13532",
@@ -34259,7 +34259,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 319046,
+            "votes": 319750,
             "percent": 64.7,
             "percent_display": "64.7",
             "electoral_votes": 0,
@@ -34280,7 +34280,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 173720,
+            "votes": 174452,
             "percent": 35.3,
             "percent_display": "35.3",
             "electoral_votes": 0,
@@ -39053,7 +39053,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 226033,
+        "votes": 227523,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -39066,10 +39066,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 182,
+        "precincts_reporting": 185,
         "precincts_total": 185,
-        "reporting_display": "98% reporting",
-        "reporting_value": "98%",
+        "reporting_display": "100% reporting",
+        "reporting_value": "100%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -39079,7 +39079,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-25T17:11:23.277Z",
+        "last_updated": "2020-11-25T20:36:42.517Z",
         "candidates": [
           {
             "candidate_id": "cunningham-12791",
@@ -39092,7 +39092,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 124521,
+            "votes": 125339,
             "percent": 55.1,
             "percent_display": "55.1",
             "electoral_votes": 0,
@@ -39113,7 +39113,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 101512,
+            "votes": 102184,
             "percent": 44.9,
             "percent_display": "44.9",
             "electoral_votes": 0,
@@ -43889,7 +43889,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16778408,
+        "votes": 16779884,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -43902,7 +43902,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20112,
+        "precincts_reporting": 20114,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -43914,7 +43914,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:23:31.160Z",
+        "last_updated": "2020-11-25T20:36:42.517Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -43926,7 +43926,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9596345,
+            "votes": 9597316,
             "percent": 57.2,
             "percent_display": "57.2",
             "electoral_votes": 0,
@@ -43946,7 +43946,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7182063,
+            "votes": 7182568,
             "percent": 42.8,
             "percent_display": "42.8",
             "electoral_votes": 0,
@@ -44513,7 +44513,7 @@
           {
             "fips": "06039",
             "name": "Madera",
-            "votes": 52478,
+            "votes": 52509,
             "absentee_votes": 0,
             "reporting": 71,
             "precincts": 72,
@@ -44530,14 +44530,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 39156,
-              "yes": 13322
+              "no": 39177,
+              "yes": 13332
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06041",
@@ -45093,9 +45093,9 @@
           {
             "fips": "06079",
             "name": "San Luis Obispo",
-            "votes": 152846,
+            "votes": 154291,
             "absentee_votes": 0,
-            "reporting": 110,
+            "reporting": 112,
             "precincts": 112,
             "absentee_method": null,
             "eevp": null,
@@ -45110,14 +45110,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 102867,
-              "yes": 49979
+              "no": 103817,
+              "yes": 50474
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06081",
@@ -45681,7 +45681,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16959022,
+        "votes": 16960548,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -45694,7 +45694,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20112,
+        "precincts_reporting": 20114,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -45706,7 +45706,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:23:31.160Z",
+        "last_updated": "2020-11-25T20:36:42.517Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -45718,7 +45718,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9931981,
+            "votes": 9932941,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -45738,7 +45738,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7027041,
+            "votes": 7027607,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -46305,7 +46305,7 @@
           {
             "fips": "06039",
             "name": "Madera",
-            "votes": 53115,
+            "votes": 53145,
             "absentee_votes": 0,
             "reporting": 71,
             "precincts": 72,
@@ -46322,14 +46322,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 20559,
-              "no": 32556
+              "yes": 20572,
+              "no": 32573
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06041",
@@ -46885,9 +46885,9 @@
           {
             "fips": "06079",
             "name": "San Luis Obispo",
-            "votes": 155239,
+            "votes": 156735,
             "absentee_votes": 0,
-            "reporting": 110,
+            "reporting": 112,
             "precincts": 112,
             "absentee_method": null,
             "eevp": null,
@@ -46902,14 +46902,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 77612,
-              "no": 77627
+              "yes": 78559,
+              "no": 78176
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06081",
@@ -47473,7 +47473,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16498356,
+        "votes": 16499777,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -47486,7 +47486,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20112,
+        "precincts_reporting": 20114,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -47498,7 +47498,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:23:31.160Z",
+        "last_updated": "2020-11-25T20:36:42.517Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -47510,7 +47510,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9304084,
+            "votes": 9304903,
             "percent": 56.4,
             "percent_display": "56.4",
             "electoral_votes": 0,
@@ -47530,7 +47530,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7194272,
+            "votes": 7194874,
             "percent": 43.6,
             "percent_display": "43.6",
             "electoral_votes": 0,
@@ -48097,7 +48097,7 @@
           {
             "fips": "06039",
             "name": "Madera",
-            "votes": 51908,
+            "votes": 51937,
             "absentee_votes": 0,
             "reporting": 71,
             "precincts": 72,
@@ -48114,14 +48114,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 37813,
-              "yes": 14095
+              "no": 37838,
+              "yes": 14099
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06041",
@@ -48677,9 +48677,9 @@
           {
             "fips": "06079",
             "name": "San Luis Obispo",
-            "votes": 149515,
+            "votes": 150907,
             "absentee_votes": 0,
-            "reporting": 110,
+            "reporting": 112,
             "precincts": 112,
             "absentee_method": null,
             "eevp": null,
@@ -48694,14 +48694,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 91328,
-              "yes": 58187
+              "no": 92122,
+              "yes": 58785
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06081",
@@ -49263,7 +49263,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16716735,
+        "votes": 16718201,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -49276,7 +49276,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20112,
+        "precincts_reporting": 20114,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -49288,7 +49288,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:23:31.160Z",
+        "last_updated": "2020-11-25T20:36:42.517Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -49300,7 +49300,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8540192,
+            "votes": 8541010,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -49320,7 +49320,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8176543,
+            "votes": 8177191,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -49887,7 +49887,7 @@
           {
             "fips": "06039",
             "name": "Madera",
-            "votes": 52426,
+            "votes": 52457,
             "absentee_votes": 0,
             "reporting": 71,
             "precincts": 72,
@@ -49904,14 +49904,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 20274,
-              "no": 32152
+              "yes": 20287,
+              "no": 32170
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-25T17:11:24.187Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06041",
@@ -50467,9 +50467,9 @@
           {
             "fips": "06079",
             "name": "San Luis Obispo",
-            "votes": 152455,
+            "votes": 153890,
             "absentee_votes": 0,
-            "reporting": 110,
+            "reporting": 112,
             "precincts": 112,
             "absentee_method": null,
             "eevp": null,
@@ -50484,14 +50484,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 66637,
-              "no": 85818
+              "yes": 67442,
+              "no": 86448
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-25T17:11:24.187Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06081",
@@ -51053,7 +51053,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 17002830,
+        "votes": 17004362,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -51066,7 +51066,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20112,
+        "precincts_reporting": 20114,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -51078,7 +51078,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:23:31.160Z",
+        "last_updated": "2020-11-25T20:36:42.517Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -51090,7 +51090,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8835990,
+            "votes": 8836751,
             "percent": 52,
             "percent_display": "52.0",
             "electoral_votes": 0,
@@ -51110,7 +51110,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8166840,
+            "votes": 8167611,
             "percent": 48,
             "percent_display": "48.0",
             "electoral_votes": 0,
@@ -51677,7 +51677,7 @@
           {
             "fips": "06039",
             "name": "Madera",
-            "votes": 53010,
+            "votes": 53041,
             "absentee_votes": 0,
             "reporting": 71,
             "precincts": 72,
@@ -51694,14 +51694,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 35984,
-              "yes": 17026
+              "no": 36004,
+              "yes": 17037
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06041",
@@ -52257,9 +52257,9 @@
           {
             "fips": "06079",
             "name": "San Luis Obispo",
-            "votes": 155600,
+            "votes": 157101,
             "absentee_votes": 0,
-            "reporting": 110,
+            "reporting": 112,
             "precincts": 112,
             "absentee_method": null,
             "eevp": null,
@@ -52274,14 +52274,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 95803,
-              "yes": 59797
+              "no": 96544,
+              "yes": 60557
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06081",
@@ -52845,7 +52845,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16996099,
+        "votes": 16997626,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -52858,7 +52858,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20112,
+        "precincts_reporting": 20114,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -52870,7 +52870,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:23:31.160Z",
+        "last_updated": "2020-11-25T20:36:42.517Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -52882,7 +52882,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9520214,
+            "votes": 9521108,
             "percent": 56,
             "percent_display": "56.0",
             "electoral_votes": 0,
@@ -52902,7 +52902,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7475885,
+            "votes": 7476518,
             "percent": 44,
             "percent_display": "44.0",
             "electoral_votes": 0,
@@ -53469,7 +53469,7 @@
           {
             "fips": "06039",
             "name": "Madera",
-            "votes": 53181,
+            "votes": 53211,
             "absentee_votes": 0,
             "reporting": 71,
             "precincts": 72,
@@ -53486,14 +53486,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 39306,
-              "yes": 13875
+              "no": 39329,
+              "yes": 13882
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06041",
@@ -54049,9 +54049,9 @@
           {
             "fips": "06079",
             "name": "San Luis Obispo",
-            "votes": 155949,
+            "votes": 157446,
             "absentee_votes": 0,
-            "reporting": 110,
+            "reporting": 112,
             "precincts": 112,
             "absentee_method": null,
             "eevp": null,
@@ -54066,14 +54066,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 99885,
-              "yes": 56064
+              "no": 100756,
+              "yes": 56690
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06081",
@@ -54635,7 +54635,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16628663,
+        "votes": 16630105,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -54648,7 +54648,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20112,
+        "precincts_reporting": 20114,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -54660,7 +54660,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:23:31.160Z",
+        "last_updated": "2020-11-25T20:36:42.517Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -54672,7 +54672,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8496712,
+            "votes": 8497478,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -54692,7 +54692,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8131951,
+            "votes": 8132627,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -55259,7 +55259,7 @@
           {
             "fips": "06039",
             "name": "Madera",
-            "votes": 51648,
+            "votes": 51676,
             "absentee_votes": 0,
             "reporting": 71,
             "precincts": 72,
@@ -55276,14 +55276,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 21701,
-              "no": 29947
+              "yes": 21712,
+              "no": 29964
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06041",
@@ -55839,9 +55839,9 @@
           {
             "fips": "06079",
             "name": "San Luis Obispo",
-            "votes": 151213,
+            "votes": 152627,
             "absentee_votes": 0,
-            "reporting": 110,
+            "reporting": 112,
             "precincts": 112,
             "absentee_method": null,
             "eevp": null,
@@ -55856,14 +55856,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 66015,
-              "no": 85198
+              "yes": 66770,
+              "no": 85857
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06081",
@@ -56425,7 +56425,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16586718,
+        "votes": 16588157,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -56438,7 +56438,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20112,
+        "precincts_reporting": 20114,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -56450,7 +56450,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:23:31.160Z",
+        "last_updated": "2020-11-25T20:36:42.517Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -56462,7 +56462,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10238887,
+            "votes": 10239763,
             "percent": 61.7,
             "percent_display": "61.7",
             "electoral_votes": 0,
@@ -56482,7 +56482,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6347831,
+            "votes": 6348394,
             "percent": 38.3,
             "percent_display": "38.3",
             "electoral_votes": 0,
@@ -57049,7 +57049,7 @@
           {
             "fips": "06039",
             "name": "Madera",
-            "votes": 52417,
+            "votes": 52447,
             "absentee_votes": 0,
             "reporting": 71,
             "precincts": 72,
@@ -57066,14 +57066,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 24155,
-              "yes": 28262
+              "no": 24172,
+              "yes": 28275
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06041",
@@ -57629,9 +57629,9 @@
           {
             "fips": "06079",
             "name": "San Luis Obispo",
-            "votes": 150158,
+            "votes": 151567,
             "absentee_votes": 0,
-            "reporting": 110,
+            "reporting": 112,
             "precincts": 112,
             "absentee_method": null,
             "eevp": null,
@@ -57646,14 +57646,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 87763,
-              "yes": 62395
+              "no": 88622,
+              "yes": 62945
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06081",
@@ -58217,7 +58217,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16772589,
+        "votes": 16774048,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -58230,7 +58230,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20112,
+        "precincts_reporting": 20114,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -58242,7 +58242,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:23:31.160Z",
+        "last_updated": "2020-11-25T20:36:42.517Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -58254,7 +58254,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10037280,
+            "votes": 10038139,
             "percent": 59.8,
             "percent_display": "59.8",
             "electoral_votes": 0,
@@ -58274,7 +58274,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6735309,
+            "votes": 6735909,
             "percent": 40.2,
             "percent_display": "40.2",
             "electoral_votes": 0,
@@ -58841,7 +58841,7 @@
           {
             "fips": "06039",
             "name": "Madera",
-            "votes": 52746,
+            "votes": 52776,
             "absentee_votes": 0,
             "reporting": 71,
             "precincts": 72,
@@ -58858,14 +58858,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 39622,
-              "yes": 13124
+              "no": 39644,
+              "yes": 13132
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06041",
@@ -59421,9 +59421,9 @@
           {
             "fips": "06079",
             "name": "San Luis Obispo",
-            "votes": 151601,
+            "votes": 153030,
             "absentee_votes": 0,
-            "reporting": 110,
+            "reporting": 112,
             "precincts": 112,
             "absentee_method": null,
             "eevp": null,
@@ -59438,14 +59438,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 102510,
-              "yes": 49091
+              "no": 103347,
+              "yes": 49683
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06081",
@@ -60009,7 +60009,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16891529,
+        "votes": 16893016,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -60022,7 +60022,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20112,
+        "precincts_reporting": 20114,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -60034,7 +60034,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:23:31.160Z",
+        "last_updated": "2020-11-25T20:36:42.517Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -60046,7 +60046,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9903910,
+            "votes": 9904750,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -60066,7 +60066,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6987619,
+            "votes": 6988266,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -60633,7 +60633,7 @@
           {
             "fips": "06039",
             "name": "Madera",
-            "votes": 52456,
+            "votes": 52485,
             "absentee_votes": 0,
             "reporting": 71,
             "precincts": 72,
@@ -60650,14 +60650,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 35663,
-              "no": 16793
+              "yes": 35681,
+              "no": 16804
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06041",
@@ -61213,9 +61213,9 @@
           {
             "fips": "06079",
             "name": "San Luis Obispo",
-            "votes": 152656,
+            "votes": 154114,
             "absentee_votes": 0,
-            "reporting": 110,
+            "reporting": 112,
             "precincts": 112,
             "absentee_method": null,
             "eevp": null,
@@ -61230,14 +61230,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 95875,
-              "no": 56781
+              "yes": 96697,
+              "no": 57417
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06081",
@@ -61799,7 +61799,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16748757,
+        "votes": 16750205,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -61812,7 +61812,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20112,
+        "precincts_reporting": 20114,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -61824,7 +61824,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:23:31.160Z",
+        "last_updated": "2020-11-25T20:36:42.517Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -61836,7 +61836,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10625946,
+            "votes": 10626682,
             "percent": 63.4,
             "percent_display": "63.4",
             "electoral_votes": 0,
@@ -61856,7 +61856,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6122811,
+            "votes": 6123523,
             "percent": 36.6,
             "percent_display": "36.6",
             "electoral_votes": 0,
@@ -62423,7 +62423,7 @@
           {
             "fips": "06039",
             "name": "Madera",
-            "votes": 52459,
+            "votes": 52488,
             "absentee_votes": 0,
             "reporting": 71,
             "precincts": 72,
@@ -62440,14 +62440,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 37675,
-              "yes": 14784
+              "no": 37694,
+              "yes": 14794
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06041",
@@ -63003,9 +63003,9 @@
           {
             "fips": "06079",
             "name": "San Luis Obispo",
-            "votes": 151619,
+            "votes": 153038,
             "absentee_votes": 0,
-            "reporting": 110,
+            "reporting": 112,
             "precincts": 112,
             "absentee_method": null,
             "eevp": null,
@@ -63020,14 +63020,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 107081,
-              "yes": 44538
+              "no": 107798,
+              "yes": 45240
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06081",
@@ -63589,7 +63589,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16596934,
+        "votes": 16598382,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -63602,7 +63602,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20112,
+        "precincts_reporting": 20114,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -63614,7 +63614,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:23:31.160Z",
+        "last_updated": "2020-11-25T20:36:42.517Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -63626,7 +63626,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9330024,
+            "votes": 9330959,
             "percent": 56.2,
             "percent_display": "56.2",
             "electoral_votes": 0,
@@ -63646,7 +63646,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7266910,
+            "votes": 7267423,
             "percent": 43.8,
             "percent_display": "43.8",
             "electoral_votes": 0,
@@ -64213,7 +64213,7 @@
           {
             "fips": "06039",
             "name": "Madera",
-            "votes": 51987,
+            "votes": 52016,
             "absentee_votes": 0,
             "reporting": 71,
             "precincts": 72,
@@ -64230,14 +64230,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 23674,
-              "no": 28313
+              "yes": 23691,
+              "no": 28325
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06041",
@@ -64793,9 +64793,9 @@
           {
             "fips": "06079",
             "name": "San Luis Obispo",
-            "votes": 150468,
+            "votes": 151887,
             "absentee_votes": 0,
-            "reporting": 110,
+            "reporting": 112,
             "precincts": 112,
             "absentee_method": null,
             "eevp": null,
@@ -64810,14 +64810,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 70639,
-              "no": 79829
+              "yes": 71557,
+              "no": 80330
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T20:36:42.517Z"
           },
           {
             "fips": "06081",
@@ -81975,8 +81975,8 @@
     ]
   },
   "meta": {
-    "version": 22511,
+    "version": 22513,
     "track": "2020-11-03",
-    "timestamp": "2020-11-25T20:35:14.566Z"
+    "timestamp": "2020-11-25T20:40:15.577Z"
   }
 }
