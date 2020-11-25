@@ -35598,7 +35598,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 217608,
+        "votes": 235129,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -35611,10 +35611,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 564,
+        "precincts_reporting": 667,
         "precincts_total": 671,
-        "reporting_display": "84% reporting",
-        "reporting_value": "84%",
+        "reporting_display": "99% reporting",
+        "reporting_value": "99%",
         "eevp": null,
         "tot_exp_vote": null,
         "eevp_source": "ap",
@@ -35624,7 +35624,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-25T17:11:23.277Z",
+        "last_updated": "2020-11-25T17:23:31.160Z",
         "candidates": [
           {
             "candidate_id": "wood-12211",
@@ -35637,9 +35637,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 150623,
-            "percent": 69.2,
-            "percent_display": "69.2",
+            "votes": 161238,
+            "percent": 68.6,
+            "percent_display": "68.6",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -35658,9 +35658,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 66985,
-            "percent": 30.8,
-            "percent_display": "30.8",
+            "votes": 73891,
+            "percent": 31.4,
+            "percent_display": "31.4",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -43889,7 +43889,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16761078,
+        "votes": 16778408,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -43902,7 +43902,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20016,
+        "precincts_reporting": 20112,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -43914,7 +43914,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:11:23.277Z",
+        "last_updated": "2020-11-25T17:23:31.160Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -43926,7 +43926,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9585369,
+            "votes": 9596345,
             "percent": 57.2,
             "percent_display": "57.2",
             "electoral_votes": 0,
@@ -43946,7 +43946,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7175709,
+            "votes": 7182063,
             "percent": 42.8,
             "percent_display": "42.8",
             "electoral_votes": 0,
@@ -44600,9 +44600,9 @@
           {
             "fips": "06045",
             "name": "Mendocino",
-            "votes": 24373,
+            "votes": 41703,
             "absentee_votes": 0,
-            "reporting": 147,
+            "reporting": 243,
             "precincts": 250,
             "absentee_method": null,
             "eevp": null,
@@ -44617,14 +44617,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 12593,
-              "yes": 11780
+              "no": 23569,
+              "yes": 18134
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T17:23:31.160Z"
           },
           {
             "fips": "06047",
@@ -45681,7 +45681,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16941341,
+        "votes": 16959022,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -45694,7 +45694,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20016,
+        "precincts_reporting": 20112,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -45706,7 +45706,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:11:23.277Z",
+        "last_updated": "2020-11-25T17:23:31.160Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -45718,7 +45718,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9921584,
+            "votes": 9931981,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -45738,7 +45738,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7019757,
+            "votes": 7027041,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -46392,9 +46392,9 @@
           {
             "fips": "06045",
             "name": "Mendocino",
-            "votes": 24774,
+            "votes": 42455,
             "absentee_votes": 0,
-            "reporting": 147,
+            "reporting": 243,
             "precincts": 250,
             "absentee_method": null,
             "eevp": null,
@@ -46409,14 +46409,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 16415,
-              "no": 8359
+              "yes": 26812,
+              "no": 15643
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T17:23:31.160Z"
           },
           {
             "fips": "06047",
@@ -47473,7 +47473,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16481254,
+        "votes": 16498356,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -47486,7 +47486,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20016,
+        "precincts_reporting": 20112,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -47498,7 +47498,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:11:23.277Z",
+        "last_updated": "2020-11-25T17:23:31.160Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -47510,7 +47510,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9294907,
+            "votes": 9304084,
             "percent": 56.4,
             "percent_display": "56.4",
             "electoral_votes": 0,
@@ -47530,7 +47530,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7186347,
+            "votes": 7194272,
             "percent": 43.6,
             "percent_display": "43.6",
             "electoral_votes": 0,
@@ -48184,9 +48184,9 @@
           {
             "fips": "06045",
             "name": "Mendocino",
-            "votes": 24193,
+            "votes": 41295,
             "absentee_votes": 0,
-            "reporting": 147,
+            "reporting": 243,
             "precincts": 250,
             "absentee_method": null,
             "eevp": null,
@@ -48201,14 +48201,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 10436,
-              "yes": 13757
+              "no": 19613,
+              "yes": 21682
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T17:23:31.160Z"
           },
           {
             "fips": "06047",
@@ -49263,7 +49263,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16699434,
+        "votes": 16716735,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -49276,7 +49276,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20016,
+        "precincts_reporting": 20112,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -49288,7 +49288,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:11:24.187Z",
+        "last_updated": "2020-11-25T17:23:31.160Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -49300,7 +49300,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8531535,
+            "votes": 8540192,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -49320,7 +49320,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8167899,
+            "votes": 8176543,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -49974,9 +49974,9 @@
           {
             "fips": "06045",
             "name": "Mendocino",
-            "votes": 24394,
+            "votes": 41695,
             "absentee_votes": 0,
-            "reporting": 147,
+            "reporting": 243,
             "precincts": 250,
             "absentee_method": null,
             "eevp": null,
@@ -49991,14 +49991,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 13749,
-              "no": 10645
+              "yes": 22406,
+              "no": 19289
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-25T17:11:24.187Z"
+            "last_updated": "2020-11-25T17:23:31.160Z"
           },
           {
             "fips": "06047",
@@ -51053,7 +51053,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16985099,
+        "votes": 17002830,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -51066,7 +51066,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20016,
+        "precincts_reporting": 20112,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -51078,7 +51078,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:11:23.277Z",
+        "last_updated": "2020-11-25T17:23:31.160Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -51090,7 +51090,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8826589,
+            "votes": 8835990,
             "percent": 52,
             "percent_display": "52.0",
             "electoral_votes": 0,
@@ -51110,7 +51110,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8158510,
+            "votes": 8166840,
             "percent": 48,
             "percent_display": "48.0",
             "electoral_votes": 0,
@@ -51764,9 +51764,9 @@
           {
             "fips": "06045",
             "name": "Mendocino",
-            "votes": 24796,
+            "votes": 42527,
             "absentee_votes": 0,
-            "reporting": 147,
+            "reporting": 243,
             "precincts": 250,
             "absentee_method": null,
             "eevp": null,
@@ -51781,14 +51781,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 10932,
-              "yes": 13864
+              "no": 20333,
+              "yes": 22194
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T17:23:31.160Z"
           },
           {
             "fips": "06047",
@@ -52845,7 +52845,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16978386,
+        "votes": 16996099,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -52858,7 +52858,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20016,
+        "precincts_reporting": 20112,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -52870,7 +52870,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:11:23.277Z",
+        "last_updated": "2020-11-25T17:23:31.160Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -52882,7 +52882,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9509958,
+            "votes": 9520214,
             "percent": 56,
             "percent_display": "56.0",
             "electoral_votes": 0,
@@ -52902,7 +52902,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7468428,
+            "votes": 7475885,
             "percent": 44,
             "percent_display": "44.0",
             "electoral_votes": 0,
@@ -53556,9 +53556,9 @@
           {
             "fips": "06045",
             "name": "Mendocino",
-            "votes": 24807,
+            "votes": 42520,
             "absentee_votes": 0,
-            "reporting": 147,
+            "reporting": 243,
             "precincts": 250,
             "absentee_method": null,
             "eevp": null,
@@ -53573,14 +53573,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 12180,
-              "yes": 12627
+              "no": 22436,
+              "yes": 20084
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T17:23:31.160Z"
           },
           {
             "fips": "06047",
@@ -54635,7 +54635,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16611516,
+        "votes": 16628663,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -54648,7 +54648,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20016,
+        "precincts_reporting": 20112,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -54660,7 +54660,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:11:23.277Z",
+        "last_updated": "2020-11-25T17:23:31.160Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -54672,7 +54672,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 8487830,
+            "votes": 8496712,
             "percent": 51.1,
             "percent_display": "51.1",
             "electoral_votes": 0,
@@ -54692,7 +54692,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8123686,
+            "votes": 8131951,
             "percent": 48.9,
             "percent_display": "48.9",
             "electoral_votes": 0,
@@ -55346,9 +55346,9 @@
           {
             "fips": "06045",
             "name": "Mendocino",
-            "votes": 24293,
+            "votes": 41440,
             "absentee_votes": 0,
-            "reporting": 147,
+            "reporting": 243,
             "precincts": 250,
             "absentee_method": null,
             "eevp": null,
@@ -55363,14 +55363,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 14144,
-              "no": 10149
+              "yes": 23026,
+              "no": 18414
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T17:23:31.160Z"
           },
           {
             "fips": "06047",
@@ -56425,7 +56425,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16569671,
+        "votes": 16586718,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -56438,7 +56438,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20016,
+        "precincts_reporting": 20112,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -56450,7 +56450,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:11:23.277Z",
+        "last_updated": "2020-11-25T17:23:31.160Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -56462,7 +56462,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10227495,
+            "votes": 10238887,
             "percent": 61.7,
             "percent_display": "61.7",
             "electoral_votes": 0,
@@ -56482,7 +56482,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6342176,
+            "votes": 6347831,
             "percent": 38.3,
             "percent_display": "38.3",
             "electoral_votes": 0,
@@ -57136,9 +57136,9 @@
           {
             "fips": "06045",
             "name": "Mendocino",
-            "votes": 24107,
+            "votes": 41154,
             "absentee_votes": 0,
-            "reporting": 147,
+            "reporting": 243,
             "precincts": 250,
             "absentee_method": null,
             "eevp": null,
@@ -57153,14 +57153,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 17055,
-              "yes": 7052
+              "no": 28447,
+              "yes": 12707
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T17:23:31.160Z"
           },
           {
             "fips": "06047",
@@ -58217,7 +58217,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16755393,
+        "votes": 16772589,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -58230,7 +58230,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20015,
+        "precincts_reporting": 20112,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -58242,7 +58242,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:11:23.277Z",
+        "last_updated": "2020-11-25T17:23:31.160Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -58254,7 +58254,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10026914,
+            "votes": 10037280,
             "percent": 59.8,
             "percent_display": "59.8",
             "electoral_votes": 0,
@@ -58274,7 +58274,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6728479,
+            "votes": 6735309,
             "percent": 40.2,
             "percent_display": "40.2",
             "electoral_votes": 0,
@@ -58928,9 +58928,9 @@
           {
             "fips": "06045",
             "name": "Mendocino",
-            "votes": 24320,
+            "votes": 41516,
             "absentee_votes": 0,
-            "reporting": 146,
+            "reporting": 243,
             "precincts": 250,
             "absentee_method": null,
             "eevp": null,
@@ -58945,14 +58945,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 12985,
-              "yes": 11335
+              "no": 23351,
+              "yes": 18165
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T17:23:31.160Z"
           },
           {
             "fips": "06047",
@@ -60009,7 +60009,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16874178,
+        "votes": 16891529,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -60022,7 +60022,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20016,
+        "precincts_reporting": 20112,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -60034,7 +60034,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:11:23.277Z",
+        "last_updated": "2020-11-25T17:23:31.160Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -60046,7 +60046,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9895192,
+            "votes": 9903910,
             "percent": 58.6,
             "percent_display": "58.6",
             "electoral_votes": 0,
@@ -60066,7 +60066,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6978986,
+            "votes": 6987619,
             "percent": 41.4,
             "percent_display": "41.4",
             "electoral_votes": 0,
@@ -60720,9 +60720,9 @@
           {
             "fips": "06045",
             "name": "Mendocino",
-            "votes": 24321,
+            "votes": 41672,
             "absentee_votes": 0,
-            "reporting": 147,
+            "reporting": 243,
             "precincts": 250,
             "absentee_method": null,
             "eevp": null,
@@ -60737,14 +60737,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 10905,
-              "no": 13416
+              "yes": 19623,
+              "no": 22049
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T17:23:31.160Z"
           },
           {
             "fips": "06047",
@@ -61799,7 +61799,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16731476,
+        "votes": 16748757,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -61812,7 +61812,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20016,
+        "precincts_reporting": 20112,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -61824,7 +61824,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:11:23.277Z",
+        "last_updated": "2020-11-25T17:23:31.160Z",
         "candidates": [
           {
             "candidate_id": "no-3",
@@ -61836,7 +61836,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 10614842,
+            "votes": 10625946,
             "percent": 63.4,
             "percent_display": "63.4",
             "electoral_votes": 0,
@@ -61856,7 +61856,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6116634,
+            "votes": 6122811,
             "percent": 36.6,
             "percent_display": "36.6",
             "electoral_votes": 0,
@@ -62510,9 +62510,9 @@
           {
             "fips": "06045",
             "name": "Mendocino",
-            "votes": 24421,
+            "votes": 41702,
             "absentee_votes": 0,
-            "reporting": 147,
+            "reporting": 243,
             "precincts": 250,
             "absentee_method": null,
             "eevp": null,
@@ -62527,14 +62527,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "no": 14959,
-              "yes": 9462
+              "no": 26063,
+              "yes": 15639
             },
             "results_absentee": {
               "no": 0,
               "yes": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T17:23:31.160Z"
           },
           {
             "fips": "06047",
@@ -63589,7 +63589,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 16579817,
+        "votes": 16596934,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -63602,7 +63602,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20016,
+        "precincts_reporting": 20112,
         "precincts_total": 20499,
         "reporting_display": "98% reporting",
         "reporting_value": "98%",
@@ -63614,7 +63614,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T17:11:23.277Z",
+        "last_updated": "2020-11-25T17:23:31.160Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -63626,7 +63626,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 9320527,
+            "votes": 9330024,
             "percent": 56.2,
             "percent_display": "56.2",
             "electoral_votes": 0,
@@ -63646,7 +63646,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 7259290,
+            "votes": 7266910,
             "percent": 43.8,
             "percent_display": "43.8",
             "electoral_votes": 0,
@@ -64300,9 +64300,9 @@
           {
             "fips": "06045",
             "name": "Mendocino",
-            "votes": 24053,
+            "votes": 41170,
             "absentee_votes": 0,
-            "reporting": 147,
+            "reporting": 243,
             "precincts": 250,
             "absentee_method": null,
             "eevp": null,
@@ -64317,14 +64317,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 13661,
-              "no": 10392
+              "yes": 23158,
+              "no": 18012
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-25T17:11:23.277Z"
+            "last_updated": "2020-11-25T17:23:31.160Z"
           },
           {
             "fips": "06047",
@@ -81975,8 +81975,8 @@
     ]
   },
   "meta": {
-    "version": 22493,
+    "version": 22494,
     "track": "2020-11-03",
-    "timestamp": "2020-11-25T17:13:13.942Z"
+    "timestamp": "2020-11-25T17:25:13.128Z"
   }
 }
