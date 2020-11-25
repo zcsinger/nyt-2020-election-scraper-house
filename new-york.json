@@ -42139,7 +42139,7 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
@@ -42169,7 +42169,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-24T15:32:06.043Z",
+        "last_updated": "2020-11-25T01:36:58.373Z",
         "candidates": [
           {
             "candidate_id": "schmitt-52707",
@@ -42181,7 +42181,7 @@
             "party_id": "republican",
             "incumbent": true,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 32116,
             "percent": 61.3,
             "percent_display": "61.3",
@@ -45541,7 +45541,7 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
@@ -45571,7 +45571,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-24T15:32:06.043Z",
+        "last_updated": "2020-11-25T01:43:06.307Z",
         "candidates": [
           {
             "candidate_id": "gallahan-54867",
@@ -45583,7 +45583,7 @@
             "party_id": "republican",
             "incumbent": false,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 33311,
             "percent": 59.9,
             "percent_display": "59.9",
@@ -64425,8 +64425,8 @@
     ]
   },
   "meta": {
-    "version": 22306,
+    "version": 22311,
     "track": "2020-11-03",
-    "timestamp": "2020-11-25T01:30:12.613Z"
+    "timestamp": "2020-11-25T01:46:12.274Z"
   }
 }
