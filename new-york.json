@@ -30883,7 +30883,7 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
@@ -30913,7 +30913,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-24T21:58:40.073Z",
+        "last_updated": "2020-11-25T01:06:21.647Z",
         "candidates": [
           {
             "candidate_id": "oberacker-54805",
@@ -30925,7 +30925,7 @@
             "party_id": "republican",
             "incumbent": false,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 69960,
             "percent": 57.1,
             "percent_display": "57.1",
@@ -47875,7 +47875,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 80011360,
+            "votes": 80011351,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -47892,7 +47892,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73881874,
+            "votes": 73881795,
             "percent": "47.1",
             "change": 0,
             "flip_count": 0,
@@ -47909,7 +47909,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2867508,
+            "votes": 2867515,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -57355,7 +57355,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 431267,
+          "votes": 431258,
           "percent": 52.8,
           "percent_display": "52.8",
           "electoral_votes": 3,
@@ -64425,8 +64425,8 @@
     ]
   },
   "meta": {
-    "version": 22302,
+    "version": 22305,
     "track": "2020-11-03",
-    "timestamp": "2020-11-25T00:44:25.316Z"
+    "timestamp": "2020-11-25T01:08:20.710Z"
   }
 }
