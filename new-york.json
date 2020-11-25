@@ -30290,7 +30290,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 123739,
+        "votes": 131357,
         "absentee_votes": 8341,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -30316,7 +30316,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-25T14:49:53.013Z",
+        "last_updated": "2020-11-25T19:24:08.907Z",
         "candidates": [
           {
             "candidate_id": "stec-52724",
@@ -30329,9 +30329,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 74458,
-            "percent": 60.2,
-            "percent_display": "60.2",
+            "votes": 76810,
+            "percent": 58.5,
+            "percent_display": "58.5",
             "electoral_votes": 0,
             "absentee_votes": 2938,
             "absentee_percent": 35.2,
@@ -30350,9 +30350,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 49281,
-            "percent": 39.8,
-            "percent_display": "39.8",
+            "votes": 54547,
+            "percent": 41.5,
+            "percent_display": "41.5",
             "electoral_votes": 0,
             "absentee_votes": 5403,
             "absentee_percent": 64.8,
@@ -64437,8 +64437,8 @@
     ]
   },
   "meta": {
-    "version": 22500,
+    "version": 22501,
     "track": "2020-11-03",
-    "timestamp": "2020-11-25T19:12:20.279Z"
+    "timestamp": "2020-11-25T19:26:14.026Z"
   }
 }
