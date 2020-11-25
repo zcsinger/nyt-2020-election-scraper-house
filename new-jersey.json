@@ -14942,7 +14942,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 4081249,
+        "votes": 4081277,
         "absentee_votes": 621060,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -14967,7 +14967,7 @@
         "county_data_source": "ap",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T14:51:14.38Z",
+        "last_updated": "2020-11-25T19:56:16.670Z",
         "candidates": [
           {
             "candidate_id": "yes-2",
@@ -14979,7 +14979,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 2737653,
+            "votes": 2737674,
             "percent": 67.1,
             "percent_display": "67.1",
             "electoral_votes": 0,
@@ -14999,7 +14999,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1343596,
+            "votes": 1343603,
             "percent": 32.9,
             "percent_display": "32.9",
             "electoral_votes": 0,
@@ -15479,7 +15479,7 @@
           {
             "fips": "34033",
             "name": "Salem",
-            "votes": 32063,
+            "votes": 32091,
             "absentee_votes": 0,
             "reporting": 45,
             "precincts": 45,
@@ -15496,14 +15496,14 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "yes": 20886,
-              "no": 11177
+              "yes": 20907,
+              "no": 11184
             },
             "results_absentee": {
               "yes": 0,
               "no": 0
             },
-            "last_updated": "2020-11-25T14:51:14.38Z"
+            "last_updated": "2020-11-25T19:56:16.670Z"
           },
           {
             "fips": "34035",
@@ -33687,8 +33687,8 @@
     ]
   },
   "meta": {
-    "version": 22503,
+    "version": 22505,
     "track": "2020-11-03",
-    "timestamp": "2020-11-25T19:43:12.922Z"
+    "timestamp": "2020-11-25T19:58:27.253Z"
   }
 }
