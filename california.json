@@ -31,7 +31,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 17386234,
+        "votes": 17388221,
         "electoral_votes": 55,
         "absentee_votes": 8420430,
         "absentee_counties": 32,
@@ -57,7 +57,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T02:40:44Z",
+        "last_updated": "2020-11-25T05:40:54Z",
         "candidates": [
           {
             "candidate_id": "biden-1036",
@@ -70,7 +70,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 11050282,
+            "votes": 11051346,
             "percent": 63.6,
             "percent_display": "63.6",
             "electoral_votes": 55,
@@ -92,7 +92,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 5959245,
+            "votes": 5960116,
             "percent": 34.3,
             "percent_display": "34.3",
             "electoral_votes": 0,
@@ -114,7 +114,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 186236,
+            "votes": 186259,
             "percent": 1.1,
             "percent_display": "1.1",
             "electoral_votes": 0,
@@ -135,7 +135,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 80364,
+            "votes": 80373,
             "percent": 0.5,
             "percent_display": "0.5",
             "electoral_votes": 0,
@@ -156,7 +156,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 59550,
+            "votes": 59560,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -177,7 +177,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 50552,
+            "votes": 50562,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -210,8 +210,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 29.282,
-        "leader_margin_votes": 5091037,
+        "leader_margin_value": 29.27976,
+        "leader_margin_votes": 5091230,
         "leader_margin_display": "D+29",
         "leader_margin_name_display": "Biden +29",
         "leader_party_id": "democrat",
@@ -1971,7 +1971,7 @@
           {
             "fips": "06077",
             "name": "San Joaquin",
-            "votes": 273719,
+            "votes": 275706,
             "absentee_votes": 0,
             "reporting": 207,
             "precincts": 207,
@@ -1988,13 +1988,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 153396,
-              "trumpd": 114507,
-              "jorgensenj": 2782,
-              "de_la_fuenter": 1131,
-              "hawkinsh": 1014,
-              "la_rivag": 889,
-              "write-ins": 0
+              "bidenj": 154460,
+              "trumpd": 115378,
+              "jorgensenj": 2805,
+              "de_la_fuenter": 1141,
+              "hawkinsh": 1023,
+              "la_rivag": 899
             },
             "results_absentee": {
               "bidenj": 0,
@@ -2002,15 +2001,14 @@
               "jorgensenj": 0,
               "de_la_fuenter": 0,
               "hawkinsh": 0,
-              "la_rivag": 0,
-              "write-ins": 0
+              "la_rivag": 0
             },
-            "last_updated": "2020-11-24T13:23:10Z",
-            "leader_margin_value": 14.20764,
+            "last_updated": "2020-11-25T05:40:47Z",
+            "leader_margin_value": 14.17524,
             "leader_margin_display": "D+14",
             "leader_margin_name_display": "Biden +14",
             "leader_party_id": "democrat",
-            "margin2020": -14.20764,
+            "margin2020": -14.17524,
             "votes2016": 227002,
             "margin2016": -14.2,
             "votes2012": 204697,
@@ -2922,12 +2920,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Riverside, Imperial and nine other counties.",
-            "timestamp": 1606272128095,
+            "sentence": "We just received more votes from San Joaquin County.",
+            "timestamp": 1606282985576,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Riverside, Imperial and nine other counties.",
+            "generatedText": "We just received more votes from San Joaquin County.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -5126,6 +5124,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-25T02:40:44Z"
+          },
+          {
+            "vote_shares": {
+              "bidenj": 0.636,
+              "trumpd": 0.343
+            },
+            "votes": 17388221,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-25T05:40:54Z"
           }
         ]
       },
@@ -10903,7 +10911,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 290148,
+        "votes": 291546,
         "absentee_votes": 47591,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -10928,7 +10936,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-24T23:41:08Z",
+        "last_updated": "2020-11-25T05:41:06Z",
         "candidates": [
           {
             "candidate_id": "mcnerney-50403-5-h",
@@ -10941,9 +10949,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 167566,
-            "percent": 57.8,
-            "percent_display": "57.8",
+            "votes": 168336,
+            "percent": 57.7,
+            "percent_display": "57.7",
             "electoral_votes": 0,
             "absentee_votes": 32258,
             "absentee_percent": 67.8,
@@ -10962,9 +10970,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 122582,
-            "percent": 42.2,
-            "percent_display": "42.2",
+            "votes": 123210,
+            "percent": 42.3,
+            "percent_display": "42.3",
             "electoral_votes": 0,
             "absentee_votes": 15333,
             "absentee_percent": 32.2,
@@ -10974,10 +10982,10 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 15.50381,
-        "leader_margin_votes": 44984,
-        "leader_margin_display": "D+16",
-        "leader_margin_name_display": "McNerney +16",
+        "leader_margin_value": 15.47817,
+        "leader_margin_votes": 45126,
+        "leader_margin_display": "D+15",
+        "leader_margin_name_display": "McNerney +15",
         "leader_party_id": "democrat",
         "counties": [
           {
@@ -11049,7 +11057,7 @@
           {
             "fips": "06077",
             "name": "San Joaquin",
-            "votes": 181261,
+            "votes": 182659,
             "absentee_votes": 0,
             "reporting": 142,
             "precincts": 142,
@@ -11066,15 +11074,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcnerneyj": 104769,
-              "amadort": 76492
+              "mcnerneyj": 105539,
+              "amadort": 77120
             },
             "results_absentee": {
               "mcnerneyj": 0,
               "amadort": 0
             },
-            "last_updated": "2020-11-24T13:23:39Z",
-            "leader_margin_value": 15.60016,
+            "last_updated": "2020-11-25T05:41:03Z",
+            "leader_margin_value": 15.5585,
             "leader_margin_display": "D+16",
             "leader_margin_name_display": "McNerney +16",
             "leader_party_id": "democrat"
@@ -11601,6 +11609,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-24T23:41:08Z"
+          },
+          {
+            "vote_shares": {
+              "mcnerneyj": 0.577,
+              "amadort": 0.423
+            },
+            "votes": 291546,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-25T05:41:06Z"
           }
         ]
       },
@@ -11634,7 +11652,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 298908,
+        "votes": 299428,
         "absentee_votes": 135504,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -11659,7 +11677,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-24T13:23:32Z",
+        "last_updated": "2020-11-25T05:41:07Z",
         "candidates": [
           {
             "candidate_id": "harder-19762-5-h",
@@ -11672,7 +11690,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 165004,
+            "votes": 165276,
             "percent": 55.2,
             "percent_display": "55.2",
             "electoral_votes": 0,
@@ -11693,7 +11711,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 133904,
+            "votes": 134152,
             "percent": 44.8,
             "percent_display": "44.8",
             "electoral_votes": 0,
@@ -11705,8 +11723,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 10.40454,
-        "leader_margin_votes": 31100,
+        "leader_margin_value": 10.39449,
+        "leader_margin_votes": 31124,
         "leader_margin_display": "D+10",
         "leader_margin_name_display": "Harder +10",
         "leader_party_id": "democrat",
@@ -11714,7 +11732,7 @@
           {
             "fips": "06077",
             "name": "San Joaquin",
-            "votes": 87956,
+            "votes": 88476,
             "absentee_votes": 0,
             "reporting": 65,
             "precincts": 65,
@@ -11731,15 +11749,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "harderj": 49501,
-              "howzet": 38455
+              "harderj": 49773,
+              "howzet": 38703
             },
             "results_absentee": {
               "harderj": 0,
               "howzet": 0
             },
-            "last_updated": "2020-11-24T13:23:39Z",
-            "leader_margin_value": 12.55855,
+            "last_updated": "2020-11-25T05:41:03Z",
+            "leader_margin_value": 12.51187,
             "leader_margin_display": "D+13",
             "leader_margin_name_display": "Harder +13",
             "leader_party_id": "democrat"
@@ -12189,6 +12207,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-24T05:41:06Z"
+          },
+          {
+            "vote_shares": {
+              "harderj": 0.552,
+              "howzet": 0.448
+            },
+            "votes": 299428,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-25T05:41:07Z"
           }
         ]
       },
@@ -65315,7 +65343,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75831012,
+            "votes": 75832054,
             "percent": "50.5",
             "change": -7,
             "flip_count": 3,
@@ -65332,7 +65360,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72328816,
+            "votes": 72329692,
             "percent": "48.1",
             "change": 8,
             "flip_count": 11,
@@ -65377,7 +65405,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 80020851,
+            "votes": 80021915,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -65394,7 +65422,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73886321,
+            "votes": 73887192,
             "percent": "47.1",
             "change": 0,
             "flip_count": 0,
@@ -65411,7 +65439,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2872345,
+            "votes": 2872397,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -77020,7 +77048,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 11050282,
+          "votes": 11051346,
           "percent": 63.6,
           "percent_display": "63.6",
           "electoral_votes": 55,
@@ -81927,8 +81955,8 @@
     ]
   },
   "meta": {
-    "version": 22403,
+    "version": 22405,
     "track": "2020-11-03",
-    "timestamp": "2020-11-25T05:37:12.967Z"
+    "timestamp": "2020-11-25T05:44:12.240Z"
   }
 }
