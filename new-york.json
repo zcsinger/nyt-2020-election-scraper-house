@@ -31550,7 +31550,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 122636,
+        "votes": 122646,
         "absentee_votes": 5870,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -31576,7 +31576,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-25T14:49:48.177Z",
+        "last_updated": "2020-11-25T15:32:45.050Z",
         "candidates": [
           {
             "candidate_id": "borrello-54589",
@@ -31589,7 +31589,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 87927,
+            "votes": 87933,
             "percent": 71.7,
             "percent_display": "71.7",
             "electoral_votes": 0,
@@ -31610,7 +31610,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 34709,
+            "votes": 34713,
             "percent": 28.3,
             "percent_display": "28.3",
             "electoral_votes": 0,
@@ -47887,7 +47887,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 80026721,
+            "votes": 80026621,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -58128,7 +58128,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 1717177,
+          "votes": 1717077,
           "percent": 52.4,
           "percent_display": "52.4",
           "electoral_votes": 10,
@@ -64437,8 +64437,8 @@
     ]
   },
   "meta": {
-    "version": 22465,
+    "version": 22470,
     "track": "2020-11-03",
-    "timestamp": "2020-11-25T15:22:13.231Z"
+    "timestamp": "2020-11-25T15:34:14.065Z"
   }
 }
