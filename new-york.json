@@ -41656,7 +41656,7 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
@@ -41686,7 +41686,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-24T15:32:06.043Z",
+        "last_updated": "2020-11-25T01:28:48.133Z",
         "candidates": [
           {
             "candidate_id": "byrne-53792",
@@ -41698,7 +41698,7 @@
             "party_id": "republican",
             "incumbent": true,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 39423,
             "percent": 60.7,
             "percent_display": "60.7",
@@ -64425,8 +64425,8 @@
     ]
   },
   "meta": {
-    "version": 22305,
+    "version": 22306,
     "track": "2020-11-03",
-    "timestamp": "2020-11-25T01:08:20.710Z"
+    "timestamp": "2020-11-25T01:30:12.613Z"
   }
 }
