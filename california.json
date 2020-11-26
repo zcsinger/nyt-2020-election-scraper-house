@@ -31,7 +31,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 17397269,
+        "votes": 17432075,
         "electoral_votes": 55,
         "absentee_votes": 8463440,
         "absentee_counties": 33,
@@ -45,7 +45,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 20384,
+        "precincts_reporting": 20403,
         "precincts_total": 20498,
         "reporting_display": "99% reporting",
         "reporting_value": "99%",
@@ -57,7 +57,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T21:49:35Z",
+        "last_updated": "2020-11-26T03:49:19Z",
         "candidates": [
           {
             "candidate_id": "biden-1036",
@@ -70,9 +70,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 11056411,
-            "percent": 63.6,
-            "percent_display": "63.6",
+            "votes": 11076865,
+            "percent": 63.5,
+            "percent_display": "63.5",
             "electoral_votes": 55,
             "absentee_votes": 5720708,
             "absentee_percent": 67.6,
@@ -92,7 +92,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 5963767,
+            "votes": 5976986,
             "percent": 34.3,
             "percent_display": "34.3",
             "electoral_votes": 0,
@@ -114,7 +114,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 186419,
+            "votes": 186966,
             "percent": 1.1,
             "percent_display": "1.1",
             "electoral_votes": 0,
@@ -135,7 +135,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 80455,
+            "votes": 80680,
             "percent": 0.5,
             "percent_display": "0.5",
             "electoral_votes": 0,
@@ -156,7 +156,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 59608,
+            "votes": 59790,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -177,7 +177,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 50604,
+            "votes": 50783,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -210,8 +210,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 29.27266,
-        "leader_margin_votes": 5092644,
+        "leader_margin_value": 29.25572,
+        "leader_margin_votes": 5099879,
         "leader_margin_display": "D+29",
         "leader_margin_name_display": "Biden +29",
         "leader_party_id": "democrat",
@@ -451,7 +451,7 @@
           {
             "fips": "06011",
             "name": "Colusa",
-            "votes": 7919,
+            "votes": 7951,
             "absentee_votes": 0,
             "reporting": 18,
             "precincts": 18,
@@ -468,10 +468,10 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 3218,
-              "trumpd": 4539,
+              "bidenj": 3234,
+              "trumpd": 4554,
               "jorgensenj": 81,
-              "de_la_fuenter": 29,
+              "de_la_fuenter": 30,
               "la_rivag": 27,
               "hawkinsh": 25
             },
@@ -483,12 +483,12 @@
               "la_rivag": 0,
               "hawkinsh": 0
             },
-            "last_updated": "2020-11-24T13:21:53Z",
-            "leader_margin_value": 16.6814,
+            "last_updated": "2020-11-26T03:48:14Z",
+            "leader_margin_value": 16.60169,
             "leader_margin_display": "R+17",
             "leader_margin_name_display": "Trump +17",
             "leader_party_id": "republican",
-            "margin2020": 16.6814,
+            "margin2020": 16.60169,
             "votes2016": 6697,
             "margin2016": 13.3,
             "votes2012": 6034,
@@ -497,7 +497,7 @@
           {
             "fips": "06013",
             "name": "Contra Costa",
-            "votes": 579996,
+            "votes": 581121,
             "absentee_votes": 313531,
             "reporting": 957,
             "precincts": 957,
@@ -514,12 +514,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 415573,
-              "trumpd": 152497,
-              "jorgensenj": 6104,
-              "hawkinsh": 2612,
-              "de_la_fuenter": 1938,
-              "la_rivag": 1272
+              "bidenj": 416316,
+              "trumpd": 152847,
+              "jorgensenj": 6115,
+              "hawkinsh": 2616,
+              "de_la_fuenter": 1945,
+              "la_rivag": 1282
             },
             "results_absentee": {
               "bidenj": 244659,
@@ -529,12 +529,12 @@
               "de_la_fuenter": 802,
               "la_rivag": 556
             },
-            "last_updated": "2020-11-24T13:21:54Z",
-            "leader_margin_value": 45.35824,
+            "last_updated": "2020-11-26T03:48:14Z",
+            "leader_margin_value": 45.33806,
             "leader_margin_display": "D+45",
             "leader_margin_name_display": "Biden +45",
             "leader_party_id": "democrat",
-            "margin2020": -45.35824,
+            "margin2020": -45.33806,
             "votes2016": 473014,
             "margin2016": -43,
             "votes2012": 438226,
@@ -589,7 +589,7 @@
           {
             "fips": "06017",
             "name": "El Dorado",
-            "votes": 116101,
+            "votes": 116138,
             "absentee_votes": 82522,
             "reporting": 202,
             "precincts": 202,
@@ -606,10 +606,10 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 51606,
-              "trumpd": 61820,
-              "jorgensenj": 1869,
-              "hawkinsh": 458,
+              "bidenj": 51621,
+              "trumpd": 61838,
+              "jorgensenj": 1871,
+              "hawkinsh": 460,
               "de_la_fuenter": 240,
               "la_rivag": 108
             },
@@ -621,12 +621,12 @@
               "de_la_fuenter": 142,
               "la_rivag": 68
             },
-            "last_updated": "2020-11-24T13:21:59Z",
-            "leader_margin_value": 8.79751,
+            "last_updated": "2020-11-26T03:48:14Z",
+            "leader_margin_value": 8.79729,
             "leader_margin_display": "R+9",
             "leader_margin_name_display": "Trump +9",
             "leader_party_id": "republican",
-            "margin2020": 8.79751,
+            "margin2020": 8.79729,
             "votes2016": 95149,
             "margin2016": 13.5,
             "votes2012": 88774,
@@ -773,7 +773,7 @@
           {
             "fips": "06025",
             "name": "Imperial",
-            "votes": 54819,
+            "votes": 55402,
             "absentee_votes": 27661,
             "reporting": 218,
             "precincts": 218,
@@ -790,12 +790,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 33636,
-              "trumpd": 20040,
-              "jorgensenj": 371,
-              "de_la_fuenter": 277,
-              "la_rivag": 265,
-              "hawkinsh": 230
+              "bidenj": 33964,
+              "trumpd": 20276,
+              "jorgensenj": 378,
+              "de_la_fuenter": 283,
+              "la_rivag": 268,
+              "hawkinsh": 233
             },
             "results_absentee": {
               "bidenj": 18837,
@@ -805,12 +805,12 @@
               "la_rivag": 130,
               "hawkinsh": 99
             },
-            "last_updated": "2020-11-25T02:40:43Z",
-            "leader_margin_value": 24.80162,
+            "last_updated": "2020-11-26T03:48:13Z",
+            "leader_margin_value": 24.70669,
             "leader_margin_display": "D+25",
             "leader_margin_name_display": "Biden +25",
             "leader_party_id": "democrat",
-            "margin2020": -24.80162,
+            "margin2020": -24.70669,
             "votes2016": 48091,
             "margin2016": -41.5,
             "votes2012": 38565,
@@ -865,7 +865,7 @@
           {
             "fips": "06029",
             "name": "Kern",
-            "votes": 296176,
+            "votes": 302457,
             "absentee_votes": 126942,
             "reporting": 694,
             "precincts": 694,
@@ -882,27 +882,27 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 129074,
-              "trumpd": 159980,
-              "jorgensenj": 3835,
-              "de_la_fuenter": 1205,
-              "hawkinsh": 1046,
-              "la_rivag": 1036
+              "bidenj": 131957,
+              "trumpd": 163199,
+              "jorgensenj": 3913,
+              "de_la_fuenter": 1242,
+              "la_rivag": 1080,
+              "hawkinsh": 1066
             },
             "results_absentee": {
               "bidenj": 66392,
               "trumpd": 57804,
               "jorgensenj": 1418,
               "de_la_fuenter": 434,
-              "hawkinsh": 465,
-              "la_rivag": 429
+              "la_rivag": 429,
+              "hawkinsh": 465
             },
-            "last_updated": "2020-11-25T02:40:42Z",
-            "leader_margin_value": 10.43501,
+            "last_updated": "2020-11-26T03:48:13Z",
+            "leader_margin_value": 10.3294,
             "leader_margin_display": "R+10",
             "leader_margin_name_display": "Trump +10",
             "leader_party_id": "republican",
-            "margin2020": 10.43501,
+            "margin2020": 10.3294,
             "votes2016": 244163,
             "margin2016": 12.7,
             "votes2012": 221472,
@@ -1463,15 +1463,15 @@
           {
             "fips": "06055",
             "name": "Napa",
-            "votes": 67847,
+            "votes": 72122,
             "absentee_votes": 42386,
-            "reporting": 185,
+            "reporting": 191,
             "precincts": 191,
             "absentee_method": "Other",
-            "eevp": 97,
+            "eevp": 100,
             "tot_exp_vote": 69964,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "all",
@@ -1480,12 +1480,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 46962,
-              "trumpd": 19388,
-              "jorgensenj": 844,
-              "hawkinsh": 292,
-              "de_la_fuenter": 217,
-              "la_rivag": 144
+              "bidenj": 49817,
+              "trumpd": 20676,
+              "jorgensenj": 914,
+              "hawkinsh": 310,
+              "de_la_fuenter": 241,
+              "la_rivag": 164
             },
             "results_absentee": {
               "bidenj": 31270,
@@ -1495,12 +1495,12 @@
               "de_la_fuenter": 104,
               "la_rivag": 71
             },
-            "last_updated": "2020-11-24T13:22:49Z",
-            "leader_margin_value": 40.64144,
-            "leader_margin_display": "D+41",
-            "leader_margin_name_display": "Biden +41",
+            "last_updated": "2020-11-26T03:48:13Z",
+            "leader_margin_value": 40.40515,
+            "leader_margin_display": "D+40",
+            "leader_margin_name_display": "Biden +40",
             "leader_party_id": "democrat",
-            "margin2020": -40.64144,
+            "margin2020": -40.40515,
             "votes2016": 61372,
             "margin2016": -35.5,
             "votes2012": 56968,
@@ -1555,7 +1555,7 @@
           {
             "fips": "06059",
             "name": "Orange",
-            "votes": 1521719,
+            "votes": 1521725,
             "absentee_votes": 1086838,
             "reporting": 1795,
             "precincts": 1795,
@@ -1572,8 +1572,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 814005,
-              "trumpd": 676496,
+              "bidenj": 814009,
+              "trumpd": 676498,
               "jorgensenj": 17325,
               "hawkinsh": 5819,
               "de_la_fuenter": 4642,
@@ -1587,12 +1587,12 @@
               "de_la_fuenter": 2904,
               "la_rivag": 2116
             },
-            "last_updated": "2020-11-25T02:40:41Z",
-            "leader_margin_value": 9.03643,
+            "last_updated": "2020-11-26T03:48:12Z",
+            "leader_margin_value": 9.03652,
             "leader_margin_display": "D+9",
             "leader_margin_name_display": "Biden +9",
             "leader_party_id": "democrat",
-            "margin2020": -9.03643,
+            "margin2020": -9.03652,
             "votes2016": 1197521,
             "margin2016": -8.6,
             "votes2012": 1122664,
@@ -1785,7 +1785,7 @@
           {
             "fips": "06069",
             "name": "San Benito",
-            "votes": 28317,
+            "votes": 28789,
             "absentee_votes": 21132,
             "reporting": 54,
             "precincts": 54,
@@ -1802,12 +1802,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 17315,
-              "trumpd": 10412,
-              "jorgensenj": 337,
-              "hawkinsh": 89,
-              "de_la_fuenter": 83,
-              "la_rivag": 81
+              "bidenj": 17604,
+              "trumpd": 10582,
+              "jorgensenj": 345,
+              "hawkinsh": 91,
+              "de_la_fuenter": 84,
+              "la_rivag": 83
             },
             "results_absentee": {
               "bidenj": 13404,
@@ -1817,12 +1817,12 @@
               "de_la_fuenter": 49,
               "la_rivag": 60
             },
-            "last_updated": "2020-11-24T13:23:01Z",
-            "leader_margin_value": 24.37758,
+            "last_updated": "2020-11-26T03:48:12Z",
+            "leader_margin_value": 24.39126,
             "leader_margin_display": "D+24",
             "leader_margin_name_display": "Biden +24",
             "leader_party_id": "democrat",
-            "margin2020": -24.37758,
+            "margin2020": -24.39126,
             "votes2016": 22122,
             "margin2016": -21.2,
             "votes2012": 19044,
@@ -1831,7 +1831,7 @@
           {
             "fips": "06071",
             "name": "San Bernardino",
-            "votes": 836393,
+            "votes": 838640,
             "absentee_votes": 342615,
             "reporting": 2327,
             "precincts": 2327,
@@ -1848,12 +1848,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 453380,
-              "trumpd": 364325,
-              "jorgensenj": 8730,
-              "hawkinsh": 3596,
-              "de_la_fuenter": 3331,
-              "la_rivag": 3031
+              "bidenj": 454495,
+              "trumpd": 365400,
+              "jorgensenj": 8757,
+              "hawkinsh": 3607,
+              "de_la_fuenter": 3341,
+              "la_rivag": 3040
             },
             "results_absentee": {
               "bidenj": 218798,
@@ -1863,12 +1863,12 @@
               "de_la_fuenter": 1078,
               "la_rivag": 1033
             },
-            "last_updated": "2020-11-24T13:23:04Z",
-            "leader_margin_value": 10.64751,
+            "last_updated": "2020-11-26T03:48:12Z",
+            "leader_margin_value": 10.62375,
             "leader_margin_display": "D+11",
             "leader_margin_name_display": "Biden +11",
             "leader_party_id": "democrat",
-            "margin2020": -10.64751,
+            "margin2020": -10.62375,
             "votes2016": 653983,
             "margin2016": -10.6,
             "votes2012": 581517,
@@ -1877,7 +1877,7 @@
           {
             "fips": "06073",
             "name": "San Diego",
-            "votes": 1600272,
+            "votes": 1600975,
             "absentee_votes": 1399950,
             "reporting": 1414,
             "precincts": 1414,
@@ -1894,12 +1894,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 963797,
-              "trumpd": 599539,
-              "jorgensenj": 21359,
-              "hawkinsh": 7416,
-              "de_la_fuenter": 5299,
-              "la_rivag": 2862
+              "bidenj": 964269,
+              "trumpd": 599751,
+              "jorgensenj": 21375,
+              "hawkinsh": 7417,
+              "de_la_fuenter": 5300,
+              "la_rivag": 2863
             },
             "results_absentee": {
               "bidenj": 881463,
@@ -1909,12 +1909,12 @@
               "de_la_fuenter": 4447,
               "la_rivag": 2409
             },
-            "last_updated": "2020-11-24T13:23:06Z",
-            "leader_margin_value": 22.76226,
+            "last_updated": "2020-11-26T03:48:12Z",
+            "leader_margin_value": 22.7685,
             "leader_margin_display": "D+23",
             "leader_margin_name_display": "Biden +23",
             "leader_party_id": "democrat",
-            "margin2020": -22.76226,
+            "margin2020": -22.7685,
             "votes2016": 1311618,
             "margin2016": -19.6,
             "votes2012": 1192282,
@@ -2107,15 +2107,15 @@
           {
             "fips": "06083",
             "name": "Santa Barbara",
-            "votes": 194378,
+            "votes": 200288,
             "absentee_votes": 0,
-            "reporting": 218,
+            "reporting": 224,
             "precincts": 226,
             "absentee_method": "Released as a separate subtotal as first report of the night",
-            "eevp": 96,
+            "eevp": 99,
             "tot_exp_vote": 201536,
-            "eevp_value": "96%",
-            "eevp_display": "96% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "unknown",
@@ -2124,12 +2124,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 126419,
-              "trumpd": 63583,
-              "jorgensenj": 2317,
-              "hawkinsh": 889,
-              "de_la_fuenter": 681,
-              "la_rivag": 489
+              "bidenj": 129963,
+              "trumpd": 65736,
+              "jorgensenj": 2416,
+              "hawkinsh": 939,
+              "de_la_fuenter": 714,
+              "la_rivag": 520
             },
             "results_absentee": {
               "bidenj": 0,
@@ -2139,12 +2139,12 @@
               "de_la_fuenter": 0,
               "la_rivag": 0
             },
-            "last_updated": "2020-11-24T13:23:16Z",
-            "leader_margin_value": 32.3267,
+            "last_updated": "2020-11-26T03:48:11Z",
+            "leader_margin_value": 32.06732,
             "leader_margin_display": "D+32",
             "leader_margin_name_display": "Biden +32",
             "leader_party_id": "democrat",
-            "margin2020": -32.3267,
+            "margin2020": -32.06732,
             "votes2016": 178878,
             "margin2016": -28.4,
             "votes2012": 163320,
@@ -2659,7 +2659,7 @@
           {
             "fips": "06107",
             "name": "Tulare",
-            "votes": 146487,
+            "votes": 146832,
             "absentee_votes": 81532,
             "reporting": 271,
             "precincts": 271,
@@ -2676,12 +2676,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 65944,
-              "trumpd": 77413,
-              "jorgensenj": 1495,
-              "de_la_fuenter": 622,
-              "la_rivag": 534,
-              "hawkinsh": 479
+              "bidenj": 66105,
+              "trumpd": 77579,
+              "jorgensenj": 1498,
+              "de_la_fuenter": 632,
+              "la_rivag": 535,
+              "hawkinsh": 483
             },
             "results_absentee": {
               "bidenj": 39863,
@@ -2691,12 +2691,12 @@
               "la_rivag": 268,
               "hawkinsh": 264
             },
-            "last_updated": "2020-11-24T13:23:29Z",
-            "leader_margin_value": 7.82936,
+            "last_updated": "2020-11-26T03:48:15Z",
+            "leader_margin_value": 7.81437,
             "leader_margin_display": "R+8",
             "leader_margin_name_display": "Trump +8",
             "leader_party_id": "republican",
-            "margin2020": 7.82936,
+            "margin2020": 7.81437,
             "votes2016": 114102,
             "margin2016": 9.4,
             "votes2012": 101100,
@@ -2797,15 +2797,15 @@
           {
             "fips": "06113",
             "name": "Yolo",
-            "votes": 82624,
+            "votes": 95414,
             "absentee_votes": 0,
-            "reporting": 51,
+            "reporting": 58,
             "precincts": 58,
             "absentee_method": "Released as a separate subtotal as first report of the night",
-            "eevp": 88,
+            "eevp": 100,
             "tot_exp_vote": 93583,
-            "eevp_value": "88%",
-            "eevp_display": "88% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "some",
@@ -2814,12 +2814,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 58328,
-              "trumpd": 22422,
-              "jorgensenj": 954,
-              "hawkinsh": 423,
-              "la_rivag": 258,
-              "de_la_fuenter": 239
+              "bidenj": 66357,
+              "trumpd": 26737,
+              "jorgensenj": 1180,
+              "hawkinsh": 533,
+              "la_rivag": 316,
+              "de_la_fuenter": 291
             },
             "results_absentee": {
               "bidenj": 0,
@@ -2829,12 +2829,12 @@
               "la_rivag": 0,
               "de_la_fuenter": 0
             },
-            "last_updated": "2020-11-24T13:23:32Z",
-            "leader_margin_value": 43.45711,
-            "leader_margin_display": "D+43",
-            "leader_margin_name_display": "Biden +43",
+            "last_updated": "2020-11-26T03:48:15Z",
+            "leader_margin_value": 41.5243,
+            "leader_margin_display": "D+42",
+            "leader_margin_name_display": "Biden +42",
             "leader_party_id": "democrat",
-            "margin2020": -43.45711,
+            "margin2020": -41.5243,
             "votes2016": 82090,
             "margin2016": -41.4,
             "votes2012": 74475,
@@ -5152,6 +5152,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-25T21:49:35Z"
+          },
+          {
+            "vote_shares": {
+              "bidenj": 0.635,
+              "trumpd": 0.343
+            },
+            "votes": 17432075,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-26T03:49:19Z"
           }
         ]
       },
@@ -6970,7 +6980,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 293248,
+        "votes": 302970,
         "absentee_votes": 19885,
         "absentee_counties": 2,
         "absentee_count_progress": "unknown",
@@ -6983,19 +6993,19 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 522,
+        "precincts_reporting": 528,
         "precincts_total": 556,
-        "reporting_display": "94% reporting",
-        "reporting_value": "94%",
-        "eevp": 98,
+        "reporting_display": "95% reporting",
+        "reporting_value": "95%",
+        "eevp": 100,
         "tot_exp_vote": 299000,
         "eevp_source": "edison",
-        "eevp_value": "98%",
-        "eevp_display": "98% reported",
+        "eevp_value": ">98%",
+        "eevp_display": ">98% reported",
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-25T02:41:09Z",
+        "last_updated": "2020-11-26T03:51:47Z",
         "candidates": [
           {
             "candidate_id": "garamendi-7136-5-h",
@@ -7008,9 +7018,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 162470,
-            "percent": 55.4,
-            "percent_display": "55.4",
+            "votes": 168513,
+            "percent": 55.6,
+            "percent_display": "55.6",
             "electoral_votes": 0,
             "absentee_votes": 9278,
             "absentee_percent": 46.7,
@@ -7029,9 +7039,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 130778,
-            "percent": 44.6,
-            "percent_display": "44.6",
+            "votes": 134457,
+            "percent": 44.4,
+            "percent_display": "44.4",
             "electoral_votes": 0,
             "absentee_votes": 10607,
             "absentee_percent": 53.3,
@@ -7041,8 +7051,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 10.80723,
-        "leader_margin_votes": 31692,
+        "leader_margin_value": 11.24072,
+        "leader_margin_votes": 34056,
         "leader_margin_display": "D+11",
         "leader_margin_name_display": "Garamendi +11",
         "leader_party_id": "democrat",
@@ -7050,7 +7060,7 @@
           {
             "fips": "06011",
             "name": "Colusa",
-            "votes": 7634,
+            "votes": 7665,
             "absentee_votes": 0,
             "reporting": 18,
             "precincts": 18,
@@ -7067,15 +7077,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "garamendij": 3325,
-              "hamiltont": 4309
+              "garamendij": 3341,
+              "hamiltont": 4324
             },
             "results_absentee": {
               "garamendij": 0,
               "hamiltont": 0
             },
-            "last_updated": "2020-11-24T13:22:33Z",
-            "leader_margin_value": 12.8897,
+            "last_updated": "2020-11-26T03:51:34Z",
+            "leader_margin_value": 12.82453,
             "leader_margin_display": "R+13",
             "leader_margin_name_display": "Hamilton +13",
             "leader_party_id": "republican"
@@ -7248,15 +7258,15 @@
           {
             "fips": "06113",
             "name": "Yolo",
-            "votes": 61585,
+            "votes": 71276,
             "absentee_votes": 0,
-            "reporting": 39,
+            "reporting": 45,
             "precincts": 46,
             "absentee_method": "Released as a separate subtotal as first report of the night",
-            "eevp": 85,
+            "eevp": 98,
             "tot_exp_vote": 72613,
-            "eevp_value": "85%",
-            "eevp_display": "85% reported",
+            "eevp_value": "98%",
+            "eevp_display": "98% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "some",
@@ -7265,17 +7275,17 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "garamendij": 44115,
-              "hamiltont": 17470
+              "garamendij": 50142,
+              "hamiltont": 21134
             },
             "results_absentee": {
               "garamendij": 0,
               "hamiltont": 0
             },
-            "last_updated": "2020-11-24T13:22:34Z",
-            "leader_margin_value": 43.26541,
-            "leader_margin_display": "D+43",
-            "leader_margin_name_display": "Garamendi +43",
+            "last_updated": "2020-11-26T03:51:28Z",
+            "leader_margin_value": 40.69813,
+            "leader_margin_display": "D+41",
+            "leader_margin_name_display": "Garamendi +41",
             "leader_party_id": "democrat"
           },
           {
@@ -7328,12 +7338,12 @@
             "sentence_type": "race_won"
           },
           "eevp": {
-            "sentence": "98% of the estimated vote total has been reported.",
-            "timestamp": 1605926531351,
-            "is_new": false,
+            "sentence": "Nearly all of the estimated vote total has been reported.",
+            "timestamp": 1606362846610,
+            "is_new": true,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "98% of the estimated vote total has been reported.",
+            "generatedText": "Nearly all of the estimated vote total has been reported.",
             "sentence_type": "has_eevp"
           },
           "eevp_leadin": {
@@ -7356,11 +7366,274 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
-            "additional_precincts_reported": false,
-            "has_eevp": true
+            "additional_votes_reported": true,
+            "additional_precincts_reported": true,
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": false,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 2,
+            "prev_eevp": 98,
+            "num_additional_votes": 9722,
+            "prev_votes": 293248,
+            "num_additional_precincts": 6,
+            "prev_precincts": 522,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 1.1,
+            "prev_precinct_percentage_points": 93.9,
+            "lead_margin_change_votes": 2364,
+            "lead_margin_change_percentage_points": 0.4000000000000057,
+            "previous_leading_candidate": {
+              "candidate_id": "garamendi-7136-5-h",
+              "candidate_key": "garamendij",
+              "first_name": "John",
+              "last_name": "Garamendi",
+              "order": 1,
+              "name_display": "John Garamendi",
+              "party_id": "democrat",
+              "incumbent": true,
+              "runoff": false,
+              "winner": true,
+              "votes": 162470,
+              "percent": 55.4,
+              "percent_display": "55.4",
+              "electoral_votes": 0,
+              "absentee_votes": 9278,
+              "absentee_percent": 46.7,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/garamendi-7136-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "previous_second_candidate": {
+              "candidate_id": "hamilton-20073105-5-h",
+              "candidate_key": "hamiltont",
+              "first_name": "Tamika",
+              "last_name": "Hamilton",
+              "order": 2,
+              "name_display": "Tamika Hamilton",
+              "party_id": "republican",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 130778,
+              "percent": 44.6,
+              "percent_display": "44.6",
+              "electoral_votes": 0,
+              "absentee_votes": 10607,
+              "absentee_percent": 53.3,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/hamilton-20073105-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "garamendi-7136-5-h",
+                "num_additional_votes": 6043,
+                "prev_votes": 162470,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0.2,
+                "prev_percent": 55.4
+              },
+              {
+                "candidate_id": "hamilton-20073105-5-h",
+                "num_additional_votes": 3679,
+                "prev_votes": 130778,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": -0.2,
+                "prev_percent": 44.6
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [],
+            "change_by_county": [
+              {
+                "name": "Colusa",
+                "fips": "06011",
+                "num_additional_votes": 31,
+                "prev_votes": 7634,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 18,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "garamendij": {
+                    "prev_votes": 3325,
+                    "num_additional_votes": 16
+                  },
+                  "hamiltont": {
+                    "prev_votes": 4309,
+                    "num_additional_votes": 15
+                  }
+                }
+              },
+              {
+                "name": "Glenn",
+                "fips": "06021",
+                "num_additional_votes": 0,
+                "prev_votes": 9986,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 66,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "garamendij": {
+                    "prev_votes": 3730,
+                    "num_additional_votes": 0
+                  },
+                  "hamiltont": {
+                    "prev_votes": 6256,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Lake",
+                "fips": "06033",
+                "num_additional_votes": 0,
+                "prev_votes": 5689,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 32,
+                "prev_eevp": 46,
+                "candidate_changes": {
+                  "garamendij": {
+                    "prev_votes": 3487,
+                    "num_additional_votes": 0
+                  },
+                  "hamiltont": {
+                    "prev_votes": 2202,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Sacramento",
+                "fips": "06067",
+                "num_additional_votes": 0,
+                "prev_votes": 15525,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 15,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "garamendij": {
+                    "prev_votes": 6706,
+                    "num_additional_votes": 0
+                  },
+                  "hamiltont": {
+                    "prev_votes": 8819,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Solano",
+                "fips": "06095",
+                "num_additional_votes": 0,
+                "prev_votes": 132347,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 300,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "garamendij": {
+                    "prev_votes": 74688,
+                    "num_additional_votes": 0
+                  },
+                  "hamiltont": {
+                    "prev_votes": 57659,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Sutter",
+                "fips": "06101",
+                "num_additional_votes": 0,
+                "prev_votes": 41878,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 45,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "garamendij": {
+                    "prev_votes": 18329,
+                    "num_additional_votes": 0
+                  },
+                  "hamiltont": {
+                    "prev_votes": 23549,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Yolo",
+                "fips": "06113",
+                "num_additional_votes": 9691,
+                "prev_votes": 61585,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 13,
+                "prev_precincts": 46,
+                "prev_eevp": 85,
+                "candidate_changes": {
+                  "garamendij": {
+                    "prev_votes": 44115,
+                    "num_additional_votes": 6027
+                  },
+                  "hamiltont": {
+                    "prev_votes": 17470,
+                    "num_additional_votes": 3664
+                  }
+                }
+              },
+              {
+                "name": "Yuba",
+                "fips": "06115",
+                "num_additional_votes": 0,
+                "prev_votes": 18604,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 34,
+                "prev_eevp": 72,
+                "candidate_changes": {
+                  "garamendij": {
+                    "prev_votes": 8090,
+                    "num_additional_votes": 0
+                  },
+                  "hamiltont": {
+                    "prev_votes": 10514,
+                    "num_additional_votes": 0
+                  }
+                }
+              }
+            ]
+          }
         },
         "winnerCalledTimestamp": 1604470050549,
         "timeseries": [
@@ -7873,6 +8146,16 @@
             "eevp": 98,
             "eevp_source": "edison",
             "timestamp": "2020-11-25T02:41:09Z"
+          },
+          {
+            "vote_shares": {
+              "garamendij": 0.556,
+              "hamiltont": 0.444
+            },
+            "votes": 302970,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-26T03:51:47Z"
           }
         ]
       },
@@ -8938,7 +9221,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 341919,
+        "votes": 346073,
         "absentee_votes": 68433,
         "absentee_counties": 2,
         "absentee_count_progress": "unknown",
@@ -8951,19 +9234,19 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 752,
+        "precincts_reporting": 759,
         "precincts_total": 784,
-        "reporting_display": "96% reporting",
-        "reporting_value": "96%",
-        "eevp": 98,
+        "reporting_display": "97% reporting",
+        "reporting_value": "97%",
+        "eevp": 99,
         "tot_exp_vote": 348000,
         "eevp_source": "edison",
-        "eevp_value": "98%",
-        "eevp_display": "98% reported",
+        "eevp_value": ">98%",
+        "eevp_display": ">98% reported",
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-25T02:41:09Z",
+        "last_updated": "2020-11-26T03:51:47Z",
         "candidates": [
           {
             "candidate_id": "thompson-76-5-h",
@@ -8976,9 +9259,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 262542,
-            "percent": 76.8,
-            "percent_display": "76.8",
+            "votes": 265541,
+            "percent": 76.7,
+            "percent_display": "76.7",
             "electoral_votes": 0,
             "absentee_votes": 54217,
             "absentee_percent": 79.2,
@@ -8997,9 +9280,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 79377,
-            "percent": 23.2,
-            "percent_display": "23.2",
+            "votes": 80532,
+            "percent": 23.3,
+            "percent_display": "23.3",
             "electoral_votes": 0,
             "absentee_votes": 14216,
             "absentee_percent": 20.8,
@@ -9009,16 +9292,16 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 53.56971,
-        "leader_margin_votes": 183165,
-        "leader_margin_display": "D+54",
-        "leader_margin_name_display": "Thompson +54",
+        "leader_margin_value": 53.45953,
+        "leader_margin_votes": 185009,
+        "leader_margin_display": "D+53",
+        "leader_margin_name_display": "Thompson +53",
         "leader_party_id": "democrat",
         "counties": [
           {
             "fips": "06013",
             "name": "Contra Costa",
-            "votes": 47943,
+            "votes": 48026,
             "absentee_votes": 26718,
             "reporting": 83,
             "precincts": 83,
@@ -9035,15 +9318,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "thompsonm": 36998,
-              "giblins": 10945
+              "thompsonm": 37063,
+              "giblins": 10963
             },
             "results_absentee": {
               "thompsonm": 21878,
               "giblins": 4840
             },
-            "last_updated": "2020-11-24T13:23:40Z",
-            "leader_margin_value": 54.34161,
+            "last_updated": "2020-11-26T03:51:34Z",
+            "leader_margin_value": 54.34556,
             "leader_margin_display": "D+54",
             "leader_margin_name_display": "Thompson +54",
             "leader_party_id": "democrat"
@@ -9084,15 +9367,15 @@
           {
             "fips": "06055",
             "name": "Napa",
-            "votes": 66605,
+            "votes": 70676,
             "absentee_votes": 41715,
-            "reporting": 184,
+            "reporting": 191,
             "precincts": 191,
             "absentee_method": "Other",
-            "eevp": 96,
+            "eevp": 100,
             "tot_exp_vote": 69118,
-            "eevp_value": "96%",
-            "eevp_display": "96% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "all",
@@ -9101,15 +9384,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "thompsonm": 49270,
-              "giblins": 17335
+              "thompsonm": 52204,
+              "giblins": 18472
             },
             "results_absentee": {
               "thompsonm": 32339,
               "giblins": 9376
             },
-            "last_updated": "2020-11-24T13:23:41Z",
-            "leader_margin_value": 47.94685,
+            "last_updated": "2020-11-26T03:51:32Z",
+            "leader_margin_value": 47.72766,
             "leader_margin_display": "D+48",
             "leader_margin_name_display": "Thompson +48",
             "leader_party_id": "democrat"
@@ -9197,12 +9480,12 @@
             "sentence_type": "race_won"
           },
           "eevp": {
-            "sentence": "98% of the estimated vote total has been reported.",
-            "timestamp": 1605926531351,
-            "is_new": false,
+            "sentence": "Nearly all of the estimated vote total has been reported.",
+            "timestamp": 1606362846610,
+            "is_new": true,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "98% of the estimated vote total has been reported.",
+            "generatedText": "Nearly all of the estimated vote total has been reported.",
             "sentence_type": "has_eevp"
           },
           "eevp_leadin": {
@@ -9225,11 +9508,216 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
-            "additional_precincts_reported": false,
-            "has_eevp": true
+            "additional_votes_reported": true,
+            "additional_precincts_reported": true,
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": true,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 1,
+            "prev_eevp": 98,
+            "num_additional_votes": 4154,
+            "prev_votes": 341919,
+            "num_additional_precincts": 7,
+            "prev_precincts": 752,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 0.9,
+            "prev_precinct_percentage_points": 95.9,
+            "lead_margin_change_votes": 1844,
+            "lead_margin_change_percentage_points": -0.19999999999998863,
+            "previous_leading_candidate": {
+              "candidate_id": "thompson-76-5-h",
+              "candidate_key": "thompsonm",
+              "first_name": "Mike",
+              "last_name": "Thompson",
+              "order": 1,
+              "name_display": "Mike Thompson",
+              "party_id": "democrat",
+              "incumbent": true,
+              "runoff": false,
+              "winner": true,
+              "votes": 262542,
+              "percent": 76.8,
+              "percent_display": "76.8",
+              "electoral_votes": 0,
+              "absentee_votes": 54217,
+              "absentee_percent": 79.2,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/thompson-76-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "previous_second_candidate": {
+              "candidate_id": "giblin-20073107-5-h",
+              "candidate_key": "giblins",
+              "first_name": "Scott",
+              "last_name": "Giblin",
+              "order": 2,
+              "name_display": "Scott Giblin",
+              "party_id": "republican",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 79377,
+              "percent": 23.2,
+              "percent_display": "23.2",
+              "electoral_votes": 0,
+              "absentee_votes": 14216,
+              "absentee_percent": 20.8,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/giblin-20073107-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "thompson-76-5-h",
+                "num_additional_votes": 2999,
+                "prev_votes": 262542,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": -0.1,
+                "prev_percent": 76.8
+              },
+              {
+                "candidate_id": "giblin-20073107-5-h",
+                "num_additional_votes": 1155,
+                "prev_votes": 79377,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0.1,
+                "prev_percent": 23.2
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [
+              "06055"
+            ],
+            "change_by_county": [
+              {
+                "name": "Contra Costa",
+                "fips": "06013",
+                "num_additional_votes": 83,
+                "prev_votes": 47943,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 83,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "thompsonm": {
+                    "prev_votes": 36998,
+                    "num_additional_votes": 65
+                  },
+                  "giblins": {
+                    "prev_votes": 10945,
+                    "num_additional_votes": 18
+                  }
+                }
+              },
+              {
+                "name": "Lake",
+                "fips": "06033",
+                "num_additional_votes": 0,
+                "prev_votes": 5279,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 38,
+                "prev_eevp": 35,
+                "candidate_changes": {
+                  "thompsonm": {
+                    "prev_votes": 3573,
+                    "num_additional_votes": 0
+                  },
+                  "giblins": {
+                    "prev_votes": 1706,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Napa",
+                "fips": "06055",
+                "num_additional_votes": 4071,
+                "prev_votes": 66605,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 4,
+                "prev_precincts": 191,
+                "prev_eevp": 96,
+                "candidate_changes": {
+                  "thompsonm": {
+                    "prev_votes": 49270,
+                    "num_additional_votes": 2934
+                  },
+                  "giblins": {
+                    "prev_votes": 17335,
+                    "num_additional_votes": 1137
+                  }
+                }
+              },
+              {
+                "name": "Solano",
+                "fips": "06095",
+                "num_additional_votes": 0,
+                "prev_votes": 70623,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 89,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "thompsonm": {
+                    "prev_votes": 55271,
+                    "num_additional_votes": 0
+                  },
+                  "giblins": {
+                    "prev_votes": 15352,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Sonoma",
+                "fips": "06097",
+                "num_additional_votes": 0,
+                "prev_votes": 151469,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 383,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "thompsonm": {
+                    "prev_votes": 117430,
+                    "num_additional_votes": 0
+                  },
+                  "giblins": {
+                    "prev_votes": 34039,
+                    "num_additional_votes": 0
+                  }
+                }
+              }
+            ]
+          }
         },
         "winnerCalledTimestamp": 1604465942865,
         "timeseries": [
@@ -9612,6 +10100,16 @@
             "eevp": 98,
             "eevp_source": "edison",
             "timestamp": "2020-11-25T02:41:09Z"
+          },
+          {
+            "vote_shares": {
+              "thompsonm": 0.767,
+              "giblins": 0.233
+            },
+            "votes": 346073,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-26T03:51:47Z"
           }
         ]
       },
@@ -9645,7 +10143,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 309893,
+        "votes": 312684,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": "unknown",
@@ -9670,7 +10168,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-24T23:41:08Z",
+        "last_updated": "2020-11-26T03:51:46Z",
         "candidates": [
           {
             "candidate_id": "matsui-51416-5-h",
@@ -9683,9 +10181,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 227624,
-            "percent": 73.5,
-            "percent_display": "73.5",
+            "votes": 229415,
+            "percent": 73.4,
+            "percent_display": "73.4",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -9704,9 +10202,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 82269,
-            "percent": 26.5,
-            "percent_display": "26.5",
+            "votes": 83269,
+            "percent": 26.6,
+            "percent_display": "26.6",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -9716,8 +10214,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 46.9049,
-        "leader_margin_votes": 145355,
+        "leader_margin_value": 46.7392,
+        "leader_margin_votes": 146146,
         "leader_margin_display": "D+47",
         "leader_margin_name_display": "Matsui +47",
         "leader_party_id": "democrat",
@@ -9758,12 +10256,12 @@
           {
             "fips": "06113",
             "name": "Yolo",
-            "votes": 19467,
+            "votes": 22258,
             "absentee_votes": 0,
             "reporting": 12,
             "precincts": 12,
             "absentee_method": "Released as a separate subtotal as first report of the night",
-            "eevp": 99,
+            "eevp": 100,
             "tot_exp_vote": 19697,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
@@ -9775,15 +10273,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "matsuid": 12854,
-              "bishc": 6613
+              "matsuid": 14645,
+              "bishc": 7613
             },
             "results_absentee": {
               "matsuid": 0,
               "bishc": 0
             },
-            "last_updated": "2020-11-24T13:22:01Z",
-            "leader_margin_value": 32.05938,
+            "last_updated": "2020-11-26T03:51:28Z",
+            "leader_margin_value": 31.59314,
             "leader_margin_display": "D+32",
             "leader_margin_name_display": "Matsui +32",
             "leader_party_id": "democrat"
@@ -9833,11 +10331,154 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
+            "additional_votes_reported": true,
             "additional_precincts_reported": false,
-            "has_eevp": true
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": false,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 0,
+            "prev_eevp": 100,
+            "num_additional_votes": 2791,
+            "prev_votes": 309893,
+            "num_additional_precincts": 0,
+            "prev_precincts": 290,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 0,
+            "prev_precinct_percentage_points": 100,
+            "lead_margin_change_votes": 791,
+            "lead_margin_change_percentage_points": -0.19999999999999574,
+            "previous_leading_candidate": {
+              "candidate_id": "matsui-51416-5-h",
+              "candidate_key": "matsuid",
+              "first_name": "Doris",
+              "last_name": "Matsui",
+              "order": 1,
+              "name_display": "Doris Matsui",
+              "party_id": "democrat",
+              "incumbent": true,
+              "runoff": false,
+              "winner": true,
+              "votes": 227624,
+              "percent": 73.5,
+              "percent_display": "73.5",
+              "electoral_votes": 0,
+              "absentee_votes": 0,
+              "absentee_percent": 0,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/matsui-51416-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "previous_second_candidate": {
+              "candidate_id": "bish-20073427-5-h",
+              "candidate_key": "bishc",
+              "first_name": "Chris",
+              "last_name": "Bish",
+              "order": 2,
+              "name_display": "Chris Bish",
+              "party_id": "republican",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 82269,
+              "percent": 26.5,
+              "percent_display": "26.5",
+              "electoral_votes": 0,
+              "absentee_votes": 0,
+              "absentee_percent": 0,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/bish-20073427-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "matsui-51416-5-h",
+                "num_additional_votes": 1791,
+                "prev_votes": 227624,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": -0.1,
+                "prev_percent": 73.5
+              },
+              {
+                "candidate_id": "bish-20073427-5-h",
+                "num_additional_votes": 1000,
+                "prev_votes": 82269,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0.1,
+                "prev_percent": 26.5
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [],
+            "change_by_county": [
+              {
+                "name": "Sacramento",
+                "fips": "06067",
+                "num_additional_votes": 0,
+                "prev_votes": 290426,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 278,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "matsuid": {
+                    "prev_votes": 214770,
+                    "num_additional_votes": 0
+                  },
+                  "bishc": {
+                    "prev_votes": 75656,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Yolo",
+                "fips": "06113",
+                "num_additional_votes": 2791,
+                "prev_votes": 19467,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 1,
+                "prev_precincts": 12,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "matsuid": {
+                    "prev_votes": 12854,
+                    "num_additional_votes": 1791
+                  },
+                  "bishc": {
+                    "prev_votes": 6613,
+                    "num_additional_votes": 1000
+                  }
+                }
+              }
+            ]
+          }
         },
         "winnerCalledTimestamp": 1604472023544,
         "timeseries": [
@@ -10020,6 +10661,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-24T23:41:08Z"
+          },
+          {
+            "vote_shares": {
+              "matsuid": 0.734,
+              "bishc": 0.266
+            },
+            "votes": 312684,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-26T03:51:46Z"
           }
         ]
       },
@@ -10378,7 +11029,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 281576,
+        "votes": 282293,
         "absentee_votes": 121401,
         "absentee_counties": 3,
         "absentee_count_progress": "unknown",
@@ -10403,7 +11054,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-24T13:23:31Z",
+        "last_updated": "2020-11-26T03:51:46Z",
         "candidates": [
           {
             "candidate_id": "obernolte-20073428-5-h",
@@ -10416,7 +11067,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 157869,
+            "votes": 158308,
             "percent": 56.1,
             "percent_display": "56.1",
             "electoral_votes": 0,
@@ -10437,7 +11088,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 123707,
+            "votes": 123985,
             "percent": 43.9,
             "percent_display": "43.9",
             "electoral_votes": 0,
@@ -10449,8 +11100,8 @@
           }
         ],
         "has_incumbent": false,
-        "leader_margin_value": 12.13243,
-        "leader_margin_votes": 34162,
+        "leader_margin_value": 12.15864,
+        "leader_margin_votes": 34323,
         "leader_margin_display": "R+12",
         "leader_margin_name_display": "Obernolte +12",
         "leader_party_id": "republican",
@@ -10524,7 +11175,7 @@
           {
             "fips": "06071",
             "name": "San Bernardino",
-            "votes": 265937,
+            "votes": 266654,
             "absentee_votes": 111301,
             "reporting": 789,
             "precincts": 789,
@@ -10541,15 +11192,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "obernoltej": 150627,
-              "bubserc": 115310
+              "obernoltej": 151066,
+              "bubserc": 115588
             },
             "results_absentee": {
               "obernoltej": 51631,
               "bubserc": 59670
             },
-            "last_updated": "2020-11-24T13:23:38Z",
-            "leader_margin_value": 13.28021,
+            "last_updated": "2020-11-26T03:51:31Z",
+            "leader_margin_value": 13.30488,
             "leader_margin_display": "R+13",
             "leader_margin_name_display": "Obernolte +13",
             "leader_party_id": "republican"
@@ -10599,11 +11250,174 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
+            "additional_votes_reported": true,
             "additional_precincts_reported": false,
-            "has_eevp": true
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": false,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 0,
+            "prev_eevp": 100,
+            "num_additional_votes": 717,
+            "prev_votes": 281576,
+            "num_additional_precincts": 0,
+            "prev_precincts": 822,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 0,
+            "prev_precinct_percentage_points": 100,
+            "lead_margin_change_votes": 161,
+            "lead_margin_change_percentage_points": 0,
+            "previous_leading_candidate": {
+              "candidate_id": "obernolte-20073428-5-h",
+              "candidate_key": "obernoltej",
+              "first_name": "Jay",
+              "last_name": "Obernolte",
+              "order": 2,
+              "name_display": "Jay Obernolte",
+              "party_id": "republican",
+              "incumbent": false,
+              "runoff": false,
+              "winner": true,
+              "votes": 157869,
+              "percent": 56.1,
+              "percent_display": "56.1",
+              "electoral_votes": 0,
+              "absentee_votes": 55522,
+              "absentee_percent": 45.7,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/obernolte-20073428-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "previous_second_candidate": {
+              "candidate_id": "bubser-20073110-5-h",
+              "candidate_key": "bubserc",
+              "first_name": "Christine",
+              "last_name": "Bubser",
+              "order": 1,
+              "name_display": "Christine Bubser",
+              "party_id": "democrat",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 123707,
+              "percent": 43.9,
+              "percent_display": "43.9",
+              "electoral_votes": 0,
+              "absentee_votes": 65879,
+              "absentee_percent": 54.3,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/bubser-20073110-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "obernolte-20073428-5-h",
+                "num_additional_votes": 439,
+                "prev_votes": 157869,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 56.1
+              },
+              {
+                "candidate_id": "bubser-20073110-5-h",
+                "num_additional_votes": 278,
+                "prev_votes": 123707,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 43.9
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [],
+            "change_by_county": [
+              {
+                "name": "Inyo",
+                "fips": "06027",
+                "num_additional_votes": 0,
+                "prev_votes": 9243,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 21,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "obernoltej": {
+                    "prev_votes": 4693,
+                    "num_additional_votes": 0
+                  },
+                  "bubserc": {
+                    "prev_votes": 4550,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Mono",
+                "fips": "06051",
+                "num_additional_votes": 0,
+                "prev_votes": 6396,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 12,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "obernoltej": {
+                    "prev_votes": 2549,
+                    "num_additional_votes": 0
+                  },
+                  "bubserc": {
+                    "prev_votes": 3847,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "San Bernardino",
+                "fips": "06071",
+                "num_additional_votes": 717,
+                "prev_votes": 265937,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 789,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "obernoltej": {
+                    "prev_votes": 150627,
+                    "num_additional_votes": 439
+                  },
+                  "bubserc": {
+                    "prev_votes": 115310,
+                    "num_additional_votes": 278
+                  }
+                }
+              }
+            ]
+          }
         },
         "winnerCalledTimestamp": 1605029280714,
         "timeseries": [
@@ -10916,6 +11730,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-24T02:41:16Z"
+          },
+          {
+            "vote_shares": {
+              "obernoltej": 0.561,
+              "bubserc": 0.439
+            },
+            "votes": 282293,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-26T03:51:46Z"
           }
         ]
       },
@@ -12288,7 +13112,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 370686,
+        "votes": 371294,
         "absentee_votes": 211667,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -12313,7 +13137,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-24T13:23:26Z",
+        "last_updated": "2020-11-26T03:51:47Z",
         "candidates": [
           {
             "candidate_id": "desaulnier-60108-5-h",
@@ -12326,7 +13150,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 270622,
+            "votes": 271027,
             "percent": 73,
             "percent_display": "73.0",
             "electoral_votes": 0,
@@ -12347,7 +13171,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 100064,
+            "votes": 100267,
             "percent": 27,
             "percent_display": "27.0",
             "electoral_votes": 0,
@@ -12359,8 +13183,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 46.01145,
-        "leader_margin_votes": 170558,
+        "leader_margin_value": 45.99051,
+        "leader_margin_votes": 170760,
         "leader_margin_display": "D+46",
         "leader_margin_name_display": "DeSaulnier +46",
         "leader_party_id": "democrat",
@@ -12368,7 +13192,7 @@
           {
             "fips": "06013",
             "name": "Contra Costa",
-            "votes": 370686,
+            "votes": 371294,
             "absentee_votes": 211667,
             "reporting": 648,
             "precincts": 648,
@@ -12385,15 +13209,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "desaulnierm": 270622,
-              "sharman": 100064
+              "desaulnierm": 271027,
+              "sharman": 100267
             },
             "results_absentee": {
               "desaulnierm": 166241,
               "sharman": 45426
             },
-            "last_updated": "2020-11-24T13:23:33Z",
-            "leader_margin_value": 46.01145,
+            "last_updated": "2020-11-26T03:51:33Z",
+            "leader_margin_value": 45.99051,
             "leader_margin_display": "D+46",
             "leader_margin_name_display": "DeSaulnier +46",
             "leader_party_id": "democrat"
@@ -12443,11 +13267,134 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
+            "additional_votes_reported": true,
             "additional_precincts_reported": false,
-            "has_eevp": true
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": false,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 0,
+            "prev_eevp": 100,
+            "num_additional_votes": 608,
+            "prev_votes": 370686,
+            "num_additional_precincts": 0,
+            "prev_precincts": 648,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 0,
+            "prev_precinct_percentage_points": 100,
+            "lead_margin_change_votes": 202,
+            "lead_margin_change_percentage_points": 0,
+            "previous_leading_candidate": {
+              "candidate_id": "desaulnier-60108-5-h",
+              "candidate_key": "desaulnierm",
+              "first_name": "Mark",
+              "last_name": "DeSaulnier",
+              "order": 1,
+              "name_display": "Mark DeSaulnier",
+              "party_id": "democrat",
+              "incumbent": true,
+              "runoff": false,
+              "winner": true,
+              "votes": 270622,
+              "percent": 73,
+              "percent_display": "73.0",
+              "electoral_votes": 0,
+              "absentee_votes": 166241,
+              "absentee_percent": 78.5,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/desaulnier-60108-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "previous_second_candidate": {
+              "candidate_id": "sharma-20073429-5-h",
+              "candidate_key": "sharman",
+              "first_name": "Nisha",
+              "last_name": "Sharma",
+              "order": 2,
+              "name_display": "Nisha Sharma",
+              "party_id": "republican",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 100064,
+              "percent": 27,
+              "percent_display": "27.0",
+              "electoral_votes": 0,
+              "absentee_votes": 45426,
+              "absentee_percent": 21.5,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/sharma-20073429-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "desaulnier-60108-5-h",
+                "num_additional_votes": 405,
+                "prev_votes": 270622,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 73
+              },
+              {
+                "candidate_id": "sharma-20073429-5-h",
+                "num_additional_votes": 203,
+                "prev_votes": 100064,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 27
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [],
+            "change_by_county": [
+              {
+                "name": "Contra Costa",
+                "fips": "06013",
+                "num_additional_votes": 608,
+                "prev_votes": 370686,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 648,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "desaulnierm": {
+                    "prev_votes": 270622,
+                    "num_additional_votes": 405
+                  },
+                  "sharman": {
+                    "prev_votes": 100064,
+                    "num_additional_votes": 203
+                  }
+                }
+              }
+            ]
+          }
         },
         "winnerCalledTimestamp": 1604470079981,
         "timeseries": [
@@ -12560,6 +13507,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-21T02:41:19Z"
+          },
+          {
+            "vote_shares": {
+              "desaulnierm": 0.73,
+              "sharman": 0.27
+            },
+            "votes": 371294,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-26T03:51:47Z"
           }
         ]
       },
@@ -13356,7 +14313,7 @@
           {
             "fips": "06081",
             "name": "San Mateo",
-            "votes": 301859,
+            "votes": 302018,
             "absentee_votes": 184126,
             "reporting": 328,
             "precincts": 328,
@@ -13373,15 +14330,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "speierj": 238408,
-              "petelr": 63451
+              "speierj": 238527,
+              "petelr": 63491
             },
             "results_absentee": {
               "speierj": 152907,
               "petelr": 31219
             },
-            "last_updated": "2020-11-24T13:23:28Z",
-            "leader_margin_value": 57.95984,
+            "last_updated": "2020-11-26T03:51:29Z",
+            "leader_margin_value": 57.95549,
             "leader_margin_display": "D+58",
             "leader_margin_name_display": "Speier +58",
             "leader_party_id": "democrat"
@@ -15358,7 +16315,7 @@
           {
             "fips": "06081",
             "name": "San Mateo",
-            "votes": 59924,
+            "votes": 59950,
             "absentee_votes": 38115,
             "reporting": 68,
             "precincts": 75,
@@ -15375,15 +16332,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "eshooa": 41683,
-              "kumarr": 18241
+              "eshooa": 41698,
+              "kumarr": 18252
             },
             "results_absentee": {
               "eshooa": 28083,
               "kumarr": 10032
             },
-            "last_updated": "2020-11-24T13:23:25Z",
-            "leader_margin_value": 39.11955,
+            "last_updated": "2020-11-26T03:51:29Z",
+            "leader_margin_value": 39.10926,
             "leader_margin_display": "D+39",
             "leader_margin_name_display": "Eshoo +39",
             "leader_party_id": "democrat"
@@ -16960,7 +17917,7 @@
         "result_source": null,
         "gain": false,
         "lost_seat": "",
-        "votes": 166926,
+        "votes": 168553,
         "absentee_votes": 96649,
         "absentee_counties": 4,
         "absentee_count_progress": "unknown",
@@ -16985,7 +17942,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-25T02:41:09Z",
+        "last_updated": "2020-11-26T03:51:45Z",
         "candidates": [
           {
             "candidate_id": "valadao-62229-5-h",
@@ -16998,9 +17955,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 84373,
+            "votes": 85115,
             "percent": 50.5,
-            "percent_display": "50.5",
+            "percent_display": "50.50",
             "electoral_votes": 0,
             "absentee_votes": 48048,
             "absentee_percent": 49.7,
@@ -17019,9 +17976,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 82553,
+            "votes": 83438,
             "percent": 49.5,
-            "percent_display": "49.5",
+            "percent_display": "49.50",
             "electoral_votes": 0,
             "absentee_votes": 48601,
             "absentee_percent": 50.3,
@@ -17031,10 +17988,10 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 1.0903,
-        "leader_margin_votes": 1820,
-        "leader_margin_display": "R+1.1",
-        "leader_margin_name_display": "Valadao +1.1",
+        "leader_margin_value": 0.99494,
+        "leader_margin_votes": 1677,
+        "leader_margin_display": "R+0.99",
+        "leader_margin_name_display": "Valadao +0.99",
         "leader_party_id": "republican",
         "counties": [
           {
@@ -17073,7 +18030,7 @@
           {
             "fips": "06029",
             "name": "Kern",
-            "votes": 60130,
+            "votes": 61744,
             "absentee_votes": 25711,
             "reporting": 143,
             "precincts": 143,
@@ -17090,15 +18047,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "coxt": 35186,
-              "valadaod": 24944
+              "coxt": 36065,
+              "valadaod": 25679
             },
             "results_absentee": {
               "coxt": 16274,
               "valadaod": 9437
             },
-            "last_updated": "2020-11-25T02:41:05Z",
-            "leader_margin_value": 17.03309,
+            "last_updated": "2020-11-26T03:51:33Z",
+            "leader_margin_value": 16.82107,
             "leader_margin_display": "D+17",
             "leader_margin_name_display": "Cox +17",
             "leader_party_id": "democrat"
@@ -17139,7 +18096,7 @@
           {
             "fips": "06107",
             "name": "Tulare",
-            "votes": 5574,
+            "votes": 5587,
             "absentee_votes": 3167,
             "reporting": 11,
             "precincts": 11,
@@ -17156,17 +18113,17 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "coxt": 2792,
-              "valadaod": 2782
+              "coxt": 2798,
+              "valadaod": 2789
             },
             "results_absentee": {
               "coxt": 1557,
               "valadaod": 1610
             },
-            "last_updated": "2020-11-24T13:23:17Z",
-            "leader_margin_value": 0.1794,
-            "leader_margin_display": "D+0.18",
-            "leader_margin_name_display": "Cox +0.18",
+            "last_updated": "2020-11-26T03:51:28Z",
+            "leader_margin_value": 0.16109,
+            "leader_margin_display": "D+0.16",
+            "leader_margin_name_display": "Cox +0.16",
             "leader_party_id": "democrat"
           }
         ],
@@ -17211,11 +18168,194 @@
             "race_won": false,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
+            "additional_votes_reported": true,
             "additional_precincts_reported": false,
-            "has_eevp": true
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": true,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": true,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": true,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": true,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": false,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 0,
+            "prev_eevp": 100,
+            "num_additional_votes": 1627,
+            "prev_votes": 166926,
+            "num_additional_precincts": 0,
+            "prev_precincts": 313,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 0,
+            "prev_precinct_percentage_points": 100,
+            "lead_margin_change_votes": -143,
+            "lead_margin_change_percentage_points": 0,
+            "previous_leading_candidate": {
+              "candidate_id": "valadao-62229-5-h",
+              "candidate_key": "valadaod",
+              "first_name": "David",
+              "last_name": "Valadao",
+              "order": 2,
+              "name_display": "David Valadao",
+              "party_id": "republican",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 84373,
+              "percent": 50.5,
+              "percent_display": "50.5",
+              "electoral_votes": 0,
+              "absentee_votes": 48048,
+              "absentee_percent": 49.7,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/valadao-62229-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "previous_second_candidate": {
+              "candidate_id": "cox-51779-5-h",
+              "candidate_key": "coxt",
+              "first_name": "TJ",
+              "last_name": "Cox",
+              "order": 1,
+              "name_display": "TJ Cox",
+              "party_id": "democrat",
+              "incumbent": true,
+              "runoff": false,
+              "winner": false,
+              "votes": 82553,
+              "percent": 49.5,
+              "percent_display": "49.5",
+              "electoral_votes": 0,
+              "absentee_votes": 48601,
+              "absentee_percent": 50.3,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/cox-51779-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "cox-51779-5-h",
+                "num_additional_votes": 885,
+                "prev_votes": 82553,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 49.5
+              },
+              {
+                "candidate_id": "valadao-62229-5-h",
+                "num_additional_votes": 742,
+                "prev_votes": 84373,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 50.5
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [],
+            "change_by_county": [
+              {
+                "name": "Fresno",
+                "fips": "06019",
+                "num_additional_votes": 0,
+                "prev_votes": 58200,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 63,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "valadaod": {
+                    "prev_votes": 29988,
+                    "num_additional_votes": 0
+                  },
+                  "coxt": {
+                    "prev_votes": 28212,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Kern",
+                "fips": "06029",
+                "num_additional_votes": 1614,
+                "prev_votes": 60130,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 143,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "coxt": {
+                    "prev_votes": 35186,
+                    "num_additional_votes": 879
+                  },
+                  "valadaod": {
+                    "prev_votes": 24944,
+                    "num_additional_votes": 735
+                  }
+                }
+              },
+              {
+                "name": "Kings",
+                "fips": "06031",
+                "num_additional_votes": 0,
+                "prev_votes": 43022,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 96,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "valadaod": {
+                    "prev_votes": 26659,
+                    "num_additional_votes": 0
+                  },
+                  "coxt": {
+                    "prev_votes": 16363,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Tulare",
+                "fips": "06107",
+                "num_additional_votes": 13,
+                "prev_votes": 5574,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 11,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "coxt": {
+                    "prev_votes": 2792,
+                    "num_additional_votes": 6
+                  },
+                  "valadaod": {
+                    "prev_votes": 2782,
+                    "num_additional_votes": 7
+                  }
+                }
+              }
+            ]
+          }
         },
         "winnerCalledTimestamp": null,
         "timeseries": [
@@ -17588,6 +18728,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-25T02:41:09Z"
+          },
+          {
+            "vote_shares": {
+              "valadaod": 0.505,
+              "coxt": 0.495
+            },
+            "votes": 168553,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-26T03:51:45Z"
           }
         ]
       },
@@ -17734,7 +18884,7 @@
           {
             "fips": "06107",
             "name": "Tulare",
-            "votes": 111358,
+            "votes": 111568,
             "absentee_votes": 62773,
             "reporting": 204,
             "precincts": 204,
@@ -17751,15 +18901,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "nunesd": 62437,
-              "arballop": 48921
+              "nunesd": 62548,
+              "arballop": 49020
             },
             "results_absentee": {
               "nunesd": 32866,
               "arballop": 29907
             },
-            "last_updated": "2020-11-24T13:23:23Z",
-            "leader_margin_value": 12.13743,
+            "last_updated": "2020-11-26T03:51:28Z",
+            "leader_margin_value": 12.12534,
             "leader_margin_display": "R+12",
             "leader_margin_name_display": "Nunes +12",
             "leader_party_id": "republican"
@@ -18235,7 +19385,7 @@
           {
             "fips": "06107",
             "name": "Tulare",
-            "votes": 28924,
+            "votes": 29013,
             "absentee_votes": 15505,
             "reporting": 56,
             "precincts": 56,
@@ -18252,15 +19402,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mccarthyk": 17032,
-              "mangonek": 11892
+              "mccarthyk": 17084,
+              "mangonek": 11929
             },
             "results_absentee": {
               "mccarthyk": 8371,
               "mangonek": 7134
             },
-            "last_updated": "2020-11-24T13:23:03Z",
-            "leader_margin_value": 17.77071,
+            "last_updated": "2020-11-26T03:51:28Z",
+            "leader_margin_value": 17.7679,
             "leader_margin_display": "R+18",
             "leader_margin_name_display": "McCarthy +18",
             "leader_party_id": "republican"
@@ -18923,15 +20073,15 @@
           {
             "fips": "06083",
             "name": "Santa Barbara",
-            "votes": 193675,
+            "votes": 199365,
             "absentee_votes": 144148,
-            "reporting": 220,
+            "reporting": 226,
             "precincts": 226,
             "absentee_method": "Released as a separate subtotal as first report of the night",
-            "eevp": 97,
+            "eevp": 100,
             "tot_exp_vote": 199120,
-            "eevp_value": "97%",
-            "eevp_display": "97% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "unknown",
@@ -18940,15 +20090,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "carbajals": 121227,
-              "caldwella": 72448
+              "carbajals": 124584,
+              "caldwella": 74781
             },
             "results_absentee": {
               "carbajals": 95180,
               "caldwella": 48968
             },
-            "last_updated": "2020-11-24T13:23:05Z",
-            "leader_margin_value": 25.18601,
+            "last_updated": "2020-11-26T03:51:29Z",
+            "leader_margin_value": 24.98081,
             "leader_margin_display": "D+25",
             "leader_margin_name_display": "Carbajal +25",
             "leader_party_id": "democrat"
@@ -30717,7 +31867,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 384072,
+        "votes": 384181,
         "absentee_votes": 323370,
         "absentee_counties": 2,
         "absentee_count_progress": "unknown",
@@ -30742,7 +31892,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-24T13:22:33Z",
+        "last_updated": "2020-11-26T03:51:47Z",
         "candidates": [
           {
             "candidate_id": "levin-19875-5-h",
@@ -30755,7 +31905,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 204376,
+            "votes": 204458,
             "percent": 53.2,
             "percent_display": "53.2",
             "electoral_votes": 0,
@@ -30776,7 +31926,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 179696,
+            "votes": 179723,
             "percent": 46.8,
             "percent_display": "46.8",
             "electoral_votes": 0,
@@ -30788,8 +31938,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 6.42588,
-        "leader_margin_votes": 24680,
+        "leader_margin_value": 6.43837,
+        "leader_margin_votes": 24735,
         "leader_margin_display": "D+6",
         "leader_margin_name_display": "Levin +6",
         "leader_party_id": "democrat",
@@ -30830,7 +31980,7 @@
           {
             "fips": "06073",
             "name": "San Diego",
-            "votes": 283821,
+            "votes": 283930,
             "absentee_votes": 248452,
             "reporting": 256,
             "precincts": 256,
@@ -30847,15 +31997,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "levinm": 160244,
-              "maryottb": 123577
+              "levinm": 160326,
+              "maryottb": 123604
             },
             "results_absentee": {
               "levinm": 147404,
               "maryottb": 101048
             },
-            "last_updated": "2020-11-24T13:23:14Z",
-            "leader_margin_value": 12.91906,
+            "last_updated": "2020-11-26T03:51:30Z",
+            "leader_margin_value": 12.93347,
             "leader_margin_display": "D+13",
             "leader_margin_name_display": "Levin +13",
             "leader_party_id": "democrat"
@@ -30905,11 +32055,154 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
+            "additional_votes_reported": true,
             "additional_precincts_reported": false,
-            "has_eevp": true
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": false,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 0,
+            "prev_eevp": 100,
+            "num_additional_votes": 109,
+            "prev_votes": 384072,
+            "num_additional_precincts": 0,
+            "prev_precincts": 377,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 0,
+            "prev_precinct_percentage_points": 100,
+            "lead_margin_change_votes": 55,
+            "lead_margin_change_percentage_points": 0,
+            "previous_leading_candidate": {
+              "candidate_id": "levin-19875-5-h",
+              "candidate_key": "levinm",
+              "first_name": "Mike",
+              "last_name": "Levin",
+              "order": 1,
+              "name_display": "Mike Levin",
+              "party_id": "democrat",
+              "incumbent": true,
+              "runoff": false,
+              "winner": true,
+              "votes": 204376,
+              "percent": 53.2,
+              "percent_display": "53.2",
+              "electoral_votes": 0,
+              "absentee_votes": 184721,
+              "absentee_percent": 57.1,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/levin-19875-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "previous_second_candidate": {
+              "candidate_id": "maryott-19879-5-h",
+              "candidate_key": "maryottb",
+              "first_name": "Brian",
+              "last_name": "Maryott",
+              "order": 2,
+              "name_display": "Brian Maryott",
+              "party_id": "republican",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 179696,
+              "percent": 46.8,
+              "percent_display": "46.8",
+              "electoral_votes": 0,
+              "absentee_votes": 138649,
+              "absentee_percent": 42.9,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/maryott-19879-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "levin-19875-5-h",
+                "num_additional_votes": 82,
+                "prev_votes": 204376,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 53.2
+              },
+              {
+                "candidate_id": "maryott-19879-5-h",
+                "num_additional_votes": 27,
+                "prev_votes": 179696,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 46.8
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [],
+            "change_by_county": [
+              {
+                "name": "Orange",
+                "fips": "06059",
+                "num_additional_votes": 0,
+                "prev_votes": 100251,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 121,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "levinm": {
+                    "prev_votes": 44132,
+                    "num_additional_votes": 0
+                  },
+                  "maryottb": {
+                    "prev_votes": 56119,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "San Diego",
+                "fips": "06073",
+                "num_additional_votes": 109,
+                "prev_votes": 283821,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 256,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "levinm": {
+                    "prev_votes": 160244,
+                    "num_additional_votes": 82
+                  },
+                  "maryottb": {
+                    "prev_votes": 123577,
+                    "num_additional_votes": 27
+                  }
+                }
+              }
+            ]
+          }
         },
         "winnerCalledTimestamp": 1604524081398,
         "timeseries": [
@@ -31302,6 +32595,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-21T02:41:19Z"
+          },
+          {
+            "vote_shares": {
+              "levinm": 0.532,
+              "maryottb": 0.468
+            },
+            "votes": 384181,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-26T03:51:47Z"
           }
         ]
       },
@@ -31335,7 +32638,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 362090,
+        "votes": 362213,
         "absentee_votes": 290312,
         "absentee_counties": 2,
         "absentee_count_progress": "unknown",
@@ -31360,7 +32663,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-25T02:41:09Z",
+        "last_updated": "2020-11-26T03:51:47Z",
         "candidates": [
           {
             "candidate_id": "issa-146-5-h",
@@ -31373,7 +32676,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 195364,
+            "votes": 195427,
             "percent": 54,
             "percent_display": "54.0",
             "electoral_votes": 0,
@@ -31394,7 +32697,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 166726,
+            "votes": 166786,
             "percent": 46,
             "percent_display": "46.0",
             "electoral_votes": 0,
@@ -31406,8 +32709,8 @@
           }
         ],
         "has_incumbent": false,
-        "leader_margin_value": 7.90908,
-        "leader_margin_votes": 28638,
+        "leader_margin_value": 7.90723,
+        "leader_margin_votes": 28641,
         "leader_margin_display": "R+8",
         "leader_margin_name_display": "Issa +8",
         "leader_party_id": "republican",
@@ -31448,7 +32751,7 @@
           {
             "fips": "06073",
             "name": "San Diego",
-            "votes": 319349,
+            "votes": 319472,
             "absentee_votes": 274349,
             "reporting": 284,
             "precincts": 284,
@@ -31465,15 +32768,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "issad": 171504,
-              "campa_najjara": 147845
+              "issad": 171567,
+              "campa_najjara": 147905
             },
             "results_absentee": {
               "issad": 139976,
               "campa_najjara": 134373
             },
-            "last_updated": "2020-11-24T13:23:00Z",
-            "leader_margin_value": 7.40851,
+            "last_updated": "2020-11-26T03:51:30Z",
+            "leader_margin_value": 7.4066,
             "leader_margin_display": "R+7",
             "leader_margin_name_display": "Issa +7",
             "leader_party_id": "republican"
@@ -31523,11 +32826,154 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
+            "additional_votes_reported": true,
             "additional_precincts_reported": false,
-            "has_eevp": true
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": false,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 0,
+            "prev_eevp": 100,
+            "num_additional_votes": 123,
+            "prev_votes": 362090,
+            "num_additional_precincts": 0,
+            "prev_precincts": 322,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 0,
+            "prev_precinct_percentage_points": 100,
+            "lead_margin_change_votes": 3,
+            "lead_margin_change_percentage_points": 0,
+            "previous_leading_candidate": {
+              "candidate_id": "issa-146-5-h",
+              "candidate_key": "issad",
+              "first_name": "Darrell",
+              "last_name": "Issa",
+              "order": 2,
+              "name_display": "Darrell Issa",
+              "party_id": "republican",
+              "incumbent": false,
+              "runoff": false,
+              "winner": true,
+              "votes": 195364,
+              "percent": 54,
+              "percent_display": "54.0",
+              "electoral_votes": 0,
+              "absentee_votes": 148288,
+              "absentee_percent": 51.1,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/issa-146-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "previous_second_candidate": {
+              "candidate_id": "campa-najjar-19889-5-h",
+              "candidate_key": "campa_najjara",
+              "first_name": "Ammar",
+              "last_name": "Campa-Najjar",
+              "order": 1,
+              "name_display": "Ammar Campa-Najjar",
+              "party_id": "democrat",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 166726,
+              "percent": 46,
+              "percent_display": "46.0",
+              "electoral_votes": 0,
+              "absentee_votes": 142024,
+              "absentee_percent": 48.9,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/campa-najjar-19889-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "issa-146-5-h",
+                "num_additional_votes": 63,
+                "prev_votes": 195364,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 54
+              },
+              {
+                "candidate_id": "campa-najjar-19889-5-h",
+                "num_additional_votes": 60,
+                "prev_votes": 166726,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 46
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [],
+            "change_by_county": [
+              {
+                "name": "Riverside",
+                "fips": "06065",
+                "num_additional_votes": 0,
+                "prev_votes": 42741,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 38,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "issad": {
+                    "prev_votes": 23860,
+                    "num_additional_votes": 0
+                  },
+                  "campa_najjara": {
+                    "prev_votes": 18881,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "San Diego",
+                "fips": "06073",
+                "num_additional_votes": 123,
+                "prev_votes": 319349,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 284,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "issad": {
+                    "prev_votes": 171504,
+                    "num_additional_votes": 63
+                  },
+                  "campa_najjara": {
+                    "prev_votes": 147845,
+                    "num_additional_votes": 60
+                  }
+                }
+              }
+            ]
+          }
         },
         "winnerCalledTimestamp": 1604798763319,
         "timeseries": [
@@ -31910,6 +33356,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-25T02:41:09Z"
+          },
+          {
+            "vote_shares": {
+              "issad": 0.54,
+              "campa_najjara": 0.46
+            },
+            "votes": 362213,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-26T03:51:47Z"
           }
         ]
       },
@@ -31943,7 +33399,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 240476,
+        "votes": 241095,
         "absentee_votes": 187373,
         "absentee_counties": 2,
         "absentee_count_progress": "unknown",
@@ -31956,7 +33412,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 386,
+        "precincts_reporting": 388,
         "precincts_total": 391,
         "reporting_display": "99% reporting",
         "reporting_value": "99%",
@@ -31968,7 +33424,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-25T02:41:09Z",
+        "last_updated": "2020-11-26T03:51:46Z",
         "candidates": [
           {
             "candidate_id": "vargas-52480-5-h",
@@ -31981,7 +33437,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 164458,
+            "votes": 164831,
             "percent": 68.4,
             "percent_display": "68.4",
             "electoral_votes": 0,
@@ -32002,7 +33458,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 76018,
+            "votes": 76264,
             "percent": 31.6,
             "percent_display": "31.6",
             "electoral_votes": 0,
@@ -32014,8 +33470,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 36.77706,
-        "leader_margin_votes": 88440,
+        "leader_margin_value": 36.73531,
+        "leader_margin_votes": 88567,
         "leader_margin_display": "D+37",
         "leader_margin_name_display": "Vargas +37",
         "leader_party_id": "democrat",
@@ -32023,15 +33479,15 @@
           {
             "fips": "06025",
             "name": "Imperial",
-            "votes": 53213,
+            "votes": 53745,
             "absentee_votes": 27029,
-            "reporting": 213,
+            "reporting": 215,
             "precincts": 218,
             "absentee_method": "Released separately AFTER election night",
-            "eevp": 98,
+            "eevp": 99,
             "tot_exp_vote": 54351,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "some",
@@ -32040,15 +33496,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "vargasj": 33880,
-              "hidalgoj": 19333
+              "vargasj": 34194,
+              "hidalgoj": 19551
             },
             "results_absentee": {
               "vargasj": 18887,
               "hidalgoj": 8142
             },
-            "last_updated": "2020-11-25T02:41:06Z",
-            "leader_margin_value": 27.3373,
+            "last_updated": "2020-11-26T03:51:33Z",
+            "leader_margin_value": 27.24533,
             "leader_margin_display": "D+27",
             "leader_margin_name_display": "Vargas +27",
             "leader_party_id": "democrat"
@@ -32056,7 +33512,7 @@
           {
             "fips": "06073",
             "name": "San Diego",
-            "votes": 187263,
+            "votes": 187350,
             "absentee_votes": 160344,
             "reporting": 173,
             "precincts": 173,
@@ -32073,15 +33529,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "vargasj": 130578,
-              "hidalgoj": 56685
+              "vargasj": 130637,
+              "hidalgoj": 56713
             },
             "results_absentee": {
               "vargasj": 115171,
               "hidalgoj": 45173
             },
-            "last_updated": "2020-11-24T13:23:05Z",
-            "leader_margin_value": 39.45948,
+            "last_updated": "2020-11-26T03:51:30Z",
+            "leader_margin_value": 39.4577,
             "leader_margin_display": "D+39",
             "leader_margin_name_display": "Vargas +39",
             "leader_party_id": "democrat"
@@ -32131,11 +33587,154 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
-            "additional_precincts_reported": false,
-            "has_eevp": true
+            "additional_votes_reported": true,
+            "additional_precincts_reported": true,
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": false,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 0,
+            "prev_eevp": 100,
+            "num_additional_votes": 619,
+            "prev_votes": 240476,
+            "num_additional_precincts": 2,
+            "prev_precincts": 386,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 0.5,
+            "prev_precinct_percentage_points": 98.7,
+            "lead_margin_change_votes": 127,
+            "lead_margin_change_percentage_points": 0,
+            "previous_leading_candidate": {
+              "candidate_id": "vargas-52480-5-h",
+              "candidate_key": "vargasj",
+              "first_name": "Juan",
+              "last_name": "Vargas",
+              "order": 1,
+              "name_display": "Juan Vargas",
+              "party_id": "democrat",
+              "incumbent": true,
+              "runoff": false,
+              "winner": true,
+              "votes": 164458,
+              "percent": 68.4,
+              "percent_display": "68.4",
+              "electoral_votes": 0,
+              "absentee_votes": 134058,
+              "absentee_percent": 71.5,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/vargas-52480-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "previous_second_candidate": {
+              "candidate_id": "hidalgo-65091-5-h",
+              "candidate_key": "hidalgoj",
+              "first_name": "Juan",
+              "last_name": "Hidalgo",
+              "order": 2,
+              "name_display": "Juan Hidalgo",
+              "party_id": "republican",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 76018,
+              "percent": 31.6,
+              "percent_display": "31.6",
+              "electoral_votes": 0,
+              "absentee_votes": 53315,
+              "absentee_percent": 28.5,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/hidalgo-65091-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "vargas-52480-5-h",
+                "num_additional_votes": 373,
+                "prev_votes": 164458,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 68.4
+              },
+              {
+                "candidate_id": "hidalgo-65091-5-h",
+                "num_additional_votes": 246,
+                "prev_votes": 76018,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 31.6
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [],
+            "change_by_county": [
+              {
+                "name": "Imperial",
+                "fips": "06025",
+                "num_additional_votes": 532,
+                "prev_votes": 53213,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 1,
+                "prev_precincts": 218,
+                "prev_eevp": 98,
+                "candidate_changes": {
+                  "vargasj": {
+                    "prev_votes": 33880,
+                    "num_additional_votes": 314
+                  },
+                  "hidalgoj": {
+                    "prev_votes": 19333,
+                    "num_additional_votes": 218
+                  }
+                }
+              },
+              {
+                "name": "San Diego",
+                "fips": "06073",
+                "num_additional_votes": 87,
+                "prev_votes": 187263,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 173,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "vargasj": {
+                    "prev_votes": 130578,
+                    "num_additional_votes": 59
+                  },
+                  "hidalgoj": {
+                    "prev_votes": 56685,
+                    "num_additional_votes": 28
+                  }
+                }
+              }
+            ]
+          }
         },
         "winnerCalledTimestamp": 1604468513225,
         "timeseries": [
@@ -32468,6 +34067,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-25T02:41:09Z"
+          },
+          {
+            "vote_shares": {
+              "vargasj": 0.684,
+              "hidalgoj": 0.316
+            },
+            "votes": 241095,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-26T03:51:46Z"
           }
         ]
       },
@@ -32581,7 +34190,7 @@
           {
             "fips": "06073",
             "name": "San Diego",
-            "votes": 396362,
+            "votes": 396498,
             "absentee_votes": 354865,
             "reporting": 361,
             "precincts": 361,
@@ -32598,15 +34207,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "peterss": 244074,
-              "debelloj": 152288
+              "peterss": 244175,
+              "debelloj": 152323
             },
             "results_absentee": {
               "peterss": 226958,
               "debelloj": 127907
             },
-            "last_updated": "2020-11-24T13:23:07Z",
-            "leader_margin_value": 23.15711,
+            "last_updated": "2020-11-26T03:51:30Z",
+            "leader_margin_value": 23.16582,
             "leader_margin_display": "D+23",
             "leader_margin_name_display": "Peters +23",
             "leader_party_id": "democrat"
@@ -33036,7 +34645,7 @@
           {
             "fips": "06073",
             "name": "San Diego",
-            "votes": 334612,
+            "votes": 334740,
             "absentee_votes": 298872,
             "reporting": 322,
             "precincts": 340,
@@ -33053,15 +34662,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "jacobss": 199111,
-              "gomezg": 135501
+              "jacobss": 199179,
+              "gomezg": 135561
             },
             "results_absentee": {
               "jacobss": 176504,
               "gomezg": 122368
             },
-            "last_updated": "2020-11-24T13:22:56Z",
-            "leader_margin_value": 19.01008,
+            "last_updated": "2020-11-26T03:51:29Z",
+            "leader_margin_value": 19.0052,
             "leader_margin_display": "D+19",
             "leader_margin_name_display": "Jacobs +19",
             "leader_party_id": "democrat"
@@ -65391,7 +67000,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75839142,
+            "votes": 75852058,
             "percent": "50.5",
             "change": -7,
             "flip_count": 3,
@@ -65408,7 +67017,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72334049,
+            "votes": 72341603,
             "percent": "48.1",
             "change": 8,
             "flip_count": 11,
@@ -65453,7 +67062,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 80029469,
+            "votes": 80049923,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -65470,7 +67079,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73891948,
+            "votes": 73905167,
             "percent": "47.1",
             "change": 0,
             "flip_count": 0,
@@ -65487,7 +67096,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2880304,
+            "votes": 2881437,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -67906,7 +69515,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 195364,
+          "votes": 195427,
           "percent": 54,
           "percent_display": "54.0",
           "electoral_votes": 0,
@@ -77096,9 +78705,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 11056411,
-          "percent": 63.6,
-          "percent_display": "63.6",
+          "votes": 11076865,
+          "percent": 63.5,
+          "percent_display": "63.5",
           "electoral_votes": 55,
           "absentee_votes": 5720708,
           "absentee_percent": 67.6,
@@ -82003,8 +83612,8 @@
     ]
   },
   "meta": {
-    "version": 22558,
+    "version": 22562,
     "track": "2020-11-03",
-    "timestamp": "2020-11-26T02:37:13.080Z"
+    "timestamp": "2020-11-26T03:54:14.399Z"
   }
 }
