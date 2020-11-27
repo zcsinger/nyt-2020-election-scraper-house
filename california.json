@@ -31,7 +31,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 17433545,
+        "votes": 17433749,
         "electoral_votes": 55,
         "absentee_votes": 8463440,
         "absentee_counties": 33,
@@ -57,7 +57,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-27T17:40:55Z",
+        "last_updated": "2020-11-27T20:38:02Z",
         "candidates": [
           {
             "candidate_id": "biden-1036",
@@ -70,7 +70,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 11077444,
+            "votes": 11077601,
             "percent": 63.5,
             "percent_display": "63.5",
             "electoral_votes": 55,
@@ -92,7 +92,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 5977828,
+            "votes": 5977870,
             "percent": 34.3,
             "percent_display": "34.3",
             "electoral_votes": 0,
@@ -114,7 +114,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 186990,
+            "votes": 186995,
             "percent": 1.1,
             "percent_display": "1.1",
             "electoral_votes": 0,
@@ -156,7 +156,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 59805,
+            "votes": 59804,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -177,7 +177,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 50787,
+            "votes": 50788,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -210,8 +210,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 29.25174,
-        "leader_margin_votes": 5099616,
+        "leader_margin_value": 29.25206,
+        "leader_margin_votes": 5099731,
         "leader_margin_display": "D+29",
         "leader_margin_name_display": "Biden +29",
         "leader_party_id": "democrat",
@@ -2061,7 +2061,7 @@
           {
             "fips": "06081",
             "name": "San Mateo",
-            "votes": 373800,
+            "votes": 374004,
             "absentee_votes": 227577,
             "reporting": 403,
             "precincts": 403,
@@ -2078,12 +2078,13 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 291215,
-              "trumpd": 75505,
-              "jorgensenj": 3547,
+              "bidenj": 291372,
+              "trumpd": 75547,
+              "jorgensenj": 3552,
               "hawkinsh": 1595,
-              "de_la_fuenter": 1143,
-              "la_rivag": 795
+              "de_la_fuenter": 1142,
+              "la_rivag": 796,
+              "write-ins": 0
             },
             "results_absentee": {
               "bidenj": 187578,
@@ -2091,14 +2092,15 @@
               "jorgensenj": 1715,
               "hawkinsh": 806,
               "de_la_fuenter": 516,
-              "la_rivag": 378
+              "la_rivag": 378,
+              "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:23:15Z",
-            "leader_margin_value": 57.70733,
+            "last_updated": "2020-11-27T20:37:51Z",
+            "leader_margin_value": 57.7066,
             "leader_margin_display": "D+58",
             "leader_margin_name_display": "Biden +58",
             "leader_party_id": "democrat",
-            "margin2020": -57.70733,
+            "margin2020": -57.7066,
             "votes2016": 314384,
             "margin2016": -57.2,
             "votes2012": 285720,
@@ -2918,12 +2920,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Tehama County.",
-            "timestamp": 1606498927783,
+            "sentence": "We just received more votes from San Mateo County.",
+            "timestamp": 1606509607703,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Tehama County.",
+            "generatedText": "We just received more votes from San Mateo County.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -5182,6 +5184,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-27T17:40:55Z"
+          },
+          {
+            "vote_shares": {
+              "bidenj": 0.635,
+              "trumpd": 0.343
+            },
+            "votes": 17433749,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-27T20:38:02Z"
           }
         ]
       },
@@ -13490,7 +13502,7 @@
               "speierj": 152907,
               "petelr": 31219
             },
-            "last_updated": "2020-11-26T03:51:29Z",
+            "last_updated": "2020-11-27T20:37:58Z",
             "leader_margin_value": 57.95549,
             "leader_margin_display": "D+58",
             "leader_margin_name_display": "Speier +58",
@@ -15512,7 +15524,7 @@
               "eshooa": 28083,
               "kumarr": 10032
             },
-            "last_updated": "2020-11-26T03:51:29Z",
+            "last_updated": "2020-11-27T20:37:57Z",
             "leader_margin_value": 39.10926,
             "leader_margin_display": "D+39",
             "leader_margin_name_display": "Eshoo +39",
@@ -65746,7 +65758,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 80043120,
+            "votes": 80043277,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -65763,7 +65775,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73896483,
+            "votes": 73896525,
             "percent": "47.1",
             "change": 0,
             "flip_count": 0,
@@ -65780,7 +65792,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2875392,
+            "votes": 2875397,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -77429,7 +77441,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 11077444,
+          "votes": 11077601,
           "percent": 63.5,
           "percent_display": "63.5",
           "electoral_votes": 55,
@@ -82336,8 +82348,8 @@
     ]
   },
   "meta": {
-    "version": 22891,
+    "version": 22893,
     "track": "2020-11-03",
-    "timestamp": "2020-11-27T20:06:16.018Z"
+    "timestamp": "2020-11-27T20:41:15.115Z"
   }
 }
