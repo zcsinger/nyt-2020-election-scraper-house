@@ -17106,10 +17106,10 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
-        "result_source": null,
-        "gain": false,
-        "lost_seat": "",
+        "result": "winner",
+        "result_source": "AP",
+        "gain": true,
+        "lost_seat": "democrat",
         "votes": 168992,
         "absentee_votes": 96649,
         "absentee_counties": 4,
@@ -17147,7 +17147,7 @@
             "party_id": "republican",
             "incumbent": false,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 85373,
             "percent": 50.5,
             "percent_display": "50.5",
@@ -17327,10 +17327,13 @@
         "absentee_postmark_deadline": 0,
         "update_sentences": {
           "top_level": {
-            "timestamp": 1603992453872,
+            "sentence": "David Valadao, Republican, wins California’s 21st Congressional District.",
+            "timestamp": 1606502047729,
             "is_new": false,
             "hide_timestamp": false,
-            "overrideText": null
+            "overrideText": null,
+            "generatedText": "David Valadao, Republican, wins California’s 21st Congressional District.",
+            "sentence_type": "race_won"
           },
           "eevp": {
             "sentence": "Nearly all of the estimated vote total has been reported.",
@@ -17358,7 +17361,7 @@
             "results_expected_within_hour": true,
             "show_nothing_votes_decreased": false,
             "went_to_runoff": false,
-            "race_won": false,
+            "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
             "additional_votes_reported": false,
@@ -17367,7 +17370,7 @@
           },
           "details_about_changes": {}
         },
-        "winnerCalledTimestamp": null,
+        "winnerCalledTimestamp": 1606502053372,
         "timeseries": [
           {
             "vote_shares": {
@@ -34746,7 +34749,7 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
@@ -34776,7 +34779,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-27T18:00:45.350Z",
+        "last_updated": "2020-11-27T18:38:04.660Z",
         "candidates": [
           {
             "candidate_id": "wilk-11985",
@@ -34788,7 +34791,7 @@
             "party_id": "republican",
             "incumbent": true,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 199018,
             "percent": 50.8,
             "percent_display": "50.8",
@@ -37057,7 +37060,7 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
@@ -37087,7 +37090,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-27T18:00:45.350Z",
+        "last_updated": "2020-11-27T18:34:02.110Z",
         "candidates": [
           {
             "candidate_id": "villapudua-12860",
@@ -37099,7 +37102,7 @@
             "party_id": "democrat",
             "incumbent": false,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 79475,
             "percent": 51.3,
             "percent_display": "51.3",
@@ -43459,7 +43462,7 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
@@ -43489,7 +43492,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-27T18:00:45.350Z",
+        "last_updated": "2020-11-27T18:40:06.197Z",
         "candidates": [
           {
             "candidate_id": "petrie-norris-13263",
@@ -43501,7 +43504,7 @@
             "party_id": "democrat",
             "incumbent": true,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 133607,
             "percent": 50.5,
             "percent_display": "50.5",
@@ -65683,11 +65686,11 @@
             "count": 222,
             "votes": 75861838,
             "percent": "50.5",
-            "change": -7,
+            "change": -8,
             "flip_count": 3,
             "leader_count": 0,
-            "change_full": "Lost 7 seats",
-            "change_abbr": "–7",
+            "change_full": "Lost 8 seats",
+            "change_abbr": "–8",
             "flip_text_full": "Flipped 3 seats",
             "flip_text_extra": "",
             "flip_text_abbr": "Flipped 3",
@@ -65697,17 +65700,17 @@
             "party_id": "republican",
             "name_display": "Republicans",
             "name_abbr": "Rep.",
-            "count": 205,
+            "count": 206,
             "votes": 72351602,
             "percent": "48.1",
-            "change": 8,
-            "flip_count": 11,
-            "leader_count": 8,
-            "change_full": "Gained 8 seats",
-            "change_abbr": "+8",
-            "flip_text_full": "Flipped 11 seats",
-            "flip_text_extra": "(+8 net gain)",
-            "flip_text_abbr": "Flipped 11",
+            "change": 9,
+            "flip_count": 12,
+            "leader_count": 7,
+            "change_full": "Gained 9 seats",
+            "change_abbr": "+9",
+            "flip_text_full": "Flipped 12 seats",
+            "flip_text_extra": "(+9 net gain)",
+            "flip_text_abbr": "Flipped 12",
             "winner": false
           },
           "other": {
@@ -65860,6 +65863,46 @@
       }
     ],
     "liveUpdates": [
+      {
+        "id": "CA-G-H-21-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "CA-G-H-21-2020-11-03",
+        "datetime": 1606502053372,
+        "is_today": true,
+        "text": "David Valadao, Republican, wins California’s 21st Congressional District.",
+        "winner": {
+          "candidate_id": "valadao-62229-5-h",
+          "candidate_key": "valadaod",
+          "first_name": "David",
+          "last_name": "Valadao",
+          "order": 2,
+          "name_display": "David Valadao",
+          "party_id": "republican",
+          "incumbent": false,
+          "runoff": false,
+          "winner": true,
+          "votes": 85373,
+          "percent": 50.5,
+          "percent_display": "50.5",
+          "electoral_votes": 0,
+          "absentee_votes": 48048,
+          "absentee_percent": 49.7,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/valadao-62229-5-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Valadao",
+        "candidate_name_display": "David Valadao",
+        "candidate_id": "valadao-62229-5-h",
+        "race_call_party_winner": "republican",
+        "state_name": "California",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-california-house-district-21.html"
+      },
       {
         "id": 549,
         "author": "Michael D. Shear",
@@ -82293,8 +82336,8 @@
     ]
   },
   "meta": {
-    "version": 22878,
+    "version": 22887,
     "track": "2020-11-03",
-    "timestamp": "2020-11-27T18:02:23.595Z"
+    "timestamp": "2020-11-27T18:42:15.179Z"
   }
 }
