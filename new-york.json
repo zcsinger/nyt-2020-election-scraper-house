@@ -47887,7 +47887,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 80043034,
+            "votes": 80043032,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -47904,7 +47904,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73895994,
+            "votes": 73896213,
             "percent": "47.1",
             "change": 0,
             "flip_count": 0,
@@ -47921,7 +47921,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2875380,
+            "votes": 2875378,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -57979,12 +57979,12 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 5890128,
+          "votes": 5890347,
           "percent": 52,
           "percent_display": "52.0",
           "electoral_votes": 38,
-          "absentee_votes": 4993698,
-          "absentee_percent": 51,
+          "absentee_votes": 4993717,
+          "absentee_percent": 51.1,
           "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/trumpd.png",
           "has_image": true,
           "link": "https://www.nytimes.com/interactive/2020/us/elections/donald-trump.html",
@@ -64437,8 +64437,8 @@
     ]
   },
   "meta": {
-    "version": 22834,
+    "version": 22846,
     "track": "2020-11-03",
-    "timestamp": "2020-11-27T14:58:21.677Z"
+    "timestamp": "2020-11-27T15:16:23.812Z"
   }
 }
