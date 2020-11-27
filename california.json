@@ -31,7 +31,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 17433160,
+        "votes": 17433545,
         "electoral_votes": 55,
         "absentee_votes": 8463440,
         "absentee_counties": 33,
@@ -57,7 +57,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-26T05:40:53Z",
+        "last_updated": "2020-11-27T17:40:55Z",
         "candidates": [
           {
             "candidate_id": "biden-1036",
@@ -70,7 +70,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 11077345,
+            "votes": 11077444,
             "percent": 63.5,
             "percent_display": "63.5",
             "electoral_votes": 55,
@@ -92,7 +92,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 5977556,
+            "votes": 5977828,
             "percent": 34.3,
             "percent_display": "34.3",
             "electoral_votes": 0,
@@ -114,7 +114,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 186984,
+            "votes": 186990,
             "percent": 1.1,
             "percent_display": "1.1",
             "electoral_votes": 0,
@@ -135,7 +135,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 80685,
+            "votes": 80686,
             "percent": 0.5,
             "percent_display": "0.5",
             "electoral_votes": 0,
@@ -156,7 +156,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 59799,
+            "votes": 59805,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -177,7 +177,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 50786,
+            "votes": 50787,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -210,8 +210,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 29.25338,
-        "leader_margin_votes": 5099789,
+        "leader_margin_value": 29.25174,
+        "leader_margin_votes": 5099616,
         "leader_margin_display": "D+29",
         "leader_margin_name_display": "Biden +29",
         "leader_party_id": "democrat",
@@ -2567,7 +2567,7 @@
           {
             "fips": "06103",
             "name": "Tehama",
-            "votes": 28319,
+            "votes": 28704,
             "absentee_votes": 0,
             "reporting": 46,
             "precincts": 46,
@@ -2584,12 +2584,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 8802,
-              "trumpd": 18865,
-              "jorgensenj": 396,
-              "de_la_fuenter": 104,
-              "hawkinsh": 88,
-              "la_rivag": 64
+              "bidenj": 8901,
+              "trumpd": 19137,
+              "jorgensenj": 402,
+              "de_la_fuenter": 110,
+              "hawkinsh": 89,
+              "la_rivag": 65
             },
             "results_absentee": {
               "bidenj": 0,
@@ -2599,12 +2599,12 @@
               "hawkinsh": 0,
               "la_rivag": 0
             },
-            "last_updated": "2020-11-24T13:23:26Z",
-            "leader_margin_value": 35.53445,
+            "last_updated": "2020-11-27T17:40:47Z",
+            "leader_margin_value": 35.66054,
             "leader_margin_display": "R+36",
             "leader_margin_name_display": "Trump +36",
             "leader_party_id": "republican",
-            "margin2020": 35.53445,
+            "margin2020": 35.66054,
             "votes2016": 23908,
             "margin2016": 36.3,
             "votes2012": 22977,
@@ -2918,12 +2918,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from San Joaquin and Kings Counties.",
-            "timestamp": 1606369326553,
+            "sentence": "We just received more votes from Tehama County.",
+            "timestamp": 1606498927783,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from San Joaquin and Kings Counties.",
+            "generatedText": "We just received more votes from Tehama County.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -5172,6 +5172,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-26T05:40:53Z"
+          },
+          {
+            "vote_shares": {
+              "bidenj": 0.635,
+              "trumpd": 0.343
+            },
+            "votes": 17433545,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-27T17:40:55Z"
           }
         ]
       },
@@ -5205,7 +5215,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 356325,
+        "votes": 356693,
         "absentee_votes": 22847,
         "absentee_counties": 2,
         "absentee_count_progress": "unknown",
@@ -5230,7 +5240,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-25T02:41:09Z",
+        "last_updated": "2020-11-27T17:41:06Z",
         "candidates": [
           {
             "candidate_id": "lamalfa-52531-5-h",
@@ -5243,9 +5253,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 202907,
-            "percent": 56.9,
-            "percent_display": "56.9",
+            "votes": 203157,
+            "percent": 57,
+            "percent_display": "57.0",
             "electoral_votes": 0,
             "absentee_votes": 9669,
             "absentee_percent": 42.3,
@@ -5264,9 +5274,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 153418,
-            "percent": 43.1,
-            "percent_display": "43.1",
+            "votes": 153536,
+            "percent": 43,
+            "percent_display": "43.0",
             "electoral_votes": 0,
             "absentee_votes": 13178,
             "absentee_percent": 57.7,
@@ -5276,8 +5286,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 13.88873,
-        "leader_margin_votes": 49489,
+        "leader_margin_value": 13.9114,
+        "leader_margin_votes": 49621,
         "leader_margin_display": "R+14",
         "leader_margin_name_display": "LaMalfa +14",
         "leader_party_id": "republican",
@@ -5615,7 +5625,7 @@
           {
             "fips": "06103",
             "name": "Tehama",
-            "votes": 28208,
+            "votes": 28576,
             "absentee_votes": 0,
             "reporting": 46,
             "precincts": 46,
@@ -5632,15 +5642,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "lamalfad": 18829,
-              "denneya": 9379
+              "lamalfad": 19079,
+              "denneya": 9497
             },
             "results_absentee": {
               "lamalfad": 0,
               "denneya": 0
             },
-            "last_updated": "2020-11-24T13:23:07Z",
-            "leader_margin_value": 33.50113,
+            "last_updated": "2020-11-27T17:41:04Z",
+            "leader_margin_value": 33.53163,
             "leader_margin_display": "R+34",
             "leader_margin_name_display": "LaMalfa +34",
             "leader_party_id": "republican"
@@ -6257,6 +6267,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-25T02:41:09Z"
+          },
+          {
+            "vote_shares": {
+              "lamalfad": 0.57,
+              "denneya": 0.43
+            },
+            "votes": 356693,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-27T17:41:06Z"
           }
         ]
       },
@@ -65661,7 +65681,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75861720,
+            "votes": 75861838,
             "percent": "50.5",
             "change": -7,
             "flip_count": 3,
@@ -65678,7 +65698,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 205,
-            "votes": 72351352,
+            "votes": 72351602,
             "percent": "48.1",
             "change": 8,
             "flip_count": 11,
@@ -65723,7 +65743,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 80043021,
+            "votes": 80043120,
             "percent": "51.0",
             "change": 0,
             "flip_count": 0,
@@ -65740,7 +65760,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73896211,
+            "votes": 73896483,
             "percent": "47.1",
             "change": 0,
             "flip_count": 0,
@@ -65757,7 +65777,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2875378,
+            "votes": 2875392,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -77366,7 +77386,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 11077345,
+          "votes": 11077444,
           "percent": 63.5,
           "percent_display": "63.5",
           "electoral_votes": 55,
@@ -82273,8 +82293,8 @@
     ]
   },
   "meta": {
-    "version": 22875,
+    "version": 22877,
     "track": "2020-11-03",
-    "timestamp": "2020-11-27T17:09:15.794Z"
+    "timestamp": "2020-11-27T17:43:15.672Z"
   }
 }
