@@ -46540,7 +46540,7 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
@@ -46570,7 +46570,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-27T16:05:16.653Z",
+        "last_updated": "2020-11-27T20:04:59.177Z",
         "candidates": [
           {
             "candidate_id": "conrad-54873",
@@ -46582,7 +46582,7 @@
             "party_id": "democrat",
             "incumbent": false,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 28236,
             "percent": 54.8,
             "percent_display": "54.8",
@@ -64477,8 +64477,8 @@
     ]
   },
   "meta": {
-    "version": 22890,
+    "version": 22891,
     "track": "2020-11-03",
-    "timestamp": "2020-11-27T19:57:17.559Z"
+    "timestamp": "2020-11-27T20:06:16.018Z"
   }
 }
