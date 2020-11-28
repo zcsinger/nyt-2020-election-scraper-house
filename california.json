@@ -345,7 +345,7 @@
               "de_la_fuenter": 50,
               "la_rivag": 29
             },
-            "last_updated": "2020-11-24T13:23:44Z",
+            "last_updated": "2020-11-28T03:39:50Z",
             "leader_margin_value": 24.35656,
             "leader_margin_display": "R+24",
             "leader_margin_name_display": "Trump +24",
@@ -621,7 +621,7 @@
               "de_la_fuenter": 142,
               "la_rivag": 68
             },
-            "last_updated": "2020-11-26T03:48:14Z",
+            "last_updated": "2020-11-28T03:40:24Z",
             "leader_margin_value": 8.79729,
             "leader_margin_display": "R+9",
             "leader_margin_name_display": "Trump +9",
@@ -2877,7 +2877,7 @@
               "hawkinsh": 71,
               "la_rivag": 40
             },
-            "last_updated": "2020-11-24T13:23:33Z",
+            "last_updated": "2020-11-28T03:38:23Z",
             "leader_margin_value": 21.46804,
             "leader_margin_display": "R+21",
             "leader_margin_name_display": "Trump +21",
@@ -7062,7 +7062,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 302970,
+        "votes": 311294,
         "absentee_votes": 19885,
         "absentee_counties": 2,
         "absentee_count_progress": "unknown",
@@ -7075,10 +7075,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 528,
+        "precincts_reporting": 538,
         "precincts_total": 556,
-        "reporting_display": "95% reporting",
-        "reporting_value": "95%",
+        "reporting_display": "97% reporting",
+        "reporting_value": "97%",
         "eevp": 100,
         "tot_exp_vote": 299000,
         "eevp_source": "edison",
@@ -7087,7 +7087,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-26T03:51:47Z",
+        "last_updated": "2020-11-28T03:38:24Z",
         "candidates": [
           {
             "candidate_id": "garamendi-7136-5-h",
@@ -7100,9 +7100,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 168513,
-            "percent": 55.6,
-            "percent_display": "55.6",
+            "votes": 171101,
+            "percent": 55,
+            "percent_display": "55.0",
             "electoral_votes": 0,
             "absentee_votes": 9278,
             "absentee_percent": 46.7,
@@ -7121,9 +7121,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 134457,
-            "percent": 44.4,
-            "percent_display": "44.4",
+            "votes": 140193,
+            "percent": 45,
+            "percent_display": "45.0",
             "electoral_votes": 0,
             "absentee_votes": 10607,
             "absentee_percent": 53.3,
@@ -7133,10 +7133,10 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 11.24072,
-        "leader_margin_votes": 34056,
-        "leader_margin_display": "D+11",
-        "leader_margin_name_display": "Garamendi +11",
+        "leader_margin_value": 9.92888,
+        "leader_margin_votes": 30908,
+        "leader_margin_display": "D+10",
+        "leader_margin_name_display": "Garamendi +10",
         "leader_party_id": "democrat",
         "counties": [
           {
@@ -7373,15 +7373,15 @@
           {
             "fips": "06115",
             "name": "Yuba",
-            "votes": 18604,
+            "votes": 26928,
             "absentee_votes": 15351,
-            "reporting": 24,
+            "reporting": 34,
             "precincts": 34,
             "absentee_method": "None",
-            "eevp": 72,
+            "eevp": 100,
             "tot_exp_vote": 25934,
-            "eevp_value": "72%",
-            "eevp_display": "72% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "unknown",
@@ -7390,17 +7390,17 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "garamendij": 8090,
-              "hamiltont": 10514
+              "garamendij": 10678,
+              "hamiltont": 16250
             },
             "results_absentee": {
               "garamendij": 7344,
               "hamiltont": 8007
             },
-            "last_updated": "2020-11-24T13:22:36Z",
-            "leader_margin_value": 13.02946,
-            "leader_margin_display": "R+13",
-            "leader_margin_name_display": "Hamilton +13",
+            "last_updated": "2020-11-28T03:38:17Z",
+            "leader_margin_value": 20.69222,
+            "leader_margin_display": "R+21",
+            "leader_margin_name_display": "Hamilton +21",
             "leader_party_id": "republican"
           }
         ],
@@ -7975,6 +7975,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-26T03:51:47Z"
+          },
+          {
+            "vote_shares": {
+              "garamendij": 0.55,
+              "hamiltont": 0.45
+            },
+            "votes": 311294,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-28T03:38:24Z"
           }
         ]
       },
@@ -8008,7 +8018,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 424284,
+        "votes": 424667,
         "absentee_votes": 148397,
         "absentee_counties": 8,
         "absentee_count_progress": "unknown",
@@ -8033,7 +8043,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-25T21:49:34Z",
+        "last_updated": "2020-11-28T03:40:22Z",
         "candidates": [
           {
             "candidate_id": "mcclintock-188-5-h",
@@ -8046,7 +8056,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 236684,
+            "votes": 236911,
             "percent": 55.8,
             "percent_display": "55.8",
             "electoral_votes": 0,
@@ -8067,7 +8077,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 187600,
+            "votes": 187756,
             "percent": 44.2,
             "percent_display": "44.2",
             "electoral_votes": 0,
@@ -8079,8 +8089,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 11.56867,
-        "leader_margin_votes": 49084,
+        "leader_margin_value": 11.57495,
+        "leader_margin_votes": 49155,
         "leader_margin_display": "R+12",
         "leader_margin_name_display": "McClintock +12",
         "leader_party_id": "republican",
@@ -8121,7 +8131,7 @@
           {
             "fips": "06005",
             "name": "Amador",
-            "votes": 22066,
+            "votes": 22092,
             "absentee_votes": 17690,
             "reporting": 30,
             "precincts": 30,
@@ -8132,21 +8142,21 @@
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
-            "absentee_count_progress": "none",
+            "absentee_count_progress": "some",
             "absentee_outstanding": null,
             "absentee_max_ballots": 17509,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcclintockt": 13816,
-              "kennedyb": 8250
+              "mcclintockt": 13833,
+              "kennedyb": 8259
             },
             "results_absentee": {
               "mcclintockt": 10377,
               "kennedyb": 7313
             },
-            "last_updated": "2020-11-24T13:22:47Z",
-            "leader_margin_value": 25.22433,
+            "last_updated": "2020-11-28T03:39:49Z",
+            "leader_margin_value": 25.23085,
             "leader_margin_display": "R+25",
             "leader_margin_name_display": "McClintock +25",
             "leader_party_id": "republican"
@@ -8187,7 +8197,7 @@
           {
             "fips": "06017",
             "name": "El Dorado",
-            "votes": 114950,
+            "votes": 115307,
             "absentee_votes": 82216,
             "reporting": 202,
             "precincts": 202,
@@ -8198,23 +8208,23 @@
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
-            "absentee_count_progress": "unknown",
+            "absentee_count_progress": "some",
             "absentee_outstanding": null,
             "absentee_max_ballots": 102390,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mcclintockt": 63500,
-              "kennedyb": 51450
+              "mcclintockt": 63710,
+              "kennedyb": 51597
             },
             "results_absentee": {
               "mcclintockt": 41241,
               "kennedyb": 40975
             },
-            "last_updated": "2020-11-24T13:22:37Z",
-            "leader_margin_value": 10.48282,
-            "leader_margin_display": "R+10",
-            "leader_margin_name_display": "McClintock +10",
+            "last_updated": "2020-11-28T03:40:21Z",
+            "leader_margin_value": 10.505,
+            "leader_margin_display": "R+11",
+            "leader_margin_name_display": "McClintock +11",
             "leader_party_id": "republican"
           },
           {
@@ -8460,11 +8470,314 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
+            "additional_votes_reported": true,
             "additional_precincts_reported": false,
-            "has_eevp": true
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": false,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 0,
+            "prev_eevp": 100,
+            "num_additional_votes": 383,
+            "prev_votes": 424284,
+            "num_additional_precincts": 0,
+            "prev_precincts": 524,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 0,
+            "prev_precinct_percentage_points": 100,
+            "lead_margin_change_votes": 71,
+            "lead_margin_change_percentage_points": 0,
+            "previous_leading_candidate": {
+              "candidate_id": "mcclintock-188-5-h",
+              "candidate_key": "mcclintockt",
+              "first_name": "Tom",
+              "last_name": "McClintock",
+              "order": 2,
+              "name_display": "Tom McClintock",
+              "party_id": "republican",
+              "incumbent": true,
+              "runoff": false,
+              "winner": true,
+              "votes": 236684,
+              "percent": 55.8,
+              "percent_display": "55.8",
+              "electoral_votes": 0,
+              "absentee_votes": 78685,
+              "absentee_percent": 53,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/mcclintock-188-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "previous_second_candidate": {
+              "candidate_id": "kennedy-20073106-5-h",
+              "candidate_key": "kennedyb",
+              "first_name": "Brynne",
+              "last_name": "Kennedy",
+              "order": 1,
+              "name_display": "Brynne Kennedy",
+              "party_id": "democrat",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 187600,
+              "percent": 44.2,
+              "percent_display": "44.2",
+              "electoral_votes": 0,
+              "absentee_votes": 69712,
+              "absentee_percent": 47,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/kennedy-20073106-5-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "mcclintock-188-5-h",
+                "num_additional_votes": 227,
+                "prev_votes": 236684,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 55.8
+              },
+              {
+                "candidate_id": "kennedy-20073106-5-h",
+                "num_additional_votes": 156,
+                "prev_votes": 187600,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 44.2
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [],
+            "change_by_county": [
+              {
+                "name": "Alpine",
+                "fips": "06003",
+                "num_additional_votes": 0,
+                "prev_votes": 727,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 5,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "mcclintockt": {
+                    "prev_votes": 257,
+                    "num_additional_votes": 0
+                  },
+                  "kennedyb": {
+                    "prev_votes": 470,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Amador",
+                "fips": "06005",
+                "num_additional_votes": 26,
+                "prev_votes": 22066,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 30,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "mcclintockt": {
+                    "prev_votes": 13816,
+                    "num_additional_votes": 17
+                  },
+                  "kennedyb": {
+                    "prev_votes": 8250,
+                    "num_additional_votes": 9
+                  }
+                }
+              },
+              {
+                "name": "Calaveras",
+                "fips": "06009",
+                "num_additional_votes": 0,
+                "prev_votes": 26478,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 29,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "mcclintockt": {
+                    "prev_votes": 16341,
+                    "num_additional_votes": 0
+                  },
+                  "kennedyb": {
+                    "prev_votes": 10137,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "El Dorado",
+                "fips": "06017",
+                "num_additional_votes": 357,
+                "prev_votes": 114950,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 202,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "mcclintockt": {
+                    "prev_votes": 63500,
+                    "num_additional_votes": 210
+                  },
+                  "kennedyb": {
+                    "prev_votes": 51450,
+                    "num_additional_votes": 147
+                  }
+                }
+              },
+              {
+                "name": "Fresno",
+                "fips": "06019",
+                "num_additional_votes": 0,
+                "prev_votes": 8569,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 10,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "mcclintockt": {
+                    "prev_votes": 6525,
+                    "num_additional_votes": 0
+                  },
+                  "kennedyb": {
+                    "prev_votes": 2044,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Madera",
+                "fips": "06039",
+                "num_additional_votes": 0,
+                "prev_votes": 16120,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 24,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "mcclintockt": {
+                    "prev_votes": 10692,
+                    "num_additional_votes": 0
+                  },
+                  "kennedyb": {
+                    "prev_votes": 5428,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Mariposa",
+                "fips": "06043",
+                "num_additional_votes": 0,
+                "prev_votes": 10101,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 25,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "mcclintockt": {
+                    "prev_votes": 5906,
+                    "num_additional_votes": 0
+                  },
+                  "kennedyb": {
+                    "prev_votes": 4195,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Nevada",
+                "fips": "06057",
+                "num_additional_votes": 0,
+                "prev_votes": 9529,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 16,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "mcclintockt": {
+                    "prev_votes": 2374,
+                    "num_additional_votes": 0
+                  },
+                  "kennedyb": {
+                    "prev_votes": 7155,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Placer",
+                "fips": "06061",
+                "num_additional_votes": 0,
+                "prev_votes": 185616,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 110,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "mcclintockt": {
+                    "prev_votes": 99357,
+                    "num_additional_votes": 0
+                  },
+                  "kennedyb": {
+                    "prev_votes": 86259,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Tuolumne",
+                "fips": "06109",
+                "num_additional_votes": 0,
+                "prev_votes": 30128,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 73,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "mcclintockt": {
+                    "prev_votes": 17916,
+                    "num_additional_votes": 0
+                  },
+                  "kennedyb": {
+                    "prev_votes": 12212,
+                    "num_additional_votes": 0
+                  }
+                }
+              }
+            ]
+          }
         },
         "winnerCalledTimestamp": 1604974326175,
         "timeseries": [
@@ -9007,6 +9320,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-25T21:49:34Z"
+          },
+          {
+            "vote_shares": {
+              "mcclintockt": 0.558,
+              "kennedyb": 0.442
+            },
+            "votes": 424667,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-28T03:40:22Z"
           }
         ]
       },
@@ -65926,7 +66249,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75859020,
+            "votes": 75861764,
             "percent": "50.5",
             "change": -8,
             "flip_count": 3,
@@ -65943,7 +66266,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 206,
-            "votes": 72355039,
+            "votes": 72361002,
             "percent": "48.1",
             "change": 9,
             "flip_count": 12,
@@ -82578,8 +82901,8 @@
     ]
   },
   "meta": {
-    "version": 22996,
+    "version": 22999,
     "track": "2020-11-03",
-    "timestamp": "2020-11-28T02:45:15.426Z"
+    "timestamp": "2020-11-28T03:41:15.365Z"
   }
 }
