@@ -30113,7 +30113,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75886513,
+            "votes": 75900395,
             "percent": "50.5",
             "change": -8,
             "flip_count": 3,
@@ -30130,7 +30130,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 206,
-            "votes": 72383928,
+            "votes": 72396236,
             "percent": "48.1",
             "change": 9,
             "flip_count": 12,
@@ -31064,9 +31064,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 199133,
-          "percent": 51,
-          "percent_display": "51.0",
+          "votes": 201738,
+          "percent": 51.1,
+          "percent_display": "51.1",
           "electoral_votes": 0,
           "absentee_votes": 129776,
           "absentee_percent": 45.5,
@@ -46765,8 +46765,8 @@
     ]
   },
   "meta": {
-    "version": 23009,
+    "version": 23014,
     "track": "2020-11-03",
-    "timestamp": "2020-11-28T03:55:15.781Z"
+    "timestamp": "2020-11-28T04:00:22.360Z"
   }
 }
