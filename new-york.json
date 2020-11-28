@@ -30,7 +30,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 7170577,
+        "votes": 7203149,
         "electoral_votes": 29,
         "absentee_votes": 348754,
         "absentee_counties": 10,
@@ -44,10 +44,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T02:00:00.000Z",
         "poll_time_short": "9 p.m.",
-        "precincts_reporting": 12612,
+        "precincts_reporting": 12683,
         "precincts_total": 14931,
-        "reporting_display": "84% reporting",
-        "reporting_value": "84%",
+        "reporting_display": "85% reporting",
+        "reporting_value": "85%",
         "eevp": 84,
         "tot_exp_vote": 8930000,
         "eevp_source": "edison",
@@ -56,7 +56,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-25T02:14:27Z",
+        "last_updated": "2020-11-28T13:54:16Z",
         "candidates": [
           {
             "candidate_id": "biden-1036",
@@ -69,9 +69,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 4076327,
-            "percent": 56.8,
-            "percent_display": "56.8",
+            "votes": 4102612,
+            "percent": 57,
+            "percent_display": "57.0",
             "electoral_votes": 29,
             "absentee_votes": 240047,
             "absentee_percent": 68.8,
@@ -91,9 +91,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 2987266,
-            "percent": 41.7,
-            "percent_display": "41.7",
+            "votes": 2992777,
+            "percent": 41.5,
+            "percent_display": "41.5",
             "electoral_votes": 0,
             "absentee_votes": 102291,
             "absentee_percent": 29.3,
@@ -113,7 +113,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 52456,
+            "votes": 52721,
             "percent": 0.7,
             "percent_display": "0.7",
             "electoral_votes": 0,
@@ -134,7 +134,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 25921,
+            "votes": 26126,
             "percent": 0.4,
             "percent_display": "0.4",
             "electoral_votes": 0,
@@ -155,7 +155,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 19756,
+            "votes": 19873,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -176,7 +176,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 8851,
+            "votes": 9040,
             "percent": 0.1,
             "percent_display": "0.1",
             "electoral_votes": 0,
@@ -188,8 +188,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 15.18791,
-        "leader_margin_votes": 1089061,
+        "leader_margin_value": 15.40764,
+        "leader_margin_votes": 1109835,
         "leader_margin_display": "D+15",
         "leader_margin_name_display": "Biden +15",
         "leader_party_id": "democrat",
@@ -197,44 +197,44 @@
           {
             "fips": "36001",
             "name": "Albany",
-            "votes": 121529,
+            "votes": 154101,
             "absentee_votes": 0,
-            "reporting": 246,
+            "reporting": 317,
             "precincts": 317,
             "absentee_method": "Merged into voters' home precincts AFTER election night",
-            "eevp": 78,
+            "eevp": 98,
             "tot_exp_vote": 156602,
-            "eevp_value": "78%",
-            "eevp_display": "78% reported",
+            "eevp_value": "98%",
+            "eevp_display": "98% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
-            "absentee_count_progress": "unknown",
+            "absentee_count_progress": "none",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 73189,
-              "trumpd": 45570,
-              "jorgensenj": 1258,
-              "hawkinsh": 574,
-              "pierceb": 478,
-              "write-ins": 460
+              "bidenj": 99474,
+              "trumpd": 51081,
+              "jorgensenj": 1523,
+              "hawkinsh": 779,
+              "write-ins": 649,
+              "pierceb": 595
             },
             "results_absentee": {
               "bidenj": 0,
               "trumpd": 0,
               "jorgensenj": 0,
               "hawkinsh": 0,
-              "pierceb": 0,
-              "write-ins": 0
+              "write-ins": 0,
+              "pierceb": 0
             },
-            "last_updated": "2020-11-24T13:22:04Z",
-            "leader_margin_value": 22.72626,
-            "leader_margin_display": "D+23",
-            "leader_margin_name_display": "Biden +23",
+            "last_updated": "2020-11-28T13:55:50Z",
+            "leader_margin_value": 31.40343,
+            "leader_margin_display": "D+31",
+            "leader_margin_name_display": "Biden +31",
             "leader_party_id": "democrat",
-            "margin2020": -22.72626,
+            "margin2020": -31.40343,
             "votes2016": 139818,
             "margin2016": -25.2,
             "votes2012": 135767,
@@ -3048,12 +3048,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Chemung County.",
-            "timestamp": 1606270565013,
+            "sentence": "We just received more votes from Albany County.",
+            "timestamp": 1606571768263,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Chemung County.",
+            "generatedText": "We just received more votes from Albany County.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -5852,6 +5852,16 @@
             "eevp": 84,
             "eevp_source": "edison",
             "timestamp": "2020-11-25T02:14:27Z"
+          },
+          {
+            "vote_shares": {
+              "bidenj": 0.57,
+              "trumpd": 0.415
+            },
+            "votes": 7203149,
+            "eevp": 84,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-28T13:54:16Z"
           }
         ]
       },
@@ -19883,7 +19893,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 311148,
+        "votes": 343005,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": "unknown",
@@ -19896,19 +19906,19 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T02:00:00.000Z",
         "poll_time_short": "9 p.m.",
-        "precincts_reporting": 475,
+        "precincts_reporting": 545,
         "precincts_total": 558,
-        "reporting_display": "85% reporting",
-        "reporting_value": "85%",
-        "eevp": 87,
+        "reporting_display": "98% reporting",
+        "reporting_value": "98%",
+        "eevp": 96,
         "tot_exp_vote": 358000,
         "eevp_source": "edison",
-        "eevp_value": "87%",
-        "eevp_display": "87% reported",
+        "eevp_value": "96%",
+        "eevp_display": "96% reported",
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-24T19:19:54Z",
+        "last_updated": "2020-11-28T13:55:50Z",
         "candidates": [
           {
             "candidate_id": "tonko-57037-33-h",
@@ -19921,9 +19931,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 181103,
-            "percent": 58.2,
-            "percent_display": "58.2",
+            "votes": 207442,
+            "percent": 60.5,
+            "percent_display": "60.5",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -19942,9 +19952,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 129931,
-            "percent": 41.8,
-            "percent_display": "41.8",
+            "votes": 135418,
+            "percent": 39.5,
+            "percent_display": "39.5",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -19963,7 +19973,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 114,
+            "votes": 145,
             "percent": 0,
             "percent_display": "<0.1",
             "electoral_votes": 0,
@@ -19975,24 +19985,24 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 16.44619,
-        "leader_margin_votes": 51172,
-        "leader_margin_display": "D+16",
-        "leader_margin_name_display": "Tonko +16",
+        "leader_margin_value": 20.99794,
+        "leader_margin_votes": 72024,
+        "leader_margin_display": "D+21",
+        "leader_margin_name_display": "Tonko +21",
         "leader_party_id": "democrat",
         "counties": [
           {
             "fips": "36001",
             "name": "Albany",
-            "votes": 118618,
+            "votes": 150475,
             "absentee_votes": 0,
-            "reporting": 247,
+            "reporting": 317,
             "precincts": 317,
             "absentee_method": "Merged into voters' home precincts AFTER election night",
-            "eevp": 78,
+            "eevp": 99,
             "tot_exp_vote": 151961,
-            "eevp_value": "78%",
-            "eevp_display": "78% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 4,
             "absentee_count_progress": "none",
@@ -20001,19 +20011,19 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "tonkop": 74172,
-              "joye": 44370,
-              "write-ins": 76
+              "tonkop": 100511,
+              "joye": 49857,
+              "write-ins": 107
             },
             "results_absentee": {
               "tonkop": 0,
               "joye": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-24T13:21:48Z",
-            "leader_margin_value": 25.12435,
-            "leader_margin_display": "D+25",
-            "leader_margin_name_display": "Tonko +25",
+            "last_updated": "2020-11-28T13:55:49Z",
+            "leader_margin_value": 33.66273,
+            "leader_margin_display": "D+34",
+            "leader_margin_name_display": "Tonko +34",
             "leader_party_id": "democrat"
           },
           {
@@ -20171,12 +20181,12 @@
             "sentence_type": "race_won"
           },
           "eevp": {
-            "sentence": "87% of the estimated vote total has been reported.",
-            "timestamp": 1606245731386,
-            "is_new": false,
+            "sentence": "96% of the estimated vote total has been reported.",
+            "timestamp": 1606571888447,
+            "is_new": true,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "87% of the estimated vote total has been reported.",
+            "generatedText": "96% of the estimated vote total has been reported.",
             "sentence_type": "has_eevp"
           },
           "eevp_leadin": {
@@ -20199,11 +20209,241 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
-            "additional_precincts_reported": false,
-            "has_eevp": true
+            "additional_votes_reported": true,
+            "additional_precincts_reported": true,
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": true,
+            "precinct_percentage_points_grew_by_more_than_5_percent": true,
+            "eevp_grew_by_more_than_2_percent": true,
+            "eevp_grew_by_more_than_5_percent": true,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": true,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": true,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": true,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": true,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 9,
+            "prev_eevp": 87,
+            "num_additional_votes": 31857,
+            "prev_votes": 311148,
+            "num_additional_precincts": 70,
+            "prev_precincts": 475,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 12.5,
+            "prev_precinct_percentage_points": 85.1,
+            "lead_margin_change_votes": 20852,
+            "lead_margin_change_percentage_points": 4.599999999999994,
+            "previous_leading_candidate": {
+              "candidate_id": "tonko-57037-33-h",
+              "candidate_key": "tonkop",
+              "first_name": "Paul",
+              "last_name": "Tonko",
+              "order": 1,
+              "name_display": "Paul Tonko",
+              "party_id": "democrat",
+              "incumbent": true,
+              "runoff": false,
+              "winner": true,
+              "votes": 181103,
+              "percent": 58.2,
+              "percent_display": "58.2",
+              "electoral_votes": 0,
+              "absentee_votes": 0,
+              "absentee_percent": 0,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/tonko-57037-33-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "previous_second_candidate": {
+              "candidate_id": "joy-20073215-33-h",
+              "candidate_key": "joye",
+              "first_name": "Elizabeth",
+              "last_name": "Joy",
+              "order": 2,
+              "name_display": "Elizabeth Joy",
+              "party_id": "republican",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 129931,
+              "percent": 41.8,
+              "percent_display": "41.8",
+              "electoral_votes": 0,
+              "absentee_votes": 0,
+              "absentee_percent": 0,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/joy-20073215-33-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "tonko-57037-33-h",
+                "num_additional_votes": 26339,
+                "prev_votes": 181103,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 2.3,
+                "prev_percent": 58.2
+              },
+              {
+                "candidate_id": "joy-20073215-33-h",
+                "num_additional_votes": 5487,
+                "prev_votes": 129931,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": -2.3,
+                "prev_percent": 41.8
+              },
+              {
+                "candidate_id": "write-ins-21303-33-h",
+                "num_additional_votes": 31,
+                "prev_votes": 114,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [
+              "36001"
+            ],
+            "change_by_county": [
+              {
+                "name": "Albany",
+                "fips": "36001",
+                "num_additional_votes": 31857,
+                "prev_votes": 118618,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 21,
+                "prev_precincts": 317,
+                "prev_eevp": 78,
+                "candidate_changes": {
+                  "tonkop": {
+                    "prev_votes": 74172,
+                    "num_additional_votes": 26339
+                  },
+                  "joye": {
+                    "prev_votes": 44370,
+                    "num_additional_votes": 5487
+                  },
+                  "write-ins": {
+                    "prev_votes": 76,
+                    "num_additional_votes": 31
+                  }
+                }
+              },
+              {
+                "name": "Montgomery",
+                "fips": "36057",
+                "num_additional_votes": 0,
+                "prev_votes": 12058,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 13,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "tonkop": {
+                    "prev_votes": 4835,
+                    "num_additional_votes": 0
+                  },
+                  "joye": {
+                    "prev_votes": 7221,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 2,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Rensselaer",
+                "fips": "36083",
+                "num_additional_votes": 0,
+                "prev_votes": 41453,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 47,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "tonkop": {
+                    "prev_votes": 25569,
+                    "num_additional_votes": 0
+                  },
+                  "joye": {
+                    "prev_votes": 15869,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 15,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Saratoga",
+                "fips": "36091",
+                "num_additional_votes": 0,
+                "prev_votes": 79846,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 121,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "tonkop": {
+                    "prev_votes": 44560,
+                    "num_additional_votes": 0
+                  },
+                  "joye": {
+                    "prev_votes": 35265,
+                    "num_additional_votes": 0
+                  },
+                  "write-ins": {
+                    "prev_votes": 21,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Schenectady",
+                "fips": "36093",
+                "num_additional_votes": 0,
+                "prev_votes": 59173,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 60,
+                "prev_eevp": 81,
+                "candidate_changes": {
+                  "tonkop": {
+                    "prev_votes": 31967,
+                    "num_additional_votes": 0
+                  },
+                  "joye": {
+                    "prev_votes": 27206,
+                    "num_additional_votes": 0
+                  }
+                }
+              }
+            ]
+          }
         },
         "winnerCalledTimestamp": 1604467878359,
         "timeseries": [
@@ -20480,6 +20720,17 @@
             "eevp": 87,
             "eevp_source": "edison",
             "timestamp": "2020-11-24T19:19:54Z"
+          },
+          {
+            "vote_shares": {
+              "tonkop": 0.605,
+              "joye": 0.395,
+              "write-ins": 0
+            },
+            "votes": 343005,
+            "eevp": 96,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-28T13:55:50Z"
           }
         ]
       },
@@ -47825,7 +48076,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75900395,
+            "votes": 75926734,
             "percent": "50.5",
             "change": -8,
             "flip_count": 3,
@@ -47842,7 +48093,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 206,
-            "votes": 72396236,
+            "votes": 72401723,
             "percent": "48.1",
             "change": 9,
             "flip_count": 12,
@@ -47859,7 +48110,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2078491,
+            "votes": 2078522,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -47887,8 +48138,8 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 80048633,
-            "percent": "51.0",
+            "votes": 80074918,
+            "percent": "51.1",
             "change": 0,
             "flip_count": 0,
             "leader_count": 0,
@@ -47904,7 +48155,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73902347,
+            "votes": 73907858,
             "percent": "47.1",
             "change": 0,
             "flip_count": 0,
@@ -47921,7 +48172,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2866354,
+            "votes": 2867130,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -61355,9 +61606,9 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 4076327,
-          "percent": 56.8,
-          "percent_display": "56.8",
+          "votes": 4102612,
+          "percent": 57,
+          "percent_display": "57.0",
           "electoral_votes": 29,
           "absentee_votes": 240047,
           "absentee_percent": 68.8,
@@ -64477,8 +64728,8 @@
     ]
   },
   "meta": {
-    "version": 23019,
+    "version": 23022,
     "track": "2020-11-03",
-    "timestamp": "2020-11-28T05:00:22.883Z"
+    "timestamp": "2020-11-28T13:58:16.232Z"
   }
 }
