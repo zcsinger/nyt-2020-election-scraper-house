@@ -2907,7 +2907,7 @@
               "kingr": 5,
               "pierceb": 4
             },
-            "last_updated": "2020-11-30T20:29:13Z",
+            "last_updated": "2020-11-30T23:27:12Z",
             "leader_margin_value": 21.53015,
             "leader_margin_display": "R+22",
             "leader_margin_name_display": "Trump +22",
@@ -7995,7 +7995,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 1670616,
+        "votes": 1670617,
         "absentee_votes": 984576,
         "absentee_counties": 99,
         "absentee_count_progress": "unknown",
@@ -8020,7 +8020,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-24T13:23:45Z",
+        "last_updated": "2020-11-30T23:27:15Z",
         "candidates": [
           {
             "candidate_id": "ernst-63566-16-s",
@@ -8096,7 +8096,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 13799,
+            "votes": 13800,
             "percent": 0.8,
             "percent_display": "0.8",
             "electoral_votes": 0,
@@ -8108,7 +8108,7 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 6.59266,
+        "leader_margin_value": 6.59265,
         "leader_margin_votes": 110138,
         "leader_margin_display": "R+7",
         "leader_margin_name_display": "Ernst +7",
@@ -9930,7 +9930,7 @@
           {
             "fips": "19099",
             "name": "Jasper",
-            "votes": 20007,
+            "votes": 20008,
             "absentee_votes": 10739,
             "reporting": 20,
             "precincts": 20,
@@ -9950,7 +9950,7 @@
               "ernstj": 11405,
               "greenfieldt": 7905,
               "stewartr": 531,
-              "herzogs": 166
+              "herzogs": 167
             },
             "results_absentee": {
               "ernstj": 4785,
@@ -9958,8 +9958,8 @@
               "stewartr": 237,
               "herzogs": 79
             },
-            "last_updated": "2020-11-30T20:29:12Z",
-            "leader_margin_value": 17.49388,
+            "last_updated": "2020-11-30T23:27:11Z",
+            "leader_margin_value": 17.493,
             "leader_margin_display": "R+17",
             "leader_margin_name_display": "Ernst +17",
             "leader_party_id": "republican"
@@ -11840,11 +11840,2904 @@
             "race_won": true,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
+            "additional_votes_reported": true,
             "additional_precincts_reported": false,
-            "has_eevp": true
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": false,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": false,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": false,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 0,
+            "prev_eevp": 97,
+            "num_additional_votes": 1,
+            "prev_votes": 1670616,
+            "num_additional_precincts": 0,
+            "prev_precincts": 1588,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 0,
+            "prev_precinct_percentage_points": 95.4,
+            "lead_margin_change_votes": 0,
+            "lead_margin_change_percentage_points": 0,
+            "previous_leading_candidate": {
+              "candidate_id": "ernst-63566-16-s",
+              "candidate_key": "ernstj",
+              "first_name": "Joni",
+              "last_name": "Ernst",
+              "order": 2,
+              "name_display": "Joni Ernst",
+              "party_id": "republican",
+              "incumbent": true,
+              "runoff": false,
+              "winner": true,
+              "votes": 864997,
+              "percent": 51.8,
+              "percent_display": "51.8",
+              "electoral_votes": 0,
+              "absentee_votes": 402978,
+              "absentee_percent": 40.9,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/ernst-63566-16-s.png",
+              "has_image": false,
+              "link": ""
+            },
+            "previous_second_candidate": {
+              "candidate_id": "greenfield-20073770-16-s",
+              "candidate_key": "greenfieldt",
+              "first_name": "Theresa",
+              "last_name": "Greenfield",
+              "order": 1,
+              "name_display": "Theresa Greenfield",
+              "party_id": "democrat",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 754859,
+              "percent": 45.2,
+              "percent_display": "45.2",
+              "electoral_votes": 0,
+              "absentee_votes": 555832,
+              "absentee_percent": 56.5,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/greenfield-20073770-16-s.png",
+              "has_image": false,
+              "link": ""
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "ernst-63566-16-s",
+                "num_additional_votes": 0,
+                "prev_votes": 864997,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 51.8
+              },
+              {
+                "candidate_id": "greenfield-20073770-16-s",
+                "num_additional_votes": 0,
+                "prev_votes": 754859,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 45.2
+              },
+              {
+                "candidate_id": "stewart-64430-16-s",
+                "num_additional_votes": 0,
+                "prev_votes": 36961,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 2.2
+              },
+              {
+                "candidate_id": "herzog-20073771-16-s",
+                "num_additional_votes": 1,
+                "prev_votes": 13799,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 0.8
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [],
+            "change_by_county": [
+              {
+                "name": "Adair",
+                "fips": "19001",
+                "num_additional_votes": 0,
+                "prev_votes": 4141,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 5,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 2809,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1207,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 89,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 36,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Adams",
+                "fips": "19003",
+                "num_additional_votes": 0,
+                "prev_votes": 2156,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 5,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 1497,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 594,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 46,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 19,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Allamakee",
+                "fips": "19005",
+                "num_additional_votes": 0,
+                "prev_votes": 7335,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 11,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 4478,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 2602,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 175,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 80,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Appanoose",
+                "fips": "19007",
+                "num_additional_votes": 0,
+                "prev_votes": 6384,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 13,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 4189,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1956,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 168,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 71,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Audubon",
+                "fips": "19009",
+                "num_additional_votes": 0,
+                "prev_votes": 3371,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 3,
+                "prev_eevp": 95,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 2188,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1092,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 70,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 21,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Benton",
+                "fips": "19011",
+                "num_additional_votes": 0,
+                "prev_votes": 14483,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 19,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 8830,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 5202,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 331,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 120,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Black Hawk",
+                "fips": "19013",
+                "num_additional_votes": 0,
+                "prev_votes": 65976,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 63,
+                "prev_eevp": 85,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 29222,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 34963,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 1301,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 490,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Boone",
+                "fips": "19015",
+                "num_additional_votes": 0,
+                "prev_votes": 15183,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 13,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 8315,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 6316,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 385,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 167,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Bremer",
+                "fips": "19017",
+                "num_additional_votes": 0,
+                "prev_votes": 14445,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 14,
+                "prev_eevp": 92,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 8196,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 5911,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 254,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 84,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Buchanan",
+                "fips": "19019",
+                "num_additional_votes": 0,
+                "prev_votes": 10699,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 11,
+                "prev_eevp": 97,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 6063,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 4292,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 248,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 96,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Buena Vista",
+                "fips": "19021",
+                "num_additional_votes": 0,
+                "prev_votes": 7987,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 8,
+                "prev_eevp": 91,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 4724,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 3022,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 166,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 75,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Butler",
+                "fips": "19023",
+                "num_additional_votes": 0,
+                "prev_votes": 8007,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 8,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 5291,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 2474,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 173,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 69,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Calhoun",
+                "fips": "19025",
+                "num_additional_votes": 0,
+                "prev_votes": 5205,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 11,
+                "prev_eevp": 95,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 3513,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1531,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 129,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 32,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Carroll",
+                "fips": "19027",
+                "num_additional_votes": 0,
+                "prev_votes": 11151,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 14,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 7245,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 3580,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 230,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 96,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Cass",
+                "fips": "19029",
+                "num_additional_votes": 0,
+                "prev_votes": 7158,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 10,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 4725,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 2259,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 120,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 54,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Cedar",
+                "fips": "19031",
+                "num_additional_votes": 0,
+                "prev_votes": 10535,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 12,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 5935,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 4300,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 226,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 74,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Cerro Gordo",
+                "fips": "19033",
+                "num_additional_votes": 0,
+                "prev_votes": 23514,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 27,
+                "prev_eevp": 94,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 11339,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 11534,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 430,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 211,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Cherokee",
+                "fips": "19035",
+                "num_additional_votes": 0,
+                "prev_votes": 6421,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 7,
+                "prev_eevp": 96,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 4214,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 2002,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 138,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 67,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Chickasaw",
+                "fips": "19037",
+                "num_additional_votes": 0,
+                "prev_votes": 6578,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 14,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 4024,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 2324,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 159,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 71,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Clarke",
+                "fips": "19039",
+                "num_additional_votes": 0,
+                "prev_votes": 4605,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 8,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 2906,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1520,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 119,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 60,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Clay",
+                "fips": "19041",
+                "num_additional_votes": 0,
+                "prev_votes": 8859,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 12,
+                "prev_eevp": 98,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 5716,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 2861,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 193,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 89,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Clayton",
+                "fips": "19043",
+                "num_additional_votes": 0,
+                "prev_votes": 9518,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 14,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 5845,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 3434,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 157,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 82,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Clinton",
+                "fips": "19045",
+                "num_additional_votes": 0,
+                "prev_votes": 24336,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 26,
+                "prev_eevp": 93,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 12559,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 10942,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 635,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 200,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Crawford",
+                "fips": "19047",
+                "num_additional_votes": 0,
+                "prev_votes": 7000,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 8,
+                "prev_eevp": 98,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 4424,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 2336,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 160,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 80,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Dallas",
+                "fips": "19049",
+                "num_additional_votes": 0,
+                "prev_votes": 55541,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 34,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 28727,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 25427,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 1006,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 381,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Davis",
+                "fips": "19051",
+                "num_additional_votes": 0,
+                "prev_votes": 4039,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 8,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 2728,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1167,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 112,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 32,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Decatur",
+                "fips": "19053",
+                "num_additional_votes": 0,
+                "prev_votes": 3737,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 7,
+                "prev_eevp": 98,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 2439,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1165,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 90,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 43,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Delaware",
+                "fips": "19055",
+                "num_additional_votes": 0,
+                "prev_votes": 9932,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 12,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 6454,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 3235,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 172,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 71,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Des Moines",
+                "fips": "19057",
+                "num_additional_votes": 0,
+                "prev_votes": 19587,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 17,
+                "prev_eevp": 92,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 9468,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 9296,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 591,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 232,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Dickinson",
+                "fips": "19059",
+                "num_additional_votes": 0,
+                "prev_votes": 11180,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 6,
+                "prev_eevp": 93,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 7149,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 3791,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 174,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 66,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Dubuque",
+                "fips": "19061",
+                "num_additional_votes": 0,
+                "prev_votes": 53043,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 36,
+                "prev_eevp": 90,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 26034,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 25433,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 1148,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 428,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Emmet",
+                "fips": "19063",
+                "num_additional_votes": 0,
+                "prev_votes": 4796,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 12,
+                "prev_eevp": 96,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 2965,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1637,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 147,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 47,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Fayette",
+                "fips": "19065",
+                "num_additional_votes": 0,
+                "prev_votes": 10095,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 26,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 5865,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 3912,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 229,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 89,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Floyd",
+                "fips": "19067",
+                "num_additional_votes": 0,
+                "prev_votes": 7964,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 9,
+                "prev_eevp": 92,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 4181,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 3498,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 187,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 98,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Franklin",
+                "fips": "19069",
+                "num_additional_votes": 0,
+                "prev_votes": 5059,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 13,
+                "prev_eevp": 95,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 3270,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1639,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 100,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 50,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Fremont",
+                "fips": "19071",
+                "num_additional_votes": 0,
+                "prev_votes": 3807,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 6,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 2563,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1099,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 89,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 56,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Greene",
+                "fips": "19073",
+                "num_additional_votes": 0,
+                "prev_votes": 4990,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 7,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 3063,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1784,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 104,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 39,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Grundy",
+                "fips": "19075",
+                "num_additional_votes": 0,
+                "prev_votes": 7212,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 7,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 4900,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 2120,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 154,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 38,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Guthrie",
+                "fips": "19077",
+                "num_additional_votes": 0,
+                "prev_votes": 6321,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 9,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 4103,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 2000,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 162,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 56,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Hamilton",
+                "fips": "19079",
+                "num_additional_votes": 0,
+                "prev_votes": 7866,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 8,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 4679,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 2913,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 190,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 84,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Hancock",
+                "fips": "19081",
+                "num_additional_votes": 0,
+                "prev_votes": 6075,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 11,
+                "prev_eevp": 98,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 4004,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1881,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 130,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 60,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Hardin",
+                "fips": "19083",
+                "num_additional_votes": 0,
+                "prev_votes": 8838,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 8,
+                "prev_eevp": 95,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 5639,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 2920,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 195,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 84,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Harrison",
+                "fips": "19085",
+                "num_additional_votes": 0,
+                "prev_votes": 8004,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 13,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 5059,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 2574,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 253,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 118,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Henry",
+                "fips": "19087",
+                "num_additional_votes": 0,
+                "prev_votes": 9758,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 10,
+                "prev_eevp": 96,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 5875,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 3457,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 310,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 116,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Howard",
+                "fips": "19089",
+                "num_additional_votes": 0,
+                "prev_votes": 4906,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 9,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 2716,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 2014,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 118,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 58,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Humboldt",
+                "fips": "19091",
+                "num_additional_votes": 0,
+                "prev_votes": 5262,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 10,
+                "prev_eevp": 98,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 3671,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1443,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 108,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 40,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Ida",
+                "fips": "19093",
+                "num_additional_votes": 0,
+                "prev_votes": 3815,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 8,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 2757,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 964,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 66,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 28,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Iowa",
+                "fips": "19095",
+                "num_additional_votes": 0,
+                "prev_votes": 9624,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 11,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 5794,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 3541,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 205,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 84,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Jackson",
+                "fips": "19097",
+                "num_additional_votes": 0,
+                "prev_votes": 10908,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 17,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 6175,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 4249,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 366,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 118,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Jasper",
+                "fips": "19099",
+                "num_additional_votes": 1,
+                "prev_votes": 20007,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 20,
+                "prev_eevp": 97,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 11405,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 7905,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 531,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 166,
+                    "num_additional_votes": 1
+                  }
+                }
+              },
+              {
+                "name": "Jefferson",
+                "fips": "19101",
+                "num_additional_votes": 0,
+                "prev_votes": 8798,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 12,
+                "prev_eevp": 90,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 4008,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 4547,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 163,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 80,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Johnson",
+                "fips": "19103",
+                "num_additional_votes": 0,
+                "prev_votes": 82591,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 58,
+                "prev_eevp": 93,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 23773,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 57063,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 1382,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 373,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Jones",
+                "fips": "19105",
+                "num_additional_votes": 0,
+                "prev_votes": 10898,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 14,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 6320,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 4237,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 273,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 68,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Keokuk",
+                "fips": "19107",
+                "num_additional_votes": 0,
+                "prev_votes": 5208,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 11,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 3565,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1489,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 101,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 53,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Kossuth",
+                "fips": "19109",
+                "num_additional_votes": 0,
+                "prev_votes": 9006,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 20,
+                "prev_eevp": 98,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 5957,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 2799,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 193,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 57,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Lee",
+                "fips": "19111",
+                "num_additional_votes": 0,
+                "prev_votes": 16541,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 19,
+                "prev_eevp": 85,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 8489,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 7445,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 485,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 122,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Linn",
+                "fips": "19113",
+                "num_additional_votes": 0,
+                "prev_votes": 126376,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 86,
+                "prev_eevp": 92,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 53248,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 69125,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 3188,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 815,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Louisa",
+                "fips": "19115",
+                "num_additional_votes": 0,
+                "prev_votes": 5255,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 5,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 3259,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1804,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 141,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 51,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Lucas",
+                "fips": "19117",
+                "num_additional_votes": 0,
+                "prev_votes": 4542,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 8,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 3105,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1302,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 99,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 36,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Lyon",
+                "fips": "19119",
+                "num_additional_votes": 0,
+                "prev_votes": 6749,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 8,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 5522,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1073,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 104,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 50,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Madison",
+                "fips": "19121",
+                "num_additional_votes": 0,
+                "prev_votes": 9717,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 10,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 6245,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 3168,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 218,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 86,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Mahaska",
+                "fips": "19123",
+                "num_additional_votes": 0,
+                "prev_votes": 11220,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 12,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 7860,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 2969,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 273,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 118,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Marion",
+                "fips": "19125",
+                "num_additional_votes": 0,
+                "prev_votes": 19047,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 17,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 12211,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 6269,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 423,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 144,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Marshall",
+                "fips": "19127",
+                "num_additional_votes": 0,
+                "prev_votes": 17851,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 19,
+                "prev_eevp": 89,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 9057,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 8187,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 442,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 165,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Mills",
+                "fips": "19129",
+                "num_additional_votes": 0,
+                "prev_votes": 8150,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 12,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 5347,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 2544,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 177,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 82,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Mitchell",
+                "fips": "19131",
+                "num_additional_votes": 0,
+                "prev_votes": 5802,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 11,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 3347,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 2282,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 124,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 49,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Monona",
+                "fips": "19133",
+                "num_additional_votes": 0,
+                "prev_votes": 4656,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 8,
+                "prev_eevp": 96,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 3054,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1455,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 108,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 39,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Monroe",
+                "fips": "19135",
+                "num_additional_votes": 0,
+                "prev_votes": 4008,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 8,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 2742,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1148,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 84,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 34,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Montgomery",
+                "fips": "19137",
+                "num_additional_votes": 0,
+                "prev_votes": 5297,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 3,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 3633,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1520,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 98,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 46,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Muscatine",
+                "fips": "19139",
+                "num_additional_votes": 0,
+                "prev_votes": 20428,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 23,
+                "prev_eevp": 98,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 10278,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 9381,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 570,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 199,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "O'Brien",
+                "fips": "19141",
+                "num_additional_votes": 0,
+                "prev_votes": 7458,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 9,
+                "prev_eevp": 96,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 5675,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1640,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 105,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 38,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Osceola",
+                "fips": "19143",
+                "num_additional_votes": 0,
+                "prev_votes": 3262,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 8,
+                "prev_eevp": 98,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 2525,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 657,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 49,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 31,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Page",
+                "fips": "19145",
+                "num_additional_votes": 0,
+                "prev_votes": 7435,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 9,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 5152,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 2067,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 138,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 78,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Palo Alto",
+                "fips": "19147",
+                "num_additional_votes": 0,
+                "prev_votes": 4932,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 6,
+                "prev_eevp": 96,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 3113,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1677,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 106,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 36,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Plymouth",
+                "fips": "19149",
+                "num_additional_votes": 0,
+                "prev_votes": 14028,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 13,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 10145,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 3587,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 219,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 77,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Pocahontas",
+                "fips": "19151",
+                "num_additional_votes": 0,
+                "prev_votes": 3774,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 8,
+                "prev_eevp": 91,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 2641,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1003,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 91,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 39,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Polk",
+                "fips": "19153",
+                "num_additional_votes": 0,
+                "prev_votes": 256069,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 178,
+                "prev_eevp": 95,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 106443,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 142328,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 5313,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 1985,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Pottawattamie",
+                "fips": "19155",
+                "num_additional_votes": 0,
+                "prev_votes": 45033,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 26,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 24720,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 18520,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 1269,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 524,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Poweshiek",
+                "fips": "19157",
+                "num_additional_votes": 0,
+                "prev_votes": 10035,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 4,
+                "prev_eevp": 96,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 5361,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 4381,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 202,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 91,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Ringgold",
+                "fips": "19159",
+                "num_additional_votes": 0,
+                "prev_votes": 2693,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 6,
+                "prev_eevp": 95,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 1870,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 732,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 75,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 16,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Sac",
+                "fips": "19161",
+                "num_additional_votes": 0,
+                "prev_votes": 5478,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 10,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 3849,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1440,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 129,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 60,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Scott",
+                "fips": "19163",
+                "num_additional_votes": 0,
+                "prev_votes": 91540,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 63,
+                "prev_eevp": 88,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 42941,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 45751,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 2139,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 709,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Shelby",
+                "fips": "19165",
+                "num_additional_votes": 0,
+                "prev_votes": 6691,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 9,
+                "prev_eevp": 98,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 4489,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1989,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 156,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 57,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Sioux",
+                "fips": "19167",
+                "num_additional_votes": 0,
+                "prev_votes": 18886,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 16,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 15785,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 2828,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 192,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 81,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Story",
+                "fips": "19169",
+                "num_additional_votes": 0,
+                "prev_votes": 50469,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 43,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 20750,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 28216,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 1133,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 370,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Tama",
+                "fips": "19171",
+                "num_additional_votes": 0,
+                "prev_votes": 8962,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 16,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 5090,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 3588,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 205,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 79,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Taylor",
+                "fips": "19173",
+                "num_additional_votes": 0,
+                "prev_votes": 3210,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 7,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 2337,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 762,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 83,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 28,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Union",
+                "fips": "19175",
+                "num_additional_votes": 0,
+                "prev_votes": 6119,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 9,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 3820,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 2051,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 172,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 76,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Van Buren",
+                "fips": "19177",
+                "num_additional_votes": 0,
+                "prev_votes": 3751,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 9,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 2583,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1065,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 75,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 28,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Wapello",
+                "fips": "19179",
+                "num_additional_votes": 0,
+                "prev_votes": 15334,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 22,
+                "prev_eevp": 95,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 8464,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 6344,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 394,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 132,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Warren",
+                "fips": "19181",
+                "num_additional_votes": 0,
+                "prev_votes": 30680,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 31,
+                "prev_eevp": 97,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 17276,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 12478,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 692,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 234,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Washington",
+                "fips": "19183",
+                "num_additional_votes": 0,
+                "prev_votes": 11649,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 10,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 6773,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 4519,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 262,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 95,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Wayne",
+                "fips": "19185",
+                "num_additional_votes": 0,
+                "prev_votes": 3051,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 5,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 2186,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 784,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 53,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 28,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Webster",
+                "fips": "19187",
+                "num_additional_votes": 0,
+                "prev_votes": 17616,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 28,
+                "prev_eevp": 92,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 10195,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 6845,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 403,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 173,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Winnebago",
+                "fips": "19189",
+                "num_additional_votes": 0,
+                "prev_votes": 5922,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 11,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 3336,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 2361,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 153,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 72,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Winneshiek",
+                "fips": "19191",
+                "num_additional_votes": 0,
+                "prev_votes": 11956,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 11,
+                "prev_eevp": 91,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 6039,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 5581,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 218,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 118,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Woodbury",
+                "fips": "19193",
+                "num_additional_votes": 0,
+                "prev_votes": 44472,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 45,
+                "prev_eevp": 95,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 24175,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 18674,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 994,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 629,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Worth",
+                "fips": "19195",
+                "num_additional_votes": 0,
+                "prev_votes": 4372,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 8,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 2425,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 1803,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 98,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 46,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Wright",
+                "fips": "19197",
+                "num_additional_votes": 0,
+                "prev_votes": 6186,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 10,
+                "prev_eevp": 96,
+                "candidate_changes": {
+                  "ernstj": {
+                    "prev_votes": 3889,
+                    "num_additional_votes": 0
+                  },
+                  "greenfieldt": {
+                    "prev_votes": 2063,
+                    "num_additional_votes": 0
+                  },
+                  "stewartr": {
+                    "prev_votes": 158,
+                    "num_additional_votes": 0
+                  },
+                  "herzogs": {
+                    "prev_votes": 76,
+                    "num_additional_votes": 0
+                  }
+                }
+              }
+            ]
+          }
         },
         "winnerCalledTimestamp": 1604468322888,
         "timeseries": [
@@ -14127,6 +17020,16 @@
             "eevp": 99,
             "eevp_source": "ap",
             "timestamp": "2020-11-17T14:49:59.013Z"
+          },
+          {
+            "vote_shares": {
+              "ernstj": 0.518,
+              "greenfieldt": 0.452
+            },
+            "votes": 1670617,
+            "eevp": 97,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-30T23:27:15Z"
           }
         ]
       },
@@ -15972,7 +18875,7 @@
               "miller_meeksm": 4608,
               "hartr": 5679
             },
-            "last_updated": "2020-11-30T20:29:12Z",
+            "last_updated": "2020-11-30T23:27:12Z",
             "leader_margin_value": 15.98548,
             "leader_margin_display": "R+16",
             "leader_margin_name_display": "Miller-Meeks +16",
@@ -37685,7 +40588,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2907192,
+            "votes": 2907193,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -54249,8 +57152,8 @@
     ]
   },
   "meta": {
-    "version": 23561,
+    "version": 23562,
     "track": "2020-11-03",
-    "timestamp": "2020-11-30T23:07:19.488Z"
+    "timestamp": "2020-11-30T23:30:18.458Z"
   }
 }
