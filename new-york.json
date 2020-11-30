@@ -1603,7 +1603,7 @@
               "hawkinsh": 0,
               "pierceb": 0
             },
-            "last_updated": "2020-11-30T20:58:43Z",
+            "last_updated": "2020-11-30T21:05:17Z",
             "leader_margin_value": 9.52404,
             "leader_margin_display": "D+10",
             "leader_margin_name_display": "Biden +10",
@@ -6277,7 +6277,7 @@
         "result_source": null,
         "gain": false,
         "lost_seat": "",
-        "votes": 291322,
+        "votes": 291465,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": "unknown",
@@ -6302,7 +6302,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-24T13:23:32Z",
+        "last_updated": "2020-11-30T21:01:00Z",
         "candidates": [
           {
             "candidate_id": "garbarino-20073516-33-h",
@@ -6315,7 +6315,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 164367,
+            "votes": 164460,
             "percent": 56.4,
             "percent_display": "56.4",
             "electoral_votes": 0,
@@ -6336,7 +6336,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 124153,
+            "votes": 124203,
             "percent": 42.6,
             "percent_display": "42.6",
             "electoral_votes": 0,
@@ -6390,8 +6390,8 @@
           }
         ],
         "has_incumbent": false,
-        "leader_margin_value": 13.80397,
-        "leader_margin_votes": 40214,
+        "leader_margin_value": 13.81195,
+        "leader_margin_votes": 40257,
         "leader_margin_display": "R+14",
         "leader_margin_name_display": "Garbarino +14",
         "leader_party_id": "republican",
@@ -6399,7 +6399,7 @@
           {
             "fips": "36059",
             "name": "Nassau",
-            "votes": 104086,
+            "votes": 104229,
             "absentee_votes": 0,
             "reporting": 180,
             "precincts": 180,
@@ -6416,8 +6416,8 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "garbarinoa": 64693,
-              "gordonj": 38548,
+              "garbarinoa": 64786,
+              "gordonj": 38598,
               "burgerh": 815,
               "write-ins": 30
             },
@@ -6427,8 +6427,8 @@
               "burgerh": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-30T20:58:49Z",
-            "leader_margin_value": 25.11865,
+            "last_updated": "2020-11-30T21:05:17Z",
+            "leader_margin_value": 25.12544,
             "leader_margin_display": "R+25",
             "leader_margin_name_display": "Garbarino +25",
             "leader_party_id": "republican"
@@ -6491,12 +6491,12 @@
             "sentence_type": "has_eevp"
           },
           "eevp_leadin": {
-            "sentence": "We just received 179 additional votes from New York. Garbarino is currently up by 40,214 votes.",
-            "timestamp": 1605918224794,
+            "sentence": "We just received 143 additional votes from New York. Garbarino is currently up by 40,257 votes.",
+            "timestamp": 1606770253368,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received 179 additional votes from New York. Garbarino is currently up by 40,214 votes.",
+            "generatedText": "We just received 143 additional votes from New York. Garbarino is currently up by 40,257 votes.",
             "sentence_type": "additional_votes_reported"
           }
         },
@@ -6767,6 +6767,18 @@
             "eevp": 84,
             "eevp_source": "edison",
             "timestamp": "2020-11-21T00:21:40Z"
+          },
+          {
+            "vote_shares": {
+              "garbarinoa": 0.564,
+              "gordonj": 0.426,
+              "burgerh": 0.01,
+              "write-ins": 0
+            },
+            "votes": 291465,
+            "eevp": 84,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-30T21:01:00Z"
           }
         ]
       },
@@ -6799,7 +6811,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 323726,
+        "votes": 324113,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": "unknown",
@@ -6824,7 +6836,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-24T13:23:33Z",
+        "last_updated": "2020-11-30T21:03:30Z",
         "candidates": [
           {
             "candidate_id": "suozzi-33896-33-h",
@@ -6837,7 +6849,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 172120,
+            "votes": 172328,
             "percent": 53.2,
             "percent_display": "53.2",
             "electoral_votes": 0,
@@ -6858,7 +6870,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 149692,
+            "votes": 149865,
             "percent": 46.2,
             "percent_display": "46.2",
             "electoral_votes": 0,
@@ -6879,7 +6891,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1834,
+            "votes": 1839,
             "percent": 0.6,
             "percent_display": "0.6",
             "electoral_votes": 0,
@@ -6900,7 +6912,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 80,
+            "votes": 81,
             "percent": 0,
             "percent_display": "<0.1",
             "electoral_votes": 0,
@@ -6912,8 +6924,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 6.92808,
-        "leader_margin_votes": 22428,
+        "leader_margin_value": 6.93061,
+        "leader_margin_votes": 22463,
         "leader_margin_display": "D+7",
         "leader_margin_name_display": "Suozzi +7",
         "leader_party_id": "democrat",
@@ -6921,7 +6933,7 @@
           {
             "fips": "36059",
             "name": "Nassau",
-            "votes": 187725,
+            "votes": 188112,
             "absentee_votes": 0,
             "reporting": 327,
             "precincts": 327,
@@ -6938,10 +6950,10 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "suozzit": 105877,
-              "santosg": 80747,
-              "rabinh": 1034,
-              "write-ins": 67
+              "suozzit": 106085,
+              "santosg": 80920,
+              "rabinh": 1039,
+              "write-ins": 68
             },
             "results_absentee": {
               "suozzit": 0,
@@ -6949,8 +6961,8 @@
               "rabinh": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-30T20:58:49Z",
-            "leader_margin_value": 13.3866,
+            "last_updated": "2020-11-30T21:05:17Z",
+            "leader_margin_value": 13.37767,
             "leader_margin_display": "D+13",
             "leader_margin_name_display": "Suozzi +13",
             "leader_party_id": "democrat"
@@ -7582,6 +7594,18 @@
             "eevp": 85,
             "eevp_source": "edison",
             "timestamp": "2020-11-21T00:22:53Z"
+          },
+          {
+            "vote_shares": {
+              "suozzit": 0.532,
+              "santosg": 0.462,
+              "rabinh": 0.006,
+              "write-ins": 0
+            },
+            "votes": 324113,
+            "eevp": 85,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-30T21:03:30Z"
           }
         ]
       },
@@ -7614,7 +7638,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 354714,
+        "votes": 355912,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": "unknown",
@@ -7639,7 +7663,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-24T13:23:31Z",
+        "last_updated": "2020-11-30T21:04:30Z",
         "candidates": [
           {
             "candidate_id": "rice-63736-33-h",
@@ -7652,7 +7676,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 199012,
+            "votes": 199762,
             "percent": 56.1,
             "percent_display": "56.1",
             "electoral_votes": 0,
@@ -7673,7 +7697,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 152573,
+            "votes": 153007,
             "percent": 43,
             "percent_display": "43.0",
             "electoral_votes": 0,
@@ -7694,7 +7718,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 3010,
+            "votes": 3024,
             "percent": 0.8,
             "percent_display": "0.8",
             "electoral_votes": 0,
@@ -7727,8 +7751,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 13.09196,
-        "leader_margin_votes": 46439,
+        "leader_margin_value": 13.13667,
+        "leader_margin_votes": 46755,
         "leader_margin_display": "D+13",
         "leader_margin_name_display": "Rice +13",
         "leader_party_id": "democrat",
@@ -7736,7 +7760,7 @@
           {
             "fips": "36059",
             "name": "Nassau",
-            "votes": 354714,
+            "votes": 355912,
             "absentee_votes": 0,
             "reporting": 632,
             "precincts": 632,
@@ -7753,9 +7777,9 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "ricek": 199012,
-              "tumand": 152573,
-              "nahamj": 3010,
+              "ricek": 199762,
+              "tumand": 153007,
+              "nahamj": 3024,
               "write-ins": 119
             },
             "results_absentee": {
@@ -7764,8 +7788,8 @@
               "nahamj": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-30T20:58:48Z",
-            "leader_margin_value": 13.09196,
+            "last_updated": "2020-11-30T21:05:16Z",
+            "leader_margin_value": 13.13667,
             "leader_margin_display": "D+13",
             "leader_margin_name_display": "Rice +13",
             "leader_party_id": "democrat"
@@ -7977,6 +8001,18 @@
             "eevp": 96,
             "eevp_source": "edison",
             "timestamp": "2020-11-21T00:23:17Z"
+          },
+          {
+            "vote_shares": {
+              "ricek": 0.561,
+              "tumand": 0.43,
+              "nahamj": 0.008,
+              "write-ins": 0
+            },
+            "votes": 355912,
+            "eevp": 96,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-30T21:04:30Z"
           }
         ]
       },
@@ -8009,7 +8045,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 187703,
+        "votes": 187819,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": "unknown",
@@ -8022,10 +8058,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T02:00:00.000Z",
         "poll_time_short": "9 p.m.",
-        "precincts_reporting": 326,
+        "precincts_reporting": 343,
         "precincts_total": 468,
-        "reporting_display": "70% reporting",
-        "reporting_value": "70%",
+        "reporting_display": "73% reporting",
+        "reporting_value": "73%",
         "eevp": 70,
         "tot_exp_vote": 270000,
         "eevp_source": "edison",
@@ -8034,7 +8070,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-24T13:23:31Z",
+        "last_updated": "2020-11-30T21:05:17Z",
         "candidates": [
           {
             "candidate_id": "meeks-1521-33-h",
@@ -8047,7 +8083,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 187590,
+            "votes": 187704,
             "percent": 99.9,
             "percent_display": "99.9",
             "electoral_votes": 0,
@@ -8068,7 +8104,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 113,
+            "votes": 115,
             "percent": 0.1,
             "percent_display": "0.1",
             "electoral_votes": 0,
@@ -8080,8 +8116,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 99.8796,
-        "leader_margin_votes": 187477,
+        "leader_margin_value": 99.87754,
+        "leader_margin_votes": 187589,
         "leader_margin_display": "D+100",
         "leader_margin_name_display": "Meeks +100",
         "leader_party_id": "democrat",
@@ -8089,9 +8125,9 @@
           {
             "fips": "36059",
             "name": "Nassau",
-            "votes": 28671,
+            "votes": 28787,
             "absentee_votes": 0,
-            "reporting": 49,
+            "reporting": 66,
             "precincts": 66,
             "absentee_method": "Merged into voters' home precincts AFTER election night",
             "eevp": 100,
@@ -8106,15 +8142,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "meeksg": 28558,
-              "write-ins": 113
+              "meeksg": 28672,
+              "write-ins": 115
             },
             "results_absentee": {
               "meeksg": 0,
               "write-ins": 0
             },
-            "last_updated": "2020-11-30T20:58:49Z",
-            "leader_margin_value": 99.21175,
+            "last_updated": "2020-11-30T21:05:16Z",
+            "leader_margin_value": 99.20103,
             "leader_margin_display": "D+99",
             "leader_margin_name_display": "Meeks +99",
             "leader_party_id": "democrat"
@@ -8683,6 +8719,16 @@
             "eevp": 70,
             "eevp_source": "edison",
             "timestamp": "2020-11-21T00:23:45Z"
+          },
+          {
+            "vote_shares": {
+              "meeksg": 0.999,
+              "write-ins": 0.001
+            },
+            "votes": 187819,
+            "eevp": 70,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-30T21:05:17Z"
           }
         ]
       },
@@ -48064,7 +48110,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75995750,
+            "votes": 75997027,
             "percent": "50.5",
             "change": -8,
             "flip_count": 3,
@@ -48081,7 +48127,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 206,
-            "votes": 72425567,
+            "votes": 72426470,
             "percent": "48.1",
             "change": 9,
             "flip_count": 12,
@@ -48098,7 +48144,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2080066,
+            "votes": 2080102,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -48160,7 +48206,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2864896,
+            "votes": 2866377,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -48226,7 +48272,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2906597,
+            "votes": 2907192,
             "percent": "3.3",
             "change": 0,
             "flip_count": 0,
@@ -48638,7 +48684,7 @@
           "winner": true,
           "votes": 1672143,
           "percent": 49.4,
-          "percent_display": "49.39",
+          "percent_display": "49.36",
           "electoral_votes": 11,
           "absentee_votes": 1540981,
           "absentee_percent": 51.6,
@@ -56616,7 +56662,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 183707,
+          "votes": 183862,
           "percent": 53.4,
           "percent_display": "53.4",
           "electoral_votes": 0,
@@ -64733,8 +64779,8 @@
     ]
   },
   "meta": {
-    "version": 23487,
+    "version": 23504,
     "track": "2020-11-03",
-    "timestamp": "2020-11-30T21:02:28.990Z"
+    "timestamp": "2020-11-30T21:19:17.992Z"
   }
 }
