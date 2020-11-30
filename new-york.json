@@ -44669,7 +44669,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 58833,
+        "votes": 59292,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -44695,7 +44695,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-30T17:56:25.383Z",
+        "last_updated": "2020-11-30T22:47:19.350Z",
         "candidates": [
           {
             "candidate_id": "barclay-57056",
@@ -44708,9 +44708,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 41892,
-            "percent": 71.2,
-            "percent_display": "71.2",
+            "votes": 42099,
+            "percent": 71,
+            "percent_display": "71.0",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -44729,9 +44729,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 16941,
-            "percent": 28.8,
-            "percent_display": "28.8",
+            "votes": 17193,
+            "percent": 29,
+            "percent_display": "29.0",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -45320,7 +45320,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 64734,
+        "votes": 64865,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -45346,7 +45346,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-30T22:36:03.863Z",
+        "last_updated": "2020-11-30T22:51:24.300Z",
         "candidates": [
           {
             "candidate_id": "lemondes-54863",
@@ -45359,7 +45359,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 37425,
+            "votes": 37472,
             "percent": 57.8,
             "percent_display": "57.8",
             "electoral_votes": 0,
@@ -45380,7 +45380,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 27309,
+            "votes": 27393,
             "percent": 42.2,
             "percent_display": "42.2",
             "electoral_votes": 0,
@@ -64839,8 +64839,8 @@
     ]
   },
   "meta": {
-    "version": 23552,
+    "version": 23555,
     "track": "2020-11-03",
-    "timestamp": "2020-11-30T22:46:19.804Z"
+    "timestamp": "2020-11-30T22:53:23.951Z"
   }
 }
