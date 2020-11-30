@@ -2907,7 +2907,7 @@
               "kingr": 5,
               "pierceb": 4
             },
-            "last_updated": "2020-11-24T13:24:56Z",
+            "last_updated": "2020-11-30T20:29:13Z",
             "leader_margin_value": 21.53015,
             "leader_margin_display": "R+22",
             "leader_margin_name_display": "Trump +22",
@@ -3591,7 +3591,7 @@
               "kingr": 5,
               "pierceb": 2
             },
-            "last_updated": "2020-11-24T13:24:55Z",
+            "last_updated": "2020-11-30T20:29:46Z",
             "leader_margin_value": 33.75657,
             "leader_margin_display": "R+34",
             "leader_margin_name_display": "Trump +34",
@@ -9958,7 +9958,7 @@
               "stewartr": 237,
               "herzogs": 79
             },
-            "last_updated": "2020-11-24T13:24:18Z",
+            "last_updated": "2020-11-30T20:29:12Z",
             "leader_margin_value": 17.49388,
             "leader_margin_display": "R+17",
             "leader_margin_name_display": "Ernst +17",
@@ -10439,7 +10439,7 @@
               "stewartr": 206,
               "herzogs": 67
             },
-            "last_updated": "2020-11-24T13:24:22Z",
+            "last_updated": "2020-11-30T20:29:46Z",
             "leader_margin_value": 31.19651,
             "leader_margin_display": "R+31",
             "leader_margin_name_display": "Ernst +31",
@@ -15604,7 +15604,7 @@
         "result_source": null,
         "gain": false,
         "lost_seat": "",
-        "votes": 393735,
+        "votes": 393738,
         "absentee_votes": 248931,
         "absentee_counties": 24,
         "absentee_count_progress": "unknown",
@@ -15629,7 +15629,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-29T16:20:55Z",
+        "last_updated": "2020-11-30T20:29:46Z",
         "candidates": [
           {
             "candidate_id": "miller-meeks-59745-16-h",
@@ -15663,7 +15663,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 196849,
+            "votes": 196852,
             "percent": 50,
             "percent_display": "50.00",
             "electoral_votes": 0,
@@ -15675,8 +15675,8 @@
           }
         ],
         "has_incumbent": false,
-        "leader_margin_value": 0.0094,
-        "leader_margin_votes": 37,
+        "leader_margin_value": 0.00864,
+        "leader_margin_votes": 34,
         "leader_margin_display": "R <0.01",
         "leader_margin_name_display": "Miller-Meeks <0.01",
         "leader_party_id": "republican",
@@ -15948,7 +15948,7 @@
           {
             "fips": "19099",
             "name": "Jasper",
-            "votes": 19276,
+            "votes": 19280,
             "absentee_votes": 10287,
             "reporting": 20,
             "precincts": 20,
@@ -15965,15 +15965,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "miller_meeksm": 11180,
-              "hartr": 8096
+              "miller_meeksm": 11181,
+              "hartr": 8099
             },
             "results_absentee": {
               "miller_meeksm": 4608,
               "hartr": 5679
             },
-            "last_updated": "2020-11-24T13:23:50Z",
-            "leader_margin_value": 15.99917,
+            "last_updated": "2020-11-30T20:29:12Z",
+            "leader_margin_value": 15.98548,
             "leader_margin_display": "R+16",
             "leader_margin_name_display": "Miller-Meeks +16",
             "leader_party_id": "republican"
@@ -16506,11 +16506,594 @@
             "race_won": false,
             "race_just_won": false,
             "race_unwon": false,
-            "additional_votes_reported": false,
+            "additional_votes_reported": true,
             "additional_precincts_reported": false,
-            "has_eevp": true
+            "has_eevp": true,
+            "first_precincts_reported": false,
+            "first_votes_reported": false,
+            "candidate_took_the_lead": false,
+            "candidate_took_the_lead_first_alignment": false,
+            "candidate_took_the_lead_final_alignment": false,
+            "candidates_tied": false,
+            "precinct_percentage_points_grew_by_more_than_2_percent": false,
+            "precinct_percentage_points_grew_by_more_than_5_percent": false,
+            "eevp_grew_by_more_than_2_percent": false,
+            "eevp_grew_by_more_than_5_percent": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_percent_precincts_reporting": false,
+            "candidate_lead_margin_grew_by_more_than_1_with_more_than_5_eevp": false,
+            "candidate_lead_margin_shrank_by_more_than_1_with_more_than_5_eevp": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": true,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_percent_reporting": true,
+            "precinct_percentage_reporting_passes_80": false,
+            "precinct_percentage_reporting_passes_90": false,
+            "precinct_percentage_reporting_reaches_100": false,
+            "top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": true,
+            "prev_top_two_candidates_less_than_three_percentage_points_away_with_at_least_50_eevp": true,
+            "first_votes_for_some_county": false,
+            "candidate_wins_some_county": false,
+            "additional_votes_for_at_least_one_county": true,
+            "first_votes_for_only_one_county": false
           },
-          "details_about_changes": {}
+          "details_about_changes": {
+            "num_additional_eevp": 0,
+            "prev_eevp": 89,
+            "num_additional_votes": 3,
+            "prev_votes": 393735,
+            "num_additional_precincts": 0,
+            "prev_precincts": 391,
+            "num_additional_delegates_allocated": null,
+            "num_additional_precinct_percentage_points": 0,
+            "prev_precinct_percentage_points": 97,
+            "lead_margin_change_votes": -3,
+            "lead_margin_change_percentage_points": 0,
+            "previous_leading_candidate": {
+              "candidate_id": "miller-meeks-59745-16-h",
+              "candidate_key": "miller_meeksm",
+              "first_name": "Mariannette",
+              "last_name": "Miller-Meeks",
+              "order": 2,
+              "name_display": "Mariannette Miller-Meeks",
+              "party_id": "republican",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 196886,
+              "percent": 50,
+              "percent_display": "50.00",
+              "electoral_votes": 0,
+              "absentee_votes": 98111,
+              "absentee_percent": 39.4,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/miller-meeks-59745-16-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "previous_second_candidate": {
+              "candidate_id": "hart-20073166-16-h",
+              "candidate_key": "hartr",
+              "first_name": "Rita",
+              "last_name": "Hart",
+              "order": 1,
+              "name_display": "Rita Hart",
+              "party_id": "democrat",
+              "incumbent": false,
+              "runoff": false,
+              "winner": false,
+              "votes": 196849,
+              "percent": 50,
+              "percent_display": "50.00",
+              "electoral_votes": 0,
+              "absentee_votes": 150820,
+              "absentee_percent": 60.6,
+              "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/hart-20073166-16-h.png",
+              "has_image": false,
+              "link": ""
+            },
+            "num_additional_votes_and_percentage_points_by_candidate": [
+              {
+                "candidate_id": "hart-20073166-16-h",
+                "num_additional_votes": 3,
+                "prev_votes": 196849,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 50
+              },
+              {
+                "candidate_id": "miller-meeks-59745-16-h",
+                "num_additional_votes": 0,
+                "prev_votes": 196886,
+                "num_additional_delegates": null,
+                "num_additional_final_alignment": null,
+                "num_additional_percentage_points": 0,
+                "prev_percent": 50
+              }
+            ],
+            "counties_with_first_results_of_night": [],
+            "counties_won_by_candidates": [],
+            "change_by_county": [
+              {
+                "name": "Appanoose",
+                "fips": "19007",
+                "num_additional_votes": 0,
+                "prev_votes": 6030,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 13,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "miller_meeksm": {
+                    "prev_votes": 4078,
+                    "num_additional_votes": 0
+                  },
+                  "hartr": {
+                    "prev_votes": 1952,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Cedar",
+                "fips": "19031",
+                "num_additional_votes": 0,
+                "prev_votes": 10163,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 12,
+                "prev_eevp": 93,
+                "candidate_changes": {
+                  "miller_meeksm": {
+                    "prev_votes": 5534,
+                    "num_additional_votes": 0
+                  },
+                  "hartr": {
+                    "prev_votes": 4629,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Clarke",
+                "fips": "19039",
+                "num_additional_votes": 0,
+                "prev_votes": 4351,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 8,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "miller_meeksm": {
+                    "prev_votes": 2712,
+                    "num_additional_votes": 0
+                  },
+                  "hartr": {
+                    "prev_votes": 1639,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Clinton",
+                "fips": "19045",
+                "num_additional_votes": 0,
+                "prev_votes": 23942,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 26,
+                "prev_eevp": 91,
+                "candidate_changes": {
+                  "hartr": {
+                    "prev_votes": 12997,
+                    "num_additional_votes": 0
+                  },
+                  "miller_meeksm": {
+                    "prev_votes": 10945,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Davis",
+                "fips": "19051",
+                "num_additional_votes": 0,
+                "prev_votes": 3924,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 8,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "miller_meeksm": {
+                    "prev_votes": 2795,
+                    "num_additional_votes": 0
+                  },
+                  "hartr": {
+                    "prev_votes": 1129,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Decatur",
+                "fips": "19053",
+                "num_additional_votes": 0,
+                "prev_votes": 3562,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 7,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "miller_meeksm": {
+                    "prev_votes": 2347,
+                    "num_additional_votes": 0
+                  },
+                  "hartr": {
+                    "prev_votes": 1215,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Des Moines",
+                "fips": "19057",
+                "num_additional_votes": 0,
+                "prev_votes": 18909,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 17,
+                "prev_eevp": 87,
+                "candidate_changes": {
+                  "miller_meeksm": {
+                    "prev_votes": 9641,
+                    "num_additional_votes": 0
+                  },
+                  "hartr": {
+                    "prev_votes": 9268,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Henry",
+                "fips": "19087",
+                "num_additional_votes": 0,
+                "prev_votes": 9464,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 10,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "miller_meeksm": {
+                    "prev_votes": 5857,
+                    "num_additional_votes": 0
+                  },
+                  "hartr": {
+                    "prev_votes": 3607,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Jasper",
+                "fips": "19099",
+                "num_additional_votes": 4,
+                "prev_votes": 19276,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 20,
+                "prev_eevp": 98,
+                "candidate_changes": {
+                  "miller_meeksm": {
+                    "prev_votes": 11180,
+                    "num_additional_votes": 1
+                  },
+                  "hartr": {
+                    "prev_votes": 8096,
+                    "num_additional_votes": 3
+                  }
+                }
+              },
+              {
+                "name": "Jefferson",
+                "fips": "19101",
+                "num_additional_votes": 0,
+                "prev_votes": 8600,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 12,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "hartr": {
+                    "prev_votes": 4373,
+                    "num_additional_votes": 0
+                  },
+                  "miller_meeksm": {
+                    "prev_votes": 4227,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Johnson",
+                "fips": "19103",
+                "num_additional_votes": 0,
+                "prev_votes": 80230,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 58,
+                "prev_eevp": 91,
+                "candidate_changes": {
+                  "hartr": {
+                    "prev_votes": 56129,
+                    "num_additional_votes": 0
+                  },
+                  "miller_meeksm": {
+                    "prev_votes": 24101,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Keokuk",
+                "fips": "19107",
+                "num_additional_votes": 0,
+                "prev_votes": 5032,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 11,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "miller_meeksm": {
+                    "prev_votes": 3461,
+                    "num_additional_votes": 0
+                  },
+                  "hartr": {
+                    "prev_votes": 1571,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Lee",
+                "fips": "19111",
+                "num_additional_votes": 0,
+                "prev_votes": 16114,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 19,
+                "prev_eevp": 87,
+                "candidate_changes": {
+                  "miller_meeksm": {
+                    "prev_votes": 9145,
+                    "num_additional_votes": 0
+                  },
+                  "hartr": {
+                    "prev_votes": 6969,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Louisa",
+                "fips": "19115",
+                "num_additional_votes": 0,
+                "prev_votes": 5086,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 5,
+                "prev_eevp": 88,
+                "candidate_changes": {
+                  "miller_meeksm": {
+                    "prev_votes": 3169,
+                    "num_additional_votes": 0
+                  },
+                  "hartr": {
+                    "prev_votes": 1917,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Lucas",
+                "fips": "19117",
+                "num_additional_votes": 0,
+                "prev_votes": 4189,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 8,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "miller_meeksm": {
+                    "prev_votes": 2892,
+                    "num_additional_votes": 0
+                  },
+                  "hartr": {
+                    "prev_votes": 1297,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Mahaska",
+                "fips": "19123",
+                "num_additional_votes": 0,
+                "prev_votes": 10651,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 12,
+                "prev_eevp": 98,
+                "candidate_changes": {
+                  "miller_meeksm": {
+                    "prev_votes": 7575,
+                    "num_additional_votes": 0
+                  },
+                  "hartr": {
+                    "prev_votes": 3076,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Marion",
+                "fips": "19125",
+                "num_additional_votes": 0,
+                "prev_votes": 18271,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 17,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "miller_meeksm": {
+                    "prev_votes": 12147,
+                    "num_additional_votes": 0
+                  },
+                  "hartr": {
+                    "prev_votes": 6124,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Monroe",
+                "fips": "19135",
+                "num_additional_votes": 0,
+                "prev_votes": 3815,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 8,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "miller_meeksm": {
+                    "prev_votes": 2612,
+                    "num_additional_votes": 0
+                  },
+                  "hartr": {
+                    "prev_votes": 1203,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Muscatine",
+                "fips": "19139",
+                "num_additional_votes": 0,
+                "prev_votes": 20010,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 23,
+                "prev_eevp": 90,
+                "candidate_changes": {
+                  "miller_meeksm": {
+                    "prev_votes": 10279,
+                    "num_additional_votes": 0
+                  },
+                  "hartr": {
+                    "prev_votes": 9731,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Scott",
+                "fips": "19163",
+                "num_additional_votes": 0,
+                "prev_votes": 89424,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 63,
+                "prev_eevp": 91,
+                "candidate_changes": {
+                  "hartr": {
+                    "prev_votes": 47457,
+                    "num_additional_votes": 0
+                  },
+                  "miller_meeksm": {
+                    "prev_votes": 41967,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Van Buren",
+                "fips": "19177",
+                "num_additional_votes": 0,
+                "prev_votes": 3700,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 9,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "miller_meeksm": {
+                    "prev_votes": 2759,
+                    "num_additional_votes": 0
+                  },
+                  "hartr": {
+                    "prev_votes": 941,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Wapello",
+                "fips": "19179",
+                "num_additional_votes": 0,
+                "prev_votes": 14933,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 22,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "miller_meeksm": {
+                    "prev_votes": 8780,
+                    "num_additional_votes": 0
+                  },
+                  "hartr": {
+                    "prev_votes": 6153,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Washington",
+                "fips": "19183",
+                "num_additional_votes": 0,
+                "prev_votes": 11283,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 10,
+                "prev_eevp": 100,
+                "candidate_changes": {
+                  "miller_meeksm": {
+                    "prev_votes": 6633,
+                    "num_additional_votes": 0
+                  },
+                  "hartr": {
+                    "prev_votes": 4650,
+                    "num_additional_votes": 0
+                  }
+                }
+              },
+              {
+                "name": "Wayne",
+                "fips": "19185",
+                "num_additional_votes": 0,
+                "prev_votes": 2776,
+                "num_additional_precincts": 0,
+                "num_additional_eevp": 0,
+                "prev_precincts": 5,
+                "prev_eevp": 99,
+                "candidate_changes": {
+                  "miller_meeksm": {
+                    "prev_votes": 2050,
+                    "num_additional_votes": 0
+                  },
+                  "hartr": {
+                    "prev_votes": 726,
+                    "num_additional_votes": 0
+                  }
+                }
+              }
+            ]
+          }
         },
         "winnerCalledTimestamp": null,
         "timeseries": [
@@ -17343,6 +17926,16 @@
             "eevp": 89,
             "eevp_source": "edison",
             "timestamp": "2020-11-29T16:10:55Z"
+          },
+          {
+            "vote_shares": {
+              "miller_meeksm": 0.5,
+              "hartr": 0.5
+            },
+            "votes": 393738,
+            "eevp": 89,
+            "eevp_source": "edison",
+            "timestamp": "2020-11-30T20:29:46Z"
           }
         ]
       },
@@ -37503,7 +38096,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75928393,
+            "votes": 75928898,
             "percent": "50.5",
             "change": -8,
             "flip_count": 3,
@@ -37520,7 +38113,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 206,
-            "votes": 72406289,
+            "votes": 72406750,
             "percent": "48.1",
             "change": 9,
             "flip_count": 12,
@@ -37537,7 +38130,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2078747,
+            "votes": 2078768,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -46055,7 +46648,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 183059,
+          "votes": 183561,
           "percent": 53.4,
           "percent_display": "53.4",
           "electoral_votes": 0,
@@ -54172,8 +54765,8 @@
     ]
   },
   "meta": {
-    "version": 23464,
+    "version": 23468,
     "track": "2020-11-03",
-    "timestamp": "2020-11-30T20:23:18.517Z"
+    "timestamp": "2020-11-30T20:32:18.911Z"
   }
 }

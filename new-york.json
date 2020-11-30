@@ -26426,7 +26426,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 147416,
+        "votes": 147576,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -26452,7 +26452,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-30T17:56:25.383Z",
+        "last_updated": "2020-11-30T20:29:28.177Z",
         "candidates": [
           {
             "candidate_id": "smyth-54778",
@@ -26465,7 +26465,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 75107,
+            "votes": 75182,
             "percent": 50.9,
             "percent_display": "50.9",
             "electoral_votes": 0,
@@ -26486,7 +26486,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 70868,
+            "votes": 70952,
             "percent": 48.1,
             "percent_display": "48.1",
             "electoral_votes": 0,
@@ -26507,7 +26507,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 1441,
+            "votes": 1442,
             "percent": 1,
             "percent_display": "1.0",
             "electoral_votes": 0,
@@ -48014,7 +48014,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 75928393,
+            "votes": 75928898,
             "percent": "50.5",
             "change": -8,
             "flip_count": 3,
@@ -48031,7 +48031,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 206,
-            "votes": 72406289,
+            "votes": 72406750,
             "percent": "48.1",
             "change": 9,
             "flip_count": 12,
@@ -48048,7 +48048,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2078747,
+            "votes": 2078768,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -56566,7 +56566,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 183059,
+          "votes": 183561,
           "percent": 53.4,
           "percent_display": "53.4",
           "electoral_votes": 0,
@@ -64683,8 +64683,8 @@
     ]
   },
   "meta": {
-    "version": 23464,
+    "version": 23468,
     "track": "2020-11-03",
-    "timestamp": "2020-11-30T20:23:18.517Z"
+    "timestamp": "2020-11-30T20:32:18.911Z"
   }
 }
