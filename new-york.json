@@ -45527,7 +45527,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 51508,
+        "votes": 52774,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -45553,7 +45553,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-30T17:56:25.383Z",
+        "last_updated": "2020-11-30T21:49:05.430Z",
         "candidates": [
           {
             "candidate_id": "hunter-53633",
@@ -45566,9 +45566,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 33042,
-            "percent": 64.1,
-            "percent_display": "64.1",
+            "votes": 33980,
+            "percent": 64.4,
+            "percent_display": "64.4",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -45587,9 +45587,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 18466,
-            "percent": 35.9,
-            "percent_display": "35.9",
+            "votes": 18794,
+            "percent": 35.6,
+            "percent_display": "35.6",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -45632,7 +45632,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 45697,
+        "votes": 46370,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -45658,7 +45658,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-30T17:59:37.500Z",
+        "last_updated": "2020-11-30T21:50:07.090Z",
         "candidates": [
           {
             "candidate_id": "magnarelli-49479",
@@ -45671,9 +45671,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 32594,
-            "percent": 71.3,
-            "percent_display": "71.3",
+            "votes": 33107,
+            "percent": 71.4,
+            "percent_display": "71.4",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -45692,9 +45692,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 13103,
-            "percent": 28.7,
-            "percent_display": "28.7",
+            "votes": 13263,
+            "percent": 28.6,
+            "percent_display": "28.6",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -64796,8 +64796,8 @@
     ]
   },
   "meta": {
-    "version": 23519,
+    "version": 23522,
     "track": "2020-11-03",
-    "timestamp": "2020-11-30T21:48:18.840Z"
+    "timestamp": "2020-11-30T21:52:17.961Z"
   }
 }
