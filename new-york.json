@@ -30154,7 +30154,7 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
@@ -30184,7 +30184,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-30T22:21:45.247Z",
+        "last_updated": "2020-11-30T22:42:12.750Z",
         "candidates": [
           {
             "candidate_id": "serino-53306",
@@ -30196,7 +30196,7 @@
             "party_id": "republican",
             "incumbent": true,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 81080,
             "percent": 52.5,
             "percent_display": "52.5",
@@ -31082,7 +31082,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 140316,
+        "votes": 143195,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -31108,7 +31108,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-30T21:26:38.143Z",
+        "last_updated": "2020-11-30T22:44:15.440Z",
         "candidates": [
           {
             "candidate_id": "mannion-54259",
@@ -31121,9 +31121,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 70745,
-            "percent": 50.4,
-            "percent_display": "50.4",
+            "votes": 72746,
+            "percent": 50.8,
+            "percent_display": "50.8",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -31142,9 +31142,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 69571,
-            "percent": 49.6,
-            "percent_display": "49.6",
+            "votes": 70449,
+            "percent": 49.2,
+            "percent_display": "49.2",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -64839,8 +64839,8 @@
     ]
   },
   "meta": {
-    "version": 23550,
+    "version": 23552,
     "track": "2020-11-03",
-    "timestamp": "2020-11-30T22:38:25.591Z"
+    "timestamp": "2020-11-30T22:46:19.804Z"
   }
 }
