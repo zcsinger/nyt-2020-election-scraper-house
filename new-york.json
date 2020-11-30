@@ -45317,7 +45317,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 63676,
+        "votes": 64734,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -45343,7 +45343,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-30T17:56:25.383Z",
+        "last_updated": "2020-11-30T21:42:57.810Z",
         "candidates": [
           {
             "candidate_id": "lemondes-54863",
@@ -45356,9 +45356,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 36972,
-            "percent": 58.1,
-            "percent_display": "58.1",
+            "votes": 37425,
+            "percent": 57.8,
+            "percent_display": "57.8",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -45377,9 +45377,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 26704,
-            "percent": 41.9,
-            "percent_display": "41.9",
+            "votes": 27309,
+            "percent": 42.2,
+            "percent_display": "42.2",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -45422,7 +45422,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 66072,
+        "votes": 69194,
         "absentee_votes": 0,
         "absentee_counties": null,
         "absentee_count_progress": null,
@@ -45448,7 +45448,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-30T17:56:25.383Z",
+        "last_updated": "2020-11-30T21:46:01.623Z",
         "candidates": [
           {
             "candidate_id": "stirpe-51393",
@@ -45461,9 +45461,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 34017,
-            "percent": 51.5,
-            "percent_display": "51.5",
+            "votes": 36329,
+            "percent": 52.5,
+            "percent_display": "52.5",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -45482,9 +45482,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 32055,
-            "percent": 48.5,
-            "percent_display": "48.5",
+            "votes": 32865,
+            "percent": 47.5,
+            "percent_display": "47.5",
             "electoral_votes": 0,
             "absentee_votes": 0,
             "absentee_percent": 0,
@@ -48289,6 +48289,23 @@
       }
     ],
     "liveUpdates": [
+      {
+        "id": 551,
+        "author": "Reid Epstein",
+        "author_title_or_location": "in Washington",
+        "text": "The chairwoman of the Wisconsin Elections Commission has certified Biden as the winner in Wisconsin, formalizing his narrow victory in a state Trump carried four years ago.",
+        "link_url": "https://www.nytimes.com/live/2020/11/30/us/joe-biden-trump/wisconsin-certifies-bidens-narrow-victory-following-arizona-which-did-so-earlier-today",
+        "link_text": "",
+        "linked_state_1": "",
+        "linked_state_2": "",
+        "linked_state_3": "",
+        "image_url": "",
+        "image_credit": "",
+        "datetime": 1606772594000,
+        "author_headshot": "https://static01.nyt.com/images/2019/06/25/reader-center/author-reid-epstein/9e877853d8234217b58e5762253aa771-thumbLarge.png",
+        "is_today": true,
+        "linked_states": null
+      },
       {
         "id": 550,
         "author": "Glenn Thrush",
@@ -64779,8 +64796,8 @@
     ]
   },
   "meta": {
-    "version": 23514,
+    "version": 23519,
     "track": "2020-11-03",
-    "timestamp": "2020-11-30T21:31:26.397Z"
+    "timestamp": "2020-11-30T21:48:18.840Z"
   }
 }
