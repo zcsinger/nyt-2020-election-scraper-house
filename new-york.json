@@ -45316,7 +45316,7 @@
         "party_id": "",
         "uncontested": false,
         "report": true,
-        "result": "",
+        "result": "winner",
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
@@ -45346,7 +45346,7 @@
         "incumbent_party": "",
         "no_forecast": false,
         "counties": [],
-        "last_updated": "2020-11-30T21:42:57.810Z",
+        "last_updated": "2020-11-30T22:36:03.863Z",
         "candidates": [
           {
             "candidate_id": "lemondes-54863",
@@ -45358,7 +45358,7 @@
             "party_id": "republican",
             "incumbent": false,
             "runoff": false,
-            "winner": false,
+            "winner": true,
             "votes": 37425,
             "percent": 57.8,
             "percent_display": "57.8",
@@ -64839,8 +64839,8 @@
     ]
   },
   "meta": {
-    "version": 23544,
+    "version": 23550,
     "track": "2020-11-03",
-    "timestamp": "2020-11-30T22:29:18.702Z"
+    "timestamp": "2020-11-30T22:38:25.591Z"
   }
 }
