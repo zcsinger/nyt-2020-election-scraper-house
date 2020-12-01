@@ -31,7 +31,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 17447176,
+        "votes": 17451511,
         "electoral_votes": 55,
         "absentee_votes": 8463440,
         "absentee_counties": 33,
@@ -57,7 +57,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-11-30T23:40:50Z",
+        "last_updated": "2020-12-01T01:01:04Z",
         "candidates": [
           {
             "candidate_id": "biden-1036",
@@ -70,7 +70,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 11084172,
+            "votes": 11087180,
             "percent": 63.5,
             "percent_display": "63.5",
             "electoral_votes": 55,
@@ -92,7 +92,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 5984286,
+            "votes": 5985509,
             "percent": 34.3,
             "percent_display": "34.3",
             "electoral_votes": 0,
@@ -114,7 +114,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 187239,
+            "votes": 187275,
             "percent": 1.1,
             "percent_display": "1.1",
             "electoral_votes": 0,
@@ -135,7 +135,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 80751,
+            "votes": 80779,
             "percent": 0.5,
             "percent_display": "0.5",
             "electoral_votes": 0,
@@ -156,7 +156,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 59880,
+            "votes": 59908,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -177,7 +177,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 50843,
+            "votes": 50855,
             "percent": 0.3,
             "percent_display": "0.3",
             "electoral_votes": 0,
@@ -210,8 +210,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 29.23044,
-        "leader_margin_votes": 5099886,
+        "leader_margin_value": 29.23341,
+        "leader_margin_votes": 5101671,
         "leader_margin_display": "D+29",
         "leader_margin_name_display": "Biden +29",
         "leader_party_id": "democrat",
@@ -1049,7 +1049,7 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 4259108,
+            "votes": 4263443,
             "absentee_votes": 2857809,
             "reporting": 3383,
             "precincts": 3383,
@@ -1066,12 +1066,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 3025877,
-              "trumpd": 1144307,
-              "jorgensenj": 35416,
-              "hawkinsh": 21632,
-              "de_la_fuenter": 15971,
-              "la_rivag": 15905
+              "bidenj": 3028885,
+              "trumpd": 1145530,
+              "jorgensenj": 35452,
+              "hawkinsh": 21660,
+              "de_la_fuenter": 15999,
+              "la_rivag": 15917
             },
             "results_absentee": {
               "bidenj": 2090279,
@@ -1081,12 +1081,12 @@
               "de_la_fuenter": 7598,
               "la_rivag": 8012
             },
-            "last_updated": "2020-11-27T23:00:56Z",
-            "leader_margin_value": 44.17756,
+            "last_updated": "2020-12-01T01:00:56Z",
+            "leader_margin_value": 44.17451,
             "leader_margin_display": "D+44",
             "leader_margin_name_display": "Biden +44",
             "leader_party_id": "democrat",
-            "margin2020": -44.17756,
+            "margin2020": -44.17451,
             "votes2016": 3434308,
             "margin2016": -49.3,
             "votes2012": 3181067,
@@ -2920,12 +2920,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Contra Costa, Butte and Siskiyou Counties.",
-            "timestamp": 1606779730406,
+            "sentence": "We just received more votes from Los Angeles County.",
+            "timestamp": 1606784650450,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Contra Costa, Butte and Siskiyou Counties.",
+            "generatedText": "We just received more votes from Los Angeles County.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -5254,6 +5254,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-30T23:40:50Z"
+          },
+          {
+            "vote_shares": {
+              "bidenj": 0.635,
+              "trumpd": 0.343
+            },
+            "votes": 17451511,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T01:01:04Z"
           }
         ]
       },
@@ -18524,7 +18534,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 304465,
+        "votes": 304494,
         "absentee_votes": 141286,
         "absentee_counties": 3,
         "absentee_count_progress": "unknown",
@@ -18549,7 +18559,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-27T23:00:59Z",
+        "last_updated": "2020-12-01T01:01:03Z",
         "candidates": [
           {
             "candidate_id": "mccarthy-52561-5-h",
@@ -18562,7 +18572,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 189184,
+            "votes": 189202,
             "percent": 62.1,
             "percent_display": "62.1",
             "electoral_votes": 0,
@@ -18583,7 +18593,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 115281,
+            "votes": 115292,
             "percent": 37.9,
             "percent_display": "37.9",
             "electoral_votes": 0,
@@ -18595,8 +18605,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 24.27307,
-        "leader_margin_votes": 73903,
+        "leader_margin_value": 24.27306,
+        "leader_margin_votes": 73910,
         "leader_margin_display": "R+24",
         "leader_margin_name_display": "McCarthy +24",
         "leader_party_id": "republican",
@@ -18637,7 +18647,7 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 36272,
+            "votes": 36301,
             "absentee_votes": 24647,
             "reporting": 29,
             "precincts": 29,
@@ -18654,15 +18664,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "mccarthyk": 18902,
-              "mangonek": 17370
+              "mccarthyk": 18920,
+              "mangonek": 17381
             },
             "results_absentee": {
               "mccarthyk": 12786,
               "mangonek": 11861
             },
-            "last_updated": "2020-11-27T23:00:56Z",
-            "leader_margin_value": 4.22364,
+            "last_updated": "2020-12-01T01:00:56Z",
+            "leader_margin_value": 4.23955,
             "leader_margin_display": "R+4",
             "leader_margin_name_display": "McCarthy +4",
             "leader_party_id": "republican"
@@ -19232,6 +19242,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-27T23:00:59Z"
+          },
+          {
+            "vote_shares": {
+              "mccarthyk": 0.621,
+              "mangonek": 0.379
+            },
+            "votes": 304494,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T01:01:03Z"
           }
         ]
       },
@@ -19788,7 +19808,7 @@
         "result_source": null,
         "gain": false,
         "lost_seat": "",
-        "votes": 338523,
+        "votes": 338911,
         "absentee_votes": 187398,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -19813,7 +19833,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-27T23:00:59Z",
+        "last_updated": "2020-12-01T01:01:03Z",
         "candidates": [
           {
             "candidate_id": "garcia-20073116-5-h",
@@ -19826,9 +19846,9 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 169464,
-            "percent": 50.1,
-            "percent_display": "50.06",
+            "votes": 169625,
+            "percent": 50,
+            "percent_display": "50.05",
             "electoral_votes": 0,
             "absentee_votes": 89124,
             "absentee_percent": 47.6,
@@ -19847,9 +19867,9 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 169059,
-            "percent": 49.9,
-            "percent_display": "49.94",
+            "votes": 169286,
+            "percent": 50,
+            "percent_display": "49.95",
             "electoral_votes": 0,
             "absentee_votes": 98274,
             "absentee_percent": 52.4,
@@ -19859,16 +19879,16 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 0.11964,
-        "leader_margin_votes": 405,
-        "leader_margin_display": "R+0.12",
-        "leader_margin_name_display": "Garcia +0.12",
+        "leader_margin_value": 0.10003,
+        "leader_margin_votes": 339,
+        "leader_margin_display": "R+0.10",
+        "leader_margin_name_display": "Garcia +0.10",
         "leader_party_id": "republican",
         "counties": [
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 271119,
+            "votes": 271507,
             "absentee_votes": 187398,
             "reporting": 216,
             "precincts": 216,
@@ -19885,15 +19905,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "smithc": 138214,
-              "garciam": 132905
+              "smithc": 138441,
+              "garciam": 133066
             },
             "results_absentee": {
               "smithc": 98274,
               "garciam": 89124
             },
-            "last_updated": "2020-11-27T23:00:56Z",
-            "leader_margin_value": 1.95818,
+            "last_updated": "2020-12-01T01:00:55Z",
+            "leader_margin_value": 1.97969,
             "leader_margin_display": "D+2.0",
             "leader_margin_name_display": "Smith +2.0",
             "leader_party_id": "democrat"
@@ -20320,6 +20340,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-27T23:00:59Z"
+          },
+          {
+            "vote_shares": {
+              "garciam": 0.5,
+              "smithc": 0.5
+            },
+            "votes": 338911,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T01:01:03Z"
           }
         ]
       },
@@ -20881,7 +20911,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 317023,
+        "votes": 317265,
         "absentee_votes": 223516,
         "absentee_counties": 2,
         "absentee_count_progress": "unknown",
@@ -20906,7 +20936,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-27T23:00:59Z",
+        "last_updated": "2020-12-01T01:01:03Z",
         "candidates": [
           {
             "candidate_id": "chu-52450-5-h",
@@ -20919,7 +20949,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 221206,
+            "votes": 221384,
             "percent": 69.8,
             "percent_display": "69.8",
             "electoral_votes": 0,
@@ -20940,7 +20970,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 95817,
+            "votes": 95881,
             "percent": 30.2,
             "percent_display": "30.2",
             "electoral_votes": 0,
@@ -20952,8 +20982,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 39.55202,
-        "leader_margin_votes": 125389,
+        "leader_margin_value": 39.55778,
+        "leader_margin_votes": 125503,
         "leader_margin_display": "D+40",
         "leader_margin_name_display": "Chu +40",
         "leader_party_id": "democrat",
@@ -20961,7 +20991,7 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 295309,
+            "votes": 295551,
             "absentee_votes": 213116,
             "reporting": 243,
             "precincts": 243,
@@ -20978,15 +21008,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "chuj": 210975,
-              "nalbandianj": 84334
+              "chuj": 211153,
+              "nalbandianj": 84398
             },
             "results_absentee": {
               "chuj": 156151,
               "nalbandianj": 56965
             },
-            "last_updated": "2020-11-27T23:00:55Z",
-            "leader_margin_value": 42.88423,
+            "last_updated": "2020-12-01T01:00:55Z",
+            "leader_margin_value": 42.88769,
             "leader_margin_display": "D+43",
             "leader_margin_name_display": "Chu +43",
             "leader_party_id": "democrat"
@@ -21476,6 +21506,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-27T23:00:59Z"
+          },
+          {
+            "vote_shares": {
+              "chuj": 0.698,
+              "nalbandianj": 0.302
+            },
+            "votes": 317265,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T01:01:03Z"
           }
         ]
       },
@@ -21509,7 +21549,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 335914,
+        "votes": 336199,
         "absentee_votes": 244754,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -21534,7 +21574,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-27T23:00:59Z",
+        "last_updated": "2020-12-01T01:01:03Z",
         "candidates": [
           {
             "candidate_id": "schiff-1299-5-h",
@@ -21547,7 +21587,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 244078,
+            "votes": 244271,
             "percent": 72.7,
             "percent_display": "72.7",
             "electoral_votes": 0,
@@ -21568,7 +21608,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 91836,
+            "votes": 91928,
             "percent": 27.3,
             "percent_display": "27.3",
             "electoral_votes": 0,
@@ -21580,8 +21620,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 45.32172,
-        "leader_margin_votes": 152242,
+        "leader_margin_value": 45.31334,
+        "leader_margin_votes": 152343,
         "leader_margin_display": "D+45",
         "leader_margin_name_display": "Schiff +45",
         "leader_party_id": "democrat",
@@ -21589,7 +21629,7 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 335914,
+            "votes": 336199,
             "absentee_votes": 244754,
             "reporting": 286,
             "precincts": 286,
@@ -21606,15 +21646,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "schiffa": 244078,
-              "earlye": 91836
+              "schiffa": 244271,
+              "earlye": 91928
             },
             "results_absentee": {
               "schiffa": 185273,
               "earlye": 59481
             },
-            "last_updated": "2020-11-27T23:00:55Z",
-            "leader_margin_value": 45.32172,
+            "last_updated": "2020-12-01T01:00:55Z",
+            "leader_margin_value": 45.31334,
             "leader_margin_display": "D+45",
             "leader_margin_name_display": "Schiff +45",
             "leader_party_id": "democrat"
@@ -21901,6 +21941,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-27T23:00:59Z"
+          },
+          {
+            "vote_shares": {
+              "schiffa": 0.727,
+              "earlye": 0.273
+            },
+            "votes": 336199,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T01:01:03Z"
           }
         ]
       },
@@ -21934,7 +21984,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 210749,
+        "votes": 210944,
         "absentee_votes": 133784,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -21959,7 +22009,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-27T23:00:58Z",
+        "last_updated": "2020-12-01T01:01:03Z",
         "candidates": [
           {
             "candidate_id": "cardenas-6688-5-h",
@@ -21972,7 +22022,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 119301,
+            "votes": 119420,
             "percent": 56.6,
             "percent_display": "56.6",
             "electoral_votes": 0,
@@ -21993,7 +22043,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 91448,
+            "votes": 91524,
             "percent": 43.4,
             "percent_display": "43.4",
             "electoral_votes": 0,
@@ -22005,8 +22055,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 13.2162,
-        "leader_margin_votes": 27853,
+        "leader_margin_value": 13.22436,
+        "leader_margin_votes": 27896,
         "leader_margin_display": "D+13",
         "leader_margin_name_display": "Cardenas +13",
         "leader_party_id": "democrat",
@@ -22014,7 +22064,7 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 210749,
+            "votes": 210944,
             "absentee_votes": 133784,
             "reporting": 194,
             "precincts": 194,
@@ -22031,15 +22081,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "cardenast": 119301,
-              "duenasa": 91448
+              "cardenast": 119420,
+              "duenasa": 91524
             },
             "results_absentee": {
               "cardenast": 77773,
               "duenasa": 56011
             },
-            "last_updated": "2020-11-27T23:00:55Z",
-            "leader_margin_value": 13.2162,
+            "last_updated": "2020-12-01T01:00:55Z",
+            "leader_margin_value": 13.22436,
             "leader_margin_display": "D+13",
             "leader_margin_name_display": "Cardenas +13",
             "leader_party_id": "democrat"
@@ -22326,6 +22376,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-27T23:00:58Z"
+          },
+          {
+            "vote_shares": {
+              "cardenast": 0.566,
+              "duenasa": 0.434
+            },
+            "votes": 210944,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T01:01:03Z"
           }
         ]
       },
@@ -22359,7 +22419,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 345143,
+        "votes": 345464,
         "absentee_votes": 252107,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -22384,7 +22444,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-27T23:00:59Z",
+        "last_updated": "2020-12-01T01:01:04Z",
         "candidates": [
           {
             "candidate_id": "sherman-145-5-h",
@@ -22397,7 +22457,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 239829,
+            "votes": 240038,
             "percent": 69.5,
             "percent_display": "69.5",
             "electoral_votes": 0,
@@ -22418,7 +22478,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 105314,
+            "votes": 105426,
             "percent": 30.5,
             "percent_display": "30.5",
             "electoral_votes": 0,
@@ -22430,8 +22490,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 38.9737,
-        "leader_margin_votes": 134515,
+        "leader_margin_value": 38.96557,
+        "leader_margin_votes": 134612,
         "leader_margin_display": "D+39",
         "leader_margin_name_display": "Sherman +39",
         "leader_party_id": "democrat",
@@ -22439,7 +22499,7 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 343868,
+            "votes": 344189,
             "absentee_votes": 252107,
             "reporting": 298,
             "precincts": 298,
@@ -22456,15 +22516,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "shermanb": 239112,
-              "reedm": 104756
+              "shermanb": 239321,
+              "reedm": 104868
             },
             "results_absentee": {
               "shermanb": 182011,
               "reedm": 70096
             },
-            "last_updated": "2020-11-27T23:00:54Z",
-            "leader_margin_value": 39.07197,
+            "last_updated": "2020-12-01T01:00:55Z",
+            "leader_margin_value": 39.06371,
             "leader_margin_display": "D+39",
             "leader_margin_name_display": "Sherman +39",
             "leader_party_id": "democrat"
@@ -22864,6 +22924,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-27T23:00:59Z"
+          },
+          {
+            "vote_shares": {
+              "shermanb": 0.695,
+              "reedm": 0.305
+            },
+            "votes": 345464,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T01:01:04Z"
           }
         ]
       },
@@ -23312,7 +23382,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 259532,
+        "votes": 259760,
         "absentee_votes": 165081,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -23337,7 +23407,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-27T23:00:59Z",
+        "last_updated": "2020-12-01T01:00:59Z",
         "candidates": [
           {
             "candidate_id": "napolitano-113-5-h",
@@ -23350,7 +23420,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 172794,
+            "votes": 172942,
             "percent": 66.6,
             "percent_display": "66.6",
             "electoral_votes": 0,
@@ -23371,7 +23441,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 86738,
+            "votes": 86818,
             "percent": 33.4,
             "percent_display": "33.4",
             "electoral_votes": 0,
@@ -23383,8 +23453,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 33.15815,
-        "leader_margin_votes": 86056,
+        "leader_margin_value": 33.15522,
+        "leader_margin_votes": 86124,
         "leader_margin_display": "D+33",
         "leader_margin_name_display": "Napolitano +33",
         "leader_party_id": "democrat",
@@ -23392,7 +23462,7 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 259532,
+            "votes": 259760,
             "absentee_votes": 165081,
             "reporting": 218,
             "precincts": 218,
@@ -23409,15 +23479,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "napolitanog": 172794,
-              "scottj": 86738
+              "napolitanog": 172942,
+              "scottj": 86818
             },
             "results_absentee": {
               "napolitanog": 111046,
               "scottj": 54035
             },
-            "last_updated": "2020-11-27T23:00:54Z",
-            "leader_margin_value": 33.15815,
+            "last_updated": "2020-12-01T01:00:54Z",
+            "leader_margin_value": 33.15522,
             "leader_margin_display": "D+33",
             "leader_margin_name_display": "Napolitano +33",
             "leader_party_id": "democrat"
@@ -23704,6 +23774,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-27T23:00:59Z"
+          },
+          {
+            "vote_shares": {
+              "napolitanog": 0.666,
+              "scottj": 0.334
+            },
+            "votes": 259760,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T01:00:59Z"
           }
         ]
       },
@@ -23737,7 +23817,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 380084,
+        "votes": 380428,
         "absentee_votes": 290022,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -23750,7 +23830,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T04:00:00.000Z",
         "poll_time_short": "11 p.m.",
-        "precincts_reporting": 329,
+        "precincts_reporting": 330,
         "precincts_total": 350,
         "reporting_display": "94% reporting",
         "reporting_value": "94%",
@@ -23762,7 +23842,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-27T23:01:00Z",
+        "last_updated": "2020-12-01T01:00:59Z",
         "candidates": [
           {
             "candidate_id": "lieu-63666-5-h",
@@ -23775,7 +23855,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 256854,
+            "votes": 257094,
             "percent": 67.6,
             "percent_display": "67.6",
             "electoral_votes": 0,
@@ -23796,7 +23876,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 123230,
+            "votes": 123334,
             "percent": 32.4,
             "percent_display": "32.4",
             "electoral_votes": 0,
@@ -23808,8 +23888,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 35.15644,
-        "leader_margin_votes": 133624,
+        "leader_margin_value": 35.1604,
+        "leader_margin_votes": 133760,
         "leader_margin_display": "D+35",
         "leader_margin_name_display": "Lieu +35",
         "leader_party_id": "democrat",
@@ -23817,9 +23897,9 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 380084,
+            "votes": 380428,
             "absentee_votes": 290022,
-            "reporting": 329,
+            "reporting": 330,
             "precincts": 350,
             "absentee_method": "Released as a separate subtotal as first report of the night",
             "eevp": 94,
@@ -23834,15 +23914,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "lieut": 256854,
-              "bradleyj": 123230
+              "lieut": 257094,
+              "bradleyj": 123334
             },
             "results_absentee": {
               "lieut": 204460,
               "bradleyj": 85562
             },
-            "last_updated": "2020-11-27T23:00:54Z",
-            "leader_margin_value": 35.15644,
+            "last_updated": "2020-12-01T01:00:54Z",
+            "leader_margin_value": 35.1604,
             "leader_margin_display": "D+35",
             "leader_margin_name_display": "Lieu +35",
             "leader_party_id": "democrat"
@@ -24119,6 +24199,16 @@
             "eevp": 94,
             "eevp_source": "edison",
             "timestamp": "2020-11-27T23:01:00Z"
+          },
+          {
+            "vote_shares": {
+              "lieut": 0.676,
+              "bradleyj": 0.324
+            },
+            "votes": 380428,
+            "eevp": 94,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T01:00:59Z"
           }
         ]
       },
@@ -24152,7 +24242,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 205163,
+        "votes": 205346,
         "absentee_votes": 135915,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -24177,7 +24267,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-27T23:00:59Z",
+        "last_updated": "2020-12-01T01:00:59Z",
         "candidates": [
           {
             "candidate_id": "gomez-19814-5-h",
@@ -24190,7 +24280,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 108702,
+            "votes": 108792,
             "percent": 53,
             "percent_display": "53.0",
             "electoral_votes": 0,
@@ -24211,7 +24301,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 96461,
+            "votes": 96554,
             "percent": 47,
             "percent_display": "47.0",
             "electoral_votes": 0,
@@ -24223,8 +24313,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 5.96648,
-        "leader_margin_votes": 12241,
+        "leader_margin_value": 5.9597,
+        "leader_margin_votes": 12238,
         "leader_margin_display": "D+6",
         "leader_margin_name_display": "Gomez +6",
         "leader_party_id": "democrat",
@@ -24232,7 +24322,7 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 205163,
+            "votes": 205346,
             "absentee_votes": 135915,
             "reporting": 183,
             "precincts": 183,
@@ -24249,15 +24339,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "gomezj": 108702,
-              "kimd": 96461
+              "gomezj": 108792,
+              "kimd": 96554
             },
             "results_absentee": {
               "gomezj": 71112,
               "kimd": 64803
             },
-            "last_updated": "2020-11-27T23:00:54Z",
-            "leader_margin_value": 5.96648,
+            "last_updated": "2020-12-01T01:00:54Z",
+            "leader_margin_value": 5.9597,
             "leader_margin_display": "D+6",
             "leader_margin_name_display": "Gomez +6",
             "leader_party_id": "democrat"
@@ -24544,6 +24634,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-27T23:00:59Z"
+          },
+          {
+            "vote_shares": {
+              "gomezj": 0.53,
+              "kimd": 0.47
+            },
+            "votes": 205346,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T01:00:59Z"
           }
         ]
       },
@@ -24577,7 +24677,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 243690,
+        "votes": 243731,
         "absentee_votes": 102229,
         "absentee_counties": 2,
         "absentee_count_progress": "unknown",
@@ -24602,7 +24702,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-27T23:00:59Z",
+        "last_updated": "2020-12-01T01:00:59Z",
         "candidates": [
           {
             "candidate_id": "torres-63684-5-h",
@@ -24615,7 +24715,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 168946,
+            "votes": 168976,
             "percent": 69.3,
             "percent_display": "69.3",
             "electoral_votes": 0,
@@ -24636,7 +24736,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 74744,
+            "votes": 74755,
             "percent": 30.7,
             "percent_display": "30.7",
             "electoral_votes": 0,
@@ -24648,8 +24748,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 38.65649,
-        "leader_margin_votes": 94202,
+        "leader_margin_value": 38.65778,
+        "leader_margin_votes": 94221,
         "leader_margin_display": "D+39",
         "leader_margin_name_display": "Torres +39",
         "leader_party_id": "democrat",
@@ -24657,7 +24757,7 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 46703,
+            "votes": 46744,
             "absentee_votes": 27118,
             "reporting": 38,
             "precincts": 38,
@@ -24674,15 +24774,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "torresn": 34710,
-              "cargilem": 11993
+              "torresn": 34740,
+              "cargilem": 12004
             },
             "results_absentee": {
               "torresn": 20360,
               "cargilem": 6758
             },
-            "last_updated": "2020-11-27T23:00:54Z",
-            "leader_margin_value": 48.64141,
+            "last_updated": "2020-12-01T01:00:54Z",
+            "leader_margin_value": 48.6394,
             "leader_margin_display": "D+49",
             "leader_margin_name_display": "Torres +49",
             "leader_party_id": "democrat"
@@ -25182,6 +25282,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-27T23:00:59Z"
+          },
+          {
+            "vote_shares": {
+              "torresn": 0.693,
+              "cargilem": 0.307
+            },
+            "votes": 243731,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T01:00:59Z"
           }
         ]
       },
@@ -25690,7 +25800,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 296355,
+        "votes": 296621,
         "absentee_votes": 208996,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -25715,7 +25825,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-27T23:00:59Z",
+        "last_updated": "2020-12-01T01:00:59Z",
         "candidates": [
           {
             "candidate_id": "bass-50853-5-h",
@@ -25728,7 +25838,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 254698,
+            "votes": 254916,
             "percent": 85.9,
             "percent_display": "85.9",
             "electoral_votes": 0,
@@ -25749,7 +25859,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 41657,
+            "votes": 41705,
             "percent": 14.1,
             "percent_display": "14.1",
             "electoral_votes": 0,
@@ -25761,8 +25871,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 71.88709,
-        "leader_margin_votes": 213041,
+        "leader_margin_value": 71.87994,
+        "leader_margin_votes": 213211,
         "leader_margin_display": "D+72",
         "leader_margin_name_display": "Bass +72",
         "leader_party_id": "democrat",
@@ -25770,7 +25880,7 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 296355,
+            "votes": 296621,
             "absentee_votes": 208996,
             "reporting": 257,
             "precincts": 273,
@@ -25787,15 +25897,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bassk": 254698,
-              "webbere": 41657
+              "bassk": 254916,
+              "webbere": 41705
             },
             "results_absentee": {
               "bassk": 182884,
               "webbere": 26112
             },
-            "last_updated": "2020-11-27T23:00:53Z",
-            "leader_margin_value": 71.88709,
+            "last_updated": "2020-12-01T01:00:53Z",
+            "leader_margin_value": 71.87994,
             "leader_margin_display": "D+72",
             "leader_margin_name_display": "Bass +72",
             "leader_party_id": "democrat"
@@ -26072,6 +26182,16 @@
             "eevp": 94,
             "eevp_source": "edison",
             "timestamp": "2020-11-27T23:00:59Z"
+          },
+          {
+            "vote_shares": {
+              "bassk": 0.859,
+              "webbere": 0.141
+            },
+            "votes": 296621,
+            "eevp": 94,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T01:00:59Z"
           }
         ]
       },
@@ -26105,7 +26225,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 256007,
+        "votes": 256206,
         "absentee_votes": 162992,
         "absentee_counties": 2,
         "absentee_count_progress": "unknown",
@@ -26130,7 +26250,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-27T23:00:59Z",
+        "last_updated": "2020-12-01T01:00:59Z",
         "candidates": [
           {
             "candidate_id": "sanchez-116-5-h",
@@ -26143,7 +26263,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 190313,
+            "votes": 190467,
             "percent": 74.3,
             "percent_display": "74.3",
             "electoral_votes": 0,
@@ -26164,7 +26284,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 65694,
+            "votes": 65739,
             "percent": 25.7,
             "percent_display": "25.7",
             "electoral_votes": 0,
@@ -26176,8 +26296,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 48.67797,
-        "leader_margin_votes": 124619,
+        "leader_margin_value": 48.6827,
+        "leader_margin_votes": 124728,
         "leader_margin_display": "D+49",
         "leader_margin_name_display": "Sanchez +49",
         "leader_party_id": "democrat",
@@ -26185,7 +26305,7 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 249392,
+            "votes": 249591,
             "absentee_votes": 157928,
             "reporting": 232,
             "precincts": 239,
@@ -26202,15 +26322,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "sanchezl": 185809,
-              "tolarm": 63583
+              "sanchezl": 185963,
+              "tolarm": 63628
             },
             "results_absentee": {
               "sanchezl": 118594,
               "tolarm": 39334
             },
-            "last_updated": "2020-11-27T23:00:53Z",
-            "leader_margin_value": 49.00959,
+            "last_updated": "2020-12-01T01:00:53Z",
+            "leader_margin_value": 49.01419,
             "leader_margin_display": "D+49",
             "leader_margin_name_display": "Sanchez +49",
             "leader_party_id": "democrat"
@@ -26730,6 +26850,16 @@
             "eevp": 97,
             "eevp_source": "edison",
             "timestamp": "2020-11-27T23:00:59Z"
+          },
+          {
+            "vote_shares": {
+              "sanchezl": 0.743,
+              "tolarm": 0.257
+            },
+            "votes": 256206,
+            "eevp": 97,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T01:00:59Z"
           }
         ]
       },
@@ -26763,7 +26893,7 @@
         "result_source": "AP",
         "gain": true,
         "lost_seat": "democrat",
-        "votes": 343588,
+        "votes": 343659,
         "absentee_votes": 230227,
         "absentee_counties": 3,
         "absentee_count_progress": "unknown",
@@ -26788,7 +26918,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-28T03:52:50Z",
+        "last_updated": "2020-12-01T01:00:59Z",
         "candidates": [
           {
             "candidate_id": "kim-19830-5-h",
@@ -26801,7 +26931,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 173857,
+            "votes": 173889,
             "percent": 50.6,
             "percent_display": "50.6",
             "electoral_votes": 0,
@@ -26822,7 +26952,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 169731,
+            "votes": 169770,
             "percent": 49.4,
             "percent_display": "49.4",
             "electoral_votes": 0,
@@ -26834,8 +26964,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 1.20086,
-        "leader_margin_votes": 4126,
+        "leader_margin_value": 1.19857,
+        "leader_margin_votes": 4119,
         "leader_margin_display": "R+1.2",
         "leader_margin_name_display": "Kim +1.2",
         "leader_party_id": "republican",
@@ -26843,7 +26973,7 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 84481,
+            "votes": 84552,
             "absentee_votes": 58972,
             "reporting": 67,
             "precincts": 67,
@@ -26860,15 +26990,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "kimy": 38650,
-              "cisnerosg": 45831
+              "kimy": 38682,
+              "cisnerosg": 45870
             },
             "results_absentee": {
               "kimy": 26108,
               "cisnerosg": 32864
             },
-            "last_updated": "2020-11-27T23:00:53Z",
-            "leader_margin_value": 8.50014,
+            "last_updated": "2020-12-01T01:00:53Z",
+            "leader_margin_value": 8.50128,
             "leader_margin_display": "D+9",
             "leader_margin_name_display": "Cisneros +9",
             "leader_party_id": "democrat"
@@ -27551,6 +27681,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-28T03:52:50Z"
+          },
+          {
+            "vote_shares": {
+              "kimy": 0.506,
+              "cisnerosg": 0.494
+            },
+            "votes": 343659,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T01:00:59Z"
           }
         ]
       },
@@ -27584,7 +27724,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 186203,
+        "votes": 186381,
         "absentee_votes": 105909,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -27609,7 +27749,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-27T23:00:59Z",
+        "last_updated": "2020-12-01T01:00:59Z",
         "candidates": [
           {
             "candidate_id": "roybal-allard-102-5-h",
@@ -27622,7 +27762,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 135445,
+            "votes": 135572,
             "percent": 72.7,
             "percent_display": "72.7",
             "electoral_votes": 0,
@@ -27643,7 +27783,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 50758,
+            "votes": 50809,
             "percent": 27.3,
             "percent_display": "27.3",
             "electoral_votes": 0,
@@ -27655,8 +27795,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 45.48101,
-        "leader_margin_votes": 84687,
+        "leader_margin_value": 45.47835,
+        "leader_margin_votes": 84763,
         "leader_margin_display": "D+45",
         "leader_margin_name_display": "Roybal-Allard +45",
         "leader_party_id": "democrat",
@@ -27664,7 +27804,7 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 186203,
+            "votes": 186381,
             "absentee_votes": 105909,
             "reporting": 161,
             "precincts": 163,
@@ -27681,15 +27821,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "roybal_allardl": 135445,
-              "delgadoc": 50758
+              "roybal_allardl": 135572,
+              "delgadoc": 50809
             },
             "results_absentee": {
               "roybal_allardl": 79534,
               "delgadoc": 26375
             },
-            "last_updated": "2020-11-27T23:00:53Z",
-            "leader_margin_value": 45.48101,
+            "last_updated": "2020-12-01T01:00:53Z",
+            "leader_margin_value": 45.47835,
             "leader_margin_display": "D+45",
             "leader_margin_name_display": "Roybal-Allard +45",
             "leader_party_id": "democrat"
@@ -27966,6 +28106,16 @@
             "eevp": 99,
             "eevp_source": "edison",
             "timestamp": "2020-11-27T23:00:59Z"
+          },
+          {
+            "vote_shares": {
+              "roybal_allardl": 0.727,
+              "delgadoc": 0.273
+            },
+            "votes": 186381,
+            "eevp": 99,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T01:00:59Z"
           }
         ]
       },
@@ -28909,7 +29059,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 277652,
+        "votes": 277898,
         "absentee_votes": 181431,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -28934,7 +29084,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-27T23:00:59Z",
+        "last_updated": "2020-12-01T01:00:59Z",
         "candidates": [
           {
             "candidate_id": "waters-104-5-h",
@@ -28947,7 +29097,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 199036,
+            "votes": 199210,
             "percent": 71.7,
             "percent_display": "71.7",
             "electoral_votes": 0,
@@ -28968,7 +29118,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 78616,
+            "votes": 78688,
             "percent": 28.3,
             "percent_display": "28.3",
             "electoral_votes": 0,
@@ -28980,8 +29130,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 43.37084,
-        "leader_margin_votes": 120420,
+        "leader_margin_value": 43.36915,
+        "leader_margin_votes": 120522,
         "leader_margin_display": "D+43",
         "leader_margin_name_display": "Waters +43",
         "leader_party_id": "democrat",
@@ -28989,7 +29139,7 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 277652,
+            "votes": 277898,
             "absentee_votes": 181431,
             "reporting": 231,
             "precincts": 231,
@@ -29006,15 +29156,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "watersm": 199036,
-              "collinsj": 78616
+              "watersm": 199210,
+              "collinsj": 78688
             },
             "results_absentee": {
               "watersm": 134214,
               "collinsj": 47217
             },
-            "last_updated": "2020-11-27T23:00:53Z",
-            "leader_margin_value": 43.37084,
+            "last_updated": "2020-12-01T01:00:53Z",
+            "leader_margin_value": 43.36915,
             "leader_margin_display": "D+43",
             "leader_margin_name_display": "Waters +43",
             "leader_party_id": "democrat"
@@ -29301,6 +29451,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-27T23:00:59Z"
+          },
+          {
+            "vote_shares": {
+              "watersm": 0.717,
+              "collinsj": 0.283
+            },
+            "votes": 277898,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T01:00:59Z"
           }
         ]
       },
@@ -29334,7 +29494,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 205827,
+        "votes": 206036,
         "absentee_votes": 121878,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -29359,7 +29519,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-27T23:00:59Z",
+        "last_updated": "2020-12-01T01:00:59Z",
         "candidates": [
           {
             "candidate_id": "barragan-65073-5-h",
@@ -29372,7 +29532,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 139524,
+            "votes": 139661,
             "percent": 67.8,
             "percent_display": "67.8",
             "electoral_votes": 0,
@@ -29393,7 +29553,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 66303,
+            "votes": 66375,
             "percent": 32.2,
             "percent_display": "32.2",
             "electoral_votes": 0,
@@ -29405,8 +29565,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 35.57405,
-        "leader_margin_votes": 73221,
+        "leader_margin_value": 35.56951,
+        "leader_margin_votes": 73286,
         "leader_margin_display": "D+36",
         "leader_margin_name_display": "Barragan +36",
         "leader_party_id": "democrat",
@@ -29414,7 +29574,7 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 205827,
+            "votes": 206036,
             "absentee_votes": 121878,
             "reporting": 192,
             "precincts": 196,
@@ -29431,15 +29591,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "barragann": 139524,
-              "joyaa": 66303
+              "barragann": 139661,
+              "joyaa": 66375
             },
             "results_absentee": {
               "barragann": 86476,
               "joyaa": 35402
             },
-            "last_updated": "2020-11-27T23:00:52Z",
-            "leader_margin_value": 35.57405,
+            "last_updated": "2020-12-01T01:00:52Z",
+            "leader_margin_value": 35.56951,
             "leader_margin_display": "D+36",
             "leader_margin_name_display": "Barragan +36",
             "leader_party_id": "democrat"
@@ -29716,6 +29876,16 @@
             "eevp": 98,
             "eevp_source": "edison",
             "timestamp": "2020-11-27T23:00:59Z"
+          },
+          {
+            "vote_shares": {
+              "barragann": 0.678,
+              "joyaa": 0.322
+            },
+            "votes": 206036,
+            "eevp": 98,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T01:00:59Z"
           }
         ]
       },
@@ -30469,7 +30639,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 311257,
+        "votes": 311399,
         "absentee_votes": 212622,
         "absentee_counties": 2,
         "absentee_count_progress": "unknown",
@@ -30494,7 +30664,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-28T03:55:53Z",
+        "last_updated": "2020-12-01T01:00:59Z",
         "candidates": [
           {
             "candidate_id": "lowenthal-52455-5-h",
@@ -30507,7 +30677,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 196934,
+            "votes": 197028,
             "percent": 63.3,
             "percent_display": "63.3",
             "electoral_votes": 0,
@@ -30528,7 +30698,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 114323,
+            "votes": 114371,
             "percent": 36.7,
             "percent_display": "36.7",
             "electoral_votes": 0,
@@ -30540,8 +30710,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 26.54109,
-        "leader_margin_votes": 82611,
+        "leader_margin_value": 26.54376,
+        "leader_margin_votes": 82657,
         "leader_margin_display": "D+27",
         "leader_margin_name_display": "Lowenthal +27",
         "leader_party_id": "democrat",
@@ -30549,7 +30719,7 @@
           {
             "fips": "06037",
             "name": "Los Angeles",
-            "votes": 181994,
+            "votes": 182136,
             "absentee_votes": 122317,
             "reporting": 155,
             "precincts": 155,
@@ -30566,15 +30736,15 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "lowenthala": 129891,
-              "briscoej": 52103
+              "lowenthala": 129985,
+              "briscoej": 52151
             },
             "results_absentee": {
               "lowenthala": 89553,
               "briscoej": 32764
             },
-            "last_updated": "2020-11-27T23:00:52Z",
-            "leader_margin_value": 42.74207,
+            "last_updated": "2020-12-01T01:00:52Z",
+            "leader_margin_value": 42.734,
             "leader_margin_display": "D+43",
             "leader_margin_name_display": "Lowenthal +43",
             "leader_party_id": "democrat"
@@ -31034,6 +31204,16 @@
             "eevp": 100,
             "eevp_source": "edison",
             "timestamp": "2020-11-28T03:55:53Z"
+          },
+          {
+            "vote_shares": {
+              "lowenthala": 0.633,
+              "briscoej": 0.367
+            },
+            "votes": 311399,
+            "eevp": 100,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T01:00:59Z"
           }
         ]
       },
@@ -66196,7 +66376,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 76037736,
+            "votes": 76040410,
             "percent": "50.5",
             "change": -8,
             "flip_count": 3,
@@ -66213,7 +66393,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 207,
-            "votes": 72438101,
+            "votes": 72438994,
             "percent": "48.1",
             "change": 9,
             "flip_count": 12,
@@ -66258,7 +66438,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 80178849,
+            "votes": 80181857,
             "percent": "51.1",
             "change": 0,
             "flip_count": 0,
@@ -66275,7 +66455,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73941874,
+            "votes": 73943097,
             "percent": "47.1",
             "change": 0,
             "flip_count": 0,
@@ -66292,7 +66472,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2866316,
+            "votes": 2866420,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -78015,7 +78195,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 11084172,
+          "votes": 11087180,
           "percent": 63.5,
           "percent_display": "63.5",
           "electoral_votes": 55,
@@ -82922,8 +83102,8 @@
     ]
   },
   "meta": {
-    "version": 23573,
+    "version": 23576,
     "track": "2020-11-03",
-    "timestamp": "2020-12-01T00:57:18.105Z"
+    "timestamp": "2020-12-01T01:28:20.709Z"
   }
 }
