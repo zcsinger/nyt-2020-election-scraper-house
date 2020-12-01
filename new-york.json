@@ -30,7 +30,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 7391462,
+        "votes": 7391737,
         "electoral_votes": 29,
         "absentee_votes": 348754,
         "absentee_counties": 10,
@@ -44,7 +44,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T02:00:00.000Z",
         "poll_time_short": "9 p.m.",
-        "precincts_reporting": 13220,
+        "precincts_reporting": 13227,
         "precincts_total": 14931,
         "reporting_display": "89% reporting",
         "reporting_value": "89%",
@@ -56,7 +56,7 @@
         "county_data_source": "edison",
         "incumbent_party": "",
         "no_forecast": false,
-        "last_updated": "2020-12-01T15:37:16Z",
+        "last_updated": "2020-12-01T15:43:05Z",
         "candidates": [
           {
             "candidate_id": "biden-1036",
@@ -69,7 +69,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": true,
-            "votes": 4241871,
+            "votes": 4242007,
             "percent": 57.4,
             "percent_display": "57.4",
             "electoral_votes": 29,
@@ -91,7 +91,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 3038340,
+            "votes": 3038515,
             "percent": 41.1,
             "percent_display": "41.1",
             "electoral_votes": 0,
@@ -113,7 +113,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 54245,
+            "votes": 54249,
             "percent": 0.7,
             "percent_display": "0.7",
             "electoral_votes": 0,
@@ -134,7 +134,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 27149,
+            "votes": 27153,
             "percent": 0.4,
             "percent_display": "0.4",
             "electoral_votes": 0,
@@ -176,7 +176,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 9298,
+            "votes": 9254,
             "percent": 0.1,
             "percent_display": "0.1",
             "electoral_votes": 0,
@@ -188,8 +188,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 16.28272,
-        "leader_margin_votes": 1203531,
+        "leader_margin_value": 16.28159,
+        "leader_margin_votes": 1203492,
         "leader_margin_display": "D+16",
         "leader_margin_name_display": "Biden +16",
         "leader_party_id": "democrat",
@@ -2621,12 +2621,12 @@
           {
             "fips": "36107",
             "name": "Tioga",
-            "votes": 24769,
+            "votes": 25044,
             "absentee_votes": 4214,
-            "reporting": 34,
+            "reporting": 41,
             "precincts": 41,
             "absentee_method": "Merged into voters' home precincts AFTER election night",
-            "eevp": 99,
+            "eevp": 100,
             "tot_exp_vote": 24975,
             "eevp_value": ">98%",
             "eevp_display": ">98% reported",
@@ -2638,12 +2638,12 @@
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "bidenj": 9498,
-              "trumpd": 14616,
-              "jorgensenj": 412,
+              "bidenj": 9634,
+              "trumpd": 14791,
+              "jorgensenj": 416,
               "pierceb": 97,
-              "hawkinsh": 88,
-              "write-ins": 58
+              "hawkinsh": 92,
+              "write-ins": 14
             },
             "results_absentee": {
               "bidenj": 2774,
@@ -2653,12 +2653,12 @@
               "hawkinsh": 24,
               "write-ins": 14
             },
-            "last_updated": "2020-11-24T13:24:44Z",
-            "leader_margin_value": 20.66293,
+            "last_updated": "2020-12-01T15:43:01Z",
+            "leader_margin_value": 20.59176,
             "leader_margin_display": "R+21",
             "leader_margin_name_display": "Trump +21",
             "leader_party_id": "republican",
-            "margin2020": 20.66293,
+            "margin2020": 20.59176,
             "votes2016": 22299,
             "margin2016": 25.7,
             "votes2012": 21589,
@@ -3060,12 +3060,12 @@
             "sentence_type": "race_won"
           },
           "counties": {
-            "sentence": "We just received more votes from Fulton County.",
-            "timestamp": 1606837151139,
+            "sentence": "We just received more votes from Tioga County.",
+            "timestamp": 1606837571013,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "We just received more votes from Fulton County.",
+            "generatedText": "We just received more votes from Tioga County.",
             "sentence_type": "race_won"
           },
           "eevp": {
@@ -5994,6 +5994,16 @@
             "eevp": 84,
             "eevp_source": "edison",
             "timestamp": "2020-12-01T15:37:16Z"
+          },
+          {
+            "vote_shares": {
+              "bidenj": 0.574,
+              "trumpd": 0.411
+            },
+            "votes": 7391737,
+            "eevp": 84,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T15:43:05Z"
           }
         ]
       },
@@ -21871,7 +21881,7 @@
         "result_source": null,
         "gain": false,
         "lost_seat": "",
-        "votes": 296986,
+        "votes": 297005,
         "absentee_votes": 39804,
         "absentee_counties": 6,
         "absentee_count_progress": "unknown",
@@ -21884,7 +21894,7 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T02:00:00.000Z",
         "poll_time_short": "9 p.m.",
-        "precincts_reporting": 520,
+        "precincts_reporting": 522,
         "precincts_total": 568,
         "reporting_display": "92% reporting",
         "reporting_value": "92%",
@@ -21896,7 +21906,7 @@
         "county_data_source": "edison",
         "incumbent_party": "democrat",
         "no_forecast": false,
-        "last_updated": "2020-11-24T13:23:16Z",
+        "last_updated": "2020-12-01T15:40:44Z",
         "candidates": [
           {
             "candidate_id": "tenney-63809-33-h",
@@ -21909,7 +21919,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 149779,
+            "votes": 149784,
             "percent": 50.4,
             "percent_display": "50.4",
             "electoral_votes": 0,
@@ -21930,7 +21940,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": false,
-            "votes": 140656,
+            "votes": 140669,
             "percent": 47.4,
             "percent_display": "47.4",
             "electoral_votes": 0,
@@ -21951,7 +21961,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 6420,
+            "votes": 6421,
             "percent": 2.2,
             "percent_display": "2.2",
             "electoral_votes": 0,
@@ -21984,8 +21994,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 3.07186,
-        "leader_margin_votes": 9123,
+        "leader_margin_value": 3.06897,
+        "leader_margin_votes": 9115,
         "leader_margin_display": "R+3",
         "leader_margin_name_display": "Tenney +3",
         "leader_party_id": "republican",
@@ -22252,9 +22262,9 @@
           {
             "fips": "36107",
             "name": "Tioga",
-            "votes": 5922,
+            "votes": 5941,
             "absentee_votes": 1082,
-            "reporting": 8,
+            "reporting": 10,
             "precincts": 10,
             "absentee_method": "Merged into voters' home precincts AFTER election night",
             "eevp": 100,
@@ -22263,15 +22273,15 @@
             "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
-            "absentee_count_progress": "unknown",
+            "absentee_count_progress": "some",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "tenneyc": 3051,
-              "brindisia": 2676,
-              "pricek": 193,
+              "tenneyc": 3056,
+              "brindisia": 2689,
+              "pricek": 194,
               "write-ins": 2
             },
             "results_absentee": {
@@ -22280,8 +22290,8 @@
               "pricek": 34,
               "write-ins": 1
             },
-            "last_updated": "2020-12-01T15:39:19Z",
-            "leader_margin_value": 6.33232,
+            "last_updated": "2020-12-01T15:43:01Z",
+            "leader_margin_value": 6.17741,
             "leader_margin_display": "R+6",
             "leader_margin_name_display": "Tenney +6",
             "leader_party_id": "republican"
@@ -22309,12 +22319,12 @@
             "sentence_type": "has_eevp"
           },
           "eevp_leadin": {
-            "sentence": "Tenney is currently up by 9,123 votes.",
-            "timestamp": 1606153749620,
+            "sentence": "Tenney is currently up by 9,115 votes.",
+            "timestamp": 1606837454490,
             "is_new": false,
             "hide_timestamp": false,
             "overrideText": null,
-            "generatedText": "Tenney is currently up by 9,123 votes.",
+            "generatedText": "Tenney is currently up by 9,115 votes.",
             "sentence_type": "additional_votes_reported"
           }
         },
@@ -22850,6 +22860,18 @@
             "eevp": 92,
             "eevp_source": "edison",
             "timestamp": "2020-11-23T17:46:11Z"
+          },
+          {
+            "vote_shares": {
+              "tenneyc": 0.504,
+              "brindisia": 0.474,
+              "pricek": 0.022,
+              "write-ins": 0
+            },
+            "votes": 297005,
+            "eevp": 92,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T15:40:44Z"
           }
         ]
       },
@@ -22882,7 +22904,7 @@
         "result_source": "AP",
         "gain": false,
         "lost_seat": "",
-        "votes": 278684,
+        "votes": 278967,
         "absentee_votes": 2999,
         "absentee_counties": 1,
         "absentee_count_progress": "unknown",
@@ -22895,10 +22917,10 @@
         "poll_waiting_display": "Polls have closed.",
         "poll_time": "2020-11-04T02:00:00.000Z",
         "poll_time_short": "9 p.m.",
-        "precincts_reporting": 430,
+        "precincts_reporting": 436,
         "precincts_total": 505,
-        "reporting_display": "85% reporting",
-        "reporting_value": "85%",
+        "reporting_display": "86% reporting",
+        "reporting_value": "86%",
         "eevp": 87,
         "tot_exp_vote": 322000,
         "eevp_source": "edison",
@@ -22907,7 +22929,7 @@
         "county_data_source": "edison",
         "incumbent_party": "republican",
         "no_forecast": false,
-        "last_updated": "2020-11-24T13:23:18Z",
+        "last_updated": "2020-12-01T15:41:29Z",
         "candidates": [
           {
             "candidate_id": "reed-20072692-33-h",
@@ -22920,7 +22942,7 @@
             "incumbent": true,
             "runoff": false,
             "winner": true,
-            "votes": 170079,
+            "votes": 170244,
             "percent": 61,
             "percent_display": "61.0",
             "electoral_votes": 0,
@@ -22941,7 +22963,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 105331,
+            "votes": 105445,
             "percent": 37.8,
             "percent_display": "37.8",
             "electoral_votes": 0,
@@ -22962,7 +22984,7 @@
             "incumbent": false,
             "runoff": false,
             "winner": false,
-            "votes": 3188,
+            "votes": 3192,
             "percent": 1.1,
             "percent_display": "1.1",
             "electoral_votes": 0,
@@ -22995,8 +23017,8 @@
           }
         ],
         "has_incumbent": true,
-        "leader_margin_value": 23.23348,
-        "leader_margin_votes": 64748,
+        "leader_margin_value": 23.2282,
+        "leader_margin_votes": 64799,
         "leader_margin_display": "R+23",
         "leader_margin_name_display": "Reed +23",
         "leader_party_id": "republican",
@@ -23292,26 +23314,26 @@
           {
             "fips": "36107",
             "name": "Tioga",
-            "votes": 18083,
+            "votes": 18366,
             "absentee_votes": 2999,
-            "reporting": 25,
+            "reporting": 31,
             "precincts": 31,
             "absentee_method": "Merged into voters' home precincts AFTER election night",
-            "eevp": 98,
+            "eevp": 99,
             "tot_exp_vote": 18535,
-            "eevp_value": "98%",
-            "eevp_display": "98% reported",
+            "eevp_value": ">98%",
+            "eevp_display": ">98% reported",
             "eevp_source": "edison",
             "turnout_stage": 2,
-            "absentee_count_progress": "unknown",
+            "absentee_count_progress": "some",
             "absentee_outstanding": null,
             "absentee_max_ballots": null,
             "provisional_outstanding": null,
             "provisional_count_progress": null,
             "results": {
-              "reedt": 11360,
-              "mitranot": 6424,
-              "kolsteea": 292,
+              "reedt": 11525,
+              "mitranot": 6538,
+              "kolsteea": 296,
               "write-ins": 7
             },
             "results_absentee": {
@@ -23320,8 +23342,8 @@
               "kolsteea": 41,
               "write-ins": 1
             },
-            "last_updated": "2020-12-01T15:39:20Z",
-            "leader_margin_value": 27.29636,
+            "last_updated": "2020-12-01T15:43:01Z",
+            "leader_margin_value": 27.15344,
             "leader_margin_display": "R+27",
             "leader_margin_name_display": "Reed +27",
             "leader_party_id": "republican"
@@ -24015,6 +24037,18 @@
             "eevp": 87,
             "eevp_source": "edison",
             "timestamp": "2020-11-23T18:51:27Z"
+          },
+          {
+            "vote_shares": {
+              "reedt": 0.61,
+              "mitranot": 0.378,
+              "kolsteea": 0.011,
+              "write-ins": 0
+            },
+            "votes": 278967,
+            "eevp": 87,
+            "eevp_source": "edison",
+            "timestamp": "2020-12-01T15:41:29Z"
           }
         ]
       },
@@ -48266,7 +48300,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 76112245,
+            "votes": 76112391,
             "percent": "50.5",
             "change": -8,
             "flip_count": 3,
@@ -48283,7 +48317,7 @@
             "name_display": "Republicans",
             "name_abbr": "Rep.",
             "count": 207,
-            "votes": 72469166,
+            "votes": 72469369,
             "percent": "48.1",
             "change": 9,
             "flip_count": 12,
@@ -48300,7 +48334,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2080345,
+            "votes": 2080352,
             "percent": "1.4",
             "change": -1,
             "flip_count": 0,
@@ -48328,7 +48362,7 @@
             "name_display": "Joseph R. Biden Jr.",
             "name_abbr": "Biden",
             "count": 306,
-            "votes": 80222371,
+            "votes": 80222507,
             "percent": "51.1",
             "change": 0,
             "flip_count": 0,
@@ -48345,7 +48379,7 @@
             "name_display": "Donald J. Trump",
             "name_abbr": "Trump",
             "count": 232,
-            "votes": 73960697,
+            "votes": 73960872,
             "percent": "47.1",
             "change": 0,
             "flip_count": 0,
@@ -48362,7 +48396,7 @@
             "name_display": "Ind.",
             "name_abbr": "Ind.",
             "count": 0,
-            "votes": 2866060,
+            "votes": 2866024,
             "percent": "1.8",
             "change": 0,
             "flip_count": 0,
@@ -56875,7 +56909,7 @@
           "incumbent": true,
           "runoff": false,
           "winner": true,
-          "votes": 189305,
+          "votes": 189324,
           "percent": 53.1,
           "percent_display": "53.1",
           "electoral_votes": 0,
@@ -61870,7 +61904,7 @@
           "incumbent": false,
           "runoff": false,
           "winner": true,
-          "votes": 4241871,
+          "votes": 4242007,
           "percent": 57.4,
           "percent_display": "57.4",
           "electoral_votes": 29,
@@ -64992,8 +65026,8 @@
     ]
   },
   "meta": {
-    "version": 23666,
+    "version": 23672,
     "track": "2020-11-03",
-    "timestamp": "2020-12-01T15:42:20.041Z"
+    "timestamp": "2020-12-01T15:57:18.433Z"
   }
 }
