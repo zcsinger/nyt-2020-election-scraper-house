@@ -30301,7 +30301,7 @@
         "call_type": "win",
         "race_id": "NY-G-H-24-2020-11-03",
         "datetime": 1606774155226,
-        "is_today": true,
+        "is_today": false,
         "text": "John Katko, Republican, wins re-election in New York’s 24th Congressional District.",
         "winner": {
           "candidate_id": "katko-63757-33-h",
@@ -30346,7 +30346,7 @@
         "image_credit": "",
         "datetime": 1606772594000,
         "author_headshot": "https://static01.nyt.com/images/2019/06/25/reader-center/author-reid-epstein/9e877853d8234217b58e5762253aa771-thumbLarge.png",
-        "is_today": true,
+        "is_today": false,
         "linked_states": null
       },
       {
@@ -30363,7 +30363,7 @@
         "image_credit": "",
         "datetime": 1606763109000,
         "author_headshot": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
-        "is_today": true,
+        "is_today": false,
         "linked_states": null
       },
       {
@@ -46839,8 +46839,8 @@
     ]
   },
   "meta": {
-    "version": 23582,
+    "version": 23583,
     "track": "2020-11-03",
-    "timestamp": "2020-12-01T02:45:28.206Z"
+    "timestamp": "2020-12-01T05:00:18.332Z"
   }
 }
