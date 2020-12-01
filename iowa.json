@@ -37533,7 +37533,7 @@
             "name_display": "Democrats",
             "name_abbr": "Dem.",
             "count": 222,
-            "votes": 76117987,
+            "votes": 76119362,
             "percent": "50.5",
             "change": -8,
             "flip_count": 3,
@@ -37549,12 +37549,12 @@
             "party_id": "republican",
             "name_display": "Republicans",
             "name_abbr": "Rep.",
-            "count": 207,
-            "votes": 72474995,
+            "count": 208,
+            "votes": 72475850,
             "percent": "48.1",
             "change": 9,
             "flip_count": 12,
-            "leader_count": 6,
+            "leader_count": 5,
             "change_full": "Gained 9 seats",
             "change_abbr": "+9",
             "flip_text_full": "Flipped 12 seats",
@@ -37712,6 +37712,46 @@
       }
     ],
     "liveUpdates": [
+      {
+        "id": "CA-G-H-25-2020-11-03-win-republican",
+        "include_on_homepage": false,
+        "include_in_reporter_updates_feed": true,
+        "office": "U.S. House",
+        "type": "race_call",
+        "call_type": "win",
+        "race_id": "CA-G-H-25-2020-11-03",
+        "datetime": 1606855820179,
+        "is_today": true,
+        "text": "Mike Garcia, Republican, wins re-election in California’s 25th Congressional District.",
+        "winner": {
+          "candidate_id": "garcia-20073116-5-h",
+          "candidate_key": "garciam",
+          "first_name": "Mike",
+          "last_name": "Garcia",
+          "order": 2,
+          "name_display": "Mike Garcia",
+          "party_id": "republican",
+          "incumbent": true,
+          "runoff": false,
+          "winner": true,
+          "votes": 169638,
+          "percent": 50,
+          "percent_display": "50.05",
+          "electoral_votes": 0,
+          "absentee_votes": 89124,
+          "absentee_percent": 47.6,
+          "img_url": "https://static01.nyt.com/elections-assets/2020/assets/images/candidates/garcia-20073116-5-h.png",
+          "has_image": false,
+          "link": ""
+        },
+        "party_id": "republican",
+        "candidate_last_name": "Garcia",
+        "candidate_name_display": "Mike Garcia",
+        "candidate_id": "garcia-20073116-5-h",
+        "race_call_party_winner": "republican",
+        "state_name": "California",
+        "link": "https://www.nytimes.com/interactive/2020/11/03/us/elections/results-california-house-district-25.html"
+      },
       {
         "id": "NY-G-H-24-2020-11-03-win-republican",
         "include_on_homepage": false,
@@ -54259,8 +54299,8 @@
     ]
   },
   "meta": {
-    "version": 23773,
+    "version": 23776,
     "track": "2020-11-03",
-    "timestamp": "2020-12-01T20:43:18.755Z"
+    "timestamp": "2020-12-01T20:50:27.707Z"
   }
 }
